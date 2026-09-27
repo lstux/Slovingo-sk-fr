@@ -1,0 +1,335 @@
+{
+  "id": "vocabulary-verbes",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "🏃 Slovesá (Les verbes d'action courants)",
+  "image": null,
+  "content": [
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Verbes de mouvement"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "ísť",
+          "aller (à pied, ponctuel)"
+        ],
+        [
+          "chodiť",
+          "aller (habituel, à pied)"
+        ],
+        [
+          "bežať",
+          "courir"
+        ],
+        [
+          "prísť",
+          "arriver, venir"
+        ],
+        [
+          "odísť",
+          "partir"
+        ],
+        [
+          "vrátiť sa",
+          "revenir"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"ísť\" et \"chodiť\" sont deux verbes pour \"aller\" : \"ísť\" pour un déplacement ponctuel et précis, \"chodiť\" pour une habitude répétée."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Verbes du quotidien"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "jesť",
+          "manger"
+        ],
+        [
+          "piť",
+          "boire"
+        ],
+        [
+          "spať",
+          "dormir"
+        ],
+        [
+          "vstávať",
+          "se lever"
+        ],
+        [
+          "pracovať",
+          "travailler"
+        ],
+        [
+          "oddychovať",
+          "se reposer"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ráno vstávam o siedmej.",
+      "speaker": null,
+      "natural": "Le matin je me lève à sept heures.",
+      "literal": [
+        "ráno = le matin · vstávam = je me lève · o siedmej = à sept heures"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chodím spať okolo desiatej.",
+      "speaker": null,
+      "natural": "Je vais me coucher vers dix heures.",
+      "literal": [
+        "chodím spať = je vais dormir (habituellement) · okolo desiatej = vers dix heures"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Verbes de communication et de pensée"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "hovoriť",
+          "parler"
+        ],
+        [
+          "povedať",
+          "dire"
+        ],
+        [
+          "pýtať sa",
+          "demander"
+        ],
+        [
+          "odpovedať",
+          "répondre"
+        ],
+        [
+          "rozumieť",
+          "comprendre"
+        ],
+        [
+          "myslieť si",
+          "penser"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Hovoríš po slovensky?",
+      "speaker": null,
+      "natural": "Tu parles slovaque ?",
+      "literal": [
+        "hovoríš = tu parles · po slovensky = en slovaque"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nerozumiem, môžeš to zopakovať?",
+      "speaker": null,
+      "natural": "Je ne comprends pas, tu peux répéter ?",
+      "literal": [
+        "nerozumiem = je ne comprends pas · môžeš to zopakovať = tu peux répéter ça"
+      ],
+      "notes": []
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"po slovensky\" (littéralement \"à la slovaque\") est la structure pour dire \"en slovaque\" avec les verbes de langue, comme \"hovoriť po slovensky\" = parler slovaque."
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čo si o tom myslíš?",
+      "speaker": null,
+      "natural": "Qu'est-ce que tu en penses ?",
+      "literal": [
+        "čo = quoi · si myslíš = tu penses · o tom = à propos de ça"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Verbes utiles au quotidien"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "robiť",
+          "faire"
+        ],
+        [
+          "dať",
+          "donner"
+        ],
+        [
+          "vziať",
+          "prendre"
+        ],
+        [
+          "chcieť",
+          "vouloir"
+        ],
+        [
+          "môcť",
+          "pouvoir"
+        ],
+        [
+          "musieť",
+          "devoir"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čo robíš?",
+      "speaker": null,
+      "natural": "Qu'est-ce que tu fais ?",
+      "literal": [
+        "čo robíš = qu'est-ce que tu fais"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Musím ísť domov.",
+      "speaker": null,
+      "natural": "Je dois rentrer à la maison.",
+      "literal": [
+        "musím = je dois · ísť domov = rentrer à la maison"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môžeš mi pomôcť?",
+      "speaker": null,
+      "natural": "Tu peux m'aider ?",
+      "literal": [
+        "môžeš = tu peux · mi pomôcť = m'aider"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Petit vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "vidieť",
+          "voir"
+        ],
+        [
+          "počuť",
+          "entendre"
+        ],
+        [
+          "kúpiť",
+          "acheter"
+        ],
+        [
+          "predať",
+          "vendre"
+        ],
+        [
+          "hľadať",
+          "chercher"
+        ],
+        [
+          "nájsť",
+          "trouver"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Hľadám svoje kľúče, nevidel si ich?",
+      "speaker": null,
+      "natural": "Je cherche mes clés, tu ne les as pas vues ?",
+      "literal": [
+        "hľadám = je cherche · svoje kľúče = mes clés · nevidel si ich = tu ne les as pas vues"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚠️ Pièges pour les francophones"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "\"ísť\" (aller, ponctuel) et \"chodiť\" (aller, habituel) ne sont pas interchangeables : bien choisir selon qu'il s'agit d'un trajet précis ou d'une habitude.",
+        "\"po slovensky\" est la formule figée pour \"en slovaque\" avec les verbes de langue, à ne pas traduire littéralement mot à mot.",
+        "\"myslieť si\" (penser, avoir une opinion) est réfléchi, contrairement à \"myslieť\" seul qui peut avoir un sens légèrement différent selon le contexte."
+      ]
+    }
+  ]
+}

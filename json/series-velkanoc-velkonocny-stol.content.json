@@ -1,0 +1,408 @@
+{
+  "id": "series-velkanoc-velkonocny-stol",
+  "category": "series",
+  "subgroup": "velkanoc",
+  "subgroup_label": "Velka noc",
+  "title": "Série Veľká noc (4/5) — Veľkonočný stôl",
+  "image": {
+    "src": "img/velkanoc_04_village_museum.jpg",
+    "caption": "Musée du village liptovien — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le repas de Pâques, avec ses plats bien précis qu'on ne mange qu'à cette occasion. On révise ici l'accusatif de la série Jedlo, et on ajoute le passé négatif complet."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "baránok",
+          "l'agneau (petit, pascal)"
+        ],
+        [
+          "šunka",
+          "le jambon"
+        ],
+        [
+          "chren",
+          "le raifort"
+        ],
+        [
+          "syrová nátierka",
+          "la tartinade au fromage"
+        ],
+        [
+          "požehnať",
+          "bénir"
+        ],
+        [
+          "jesť",
+          "manger"
+        ],
+        [
+          "stôl",
+          "la table"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Požehnať et le repas béni"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "Kňaz požehnal jedlo.",
+          "Le prêtre a béni la nourriture."
+        ],
+        [
+          "Priniesli sme košík na požehnanie.",
+          "Nous avons apporté le panier à la bénédiction."
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Récapitulatif de l'accusatif au repas"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "Jem šunku.",
+          "Je mange du jambon."
+        ],
+        [
+          "Jem baránka.",
+          "Je mange de l'agneau."
+        ],
+        [
+          "Mám chren.",
+          "J'ai du raifort."
+        ],
+        [
+          "Chcem syrovú nátierku.",
+          "Je veux de la tartinade au fromage."
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce sont exactement les mêmes mécanismes que dans la série Jedlo : les féminins en -a passent à -u, les adjectifs s'accordent."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na stole je šunka, vajíčka a chren.",
+      "speaker": null,
+      "natural": "Sur la table il y a du jambon, des œufs et du raifort.",
+      "literal": [
+        "Na stole = sur la table",
+        "je = il y a",
+        "šunka = du jambon",
+        "vajíčka = des œufs",
+        "a chren = et du raifort"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kňaz požehnal jedlo pred obedom.",
+      "speaker": null,
+      "natural": "Le prêtre a béni la nourriture avant le déjeuner.",
+      "literal": [
+        "Kňaz = le prêtre",
+        "požehnal = a béni",
+        "jedlo = la nourriture",
+        "pred obedom = avant le déjeuner"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Jedli sme baránka a syrovú nátierku.",
+      "speaker": null,
+      "natural": "Nous avons mangé de l'agneau et de la tartinade au fromage.",
+      "literal": [
+        "Jedli sme = nous avons mangé",
+        "baránka = de l'agneau",
+        "a syrovú nátierku = et de la tartinade au fromage"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chren je veľmi štipľavý!",
+      "speaker": null,
+      "natural": "Le raifort est très piquant !",
+      "literal": [
+        "Chren = le raifort",
+        "je veľmi = est très",
+        "štipľavý = piquant"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nejedli sme mäso na Veľký piatok.",
+      "speaker": null,
+      "natural": "Nous n'avons pas mangé de viande le vendredi saint.",
+      "literal": [
+        "Nejedli sme = nous n'avons pas mangé",
+        "mäso = de viande",
+        "na Veľký piatok = le vendredi saint"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Priniesli sme košík do kostola na požehnanie.",
+      "speaker": null,
+      "natural": "Nous avons apporté le panier à l'église pour la bénédiction.",
+      "literal": [
+        "Priniesli sme = nous avons apporté",
+        "košík = le panier",
+        "do kostola = à l'église",
+        "na požehnanie = pour la bénédiction"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Stôl bol plný jedla.",
+      "speaker": null,
+      "natural": "La table était pleine de nourriture.",
+      "literal": [
+        "Stôl = la table",
+        "bol plný = était plein",
+        "jedla = de nourriture"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Máme baránka z cesta, nie skutočného.",
+      "speaker": null,
+      "natural": "Nous avons un agneau en pâte, pas un vrai.",
+      "literal": [
+        "Máme = nous avons",
+        "baránka z cesta = un agneau en pâte",
+        "nie skutočného = pas un vrai"
+      ],
+      "notes": [
+        "« baránok » désigne aussi un gâteau en forme d'agneau, très courant sur la table de Pâques."
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na Bielu sobotu sme pripravili šunku, vajíčka a koláče.",
+      "speaker": null,
+      "natural": "Le samedi saint nous avons préparé du jambon, des œufs et de la pâtisserie.",
+      "literal": [
+        "Na Bielu sobotu = le samedi saint",
+        "sme pripravili = nous avons préparé",
+        "šunku, vajíčka a koláče = du jambon, des œufs et de la pâtisserie"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Farbili sme vajíčka, potom sme ich jedli na Veľkonočnú nedeľu.",
+      "speaker": null,
+      "natural": "Nous avons teint les œufs, puis nous les avons mangés le dimanche de Pâques.",
+      "literal": [
+        "Farbili sme = nous avons teint",
+        "vajíčka = les œufs",
+        "potom = puis",
+        "sme ich jedli = nous les avons mangés",
+        "na Veľkonočnú nedeľu = le dimanche de Pâques"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le panier béni contient toujours les mêmes éléments.** Œufs, jambon, pain, sel et parfois un peu de raifort sont apportés à l'église le samedi saint pour être bénis, dans un panier souvent brodé ou décoré pour l'occasion."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le baránok occupe une place centrale sur la table.** Ce gâteau en forme d'agneau, souvent moulé et saupoudré de sucre glace, symbolise le Christ ressuscité et trône fièrement au centre du repas, à côté du vrai plat de viande."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le chren accompagne presque tout.** Ce raifort râpé, parfois mélangé à de la crème, apporte le piquant qui contraste avec la douceur du jambon et des œufs. Il n'est jamais absent d'une table pascale slovaque."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "syr",
+          "le fromage"
+        ],
+        [
+          "chlieb",
+          "le pain"
+        ],
+        [
+          "víno",
+          "le vin"
+        ],
+        [
+          "paska",
+          "la brioche pascale"
+        ],
+        [
+          "cukor",
+          "le sucre"
+        ],
+        [
+          "slaný",
+          "salé"
+        ],
+        [
+          "štipľavý",
+          "piquant"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Paska je sladká, ale chren je štipľavý.",
+      "speaker": null,
+      "natural": "La paska est sucrée, mais le raifort est piquant.",
+      "literal": [
+        "Paska = la paska",
+        "je sladká = est sucrée",
+        "ale = mais",
+        "chren = le raifort",
+        "je štipľavý = est piquant"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Pripravili sme aj víno pre dospelých.",
+      "speaker": null,
+      "natural": "Nous avons aussi préparé du vin pour les adultes.",
+      "literal": [
+        "Pripravili sme = nous avons préparé",
+        "aj = aussi",
+        "víno = du vin",
+        "pre dospelých = pour les adultes"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chlieb bol čerstvý a teplý.",
+      "speaker": null,
+      "natural": "Le pain était frais et chaud.",
+      "literal": [
+        "Chlieb = le pain",
+        "bol čerstvý a teplý = était frais et chaud"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nemám rád syr so šunkou.",
+      "speaker": null,
+      "natural": "Je n'aime pas le fromage avec le jambon.",
+      "literal": [
+        "Nemám rád = je n'aime pas",
+        "syr so šunkou = le fromage avec le jambon"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Stôl bol slaný aj sladký zároveň.",
+      "speaker": null,
+      "natural": "La table était salée et sucrée à la fois.",
+      "literal": [
+        "Stôl = la table",
+        "bol slaný aj sladký = était salé et sucré",
+        "zároveň = à la fois"
+      ],
+      "notes": []
+    }
+  ]
+}

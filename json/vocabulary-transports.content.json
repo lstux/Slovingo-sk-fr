@@ -1,0 +1,247 @@
+{
+  "id": "vocabulary-transports",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "🚆 Doprava (Les transports)",
+  "image": null,
+  "content": [
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Les moyens de transport"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "auto",
+          "voiture"
+        ],
+        [
+          "autobus",
+          "bus"
+        ],
+        [
+          "vlak",
+          "train"
+        ],
+        [
+          "lietadlo",
+          "avion"
+        ],
+        [
+          "bicykel",
+          "vélo"
+        ],
+        [
+          "motorka",
+          "moto"
+        ],
+        [
+          "loď",
+          "bateau"
+        ],
+        [
+          "taxík",
+          "taxi"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Se déplacer"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ako sa dostanem na stanicu?",
+      "speaker": null,
+      "natural": "Comment est-ce que j'arrive à la gare ?",
+      "literal": [
+        "ako = comment · sa dostanem = j'arrive, je me rends · na stanicu = à la gare"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Idem autobusom do práce.",
+      "speaker": null,
+      "natural": "Je vais au travail en bus.",
+      "literal": [
+        "idem = je vais · autobusom = en bus (instrumental) · do práce = au travail"
+      ],
+      "notes": []
+    },
+    {
+      "type": "paragraph",
+      "text": "+ En slovaque, le moyen de transport se met à l'instrumental (autobusom, vlakom, autom) plutôt qu'avec une préposition comme \"en\" en français."
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Radšej chodím pešo.",
+      "speaker": null,
+      "natural": "Je préfère marcher (aller à pied).",
+      "literal": [
+        "radšej = plutôt, de préférence · chodím pešo = je vais à pied"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Vlak mešká desať minút.",
+      "speaker": null,
+      "natural": "Le train a dix minutes de retard.",
+      "literal": [
+        "vlak = train · mešká = est en retard · desať minút = dix minutes"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. À la gare ou à l'arrêt"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "stanica",
+          "gare"
+        ],
+        [
+          "zastávka",
+          "arrêt (de bus)"
+        ],
+        [
+          "lístok",
+          "billet"
+        ],
+        [
+          "nástupište",
+          "quai"
+        ],
+        [
+          "odchod",
+          "départ"
+        ],
+        [
+          "príchod",
+          "arrivée"
+        ],
+        [
+          "spiatočný lístok",
+          "billet aller-retour"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem lístok do Košíc.",
+      "speaker": null,
+      "natural": "Je voudrais un billet pour Košice.",
+      "literal": [
+        "chcem = je veux · lístok = billet · do Košíc = pour Košice (génitif pluriel)"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Z ktorého nástupišťa odchádza vlak?",
+      "speaker": null,
+      "natural": "De quel quai part le train ?",
+      "literal": [
+        "z ktorého = de quel · nástupišťa = quai (génitif) · odchádza = part"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Petit vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "cestovať",
+          "voyager"
+        ],
+        [
+          "šoférovať",
+          "conduire"
+        ],
+        [
+          "parkovisko",
+          "parking"
+        ],
+        [
+          "premávka",
+          "circulation"
+        ],
+        [
+          "meškanie",
+          "retard"
+        ],
+        [
+          "rýchlo",
+          "vite"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dnes je v meste veľká premávka.",
+      "speaker": null,
+      "natural": "Aujourd'hui il y a beaucoup de circulation en ville.",
+      "literal": [
+        "dnes = aujourd'hui · v meste = en ville · veľká premávka = grande circulation"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚠️ Pièges pour les francophones"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Le moyen de transport se met à l'**instrumental** sans préposition : [[autobusom]], [[vlakom]], [[autom]] — pas de mot équivalent à \"en\" ou \"par\".",
+        "\"chodiť pešo\" (aller à pied) utilise \"chodiť\" et non \"ísť\" dans son sens habituel : les deux verbes de mouvement se distinguent selon qu'on parle d'un déplacement habituel ou ponctuel.",
+        "\"stanica\" (gare) sert à la fois pour le train et le bus selon le contexte (železničná stanica / autobusová stanica), donc bien préciser si besoin."
+      ]
+    }
+  ]
+}

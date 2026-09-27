@@ -1,0 +1,287 @@
+{
+  "id": "vocabulary-emotions",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "😊 Emócie (Les émotions)",
+  "image": null,
+  "content": [
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Émotions positives"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "šťastný / šťastná",
+          "heureux / heureuse"
+        ],
+        [
+          "spokojný / spokojná",
+          "satisfait(e), content(e)"
+        ],
+        [
+          "veselý / veselá",
+          "joyeux / joyeuse"
+        ],
+        [
+          "pokojný / pokojná",
+          "calme, paisible"
+        ],
+        [
+          "prekvapený / prekvapená",
+          "surpris(e)"
+        ],
+        [
+          "hrdý / hrdá",
+          "fier / fière"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "+ Comme les couleurs, les adjectifs d'émotion s'accordent en genre : -ý au masculin, -á au féminin."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Émotions négatives"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "smutný / smutná",
+          "triste"
+        ],
+        [
+          "nahnevaný / nahnevaná",
+          "énervé(e), en colère"
+        ],
+        [
+          "unavený / unavená",
+          "fatigué(e)"
+        ],
+        [
+          "nervózny / nervózna",
+          "nerveux / nerveuse"
+        ],
+        [
+          "vystrašený / vystrašená",
+          "effrayé(e)"
+        ],
+        [
+          "znudený / znudená",
+          "ennuyé(e)"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Demander et dire comment on se sent"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ako sa cítiš?",
+      "speaker": null,
+      "natural": "Comment tu te sens ?",
+      "literal": [
+        "ako = comment · sa cítiš = tu te sens"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Cítim sa dobre.",
+      "speaker": null,
+      "natural": "Je me sens bien.",
+      "literal": [
+        "cítim sa = je me sens · dobre = bien"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Som trochu unavený.",
+      "speaker": null,
+      "natural": "Je suis un peu fatigué.",
+      "literal": [
+        "som = je suis · trochu = un peu · unavený = fatigué"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Prečo si taký smutná?",
+      "speaker": null,
+      "natural": "Pourquoi es-tu si triste ?",
+      "literal": [
+        "prečo = pourquoi · si = es (tu) · taký = si, tellement · smutná = triste (féminin)"
+      ],
+      "notes": []
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"taký\" s'accorde aussi en genre : taký pour le masculin, taká pour le féminin, devant l'adjectif."
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Som z toho veľmi šťastný!",
+      "speaker": null,
+      "natural": "Je suis très heureux de ça !",
+      "literal": [
+        "som = je suis · z toho = de ça · veľmi = très · šťastný = heureux"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Exprimer des sentiments plus forts"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "láska",
+          "amour"
+        ],
+        [
+          "radosť",
+          "joie"
+        ],
+        [
+          "strach",
+          "peur"
+        ],
+        [
+          "hnev",
+          "colère"
+        ],
+        [
+          "smútok",
+          "tristesse"
+        ],
+        [
+          "stres",
+          "stress"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám z toho strach.",
+      "speaker": null,
+      "natural": "J'ai peur de ça.",
+      "literal": [
+        "mám = j'ai · z toho = de ça · strach = peur"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "To mi robí veľkú radosť.",
+      "speaker": null,
+      "natural": "Ça me fait très plaisir.",
+      "literal": [
+        "to mi robí = ça me fait · veľkú radosť = grande joie"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Petit vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "úsmev",
+          "sourire"
+        ],
+        [
+          "slza",
+          "larme"
+        ],
+        [
+          "plakať",
+          "pleurer"
+        ],
+        [
+          "smiať sa",
+          "rire"
+        ],
+        [
+          "upokojiť sa",
+          "se calmer"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nemusíš plakať, všetko bude dobré.",
+      "speaker": null,
+      "natural": "Tu n'as pas besoin de pleurer, tout ira bien.",
+      "literal": [
+        "nemusíš = tu n'as pas besoin de · plakať = pleurer · všetko bude dobré = tout ira bien"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚠️ Pièges pour les francophones"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Les adjectifs d'émotion s'accordent en genre comme les couleurs : [[unavený]] (masculin) vs [[unavená]] (féminin).",
+        "\"cítiť sa\" (se sentir) est un verbe réfléchi : ne pas oublier le \"sa\", sinon la phrase change de sens.",
+        "\"taký / taká\" (si, tellement) s'accorde lui aussi en genre avec la personne dont on parle, et se place juste avant l'adjectif."
+      ]
+    }
+  ]
+}

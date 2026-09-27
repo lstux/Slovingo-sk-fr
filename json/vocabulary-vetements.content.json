@@ -1,0 +1,275 @@
+{
+  "id": "vocabulary-vetements",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "👕 Oblečenie (Les vêtements)",
+  "image": null,
+  "content": [
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Les vêtements du haut"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "tričko",
+          "t-shirt"
+        ],
+        [
+          "košeľa",
+          "chemise"
+        ],
+        [
+          "sveter",
+          "pull"
+        ],
+        [
+          "bunda",
+          "veste (blouson)"
+        ],
+        [
+          "kabát",
+          "manteau"
+        ],
+        [
+          "šaty",
+          "robe"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"šaty\" est toujours au pluriel en slovaque, même pour parler d'une seule robe."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Les vêtements du bas et les chaussures"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "nohavice",
+          "pantalon"
+        ],
+        [
+          "džínsy",
+          "jean"
+        ],
+        [
+          "sukňa",
+          "jupe"
+        ],
+        [
+          "kraťasy",
+          "short"
+        ],
+        [
+          "ponožky",
+          "chaussettes"
+        ],
+        [
+          "topánky",
+          "chaussures"
+        ],
+        [
+          "tenisky",
+          "baskets"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"nohavice\" et \"ponožky\" sont toujours au pluriel en slovaque, comme \"des lunettes\" en français."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Accessoires"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "klobúk",
+          "chapeau"
+        ],
+        [
+          "šál",
+          "écharpe"
+        ],
+        [
+          "rukavice",
+          "gants"
+        ],
+        [
+          "opasok",
+          "ceinture"
+        ],
+        [
+          "okuliare",
+          "lunettes"
+        ],
+        [
+          "taška",
+          "sac"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. S'habiller et parler de ses vêtements"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čo máš dnes oblečené?",
+      "speaker": null,
+      "natural": "Qu'est-ce que tu portes aujourd'hui ?",
+      "literal": [
+        "čo = quoi · máš oblečené = tu as (porté) sur toi · dnes = aujourd'hui"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám na sebe modré tričko.",
+      "speaker": null,
+      "natural": "Je porte un t-shirt bleu.",
+      "literal": [
+        "mám na sebe = j'ai sur moi · modré tričko = t-shirt bleu"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Musím si obliecť bundu, vonku je zima.",
+      "speaker": null,
+      "natural": "Je dois mettre ma veste, il fait froid dehors.",
+      "literal": [
+        "musím = je dois · obliecť = mettre (un vêtement) · vonku je zima = il fait froid dehors"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Tieto topánky sú mi malé.",
+      "speaker": null,
+      "natural": "Ces chaussures sont trop petites pour moi.",
+      "literal": [
+        "tieto = ces · topánky = chaussures · sú mi malé = sont petites pour moi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Petit vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "veľkosť",
+          "taille"
+        ],
+        [
+          "skúšobná kabínka",
+          "cabine d'essayage"
+        ],
+        [
+          "pohodlný",
+          "confortable"
+        ],
+        [
+          "módny",
+          "à la mode"
+        ],
+        [
+          "lacný",
+          "pas cher"
+        ],
+        [
+          "drahý",
+          "cher"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Aká je vaša veľkosť?",
+      "speaker": null,
+      "natural": "Quelle est votre taille ?",
+      "literal": [
+        "aká = quelle · vaša = votre · veľkosť = taille"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Táto bunda je veľmi pohodlná.",
+      "speaker": null,
+      "natural": "Cette veste est très confortable.",
+      "literal": [
+        "táto = cette · veľmi = très · pohodlná = confortable"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚠️ Pièges pour les francophones"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "\"šaty\", \"nohavice\", \"ponožky\", \"okuliare\" sont toujours au **pluriel** en slovaque, même pour un seul objet.",
+        "\"mať na sebe\" (avoir sur soi) sert à dire ce qu'on porte, \"obliecť si\" sert à dire qu'on enfile un vêtement : deux verbes différents pour deux situations différentes.",
+        "\"veľkosť\" (taille du vêtement) ne doit pas être confondu avec \"výška\" (taille = hauteur d'une personne)."
+      ]
+    }
+  ]
+}

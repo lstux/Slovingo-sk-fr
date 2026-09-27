@@ -1,0 +1,318 @@
+{
+  "id": "series-nakupy-v-obchode",
+  "category": "series",
+  "subgroup": "nakupy",
+  "subgroup_label": "Nakupy",
+  "title": "Série Nákupy (5/5) — V obchode",
+  "image": {
+    "src": "img/nakupy_05_merkury_market_2.jpg",
+    "caption": "Centre commercial à Prešov — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Andrea aide Eric à choisir des vêtements, avec l'aide d'une vendeuse. Tout le vocabulaire de la série y passe. Aucun mot nouveau, sauf ceux signalés dans les remarques."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les personnages"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "👦 Eric, le Français",
+        "👩 Andrea, son amie",
+        "🙋‍♀️ La vendeuse"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Eric et Andrea se vouvoient. Tous deux vouvoient la vendeuse."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le dialogue"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem kúpiť tričko.",
+      "speaker": "👦",
+      "natural": "Je veux acheter un tee-shirt.",
+      "literal": [
+        "Chcem kúpiť = je veux acheter",
+        "tričko = un tee-shirt"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Akú farbu chceš?",
+      "speaker": "👩",
+      "natural": "Quelle couleur veux-tu ?",
+      "literal": [
+        "Akú farbu = quelle couleur",
+        "chceš = veux-tu"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Modré alebo zelené. Nie čierne.",
+      "speaker": "👦",
+      "natural": "Bleu ou vert. Pas noir.",
+      "literal": [
+        "Modré = bleu",
+        "alebo = ou",
+        "zelené = vert",
+        "Nie = pas",
+        "čierne = noir"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dobrý deň. Akú veľkosť hľadáte?",
+      "speaker": "🙋‍♀️",
+      "natural": "Bonjour. Quelle taille cherchez-vous ?",
+      "literal": [
+        "Dobrý deň = bonjour",
+        "Akú veľkosť = quelle taille",
+        "hľadáte = cherchez-vous"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Veľkosť L, prosím.",
+      "speaker": "👦",
+      "natural": "La taille L, s'il vous plaît.",
+      "literal": [
+        "Veľkosť L = la taille L",
+        "prosím = s'il vous plaît"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Toto modré tričko je pekné. Chcete skúsiť?",
+      "speaker": "🙋‍♀️",
+      "natural": "Ce tee-shirt bleu est joli. Vous voulez essayer ?",
+      "literal": [
+        "Toto = ce",
+        "modré tričko = tee-shirt bleu",
+        "je = est",
+        "pekné = joli",
+        "Chcete = voulez-vous",
+        "skúsiť = essayer"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Áno, kde je kabínka?",
+      "speaker": "👦",
+      "natural": "Oui, où est la cabine ?",
+      "literal": [
+        "Áno = oui",
+        "kde = où",
+        "je = est",
+        "kabínka = la cabine"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Tam, vľavo.",
+      "speaker": "🙋‍♀️",
+      "natural": "Là-bas, à gauche.",
+      "literal": [
+        "Tam = là-bas",
+        "vľavo = à gauche"
+      ],
+      "notes": [
+        "« vľavo » veut dire à gauche, « vpravo » à droite."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je to trochu malé. Máte väčšie?",
+      "speaker": "👦",
+      "natural": "C'est un peu petit. Vous en avez un plus grand ?",
+      "literal": [
+        "Je to = c'est",
+        "trochu = un peu",
+        "malé = petit",
+        "Máte = vous avez",
+        "väčšie = plus grand"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Áno, veľkosť XL. Nech sa páči.",
+      "speaker": "🙋‍♀️",
+      "natural": "Oui, taille XL. Tenez.",
+      "literal": [
+        "Áno = oui",
+        "veľkosť XL = taille XL",
+        "Nech sa páči = tenez"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "To je lepšie! Koľko to stojí?",
+      "speaker": "👦",
+      "natural": "C'est mieux ! Combien ça coûte ?",
+      "literal": [
+        "To je lepšie = c'est mieux",
+        "Koľko to stojí = combien ça coûte"
+      ],
+      "notes": [
+        "« lepšie » signifie mieux. Retiens la forme telle quelle pour l'instant."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Pätnásť eur. Je to v akcii.",
+      "speaker": "🙋‍♀️",
+      "natural": "Quinze euros. C'est en promotion.",
+      "literal": [
+        "Pätnásť eur = quinze euros",
+        "Je to = c'est",
+        "v akcii = en promotion"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "To je lacné! Kúp si aj to zelené.",
+      "speaker": "👩",
+      "natural": "C'est bon marché ! Achète aussi le vert.",
+      "literal": [
+        "To je = c'est",
+        "lacné = bon marché",
+        "Kúp si = achète",
+        "aj = aussi",
+        "to zelené = le vert"
+      ],
+      "notes": [
+        "« kúp si » est l'impératif de kúpiť si, s'acheter."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dobre. Platím kartou.",
+      "speaker": "👦",
+      "natural": "D'accord. Je paie par carte.",
+      "literal": [
+        "Dobre = d'accord",
+        "Platím = je paie",
+        "kartou = par carte"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ďakujem. Dovidenia!",
+      "speaker": "🙋‍♀️",
+      "natural": "Merci. Au revoir !",
+      "literal": [
+        "Ďakujem = merci",
+        "Dovidenia = au revoir"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Vľavo et vpravo, deux mots à retenir en priorité.** Dans un magasin ou dans la rue, ils règlent la moitié des questions d'orientation. On les entend beaucoup plus souvent que « nord » et « sud »."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le vouvoiement commercial est systématique.** On vouvoie toujours un vendeur ou une vendeuse, même très jeune, et eux vouvoient le client sauf s'ils le connaissent bien. C'est une des situations où le tutoiement surprendrait sincèrement."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Kúpiť versus kupovať.** [[Kúpiť]] décrit une action ponctuelle et achevée — j'ai acheté ce tee-shirt précis — tandis que [[kupovať]], vu plus tôt dans la série, décrit l'habitude ou l'action en cours. Cette paire dite « aspectuelle » est un pilier du slovaque ; on y reviendra en détail plus tard."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem kúpiť topánky, ale sú drahé.",
+      "speaker": null,
+      "natural": "Je veux acheter des chaussures, mais elles sont chères.",
+      "literal": [
+        "Chcem kúpiť = je veux acheter",
+        "topánky = des chaussures",
+        "ale = mais",
+        "sú = sont",
+        "drahé = chères"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Máte to v inej farbe?",
+      "speaker": null,
+      "natural": "Vous l'avez dans une autre couleur ?",
+      "literal": [
+        "Máte = vous avez",
+        "to = cela",
+        "v inej farbe = dans une autre couleur"
+      ],
+      "notes": [
+        "« iný » veut dire autre."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Platím hotovosťou. Máte drobné?",
+      "speaker": null,
+      "natural": "Je paie en liquide. Vous avez de la monnaie ?",
+      "literal": [
+        "Platím = je paie",
+        "hotovosťou = en liquide",
+        "Máte = vous avez",
+        "drobné = de la monnaie"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Obchod je otvorený do siedmej.",
+      "speaker": null,
+      "natural": "Le magasin est ouvert jusqu'à sept heures.",
+      "literal": [
+        "Obchod = le magasin",
+        "je = est",
+        "otvorený = ouvert",
+        "do siedmej = jusqu'à sept heures"
+      ],
+      "notes": []
+    }
+  ]
+}

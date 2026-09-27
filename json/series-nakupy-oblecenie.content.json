@@ -1,0 +1,435 @@
+{
+  "id": "series-nakupy-oblecenie",
+  "category": "series",
+  "subgroup": "nakupy",
+  "subgroup_label": "Nakupy",
+  "title": "Série Nákupy (3/5) — Oblečenie",
+  "image": {
+    "src": "img/nakupy_03_grocery_hlohovec.jpg",
+    "caption": "Épicerie de quartier à Hlohovec — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Les vêtements, les tailles, et le verbe **skúsiť** pour essayer. On combine ici couleur et vêtement dans la même phrase."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "tričko",
+          "le tee-shirt"
+        ],
+        [
+          "košeľa",
+          "la chemise"
+        ],
+        [
+          "nohavice",
+          "le pantalon"
+        ],
+        [
+          "sukňa",
+          "la jupe"
+        ],
+        [
+          "topánky",
+          "les chaussures"
+        ],
+        [
+          "veľkosť",
+          "la taille"
+        ],
+        [
+          "skúsiť",
+          "essayer"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Essayer — skúsiť"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "ja skúsim",
+          "j'essaie"
+        ],
+        [
+          "ty skúsiš",
+          "tu essaies"
+        ],
+        [
+          "on / ona skúsi",
+          "il / elle essaie"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Combiner couleur et objet"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "červené tričko",
+          "un tee-shirt rouge"
+        ],
+        [
+          "modrá košeľa",
+          "une chemise bleue"
+        ],
+        [
+          "čierne nohavice",
+          "un pantalon noir"
+        ],
+        [
+          "zelená sukňa",
+          "une jupe verte"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "La couleur s'accorde toujours avec le nom qui suit, jamais avec la personne qui parle."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem skúsiť toto tričko.",
+      "speaker": null,
+      "natural": "Je veux essayer ce tee-shirt.",
+      "literal": [
+        "Chcem = je veux",
+        "skúsiť = essayer",
+        "toto = ce",
+        "tričko = tee-shirt"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Akú veľkosť máte?",
+      "speaker": null,
+      "natural": "Quelle taille avez-vous ?",
+      "literal": [
+        "Akú = quelle",
+        "veľkosť = taille",
+        "máte = avez-vous"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám veľkosť M.",
+      "speaker": null,
+      "natural": "J'ai la taille M.",
+      "literal": [
+        "Mám = j'ai",
+        "veľkosť = taille",
+        "M = M"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Táto košeľa je malá. Máte väčšiu?",
+      "speaker": null,
+      "natural": "Cette chemise est petite. Vous en avez une plus grande ?",
+      "literal": [
+        "Táto = cette",
+        "košeľa = chemise",
+        "je = est",
+        "malá = petite",
+        "Máte = vous avez",
+        "väčšiu = plus grande"
+      ],
+      "notes": [
+        "« väčší » est le comparatif de veľký, plus grand. On y reviendra ailleurs ; retiens l'expression pour l'instant."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Skúsim čierne nohavice.",
+      "speaker": null,
+      "natural": "J'essaie le pantalon noir.",
+      "literal": [
+        "Skúsim = j'essaie",
+        "čierne = noir",
+        "nohavice = le pantalon"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kde je skúšobná kabínka?",
+      "speaker": null,
+      "natural": "Où est la cabine d'essayage ?",
+      "literal": [
+        "Kde = où",
+        "je = est",
+        "skúšobná kabínka = la cabine d'essayage"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Tieto topánky sú pohodlné.",
+      "speaker": null,
+      "natural": "Ces chaussures sont confortables.",
+      "literal": [
+        "Tieto = ces",
+        "topánky = chaussures",
+        "sú = sont",
+        "pohodlné = confortables"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Zelená sukňa sa mi páči.",
+      "speaker": null,
+      "natural": "La jupe verte me plaît.",
+      "literal": [
+        "Zelená sukňa = la jupe verte",
+        "sa mi páči = me plaît"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kupujem modré tričko a čierne nohavice.",
+      "speaker": null,
+      "natural": "J'achète un tee-shirt bleu et un pantalon noir.",
+      "literal": [
+        "Kupujem = j'achète",
+        "modré = bleu",
+        "tričko = un tee-shirt",
+        "a = et",
+        "čierne = noir",
+        "nohavice = un pantalon"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Skúsim to v obchode v sobotu.",
+      "speaker": null,
+      "natural": "Je vais essayer ça au magasin samedi.",
+      "literal": [
+        "Skúsim = j'essaie",
+        "to = cela",
+        "v obchode = au magasin",
+        "v sobotu = samedi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Páči sa mi táto farba, ale veľkosť nie je dobrá.",
+      "speaker": null,
+      "natural": "J'aime cette couleur, mais la taille n'est pas bonne.",
+      "literal": [
+        "Páči sa mi = j'aime",
+        "táto farba = cette couleur",
+        "ale = mais",
+        "veľkosť = la taille",
+        "nie je = n'est pas",
+        "dobrá = bonne"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Les tailles suivent surtout le système international.** S, M, L et XL s'affichent partout, avec parfois une pointure européenne en chiffres pour les chaussures — un repère facile pour un francophone."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Les soldes ont leur mot bien à eux.** [[Výpredaj]] annonce des soldes ou une liquidation, affiché en lettres géantes dans les vitrines dès la fin de saison. Le mot revient si souvent qu'il vaut la peine d'être repéré au premier coup d'œil."
+    },
+    {
+      "type": "paragraph",
+      "text": "**La cabine d'essayage se demande simplement.** Il suffit de montrer le vêtement et de demander [[Kde je skúšobná kabínka?]] — la vendeuse indique la direction, sans plus de formalité."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "bunda",
+          "la veste"
+        ],
+        [
+          "sveter",
+          "le pull"
+        ],
+        [
+          "šaty",
+          "la robe"
+        ],
+        [
+          "čiapka",
+          "le bonnet"
+        ],
+        [
+          "opasok",
+          "la ceinture"
+        ],
+        [
+          "lacný",
+          "bon marché"
+        ],
+        [
+          "drahý",
+          "cher"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Táto bunda je drahá.",
+      "speaker": null,
+      "natural": "Cette veste est chère.",
+      "literal": [
+        "Táto = cette",
+        "bunda = veste",
+        "je = est",
+        "drahá = chère"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem lacný sveter.",
+      "speaker": null,
+      "natural": "Je veux un pull bon marché.",
+      "literal": [
+        "Chcem = je veux",
+        "lacný = bon marché",
+        "sveter = un pull"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Máte čiernu čiapku?",
+      "speaker": null,
+      "natural": "Vous avez un bonnet noir ?",
+      "literal": [
+        "Máte = vous avez",
+        "čiernu = noir",
+        "čiapku = un bonnet"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Tieto šaty sú veľmi pekné.",
+      "speaker": null,
+      "natural": "Cette robe est très jolie.",
+      "literal": [
+        "Tieto = cette",
+        "šaty = robe",
+        "sú = sont",
+        "veľmi = très",
+        "pekné = jolie"
+      ],
+      "notes": [
+        "« šaty » signifie robe, toujours au pluriel, comme nohavice."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Opasok je čierny a lacný.",
+      "speaker": null,
+      "natural": "La ceinture est noire et bon marché.",
+      "literal": [
+        "Opasok = la ceinture",
+        "je = est",
+        "čierny = noir",
+        "a = et",
+        "lacný = bon marché"
+      ],
+      "notes": []
+    }
+  ]
+}

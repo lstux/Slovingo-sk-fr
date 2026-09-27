@@ -1,0 +1,1518 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-obliec-si",
+      "type": "qcm",
+      "l1": "mettre, enfiler",
+      "l2": "obliecť si",
+      "choices_l1": [
+        "la pomme",
+        "la taille",
+        "dix ans"
+      ],
+      "choices_l2": [
+        "Choď!",
+        "nudný",
+        "červené tričko"
+      ]
+    },
+    {
+      "id": "qcm-kab-t",
+      "type": "qcm",
+      "l1": "le manteau",
+      "l2": "kabát",
+      "choices_l1": [
+        "nous habitons",
+        "le billet",
+        "cher"
+      ],
+      "choices_l2": [
+        "festival",
+        "červené auto",
+        "strýko"
+      ]
+    },
+    {
+      "id": "qcm-l",
+      "type": "qcm",
+      "l1": "l'écharpe",
+      "l2": "šál",
+      "choices_l1": [
+        "l'automne",
+        "J'ai faim.",
+        "rouge"
+      ],
+      "choices_l2": [
+        "počúvať",
+        "víno",
+        "kvet"
+      ]
+    },
+    {
+      "id": "qcm-rukavice",
+      "type": "qcm",
+      "l1": "les gants",
+      "l2": "rukavice",
+      "choices_l1": [
+        "le brouillard",
+        "frais",
+        "le verre"
+      ],
+      "choices_l2": [
+        "peniaze",
+        "čierny",
+        "robiť"
+      ]
+    },
+    {
+      "id": "qcm-slne-n-okuliare",
+      "type": "qcm",
+      "l1": "les lunettes de soleil",
+      "l2": "slnečné okuliare",
+      "choices_l1": [
+        "Ça me plaît.",
+        "la vie chère",
+        "sur la place"
+      ],
+      "choices_l2": [
+        "tri eurá",
+        "ráno",
+        "stolička"
+      ]
+    },
+    {
+      "id": "qcm-d-dnik",
+      "type": "qcm",
+      "l1": "le parapluie",
+      "l2": "dáždnik",
+      "choices_l1": [
+        "le gâteau",
+        "le bonnet",
+        "le restaurant"
+      ],
+      "choices_l2": [
+        "večera",
+        "vajce",
+        "presne"
+      ]
+    },
+    {
+      "id": "qcm-musie",
+      "type": "qcm",
+      "l1": "devoir",
+      "l2": "musieť",
+      "choices_l1": [
+        "quatre euros",
+        "le garage",
+        "le gâteau"
+      ],
+      "choices_l2": [
+        "desať eur",
+        "vietor",
+        "piatok"
+      ]
+    },
+    {
+      "id": "qcm-ja-mus-m",
+      "type": "qcm",
+      "l1": "je dois",
+      "l2": "ja musím",
+      "choices_l1": [
+        "rencontrer",
+        "le bus",
+        "l'été"
+      ],
+      "choices_l2": [
+        "trh",
+        "týždeň",
+        "naspäť"
+      ]
+    },
+    {
+      "id": "qcm-ty-mus",
+      "type": "qcm",
+      "l1": "tu dois",
+      "l2": "ty musíš",
+      "choices_l1": [
+        "affamé",
+        "la maman",
+        "tu es"
+      ],
+      "choices_l2": [
+        "žltý",
+        "sivý",
+        "teraz"
+      ]
+    },
+    {
+      "id": "qcm-on-ona-mus",
+      "type": "qcm",
+      "l1": "il / elle doit",
+      "l2": "on / ona musí",
+      "choices_l1": [
+        "il / elle a",
+        "ils / elles font",
+        "l'eau-de-vie de prune"
+      ],
+      "choices_l2": [
+        "zemiaky sú teplé",
+        "Stojí to päť eur.",
+        "trištvrte na šesť"
+      ]
+    },
+    {
+      "id": "qcm-my-mus-me",
+      "type": "qcm",
+      "l1": "nous devons",
+      "l2": "my musíme",
+      "choices_l1": [
+        "l'oncle",
+        "fermé",
+        "juste, directement"
+      ],
+      "choices_l2": [
+        "spať",
+        "obloha",
+        "jesť"
+      ]
+    },
+    {
+      "id": "qcm-mus-m-s",
+      "type": "qcm",
+      "l1": "Je dois y aller.",
+      "l2": "Musím ísť.",
+      "choices_l1": [
+        "la gare, la station",
+        "Je vais à la boulangerie.",
+        "la vie chère"
+      ],
+      "choices_l2": [
+        "televízor",
+        "zima",
+        "červené auto"
+      ]
+    },
+    {
+      "id": "qcm-mus-si-obliec-kab-t",
+      "type": "qcm",
+      "l1": "Tu dois mettre un manteau.",
+      "l2": "Musíš si obliecť kabát.",
+      "choices_l1": [
+        "Je vois la fenêtre.",
+        "la fille (de quelqu'un)",
+        "tu te promènes"
+      ],
+      "choices_l2": [
+        "Koľko to stojí?",
+        "on / ona má",
+        "varím → nevarím"
+      ]
+    },
+    {
+      "id": "qcm-mus-me-ma-d-dnik",
+      "type": "qcm",
+      "l1": "Nous devons avoir un parapluie.",
+      "l2": "Musíme mať dáždnik.",
+      "choices_l1": [
+        "Je prends une bière.",
+        "je range, tu ranges, il range",
+        "je cuisine, tu cuisines, il cuisine"
+      ],
+      "choices_l2": [
+        "Koľko to stojí?",
+        "posteľ → na posteli",
+        "Je to vedľa banky."
+      ]
+    },
+    {
+      "id": "qcm-i-my",
+      "type": "qcm",
+      "l1": "les bottes",
+      "l2": "čižmy",
+      "choices_l1": [
+        "le chalet",
+        "vous faites",
+        "la famille"
+      ],
+      "choices_l2": [
+        "dedko",
+        "v parku",
+        "dom, byt"
+      ]
+    },
+    {
+      "id": "qcm-pl-do-da-a",
+      "type": "qcm",
+      "l1": "l'imperméable",
+      "l2": "plášť do dažďa",
+      "choices_l1": [
+        "la direction",
+        "le père",
+        "le nuage"
+      ],
+      "choices_l2": [
+        "ty sa prechádzaš",
+        "Dám si guláš.",
+        "To je drahé."
+      ]
+    },
+    {
+      "id": "qcm-kr-my-na-opa-ovanie",
+      "type": "qcm",
+      "l1": "la crème solaire",
+      "l2": "krémy na opaľovanie",
+      "choices_l1": [
+        "Allez tout droit !",
+        "dans la pièce",
+        "les pommes de terre sont chaudes"
+      ],
+      "choices_l2": [
+        "Ideš na zastávku?",
+        "Idem do obchodu.",
+        "Je to dobré."
+      ]
+    },
+    {
+      "id": "qcm-iltovka",
+      "type": "qcm",
+      "l1": "la casquette",
+      "l2": "šiltovka",
+      "choices_l1": [
+        "assoiffé",
+        "préféré",
+        "l'armoire"
+      ],
+      "choices_l2": [
+        "kuchyňa",
+        "lekár",
+        "na jeseň"
+      ]
+    },
+    {
+      "id": "qcm-pono-ky",
+      "type": "qcm",
+      "l1": "les chaussettes",
+      "l2": "ponožky",
+      "choices_l1": [
+        "l'église",
+        "je fais",
+        "vert"
+      ],
+      "choices_l2": [
+        "hnedý",
+        "kancelária",
+        "posteľ"
+      ]
+    },
+    {
+      "id": "qcm-teplota-vzduchu",
+      "type": "qcm",
+      "l1": "la température de l'air",
+      "l2": "teplota vzduchu",
+      "choices_l1": [
+        "Combien ça coûte ?",
+        "sur la place",
+        "tout de suite"
+      ],
+      "choices_l2": [
+        "čierne nohavice",
+        "košík",
+        "záhrada"
+      ]
+    },
+    {
+      "id": "qcm-oble-enie",
+      "type": "qcm",
+      "l1": "les vêtements",
+      "l2": "oblečenie",
+      "choices_l1": [
+        "la jupe",
+        "écouter",
+        "le balcon"
+      ],
+      "choices_l2": [
+        "káva",
+        "dôchodca",
+        "ulica"
+      ]
+    },
+    {
+      "id": "blank-mus-m-si-obliec-kab-t-je-zima",
+      "type": "fill-blank",
+      "l1": "Je dois mettre un manteau. Il fait froid.",
+      "l2": "Musím si obliecť kabát. Je zima.",
+      "missing_l1": "un",
+      "missing_l2": "Je",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "le",
+        "enfants",
+        "cuisine"
+      ],
+      "choices_l2": [
+        "sa",
+        "siedmej",
+        "rokov"
+      ]
+    },
+    {
+      "id": "blank-v-zime-nos-m-l-a-rukavice",
+      "type": "fill-blank",
+      "l1": "En hiver je porte une écharpe et des gants.",
+      "l2": "V zime nosím šál a rukavice.",
+      "missing_l1": "je",
+      "missing_l2": "a",
+      "blank_index_l1": 2,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "du",
+        "enfants",
+        "mais"
+      ],
+      "choices_l2": [
+        "prídem",
+        "mi",
+        "máte"
+      ]
+    },
+    {
+      "id": "blank-v-lete-nos-m-slne-n-okuliare",
+      "type": "fill-blank",
+      "l1": "En été je porte des lunettes de soleil.",
+      "l2": "V lete nosím slnečné okuliare.",
+      "missing_l1": "je",
+      "missing_l2": "lete",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "veux",
+        "tout",
+        "c'est"
+      ],
+      "choices_l2": [
+        "idem",
+        "je",
+        "koľko"
+      ]
+    },
+    {
+      "id": "blank-mus-ma-d-dnik-pr",
+      "type": "fill-blank",
+      "l1": "Tu dois avoir un parapluie, il pleut.",
+      "l2": "Musíš mať dáždnik, prší.",
+      "missing_l1": "un",
+      "missing_l2": "mať",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "ne",
+        "est",
+        "où"
+      ],
+      "choices_l2": [
+        "koľko",
+        "ešte",
+        "čas"
+      ]
+    },
+    {
+      "id": "blank-o-si-m-m-dnes-obliec",
+      "type": "fill-blank",
+      "l1": "Qu'est-ce que je dois mettre aujourd'hui ?",
+      "l2": "Čo si mám dnes obliecť?",
+      "missing_l1": "je",
+      "missing_l2": "mám",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "pas",
+        "heures",
+        "a"
+      ],
+      "choices_l2": [
+        "prosím",
+        "som",
+        "idem"
+      ]
+    },
+    {
+      "id": "blank-mus-me-s-skoro-bude-b-rka",
+      "type": "fill-blank",
+      "l1": "Nous devons y aller tôt, il va y avoir un orage.",
+      "l2": "Musíme ísť skoro, bude búrka.",
+      "missing_l1": "un",
+      "missing_l2": "bude",
+      "blank_index_l1": 9,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "heures",
+        "vous",
+        "pas"
+      ],
+      "choices_l2": [
+        "môj",
+        "moja",
+        "chcem"
+      ]
+    },
+    {
+      "id": "blank-nemus-nosi-kab-t-je-teplo",
+      "type": "fill-blank",
+      "l1": "Tu n'as pas besoin de porter un manteau, il fait chaud.",
+      "l2": "Nemusíš nosiť kabát, je teplo.",
+      "missing_l1": "de",
+      "missing_l2": "je",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "il",
+        "nous",
+        "enfants"
+      ],
+      "choices_l2": [
+        "mi",
+        "a",
+        "áno"
+      ]
+    },
+    {
+      "id": "blank-obliec-si-nie-o-tepl",
+      "type": "fill-blank",
+      "l1": "Mets quelque chose de chaud !",
+      "l2": "Obliecť si niečo teplé!",
+      "missing_l1": "de",
+      "missing_l2": "si",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "dans",
+        "tout",
+        "a"
+      ],
+      "choices_l2": [
+        "sú",
+        "nemám",
+        "babka"
+      ]
+    },
+    {
+      "id": "blank-na-jar-mus-m-ma-d-dnik-ale-nie-kab-t",
+      "type": "fill-blank",
+      "l1": "Au printemps je dois avoir un parapluie, mais pas de manteau.",
+      "l2": "Na jar musím mať dáždnik, ale nie kabát.",
+      "missing_l1": "je",
+      "missing_l2": "ale",
+      "blank_index_l1": 2,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "une",
+        "est",
+        "et"
+      ],
+      "choices_l2": [
+        "potom",
+        "si",
+        "rokov"
+      ]
+    },
+    {
+      "id": "blank-v-zime-je-zima-tak-nos-m-rukavice-a-l",
+      "type": "fill-blank",
+      "l1": "En hiver il fait froid, alors je porte des gants et une écharpe.",
+      "l2": "V zime je zima, tak nosím rukavice a šál.",
+      "missing_l1": "je",
+      "missing_l2": "je",
+      "blank_index_l1": 6,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "au",
+        "est",
+        "me"
+      ],
+      "choices_l2": [
+        "na",
+        "býva",
+        "deti"
+      ]
+    },
+    {
+      "id": "blank-toto-leto-je-teplej-ie-nemus-m-nosi-sveter",
+      "type": "fill-blank",
+      "l1": "Cet été est plus chaud, je n'ai pas besoin de porter un pull.",
+      "l2": "Toto leto je teplejšie, nemusím nosiť sveter.",
+      "missing_l1": "je",
+      "missing_l2": "je",
+      "blank_index_l1": 5,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "un",
+        "est",
+        "en"
+      ],
+      "choices_l2": [
+        "deti",
+        "babka",
+        "máte"
+      ]
+    },
+    {
+      "id": "blank-v-da-di-nos-m-i-my-a-pl-do-da-a",
+      "type": "fill-blank",
+      "l1": "Sous la pluie je porte des bottes et un imperméable.",
+      "l2": "V daždi nosím čižmy a plášť do dažďa.",
+      "missing_l1": "la",
+      "missing_l2": "a",
+      "blank_index_l1": 1,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "mon",
+        "est",
+        "j'ai"
+      ],
+      "choices_l2": [
+        "o",
+        "do",
+        "deti"
+      ]
+    },
+    {
+      "id": "blank-mus-ma-kr-m-na-opa-ovanie-slnko-je-siln",
+      "type": "fill-blank",
+      "l1": "Tu dois avoir de la crème solaire, le soleil est fort.",
+      "l2": "Musíš mať krém na opaľovanie, slnko je silné.",
+      "missing_l1": "la",
+      "missing_l2": "je",
+      "blank_index_l1": 4,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "n'ai",
+        "où",
+        "tout"
+      ],
+      "choices_l2": [
+        "potom",
+        "ešte",
+        "nie"
+      ]
+    },
+    {
+      "id": "blank-pono-ky-s-mokr",
+      "type": "fill-blank",
+      "l1": "Les chaussettes sont mouillées !",
+      "l2": "Ponožky sú mokré!",
+      "missing_l1": "sont",
+      "missing_l2": "sú",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "a",
+        "au",
+        "heures"
+      ],
+      "choices_l2": [
+        "mi",
+        "má",
+        "do"
+      ]
+    },
+    {
+      "id": "blank-nos-m-iltovku-v-lete",
+      "type": "fill-blank",
+      "l1": "Je porte une casquette en été.",
+      "l2": "Nosím šiltovku v lete.",
+      "missing_l1": "en",
+      "missing_l2": "v",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "suis",
+        "plaît",
+        "pas"
+      ],
+      "choices_l2": [
+        "sa",
+        "koľko",
+        "býva"
+      ]
+    },
+    {
+      "id": "blank-oble-enie-na-zimu-je-drah",
+      "type": "fill-blank",
+      "l1": "Les vêtements d'hiver sont chers.",
+      "l2": "Oblečenie na zimu je drahé.",
+      "missing_l1": "sont",
+      "missing_l2": "je",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "tout",
+        "tu",
+        "mon"
+      ],
+      "choices_l2": [
+        "ešte",
+        "dnes",
+        "deň"
+      ]
+    },
+    {
+      "id": "listen-mus-m-si-obliec-kab-t-je-zima",
+      "type": "listen",
+      "l1": "Je dois mettre un manteau. Il fait froid.",
+      "l2": "Musím si obliecť kabát. Je zima.",
+      "choices_l1": [
+        "Je range le salon et la cuisine.",
+        "Les nuages sont sombres. Il va y avoir un orage.",
+        "Papa est assis sur le canapé et regarde la télévision."
+      ]
+    },
+    {
+      "id": "listen-v-zime-nos-m-l-a-rukavice",
+      "type": "listen",
+      "l1": "En hiver je porte une écharpe et des gants.",
+      "l2": "V zime nosím šál a rukavice.",
+      "choices_l1": [
+        "Mon cousin est jeune. Il a dix-huit ans.",
+        "Je me promène dans le parc.",
+        "Au printemps les fleurs fleurissent."
+      ]
+    },
+    {
+      "id": "listen-v-lete-nos-m-slne-n-okuliare",
+      "type": "listen",
+      "l1": "En été je porte des lunettes de soleil.",
+      "l2": "V lete nosím slnečné okuliare.",
+      "choices_l1": [
+        "J'aime le fromage, mais je n'aime pas le lait.",
+        "Vous l'avez dans une autre couleur ?",
+        "Oui, taille XL. Tenez."
+      ]
+    },
+    {
+      "id": "listen-mus-ma-d-dnik-pr",
+      "type": "listen",
+      "l1": "Tu dois avoir un parapluie, il pleut.",
+      "l2": "Musíš mať dáždnik, prší.",
+      "choices_l1": [
+        "Nous avons du riz et des pommes de terre.",
+        "Mon frère travaille dans un magasin.",
+        "J'ai un petit enfant."
+      ]
+    },
+    {
+      "id": "listen-o-si-m-m-dnes-obliec",
+      "type": "listen",
+      "l1": "Qu'est-ce que je dois mettre aujourd'hui ?",
+      "l2": "Čo si mám dnes obliecť?",
+      "choices_l1": [
+        "Le téléphone est sur la table.",
+        "Va à gauche au carrefour, puis tout droit.",
+        "Le train arrive à midi et quart."
+      ]
+    },
+    {
+      "id": "listen-mus-me-s-skoro-bude-b-rka",
+      "type": "listen",
+      "l1": "Nous devons y aller tôt, il va y avoir un orage.",
+      "l2": "Musíme ísť skoro, bude búrka.",
+      "choices_l1": [
+        "J'ai des chaussures marron.",
+        "Aujourd'hui c'est lundi.",
+        "Tu as une voiture bleue ?"
+      ]
+    },
+    {
+      "id": "listen-nemus-nosi-kab-t-je-teplo",
+      "type": "listen",
+      "l1": "Tu n'as pas besoin de porter un manteau, il fait chaud.",
+      "l2": "Nemusíš nosiť kabát, je teplo.",
+      "choices_l1": [
+        "En été les jours sont plus longs.",
+        "Je me repose sur le lit et j'écoute.",
+        "Je te retrouve sur la place à cinq heures."
+      ]
+    },
+    {
+      "id": "listen-obliec-si-nie-o-tepl",
+      "type": "listen",
+      "l1": "Mets quelque chose de chaud !",
+      "l2": "Obliecť si niečo teplé!",
+      "choices_l1": [
+        "Le goulash est brûlant. Tu veux de l'eau ?",
+        "Retournez en arrière.",
+        "Samedi et dimanche je suis à la maison."
+      ]
+    },
+    {
+      "id": "listen-na-jar-mus-m-ma-d-dnik-ale-nie-kab-t",
+      "type": "listen",
+      "l1": "Au printemps je dois avoir un parapluie, mais pas de manteau.",
+      "l2": "Na jar musím mať dáždnik, ale nie kabát.",
+      "choices_l1": [
+        "Vendredi la soirée est longue.",
+        "Quelle taille avez-vous ?",
+        "Je ne mange pas de viande."
+      ]
+    },
+    {
+      "id": "listen-v-zime-je-zima-tak-nos-m-rukavice-a-l",
+      "type": "listen",
+      "l1": "En hiver il fait froid, alors je porte des gants et une écharpe.",
+      "l2": "V zime je zima, tak nosím rukavice a šál.",
+      "choices_l1": [
+        "Je cherche le musée. Je suis descendu au mauvais arrêt.",
+        "Je te retrouve sur la place à cinq heures.",
+        "Le distributeur est fermé ? Ce n'est pas possible !"
+      ]
+    },
+    {
+      "id": "listen-toto-leto-je-teplej-ie-nemus-m-nosi-sveter",
+      "type": "listen",
+      "l1": "Cet été est plus chaud, je n'ai pas besoin de porter un pull.",
+      "l2": "Toto leto je teplejšie, nemusím nosiť sveter.",
+      "choices_l1": [
+        "Il y a du brouillard, je ne vois rien.",
+        "Le lait est froid.",
+        "Comment est-ce ?"
+      ]
+    },
+    {
+      "id": "listen-v-da-di-nos-m-i-my-a-pl-do-da-a",
+      "type": "listen",
+      "l1": "Sous la pluie je porte des bottes et un imperméable.",
+      "l2": "V daždi nosím čižmy a plášť do dažďa.",
+      "choices_l1": [
+        "L'année a douze mois et cinquante-deux semaines.",
+        "Je n'ai pas faim. Je ne veux pas manger.",
+        "Je bois de l'eau."
+      ]
+    },
+    {
+      "id": "listen-mus-ma-kr-m-na-opa-ovanie-slnko-je-siln",
+      "type": "listen",
+      "l1": "Tu dois avoir de la crème solaire, le soleil est fort.",
+      "l2": "Musíš mať krém na opaľovanie, slnko je silné.",
+      "choices_l1": [
+        "Quand as-tu ton rendez-vous ?",
+        "Qui habite dans cette maison ?",
+        "C'est bon marché."
+      ]
+    },
+    {
+      "id": "listen-pono-ky-s-mokr",
+      "type": "listen",
+      "l1": "Les chaussettes sont mouillées !",
+      "l2": "Ponožky sú mokré!",
+      "choices_l1": [
+        "Cette couleur ne me plaît pas.",
+        "La fontaine est sur la place.",
+        "Au petit-déjeuner je mange un œuf et du pain avec du beurre."
+      ]
+    },
+    {
+      "id": "listen-nos-m-iltovku-v-lete",
+      "type": "listen",
+      "l1": "Je porte une casquette en été.",
+      "l2": "Nosím šiltovku v lete.",
+      "choices_l1": [
+        "Je vais à l'école à pied.",
+        "Où habites-tu ?",
+        "J'habite dans un appartement."
+      ]
+    },
+    {
+      "id": "listen-oble-enie-na-zimu-je-drah",
+      "type": "listen",
+      "l1": "Les vêtements d'hiver sont chers.",
+      "l2": "Oblečenie na zimu je drahé.",
+      "choices_l1": [
+        "Je ne sais pas. Je vais goûter !",
+        "L'eau est bonne.",
+        "Tu veux de l'eau ?"
+      ]
+    },
+    {
+      "id": "order-mus-m-si-obliec-kab-t-je-zima",
+      "type": "order",
+      "l1": "Je dois mettre un manteau. Il fait froid.",
+      "l2": "Musím si obliecť kabát. Je zima.",
+      "tokens_l1": [
+        "Je",
+        "dois",
+        "mettre",
+        "un",
+        "manteau.",
+        "Il",
+        "fait",
+        "froid.",
+        "En",
+        "hiver",
+        "je",
+        "porte",
+        "une",
+        "écharpe",
+        "et",
+        "des",
+        "gants."
+      ],
+      "tokens_l2": [
+        "Musím",
+        "si",
+        "obliecť",
+        "kabát.",
+        "Je",
+        "zima.",
+        "V",
+        "zime",
+        "nosím",
+        "šál",
+        "a",
+        "rukavice."
+      ]
+    },
+    {
+      "id": "order-v-zime-nos-m-l-a-rukavice",
+      "type": "order",
+      "l1": "En hiver je porte une écharpe et des gants.",
+      "l2": "V zime nosím šál a rukavice.",
+      "tokens_l1": [
+        "En",
+        "hiver",
+        "je",
+        "porte",
+        "une",
+        "écharpe",
+        "et",
+        "des",
+        "gants.",
+        "En",
+        "hiver",
+        "il",
+        "fait",
+        "froid,",
+        "alors",
+        "je",
+        "porte",
+        "des",
+        "gants",
+        "et",
+        "une",
+        "écharpe."
+      ],
+      "tokens_l2": [
+        "V",
+        "zime",
+        "nosím",
+        "šál",
+        "a",
+        "rukavice.",
+        "V",
+        "zime",
+        "je",
+        "zima,",
+        "tak",
+        "nosím",
+        "rukavice",
+        "a",
+        "šál."
+      ]
+    },
+    {
+      "id": "order-v-lete-nos-m-slne-n-okuliare",
+      "type": "order",
+      "l1": "En été je porte des lunettes de soleil.",
+      "l2": "V lete nosím slnečné okuliare.",
+      "tokens_l1": [
+        "En",
+        "été",
+        "je",
+        "porte",
+        "des",
+        "lunettes",
+        "de",
+        "soleil.",
+        "Mets",
+        "quelque",
+        "chose",
+        "de",
+        "chaud",
+        "!"
+      ],
+      "tokens_l2": [
+        "V",
+        "lete",
+        "nosím",
+        "slnečné",
+        "okuliare.",
+        "Obliecť",
+        "si",
+        "niečo",
+        "teplé!"
+      ]
+    },
+    {
+      "id": "order-mus-ma-d-dnik-pr",
+      "type": "order",
+      "l1": "Tu dois avoir un parapluie, il pleut.",
+      "l2": "Musíš mať dáždnik, prší.",
+      "tokens_l1": [
+        "Tu",
+        "dois",
+        "avoir",
+        "un",
+        "parapluie,",
+        "il",
+        "pleut.",
+        "Tu",
+        "dois",
+        "avoir",
+        "de",
+        "la",
+        "crème",
+        "solaire,",
+        "le",
+        "soleil",
+        "est",
+        "fort."
+      ],
+      "tokens_l2": [
+        "Musíš",
+        "mať",
+        "dáždnik,",
+        "prší.",
+        "Musíš",
+        "mať",
+        "krém",
+        "na",
+        "opaľovanie,",
+        "slnko",
+        "je",
+        "silné."
+      ]
+    },
+    {
+      "id": "order-o-si-m-m-dnes-obliec",
+      "type": "order",
+      "l1": "Qu'est-ce que je dois mettre aujourd'hui ?",
+      "l2": "Čo si mám dnes obliecť?",
+      "tokens_l1": [
+        "Qu'est-ce",
+        "que",
+        "je",
+        "dois",
+        "mettre",
+        "aujourd'hui",
+        "?",
+        "En",
+        "hiver",
+        "je",
+        "porte",
+        "une",
+        "écharpe",
+        "et",
+        "des",
+        "gants."
+      ],
+      "tokens_l2": [
+        "Čo",
+        "si",
+        "mám",
+        "dnes",
+        "obliecť?",
+        "V",
+        "zime",
+        "nosím",
+        "šál",
+        "a",
+        "rukavice."
+      ]
+    },
+    {
+      "id": "order-mus-me-s-skoro-bude-b-rka",
+      "type": "order",
+      "l1": "Nous devons y aller tôt, il va y avoir un orage.",
+      "l2": "Musíme ísť skoro, bude búrka.",
+      "tokens_l1": [
+        "Nous",
+        "devons",
+        "y",
+        "aller",
+        "tôt,",
+        "il",
+        "va",
+        "y",
+        "avoir",
+        "un",
+        "orage.",
+        "Tu",
+        "dois",
+        "avoir",
+        "de",
+        "la",
+        "crème",
+        "solaire,",
+        "le",
+        "soleil",
+        "est",
+        "fort."
+      ],
+      "tokens_l2": [
+        "Musíme",
+        "ísť",
+        "skoro,",
+        "bude",
+        "búrka.",
+        "Musíš",
+        "mať",
+        "krém",
+        "na",
+        "opaľovanie,",
+        "slnko",
+        "je",
+        "silné."
+      ]
+    },
+    {
+      "id": "order-nemus-nosi-kab-t-je-teplo",
+      "type": "order",
+      "l1": "Tu n'as pas besoin de porter un manteau, il fait chaud.",
+      "l2": "Nemusíš nosiť kabát, je teplo.",
+      "tokens_l1": [
+        "Tu",
+        "n'as",
+        "pas",
+        "besoin",
+        "de",
+        "porter",
+        "un",
+        "manteau,",
+        "il",
+        "fait",
+        "chaud.",
+        "Au",
+        "printemps",
+        "je",
+        "dois",
+        "avoir",
+        "un",
+        "parapluie,",
+        "mais",
+        "pas",
+        "de",
+        "manteau."
+      ],
+      "tokens_l2": [
+        "Nemusíš",
+        "nosiť",
+        "kabát,",
+        "je",
+        "teplo.",
+        "Na",
+        "jar",
+        "musím",
+        "mať",
+        "dáždnik,",
+        "ale",
+        "nie",
+        "kabát."
+      ]
+    },
+    {
+      "id": "order-obliec-si-nie-o-tepl",
+      "type": "order",
+      "l1": "Mets quelque chose de chaud !",
+      "l2": "Obliecť si niečo teplé!",
+      "tokens_l1": [
+        "Mets",
+        "quelque",
+        "chose",
+        "de",
+        "chaud",
+        "!",
+        "Les",
+        "chaussettes",
+        "sont",
+        "mouillées",
+        "!"
+      ],
+      "tokens_l2": [
+        "Obliecť",
+        "si",
+        "niečo",
+        "teplé!",
+        "Ponožky",
+        "sú",
+        "mokré!"
+      ]
+    },
+    {
+      "id": "order-na-jar-mus-m-ma-d-dnik-ale-nie-kab-t",
+      "type": "order",
+      "l1": "Au printemps je dois avoir un parapluie, mais pas de manteau.",
+      "l2": "Na jar musím mať dáždnik, ale nie kabát.",
+      "tokens_l1": [
+        "Au",
+        "printemps",
+        "je",
+        "dois",
+        "avoir",
+        "un",
+        "parapluie,",
+        "mais",
+        "pas",
+        "de",
+        "manteau.",
+        "Tu",
+        "dois",
+        "avoir",
+        "de",
+        "la",
+        "crème",
+        "solaire,",
+        "le",
+        "soleil",
+        "est",
+        "fort."
+      ],
+      "tokens_l2": [
+        "Na",
+        "jar",
+        "musím",
+        "mať",
+        "dáždnik,",
+        "ale",
+        "nie",
+        "kabát.",
+        "Musíš",
+        "mať",
+        "krém",
+        "na",
+        "opaľovanie,",
+        "slnko",
+        "je",
+        "silné."
+      ]
+    },
+    {
+      "id": "order-v-zime-je-zima-tak-nos-m-rukavice-a-l",
+      "type": "order",
+      "l1": "En hiver il fait froid, alors je porte des gants et une écharpe.",
+      "l2": "V zime je zima, tak nosím rukavice a šál.",
+      "tokens_l1": [
+        "En",
+        "hiver",
+        "il",
+        "fait",
+        "froid,",
+        "alors",
+        "je",
+        "porte",
+        "des",
+        "gants",
+        "et",
+        "une",
+        "écharpe.",
+        "Sous",
+        "la",
+        "pluie",
+        "je",
+        "porte",
+        "des",
+        "bottes",
+        "et",
+        "un",
+        "imperméable."
+      ],
+      "tokens_l2": [
+        "V",
+        "zime",
+        "je",
+        "zima,",
+        "tak",
+        "nosím",
+        "rukavice",
+        "a",
+        "šál.",
+        "V",
+        "daždi",
+        "nosím",
+        "čižmy",
+        "a",
+        "plášť",
+        "do",
+        "dažďa."
+      ]
+    },
+    {
+      "id": "order-toto-leto-je-teplej-ie-nemus-m-nosi-sveter",
+      "type": "order",
+      "l1": "Cet été est plus chaud, je n'ai pas besoin de porter un pull.",
+      "l2": "Toto leto je teplejšie, nemusím nosiť sveter.",
+      "tokens_l1": [
+        "Cet",
+        "été",
+        "est",
+        "plus",
+        "chaud,",
+        "je",
+        "n'ai",
+        "pas",
+        "besoin",
+        "de",
+        "porter",
+        "un",
+        "pull.",
+        "Nous",
+        "devons",
+        "y",
+        "aller",
+        "tôt,",
+        "il",
+        "va",
+        "y",
+        "avoir",
+        "un",
+        "orage."
+      ],
+      "tokens_l2": [
+        "Toto",
+        "leto",
+        "je",
+        "teplejšie,",
+        "nemusím",
+        "nosiť",
+        "sveter.",
+        "Musíme",
+        "ísť",
+        "skoro,",
+        "bude",
+        "búrka."
+      ]
+    },
+    {
+      "id": "order-v-da-di-nos-m-i-my-a-pl-do-da-a",
+      "type": "order",
+      "l1": "Sous la pluie je porte des bottes et un imperméable.",
+      "l2": "V daždi nosím čižmy a plášť do dažďa.",
+      "tokens_l1": [
+        "Sous",
+        "la",
+        "pluie",
+        "je",
+        "porte",
+        "des",
+        "bottes",
+        "et",
+        "un",
+        "imperméable.",
+        "Je",
+        "dois",
+        "mettre",
+        "un",
+        "manteau.",
+        "Il",
+        "fait",
+        "froid."
+      ],
+      "tokens_l2": [
+        "V",
+        "daždi",
+        "nosím",
+        "čižmy",
+        "a",
+        "plášť",
+        "do",
+        "dažďa.",
+        "Musím",
+        "si",
+        "obliecť",
+        "kabát.",
+        "Je",
+        "zima."
+      ]
+    },
+    {
+      "id": "order-mus-ma-kr-m-na-opa-ovanie-slnko-je-siln",
+      "type": "order",
+      "l1": "Tu dois avoir de la crème solaire, le soleil est fort.",
+      "l2": "Musíš mať krém na opaľovanie, slnko je silné.",
+      "tokens_l1": [
+        "Tu",
+        "dois",
+        "avoir",
+        "de",
+        "la",
+        "crème",
+        "solaire,",
+        "le",
+        "soleil",
+        "est",
+        "fort.",
+        "Les",
+        "vêtements",
+        "d'hiver",
+        "sont",
+        "chers."
+      ],
+      "tokens_l2": [
+        "Musíš",
+        "mať",
+        "krém",
+        "na",
+        "opaľovanie,",
+        "slnko",
+        "je",
+        "silné.",
+        "Oblečenie",
+        "na",
+        "zimu",
+        "je",
+        "drahé."
+      ]
+    },
+    {
+      "id": "order-pono-ky-s-mokr",
+      "type": "order",
+      "l1": "Les chaussettes sont mouillées !",
+      "l2": "Ponožky sú mokré!",
+      "tokens_l1": [
+        "Les",
+        "chaussettes",
+        "sont",
+        "mouillées",
+        "!",
+        "Je",
+        "dois",
+        "mettre",
+        "un",
+        "manteau.",
+        "Il",
+        "fait",
+        "froid."
+      ],
+      "tokens_l2": [
+        "Ponožky",
+        "sú",
+        "mokré!",
+        "Musím",
+        "si",
+        "obliecť",
+        "kabát.",
+        "Je",
+        "zima."
+      ]
+    },
+    {
+      "id": "order-nos-m-iltovku-v-lete",
+      "type": "order",
+      "l1": "Je porte une casquette en été.",
+      "l2": "Nosím šiltovku v lete.",
+      "tokens_l1": [
+        "Je",
+        "porte",
+        "une",
+        "casquette",
+        "en",
+        "été.",
+        "Tu",
+        "dois",
+        "avoir",
+        "de",
+        "la",
+        "crème",
+        "solaire,",
+        "le",
+        "soleil",
+        "est",
+        "fort."
+      ],
+      "tokens_l2": [
+        "Nosím",
+        "šiltovku",
+        "v",
+        "lete.",
+        "Musíš",
+        "mať",
+        "krém",
+        "na",
+        "opaľovanie,",
+        "slnko",
+        "je",
+        "silné."
+      ]
+    },
+    {
+      "id": "order-oble-enie-na-zimu-je-drah",
+      "type": "order",
+      "l1": "Les vêtements d'hiver sont chers.",
+      "l2": "Oblečenie na zimu je drahé.",
+      "tokens_l1": [
+        "Les",
+        "vêtements",
+        "d'hiver",
+        "sont",
+        "chers.",
+        "Cet",
+        "été",
+        "est",
+        "plus",
+        "chaud,",
+        "je",
+        "n'ai",
+        "pas",
+        "besoin",
+        "de",
+        "porter",
+        "un",
+        "pull."
+      ],
+      "tokens_l2": [
+        "Oblečenie",
+        "na",
+        "zimu",
+        "je",
+        "drahé.",
+        "Toto",
+        "leto",
+        "je",
+        "teplejšie,",
+        "nemusím",
+        "nosiť",
+        "sveter."
+      ]
+    },
+    {
+      "id": "match-obliec-si-vocab",
+      "type": "match",
+      "l1": [
+        "mettre, enfiler",
+        "le manteau",
+        "l'écharpe",
+        "les gants"
+      ],
+      "l2": [
+        "obliecť si",
+        "kabát",
+        "šál",
+        "rukavice"
+      ]
+    },
+    {
+      "id": "match-mus-m-si-obliec-kab-t-je-zima-sentences",
+      "type": "match",
+      "l1": [
+        "Je dois mettre un manteau. Il fait froid.",
+        "En hiver je porte une écharpe et des gants.",
+        "En été je porte des lunettes de soleil.",
+        "Tu dois avoir un parapluie, il pleut."
+      ],
+      "l2": [
+        "Musím si obliecť kabát. Je zima.",
+        "V zime nosím šál a rukavice.",
+        "V lete nosím slnečné okuliare.",
+        "Musíš mať dáždnik, prší."
+      ]
+    }
+  ]
+}

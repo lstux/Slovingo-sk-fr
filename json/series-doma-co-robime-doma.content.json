@@ -1,0 +1,439 @@
+{
+  "id": "series-doma-co-robime-doma",
+  "category": "series",
+  "subgroup": "doma",
+  "subgroup_label": "Doma",
+  "title": "Série Doma (4/5) — Čo robíme doma",
+  "image": {
+    "src": "img/doma_04_open_air_zuberec_2.jpg",
+    "caption": "Musée de plein air de Zuberec — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Ce qu'on fait dans chaque pièce. Sept verbes du quotidien, et les trois familles de conjugaison au présent."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "variť",
+          "cuisiner"
+        ],
+        [
+          "upratovať",
+          "ranger"
+        ],
+        [
+          "spať",
+          "dormir"
+        ],
+        [
+          "sedieť",
+          "être assis"
+        ],
+        [
+          "umývať",
+          "laver"
+        ],
+        [
+          "otvárať",
+          "ouvrir"
+        ],
+        [
+          "zatvárať",
+          "fermer"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Trois familles au présent"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "umývam, umývaš, umýva",
+          "je lave, tu laves, il lave"
+        ],
+        [
+          "varím, varíš, varí",
+          "je cuisine, tu cuisines, il cuisine"
+        ],
+        [
+          "upratujem, upratuješ, upratuje",
+          "je range, tu ranges, il range"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "La terminaison de l'infinitif annonce la famille : **-ať** donne -ám, **-iť** donne -ím, **-ovať** donne -ujem."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dire non"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "varím → nevarím",
+          "je ne cuisine pas"
+        ],
+        [
+          "spím → nespím",
+          "je ne dors pas"
+        ],
+        [
+          "upratujem → neupratujem",
+          "je ne range pas"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Un simple **ne-** collé devant le verbe. Aucun deuxième mot à placer."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mama varí v kuchyni.",
+      "speaker": null,
+      "natural": "Maman cuisine dans la cuisine.",
+      "literal": [
+        "Mama = maman",
+        "varí = cuisine",
+        "v kuchyni = dans la cuisine"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dieťa spí v spálni.",
+      "speaker": null,
+      "natural": "L'enfant dort dans la chambre.",
+      "literal": [
+        "Dieťa = l'enfant",
+        "spí = dort",
+        "v spálni = dans la chambre"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Sedím na stoličke.",
+      "speaker": null,
+      "natural": "Je suis assis sur la chaise.",
+      "literal": [
+        "Sedím = je suis assis",
+        "na stoličke = sur la chaise"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Umývam tanier.",
+      "speaker": null,
+      "natural": "Je lave l'assiette.",
+      "literal": [
+        "Umývam = je lave",
+        "tanier = l'assiette"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Otváram okno.",
+      "speaker": null,
+      "natural": "J'ouvre la fenêtre.",
+      "literal": [
+        "Otváram = j'ouvre",
+        "okno = la fenêtre"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Zatváram dvere.",
+      "speaker": null,
+      "natural": "Je ferme la porte.",
+      "literal": [
+        "Zatváram = je ferme",
+        "dvere = la porte"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Upratujem izbu.",
+      "speaker": null,
+      "natural": "Je range la pièce.",
+      "literal": [
+        "Upratujem = je range",
+        "izbu = la pièce"
+      ],
+      "notes": [
+        "izba devient izbu : le féminin en -a passe à -u quand il est l'objet de l'action."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nevarím. Nemám čas.",
+      "speaker": null,
+      "natural": "Je ne cuisine pas. Je n'ai pas le temps.",
+      "literal": [
+        "Nevarím = je ne cuisine pas",
+        "Nemám = je n'ai pas",
+        "čas = de temps"
+      ],
+      "notes": [
+        "« čas » signifie le temps. Retiens l'expression « nemám čas » telle quelle, elle sert tous les jours."
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Otec sedí na gauči a pozerá televízor.",
+      "speaker": null,
+      "natural": "Papa est assis sur le canapé et regarde la télévision.",
+      "literal": [
+        "Otec = papa",
+        "sedí = est assis",
+        "na gauči = sur le canapé",
+        "a = et",
+        "pozerá = regarde",
+        "televízor = la télévision"
+      ],
+      "notes": [
+        "« pozerať » veut dire regarder. On le retrouve dans le vocabulaire complémentaire."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Upratujem obývačku a kuchyňu.",
+      "speaker": null,
+      "natural": "Je range le salon et la cuisine.",
+      "literal": [
+        "Upratujem = je range",
+        "obývačku = le salon",
+        "a = et",
+        "kuchyňu = la cuisine"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Hľadám kľúč, ale nie je na stole.",
+      "speaker": null,
+      "natural": "Je cherche la clé, mais elle n'est pas sur la table.",
+      "literal": [
+        "Hľadám = je cherche",
+        "kľúč = la clé",
+        "ale = mais",
+        "nie je = elle n'est pas",
+        "na stole = sur la table"
+      ],
+      "notes": [
+        "Le verbe « byť » fait exception : sa négation est « nie je » en deux mots, pas « neje »."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Umývam poháre a taniere.",
+      "speaker": null,
+      "natural": "Je lave les verres et les assiettes.",
+      "literal": [
+        "Umývam = je lave",
+        "poháre = les verres",
+        "a = et",
+        "taniere = les assiettes"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**L'obed est le vrai repas.** Le déjeuner se prend tôt, souvent entre onze heures et treize heures, et comporte presque toujours une soupe suivie d'un plat. Le dîner, [[večera]], est nettement plus léger — l'inverse des habitudes françaises."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le grand rangement d'avant les fêtes.** [[Upratovanie]] prend des proportions rituelles avant Noël ou Pâques : on lave les fenêtres, on retourne les armoires, et on reçoit une fois que tout brille."
+    },
+    {
+      "type": "paragraph",
+      "text": "**On aère par tous les temps.** Ouvrir grand les fenêtres quelques minutes en plein hiver est une habitude solidement installée. L'air froid entre, l'humidité sort, et personne ne trouve cela étrange."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "pomáhať",
+          "aider"
+        ],
+        [
+          "oddychovať",
+          "se reposer"
+        ],
+        [
+          "pozerať",
+          "regarder"
+        ],
+        [
+          "počúvať",
+          "écouter"
+        ],
+        [
+          "čítať",
+          "lire"
+        ],
+        [
+          "písať",
+          "écrire"
+        ],
+        [
+          "vstávať",
+          "se lever"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čítam knihu v obývačke.",
+      "speaker": null,
+      "natural": "Je lis un livre dans le salon.",
+      "literal": [
+        "Čítam = je lis",
+        "knihu = un livre",
+        "v obývačke = dans le salon"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Počúvam a nepíšem.",
+      "speaker": null,
+      "natural": "J'écoute et je n'écris pas.",
+      "literal": [
+        "Počúvam = j'écoute",
+        "a = et",
+        "nepíšem = je n'écris pas"
+      ],
+      "notes": [
+        "« písať » change de radical au présent : píšem, píšeš, píše."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Vstávam a otváram okno.",
+      "speaker": null,
+      "natural": "Je me lève et j'ouvre la fenêtre.",
+      "literal": [
+        "Vstávam = je me lève",
+        "a = et",
+        "otváram = j'ouvre",
+        "okno = la fenêtre"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Oddychujem na posteli.",
+      "speaker": null,
+      "natural": "Je me repose sur le lit.",
+      "literal": [
+        "Oddychujem = je me repose",
+        "na posteli = sur le lit"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Deti pomáhajú doma.",
+      "speaker": null,
+      "natural": "Les enfants aident à la maison.",
+      "literal": [
+        "Deti = les enfants",
+        "pomáhajú = aident",
+        "doma = à la maison"
+      ],
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,829 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-pes",
+      "type": "qcm",
+      "l1": "chien",
+      "l2": "pes",
+      "choices_l1": [
+        "sac",
+        "les feux",
+        "se calmer"
+      ],
+      "choices_l2": [
+        "desať rokov",
+        "dejepis",
+        "dvanásť"
+      ]
+    },
+    {
+      "id": "qcm-ma-ka",
+      "type": "qcm",
+      "l1": "chat",
+      "l2": "mačka",
+      "choices_l1": [
+        "entendre",
+        "le destin",
+        "nous devons"
+      ],
+      "choices_l2": [
+        "oblečenie",
+        "milý",
+        "skúsenosť"
+      ]
+    },
+    {
+      "id": "qcm-k",
+      "type": "qcm",
+      "l1": "cheval",
+      "l2": "kôň",
+      "choices_l1": [
+        "vieux",
+        "la pharmacie",
+        "combien"
+      ],
+      "choices_l2": [
+        "ôsmy",
+        "Urobím koláč.",
+        "srnka"
+      ]
+    },
+    {
+      "id": "qcm-krava",
+      "type": "qcm",
+      "l1": "vache",
+      "l2": "krava",
+      "choices_l1": [
+        "toilettes",
+        "peau",
+        "grand"
+      ],
+      "choices_l2": [
+        "vrátiť sa",
+        "zostať",
+        "brucho"
+      ]
+    },
+    {
+      "id": "qcm-ovca",
+      "type": "qcm",
+      "l1": "mouton",
+      "l2": "ovca",
+      "choices_l1": [
+        "le vélo",
+        "champignon",
+        "cuisine (activité)"
+      ],
+      "choices_l2": [
+        "pokojný",
+        "divadlo",
+        "v sobotu"
+      ]
+    },
+    {
+      "id": "qcm-koza",
+      "type": "qcm",
+      "l1": "chèvre",
+      "l2": "koza",
+      "choices_l1": [
+        "escaliers",
+        "la faim",
+        "100%"
+      ],
+      "choices_l2": [
+        "ale",
+        "1. máj",
+        "Mám chren."
+      ]
+    },
+    {
+      "id": "qcm-prasa",
+      "type": "qcm",
+      "l1": "cochon",
+      "l2": "prasa",
+      "choices_l1": [
+        "pantalon",
+        "la ceinture",
+        "maçon"
+      ],
+      "choices_l2": [
+        "načas",
+        "tradícia",
+        "tri"
+      ]
+    },
+    {
+      "id": "qcm-sliepka",
+      "type": "qcm",
+      "l1": "poule",
+      "l2": "sliepka",
+      "choices_l1": [
+        "carotte",
+        "à l'heure",
+        "le médecin"
+      ],
+      "choices_l2": [
+        "teplo",
+        "potraviny",
+        "uhorka"
+      ]
+    },
+    {
+      "id": "qcm-medve",
+      "type": "qcm",
+      "l1": "ours",
+      "l2": "medveď",
+      "choices_l1": [
+        "la prévision",
+        "beurre",
+        "tu arrives"
+      ],
+      "choices_l2": [
+        "ja jem",
+        "sedemdesiat",
+        "tradícia"
+      ]
+    },
+    {
+      "id": "qcm-vlk",
+      "type": "qcm",
+      "l1": "loup",
+      "l2": "vlk",
+      "choices_l1": [
+        "vouloir",
+        "septième",
+        "la cave"
+      ],
+      "choices_l2": [
+        "múzeum",
+        "prečo",
+        "jedenásty"
+      ]
+    },
+    {
+      "id": "qcm-l-ka",
+      "type": "qcm",
+      "l1": "renard",
+      "l2": "líška",
+      "choices_l1": [
+        "vy",
+        "la promotion",
+        "ski"
+      ],
+      "choices_l2": [
+        "čierny",
+        "zatvárať",
+        "oni budú"
+      ]
+    },
+    {
+      "id": "qcm-jele",
+      "type": "qcm",
+      "l1": "cerf",
+      "l2": "jeleň",
+      "choices_l1": [
+        "deux euros",
+        "cuisine",
+        "l'imperméable"
+      ],
+      "choices_l2": [
+        "vy jete",
+        "hnev",
+        "päť rokov"
+      ]
+    },
+    {
+      "id": "qcm-zajac",
+      "type": "qcm",
+      "l1": "lièvre",
+      "l2": "zajac",
+      "choices_l1": [
+        "assoiffé",
+        "court(e)",
+        "la manifestation"
+      ],
+      "choices_l2": [
+        "čerstvý",
+        "pas",
+        "dom, byt"
+      ]
+    },
+    {
+      "id": "qcm-veverica",
+      "type": "qcm",
+      "l1": "écureuil",
+      "l2": "veverica",
+      "choices_l1": [
+        "facture, addition",
+        "le serment",
+        "se retrouver"
+      ],
+      "choices_l2": [
+        "smrek",
+        "chladnička",
+        "dlho"
+      ]
+    },
+    {
+      "id": "qcm-je-ko",
+      "type": "qcm",
+      "l1": "hérisson",
+      "l2": "ježko",
+      "choices_l1": [
+        "table",
+        "peau",
+        "médicaments"
+      ],
+      "choices_l2": [
+        "broskyňa",
+        "jedenásť",
+        "prasa"
+      ]
+    },
+    {
+      "id": "qcm-srnka",
+      "type": "qcm",
+      "l1": "chevreuil",
+      "l2": "srnka",
+      "choices_l1": [
+        "fruits",
+        "courageux",
+        "chaque"
+      ],
+      "choices_l2": [
+        "povolenie",
+        "vstup",
+        "desať"
+      ]
+    },
+    {
+      "id": "qcm-vt-k",
+      "type": "qcm",
+      "l1": "oiseau",
+      "l2": "vták",
+      "choices_l1": [
+        "thé",
+        "le raifort",
+        "qui"
+      ],
+      "choices_l2": [
+        "pivo",
+        "chceš",
+        "revolúcia"
+      ]
+    },
+    {
+      "id": "qcm-holub",
+      "type": "qcm",
+      "l1": "pigeon",
+      "l2": "holub",
+      "choices_l1": [
+        "l'État",
+        "la ceinture",
+        "le riz"
+      ],
+      "choices_l2": [
+        "tábor",
+        "nervózny",
+        "Veľkonočná nedeľa"
+      ]
+    },
+    {
+      "id": "qcm-vrana",
+      "type": "qcm",
+      "l1": "corneille",
+      "l2": "vrana",
+      "choices_l1": [
+        "la semaine",
+        "champignon",
+        "changer"
+      ],
+      "choices_l2": [
+        "kapustnica",
+        "úspory",
+        "hora"
+      ]
+    },
+    {
+      "id": "qcm-bocian",
+      "type": "qcm",
+      "l1": "cigogne",
+      "l2": "bocian",
+      "choices_l1": [
+        "numéro",
+        "comprendre",
+        "la fatigue"
+      ],
+      "choices_l2": [
+        "spálňa",
+        "panelák",
+        "veľa"
+      ]
+    },
+    {
+      "id": "qcm-mot",
+      "type": "qcm",
+      "l1": "papillon",
+      "l2": "motýľ",
+      "choices_l1": [
+        "musique",
+        "voisin",
+        "tu seras"
+      ],
+      "choices_l2": [
+        "skúška",
+        "dolina",
+        "reštaurácia"
+      ]
+    },
+    {
+      "id": "qcm-v-ela",
+      "type": "qcm",
+      "l1": "abeille",
+      "l2": "včela",
+      "choices_l1": [
+        "ils",
+        "pleurer",
+        "la manifestation"
+      ],
+      "choices_l2": [
+        "tulipán",
+        "reštaurácia",
+        "máme"
+      ]
+    },
+    {
+      "id": "qcm-pav-k",
+      "type": "qcm",
+      "l1": "araignée",
+      "l2": "pavúk",
+      "choices_l1": [
+        "menu, carte",
+        "pas cher",
+        "15"
+      ],
+      "choices_l2": [
+        "vy robíte",
+        "výlet",
+        "pätnásť"
+      ]
+    },
+    {
+      "id": "qcm-mucha",
+      "type": "qcm",
+      "l1": "mouche",
+      "l2": "mucha",
+      "choices_l1": [
+        "la blague",
+        "vy",
+        "cher"
+      ],
+      "choices_l2": [
+        "dvanásty",
+        "šport",
+        "Robím kávu."
+      ]
+    },
+    {
+      "id": "qcm-zviera",
+      "type": "qcm",
+      "l1": "animal (terme général)",
+      "l2": "zviera",
+      "choices_l1": [
+        "il / elle voit",
+        "J'ai écrit une lettre.",
+        "une voiture rouge (neutre)"
+      ],
+      "choices_l2": [
+        "kôň",
+        "štipľavý",
+        "kraťasy"
+      ]
+    },
+    {
+      "id": "qcm-zoo-zoologick-z-hrada",
+      "type": "qcm",
+      "l1": "zoo",
+      "l2": "zoo / zoologická záhrada",
+      "choices_l1": [
+        "le verre",
+        "le bonnet",
+        "cette semaine"
+      ],
+      "choices_l2": [
+        "oko / oči",
+        "sladký / sladká",
+        "čerstvý / čerstvá"
+      ]
+    },
+    {
+      "id": "qcm-farma",
+      "type": "qcm",
+      "l1": "ferme",
+      "l2": "farma",
+      "choices_l1": [
+        "œil",
+        "pompier",
+        "chaussettes"
+      ],
+      "choices_l2": [
+        "čas",
+        "vitamín",
+        "kancelária"
+      ]
+    },
+    {
+      "id": "qcm-labka",
+      "type": "qcm",
+      "l1": "patte",
+      "l2": "labka",
+      "choices_l1": [
+        "nez",
+        "la maman",
+        "l'arc-en-ciel"
+      ],
+      "choices_l2": [
+        "zajtra bude",
+        "drobné",
+        "doľava"
+      ]
+    },
+    {
+      "id": "qcm-chvost",
+      "type": "qcm",
+      "l1": "queue",
+      "l2": "chvost",
+      "choices_l1": [
+        "le pinceau",
+        "dans l'armoire",
+        "le réfrigérateur"
+      ],
+      "choices_l2": [
+        "sviatok",
+        "naozaj",
+        "tento týždeň"
+      ]
+    },
+    {
+      "id": "qcm-srs",
+      "type": "qcm",
+      "l1": "poil, pelage",
+      "l2": "srsť",
+      "choices_l1": [
+        "le foulard",
+        "attendre",
+        "écureuil"
+      ],
+      "choices_l2": [
+        "tritisíc",
+        "priateľský",
+        "roh"
+      ]
+    },
+    {
+      "id": "blank-m-nejak-zvieratko",
+      "type": "fill-blank",
+      "l1": "Tu as un animal de compagnie ?",
+      "l2": "Máš nejaké zvieratko?",
+      "missing_l1": "de",
+      "missing_l2": "nejaké",
+      "blank_index_l1": 4,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "j'ai",
+        "me",
+        "à"
+      ],
+      "choices_l2": [
+        "moja",
+        "na",
+        "áno"
+      ]
+    },
+    {
+      "id": "blank-m-m-psa-a-dve-ma-ky",
+      "type": "fill-blank",
+      "l1": "J'ai un chien et deux chats.",
+      "l2": "Mám psa a dve mačky.",
+      "missing_l1": "et",
+      "missing_l2": "a",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "que",
+        "ça",
+        "ma"
+      ],
+      "choices_l2": [
+        "bude",
+        "ešte",
+        "potom"
+      ]
+    },
+    {
+      "id": "blank-m-j-pes-sa-vol-rex",
+      "type": "fill-blank",
+      "l1": "Mon chien s'appelle Rex.",
+      "l2": "Môj pes sa volá Rex.",
+      "missing_l1": "s'appelle",
+      "missing_l2": "sa",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "les",
+        "mon",
+        "y"
+      ],
+      "choices_l2": [
+        "to",
+        "ísť",
+        "v"
+      ]
+    },
+    {
+      "id": "blank-boj-m-sa-pav-kov",
+      "type": "fill-blank",
+      "l1": "J'ai peur des araignées.",
+      "l2": "Bojím sa pavúkov.",
+      "missing_l1": "des",
+      "missing_l2": "sa",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "a",
+        "dans",
+        "ma"
+      ],
+      "choices_l2": [
+        "čo",
+        "áno",
+        "veľmi"
+      ]
+    },
+    {
+      "id": "blank-v-zoo-sme-videli-slony-a-irafy",
+      "type": "fill-blank",
+      "l1": "Au zoo nous avons vu des éléphants et des girafes.",
+      "l2": "V zoo sme videli slony a žirafy.",
+      "missing_l1": "et",
+      "missing_l2": "a",
+      "blank_index_l1": 7,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "tu",
+        "ma",
+        "c'est"
+      ],
+      "choices_l2": [
+        "tam",
+        "ako",
+        "na"
+      ]
+    },
+    {
+      "id": "listen-m-nejak-zvieratko",
+      "type": "listen",
+      "l1": "Tu as un animal de compagnie ?",
+      "l2": "Máš nejaké zvieratko?",
+      "choices_l1": [
+        "En montagne il y a un beau silence.",
+        "Quel jour sommes-nous ?",
+        "Et ensuite vous êtes rentrée directement en Slovaquie ?"
+      ]
+    },
+    {
+      "id": "listen-m-m-psa-a-dve-ma-ky",
+      "type": "listen",
+      "l1": "J'ai un chien et deux chats.",
+      "l2": "Mám psa a dve mačky.",
+      "choices_l1": [
+        "Mon mari s'appelle Jozef.",
+        "J'habite dans un immeuble.",
+        "Aujourd'hui il fait frais, demain il fera chaud."
+      ]
+    },
+    {
+      "id": "listen-m-j-pes-sa-vol-rex",
+      "type": "listen",
+      "l1": "Mon chien s'appelle Rex.",
+      "l2": "Môj pes sa volá Rex.",
+      "choices_l1": [
+        "Je vais au parc tous les jours.",
+        "Demain il fera froid, tu dois porter un manteau.",
+        "Ma sœur est à la maison."
+      ]
+    },
+    {
+      "id": "listen-boj-m-sa-pav-kov",
+      "type": "listen",
+      "l1": "J'ai peur des araignées.",
+      "l2": "Bojím sa pavúkov.",
+      "choices_l1": [
+        "Combien de sucre ?",
+        "Nous avons une réservation pour deux lits.",
+        "Je travaille à l'école."
+      ]
+    },
+    {
+      "id": "listen-v-zoo-sme-videli-slony-a-irafy",
+      "type": "listen",
+      "l1": "Au zoo nous avons vu des éléphants et des girafes.",
+      "l2": "V zoo sme videli slony a žirafy.",
+      "choices_l1": [
+        "Le mardi je suis souvent en retard.",
+        "La bryndza est salée.",
+        "Hier la nuit a été longue."
+      ]
+    },
+    {
+      "id": "order-m-nejak-zvieratko",
+      "type": "order",
+      "l1": "Tu as un animal de compagnie ?",
+      "l2": "Máš nejaké zvieratko?",
+      "tokens_l1": [
+        "Tu",
+        "as",
+        "un",
+        "animal",
+        "de",
+        "compagnie",
+        "?",
+        "Mon",
+        "chien",
+        "s'appelle",
+        "Rex."
+      ],
+      "tokens_l2": [
+        "Máš",
+        "nejaké",
+        "zvieratko?",
+        "Môj",
+        "pes",
+        "sa",
+        "volá",
+        "Rex."
+      ]
+    },
+    {
+      "id": "order-m-m-psa-a-dve-ma-ky",
+      "type": "order",
+      "l1": "J'ai un chien et deux chats.",
+      "l2": "Mám psa a dve mačky.",
+      "tokens_l1": [
+        "J'ai",
+        "un",
+        "chien",
+        "et",
+        "deux",
+        "chats.",
+        "J'ai",
+        "peur",
+        "des",
+        "araignées."
+      ],
+      "tokens_l2": [
+        "Mám",
+        "psa",
+        "a",
+        "dve",
+        "mačky.",
+        "Bojím",
+        "sa",
+        "pavúkov."
+      ]
+    },
+    {
+      "id": "order-m-j-pes-sa-vol-rex",
+      "type": "order",
+      "l1": "Mon chien s'appelle Rex.",
+      "l2": "Môj pes sa volá Rex.",
+      "tokens_l1": [
+        "Mon",
+        "chien",
+        "s'appelle",
+        "Rex.",
+        "Au",
+        "zoo",
+        "nous",
+        "avons",
+        "vu",
+        "des",
+        "éléphants",
+        "et",
+        "des",
+        "girafes."
+      ],
+      "tokens_l2": [
+        "Môj",
+        "pes",
+        "sa",
+        "volá",
+        "Rex.",
+        "V",
+        "zoo",
+        "sme",
+        "videli",
+        "slony",
+        "a",
+        "žirafy."
+      ]
+    },
+    {
+      "id": "order-boj-m-sa-pav-kov",
+      "type": "order",
+      "l1": "J'ai peur des araignées.",
+      "l2": "Bojím sa pavúkov.",
+      "tokens_l1": [
+        "J'ai",
+        "peur",
+        "des",
+        "araignées.",
+        "J'ai",
+        "un",
+        "chien",
+        "et",
+        "deux",
+        "chats."
+      ],
+      "tokens_l2": [
+        "Bojím",
+        "sa",
+        "pavúkov.",
+        "Mám",
+        "psa",
+        "a",
+        "dve",
+        "mačky."
+      ]
+    },
+    {
+      "id": "order-v-zoo-sme-videli-slony-a-irafy",
+      "type": "order",
+      "l1": "Au zoo nous avons vu des éléphants et des girafes.",
+      "l2": "V zoo sme videli slony a žirafy.",
+      "tokens_l1": [
+        "Au",
+        "zoo",
+        "nous",
+        "avons",
+        "vu",
+        "des",
+        "éléphants",
+        "et",
+        "des",
+        "girafes.",
+        "Tu",
+        "as",
+        "un",
+        "animal",
+        "de",
+        "compagnie",
+        "?"
+      ],
+      "tokens_l2": [
+        "V",
+        "zoo",
+        "sme",
+        "videli",
+        "slony",
+        "a",
+        "žirafy.",
+        "Máš",
+        "nejaké",
+        "zvieratko?"
+      ]
+    },
+    {
+      "id": "match-pes-vocab",
+      "type": "match",
+      "l1": [
+        "chien",
+        "chat",
+        "cheval",
+        "vache"
+      ],
+      "l2": [
+        "pes",
+        "mačka",
+        "kôň",
+        "krava"
+      ]
+    },
+    {
+      "id": "match-m-nejak-zvieratko-sentences",
+      "type": "match",
+      "l1": [
+        "Tu as un animal de compagnie ?",
+        "J'ai un chien et deux chats.",
+        "Mon chien s'appelle Rex.",
+        "J'ai peur des araignées."
+      ],
+      "l2": [
+        "Máš nejaké zvieratko?",
+        "Mám psa a dve mačky.",
+        "Môj pes sa volá Rex.",
+        "Bojím sa pavúkov."
+      ]
+    }
+  ]
+}

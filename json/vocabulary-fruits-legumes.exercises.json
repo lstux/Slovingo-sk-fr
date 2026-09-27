@@ -1,0 +1,853 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-jablko",
+      "type": "qcm",
+      "l1": "pomme",
+      "l2": "jablko",
+      "choices_l1": [
+        "demain",
+        "hérisson",
+        "riz"
+      ],
+      "choices_l2": [
+        "ty",
+        "náročný",
+        "červené auto"
+      ]
+    },
+    {
+      "id": "qcm-hru-ka",
+      "type": "qcm",
+      "l1": "poire",
+      "l2": "hruška",
+      "choices_l1": [
+        "chaussures",
+        "la révolution",
+        "la kofola"
+      ],
+      "choices_l2": [
+        "kľúč",
+        "dedina",
+        "devätnásť"
+      ]
+    },
+    {
+      "id": "qcm-ban-n",
+      "type": "qcm",
+      "l1": "banane",
+      "l2": "banán",
+      "choices_l1": [
+        "maçon",
+        "aide",
+        "histoire"
+      ],
+      "choices_l2": [
+        "sekunda",
+        "odvaha",
+        "nikdy"
+      ]
+    },
+    {
+      "id": "qcm-pomaran",
+      "type": "qcm",
+      "l1": "orange",
+      "l2": "pomaranč",
+      "choices_l1": [
+        "cartable",
+        "géographie",
+        "salon"
+      ],
+      "choices_l2": [
+        "pätnásty",
+        "ich",
+        "29. august"
+      ]
+    },
+    {
+      "id": "qcm-citr-n",
+      "type": "qcm",
+      "l1": "citron",
+      "l2": "citrón",
+      "choices_l1": [
+        "je veux",
+        "en été",
+        "cinq ans"
+      ],
+      "choices_l2": [
+        "divadlo",
+        "izba, kuchyňa",
+        "prísť"
+      ]
+    },
+    {
+      "id": "qcm-jahoda",
+      "type": "qcm",
+      "l1": "fraise",
+      "l2": "jahoda",
+      "choices_l1": [
+        "bénir",
+        "patient",
+        "l'école"
+      ],
+      "choices_l2": [
+        "tri roky",
+        "koža",
+        "dom, byt"
+      ]
+    },
+    {
+      "id": "qcm-hrozno",
+      "type": "qcm",
+      "l1": "raisin",
+      "l2": "hrozno",
+      "choices_l1": [
+        "gare",
+        "pompier",
+        "nourriture"
+      ],
+      "choices_l2": [
+        "skriňa",
+        "chcete",
+        "my chceme"
+      ]
+    },
+    {
+      "id": "qcm-brosky-a",
+      "type": "qcm",
+      "l1": "pêche",
+      "l2": "broskyňa",
+      "choices_l1": [
+        "chaussures",
+        "mois",
+        "19"
+      ],
+      "choices_l2": [
+        "revolúcia",
+        "obed",
+        "spací vak"
+      ]
+    },
+    {
+      "id": "qcm-zemiak",
+      "type": "qcm",
+      "l1": "pomme de terre",
+      "l2": "zemiak",
+      "choices_l1": [
+        "la tranquillité, le bien-être",
+        "pas cher / pas chère",
+        "Il fait froid."
+      ],
+      "choices_l2": [
+        "rezervácia",
+        "paradajka",
+        "ty máš"
+      ]
+    },
+    {
+      "id": "qcm-paradajka",
+      "type": "qcm",
+      "l1": "tomate",
+      "l2": "paradajka",
+      "choices_l1": [
+        "la réduction",
+        "souvent",
+        "sucre"
+      ],
+      "choices_l2": [
+        "milý",
+        "vy budete",
+        "predpoveď počasia"
+      ]
+    },
+    {
+      "id": "qcm-uhorka",
+      "type": "qcm",
+      "l1": "concombre",
+      "l2": "uhorka",
+      "choices_l1": [
+        "allergie",
+        "le carrefour",
+        "la fille"
+      ],
+      "choices_l2": [
+        "rodina",
+        "les",
+        "teplota"
+      ]
+    },
+    {
+      "id": "qcm-mrkva",
+      "type": "qcm",
+      "l1": "carotte",
+      "l2": "mrkva",
+      "choices_l1": [
+        "urgences",
+        "je",
+        "boulangerie"
+      ],
+      "choices_l2": [
+        "bocian",
+        "meškanie",
+        "desať eur"
+      ]
+    },
+    {
+      "id": "qcm-cibu-a",
+      "type": "qcm",
+      "l1": "oignon",
+      "l2": "cibuľa",
+      "choices_l1": [
+        "grenier",
+        "téléphone",
+        "jeu"
+      ],
+      "choices_l2": [
+        "ruka",
+        "5. júl",
+        "nájsť"
+      ]
+    },
+    {
+      "id": "qcm-cesnak",
+      "type": "qcm",
+      "l1": "ail",
+      "l2": "cesnak",
+      "choices_l1": [
+        "la porte",
+        "trois ans",
+        "l'exposition"
+      ],
+      "choices_l2": [
+        "ty si",
+        "zelený",
+        "ja vidím"
+      ]
+    },
+    {
+      "id": "qcm-paprika",
+      "type": "qcm",
+      "l1": "poivron",
+      "l2": "paprika",
+      "choices_l1": [
+        "fille",
+        "anglais",
+        "toit"
+      ],
+      "choices_l2": [
+        "variť",
+        "my prídeme",
+        "veselý"
+      ]
+    },
+    {
+      "id": "qcm-al-t",
+      "type": "qcm",
+      "l1": "salade",
+      "l2": "šalát",
+      "choices_l1": [
+        "plage",
+        "table",
+        "difficile, lourd(e)"
+      ],
+      "choices_l2": [
+        "vrátiť sa",
+        "oddiel",
+        "leto"
+      ]
+    },
+    {
+      "id": "qcm-ovocie",
+      "type": "qcm",
+      "l1": "fruits (terme général)",
+      "l2": "ovocie",
+      "choices_l1": [
+        "pouvoir (possibilité, permission générale)",
+        "son / sa / ses (à elle)",
+        "ils/elles ont été"
+      ],
+      "choices_l2": [
+        "siedmy",
+        "šiltovka",
+        "vy robíte"
+      ]
+    },
+    {
+      "id": "qcm-zelenina",
+      "type": "qcm",
+      "l1": "légumes (terme général)",
+      "l2": "zelenina",
+      "choices_l1": [
+        "ah (je comprends)",
+        "Je cherche le livre.",
+        "neuf / neuve"
+      ],
+      "choices_l2": [
+        "počítač",
+        "červený svetr",
+        "susedka"
+      ]
+    },
+    {
+      "id": "qcm-upka",
+      "type": "qcm",
+      "l1": "peau, épluchure",
+      "l2": "šupka",
+      "choices_l1": [
+        "tristesse",
+        "fan, supporter",
+        "demander"
+      ],
+      "choices_l2": [
+        "výrobok",
+        "koleno",
+        "múzeum"
+      ]
+    },
+    {
+      "id": "qcm-jadierko",
+      "type": "qcm",
+      "l1": "pépin",
+      "l2": "jadierko",
+      "choices_l1": [
+        "cou",
+        "armoire",
+        "mathématiques"
+      ],
+      "choices_l2": [
+        "vlasy",
+        "spiatočný lístok",
+        "chutný"
+      ]
+    },
+    {
+      "id": "qcm-zrel-zrel",
+      "type": "qcm",
+      "l1": "mûr(e)",
+      "l2": "zrelý / zrelá",
+      "choices_l1": [
+        "numéro",
+        "encore",
+        "l'herbe"
+      ],
+      "choices_l2": [
+        "náš / naša / naše",
+        "tri štvrtiny zľavy",
+        "rameno / plece"
+      ]
+    },
+    {
+      "id": "qcm-kysl-kysl",
+      "type": "qcm",
+      "l1": "acide, pas mûr",
+      "l2": "kyslý / kyslá",
+      "choices_l1": [
+        "l'autorisation, le permis",
+        "ils / elles font",
+        "Ça me plaît."
+      ],
+      "choices_l2": [
+        "starý / stará",
+        "tri štvrtiny hodiny",
+        "on / ona ide"
+      ]
+    },
+    {
+      "id": "blank-m-m-r-d-jablk",
+      "type": "fill-blank",
+      "l1": "J'aime les pommes.",
+      "l2": "Mám rád jablká.",
+      "missing_l1": "les",
+      "missing_l2": "rád",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "du",
+        "heures",
+        "sur"
+      ],
+      "choices_l2": [
+        "chcem",
+        "tam",
+        "bude"
+      ]
+    },
+    {
+      "id": "blank-m-m-rada-mrkvu",
+      "type": "fill-blank",
+      "l1": "J'aime les carottes.",
+      "l2": "Mám rada mrkvu.",
+      "missing_l1": "les",
+      "missing_l2": "rada",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "à",
+        "vous",
+        "et"
+      ],
+      "choices_l2": [
+        "aj",
+        "sa",
+        "idem"
+      ]
+    },
+    {
+      "id": "blank-nem-m-r-d-cibu-u",
+      "type": "fill-blank",
+      "l1": "Je n'aime pas l'oignon.",
+      "l2": "Nemám rád cibuľu.",
+      "missing_l1": "pas",
+      "missing_l2": "rád",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "ne",
+        "sur",
+        "sont"
+      ],
+      "choices_l2": [
+        "si",
+        "kde",
+        "čo"
+      ]
+    },
+    {
+      "id": "blank-k-pil-som-kilo-jab-k",
+      "type": "fill-blank",
+      "l1": "J'ai acheté un kilo de pommes.",
+      "l2": "Kúpil som kilo jabĺk.",
+      "missing_l1": "de",
+      "missing_l2": "som",
+      "blank_index_l1": 4,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "nous",
+        "les",
+        "ne"
+      ],
+      "choices_l2": [
+        "bolo",
+        "sú",
+        "ešte"
+      ]
+    },
+    {
+      "id": "blank-ko-ko-stoja-tieto-paradajky",
+      "type": "fill-blank",
+      "l1": "Combien coûtent ces tomates ?",
+      "l2": "Koľko stoja tieto paradajky?",
+      "missing_l1": "ces",
+      "missing_l2": "tieto",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "une",
+        "c'est",
+        "mais"
+      ],
+      "choices_l2": [
+        "má",
+        "na",
+        "aj"
+      ]
+    },
+    {
+      "id": "blank-dajte-mi-pros-m-pol-kila-hru-iek",
+      "type": "fill-blank",
+      "l1": "Donnez-moi s'il vous plaît un demi-kilo de poires.",
+      "l2": "Dajte mi prosím pol kila hrušiek.",
+      "missing_l1": "de",
+      "missing_l2": "mi",
+      "blank_index_l1": 6,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "fait",
+        "dans",
+        "suis"
+      ],
+      "choices_l2": [
+        "deti",
+        "ako",
+        "ísť"
+      ]
+    },
+    {
+      "id": "blank-s-tieto-zemiaky-erstv",
+      "type": "fill-blank",
+      "l1": "Ces pommes de terre sont-elles fraîches ?",
+      "l2": "Sú tieto zemiaky čerstvé?",
+      "missing_l1": "de",
+      "missing_l2": "tieto",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "ma",
+        "du",
+        "ça"
+      ],
+      "choices_l2": [
+        "aj",
+        "chcem",
+        "koľko"
+      ]
+    },
+    {
+      "id": "blank-toto-ovocie-e-te-nie-je-zrel",
+      "type": "fill-blank",
+      "l1": "Ce fruit n'est pas encore mûr.",
+      "l2": "Toto ovocie ešte nie je zrelé.",
+      "missing_l1": "pas",
+      "missing_l2": "je",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "cette",
+        "ne",
+        "une"
+      ],
+      "choices_l2": [
+        "ešte",
+        "dnes",
+        "sme"
+      ]
+    },
+    {
+      "id": "listen-m-m-r-d-jablk",
+      "type": "listen",
+      "l1": "J'aime les pommes.",
+      "l2": "Mám rád jablká.",
+      "choices_l1": [
+        "J'ai soif, tu prends un verre d'eau avec moi ?",
+        "À l'école on ne faisait d'abord que chuchoter. Les professeurs étaient nerveux, mais n'expliquaient rien.",
+        "Je porte un t-shirt bleu."
+      ]
+    },
+    {
+      "id": "listen-m-m-rada-mrkvu",
+      "type": "listen",
+      "l1": "J'aime les carottes.",
+      "l2": "Mám rada mrkvu.",
+      "choices_l1": [
+        "Je ne le vois nulle part.",
+        "La voiture grise est belle.",
+        "Je n'en suis pas sûr, mais il fera sans doute beau."
+      ]
+    },
+    {
+      "id": "listen-nem-m-r-d-cibu-u",
+      "type": "listen",
+      "l1": "Je n'aime pas l'oignon.",
+      "l2": "Nemám rád cibuľu.",
+      "choices_l1": [
+        "Ai-je le droit de fumer ici ?",
+        "Comme le monde est petit ! Dommage qu'on ne se soit pas rencontrés à l'époque.",
+        "La serviette est dans la salle de bain, sur l'étagère."
+      ]
+    },
+    {
+      "id": "listen-k-pil-som-kilo-jab-k",
+      "type": "listen",
+      "l1": "J'ai acheté un kilo de pommes.",
+      "l2": "Kúpil som kilo jabĺk.",
+      "choices_l1": [
+        "Oui, et aussi une trousse de secours. Nous devons être prêts.",
+        "Nous avons mangé de l'agneau et de la tartinade au fromage.",
+        "C'était le pire jour de ma vie."
+      ]
+    },
+    {
+      "id": "listen-ko-ko-stoja-tieto-paradajky",
+      "type": "listen",
+      "l1": "Combien coûtent ces tomates ?",
+      "l2": "Koľko stoja tieto paradajky?",
+      "choices_l1": [
+        "Je mange du pain.",
+        "Nous prenons un gâteau et un café.",
+        "Je suis né en Allemagne."
+      ]
+    },
+    {
+      "id": "listen-dajte-mi-pros-m-pol-kila-hru-iek",
+      "type": "listen",
+      "l1": "Donnez-moi s'il vous plaît un demi-kilo de poires.",
+      "l2": "Dajte mi prosím pol kila hrušiek.",
+      "choices_l1": [
+        "Les transports en commun sont bons à Bratislava.",
+        "Grand-mère, qu'as-tu fait le samedi saint ?",
+        "J'aime écouter de la musique."
+      ]
+    },
+    {
+      "id": "listen-s-tieto-zemiaky-erstv",
+      "type": "listen",
+      "l1": "Ces pommes de terre sont-elles fraîches ?",
+      "l2": "Sú tieto zemiaky čerstvé?",
+      "choices_l1": [
+        "La paska est sucrée, mais le raifort est piquant.",
+        "Vous l'avez aussi dans une autre couleur ?",
+        "Alors viens tôt !"
+      ]
+    },
+    {
+      "id": "listen-toto-ovocie-e-te-nie-je-zrel",
+      "type": "listen",
+      "l1": "Ce fruit n'est pas encore mûr.",
+      "l2": "Toto ovocie ešte nie je zrelé.",
+      "choices_l1": [
+        "Je travaille dans une banque.",
+        "Mes parents habitent dans une maison.",
+        "Les enfants sont dans le jardin."
+      ]
+    },
+    {
+      "id": "order-m-m-r-d-jablk",
+      "type": "order",
+      "l1": "J'aime les pommes.",
+      "l2": "Mám rád jablká.",
+      "tokens_l1": [
+        "J'aime",
+        "les",
+        "pommes.",
+        "Ces",
+        "pommes",
+        "de",
+        "terre",
+        "sont-elles",
+        "fraîches",
+        "?"
+      ],
+      "tokens_l2": [
+        "Mám",
+        "rád",
+        "jablká.",
+        "Sú",
+        "tieto",
+        "zemiaky",
+        "čerstvé?"
+      ]
+    },
+    {
+      "id": "order-m-m-rada-mrkvu",
+      "type": "order",
+      "l1": "J'aime les carottes.",
+      "l2": "Mám rada mrkvu.",
+      "tokens_l1": [
+        "J'aime",
+        "les",
+        "carottes.",
+        "Donnez-moi",
+        "s'il",
+        "vous",
+        "plaît",
+        "un",
+        "demi-kilo",
+        "de",
+        "poires."
+      ],
+      "tokens_l2": [
+        "Mám",
+        "rada",
+        "mrkvu.",
+        "Dajte",
+        "mi",
+        "prosím",
+        "pol",
+        "kila",
+        "hrušiek."
+      ]
+    },
+    {
+      "id": "order-nem-m-r-d-cibu-u",
+      "type": "order",
+      "l1": "Je n'aime pas l'oignon.",
+      "l2": "Nemám rád cibuľu.",
+      "tokens_l1": [
+        "Je",
+        "n'aime",
+        "pas",
+        "l'oignon.",
+        "J'aime",
+        "les",
+        "pommes."
+      ],
+      "tokens_l2": [
+        "Nemám",
+        "rád",
+        "cibuľu.",
+        "Mám",
+        "rád",
+        "jablká."
+      ]
+    },
+    {
+      "id": "order-k-pil-som-kilo-jab-k",
+      "type": "order",
+      "l1": "J'ai acheté un kilo de pommes.",
+      "l2": "Kúpil som kilo jabĺk.",
+      "tokens_l1": [
+        "J'ai",
+        "acheté",
+        "un",
+        "kilo",
+        "de",
+        "pommes.",
+        "J'aime",
+        "les",
+        "carottes."
+      ],
+      "tokens_l2": [
+        "Kúpil",
+        "som",
+        "kilo",
+        "jabĺk.",
+        "Mám",
+        "rada",
+        "mrkvu."
+      ]
+    },
+    {
+      "id": "order-ko-ko-stoja-tieto-paradajky",
+      "type": "order",
+      "l1": "Combien coûtent ces tomates ?",
+      "l2": "Koľko stoja tieto paradajky?",
+      "tokens_l1": [
+        "Combien",
+        "coûtent",
+        "ces",
+        "tomates",
+        "?",
+        "Je",
+        "n'aime",
+        "pas",
+        "l'oignon."
+      ],
+      "tokens_l2": [
+        "Koľko",
+        "stoja",
+        "tieto",
+        "paradajky?",
+        "Nemám",
+        "rád",
+        "cibuľu."
+      ]
+    },
+    {
+      "id": "order-dajte-mi-pros-m-pol-kila-hru-iek",
+      "type": "order",
+      "l1": "Donnez-moi s'il vous plaît un demi-kilo de poires.",
+      "l2": "Dajte mi prosím pol kila hrušiek.",
+      "tokens_l1": [
+        "Donnez-moi",
+        "s'il",
+        "vous",
+        "plaît",
+        "un",
+        "demi-kilo",
+        "de",
+        "poires.",
+        "J'aime",
+        "les",
+        "carottes."
+      ],
+      "tokens_l2": [
+        "Dajte",
+        "mi",
+        "prosím",
+        "pol",
+        "kila",
+        "hrušiek.",
+        "Mám",
+        "rada",
+        "mrkvu."
+      ]
+    },
+    {
+      "id": "order-s-tieto-zemiaky-erstv",
+      "type": "order",
+      "l1": "Ces pommes de terre sont-elles fraîches ?",
+      "l2": "Sú tieto zemiaky čerstvé?",
+      "tokens_l1": [
+        "Ces",
+        "pommes",
+        "de",
+        "terre",
+        "sont-elles",
+        "fraîches",
+        "?",
+        "J'aime",
+        "les",
+        "carottes."
+      ],
+      "tokens_l2": [
+        "Sú",
+        "tieto",
+        "zemiaky",
+        "čerstvé?",
+        "Mám",
+        "rada",
+        "mrkvu."
+      ]
+    },
+    {
+      "id": "order-toto-ovocie-e-te-nie-je-zrel",
+      "type": "order",
+      "l1": "Ce fruit n'est pas encore mûr.",
+      "l2": "Toto ovocie ešte nie je zrelé.",
+      "tokens_l1": [
+        "Ce",
+        "fruit",
+        "n'est",
+        "pas",
+        "encore",
+        "mûr.",
+        "J'aime",
+        "les",
+        "carottes."
+      ],
+      "tokens_l2": [
+        "Toto",
+        "ovocie",
+        "ešte",
+        "nie",
+        "je",
+        "zrelé.",
+        "Mám",
+        "rada",
+        "mrkvu."
+      ]
+    },
+    {
+      "id": "match-jablko-vocab",
+      "type": "match",
+      "l1": [
+        "pomme",
+        "poire",
+        "banane",
+        "orange"
+      ],
+      "l2": [
+        "jablko",
+        "hruška",
+        "banán",
+        "pomaranč"
+      ]
+    },
+    {
+      "id": "match-m-m-r-d-jablk-sentences",
+      "type": "match",
+      "l1": [
+        "J'aime les pommes.",
+        "J'aime les carottes.",
+        "Je n'aime pas l'oignon.",
+        "J'ai acheté un kilo de pommes."
+      ],
+      "l2": [
+        "Mám rád jablká.",
+        "Mám rada mrkvu.",
+        "Nemám rád cibuľu.",
+        "Kúpil som kilo jabĺk."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "id": "vocabulary-temps-dates-et-heures",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "🕰️ Čas a dátum (Temps et dates)",
+  "image": null,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Les unités de temps"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Secondes, minutes, heures"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "seconde",
+          "sekunda"
+        ],
+        [
+          "minute",
+          "minúta"
+        ],
+        [
+          "heure",
+          "hodina"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Nombre",
+        "Heure",
+        "Minute",
+        "Seconde"
+      ],
+      "rows": [
+        [
+          "1",
+          "[[jedna hodina]]",
+          "[[jedna minúta]]",
+          "[[jedna sekunda]]"
+        ],
+        [
+          "2",
+          "[[dve hodiny]]",
+          "[[dve minúty]]",
+          "[[dve sekundy]]"
+        ],
+        [
+          "3",
+          "[[tri hodiny]]",
+          "[[tri minúty]]",
+          "[[tri sekundy]]"
+        ],
+        [
+          "4",
+          "[[štyri hodiny]]",
+          "[[štyri minúty]]",
+          "[[štyri sekundy]]"
+        ],
+        [
+          "5+",
+          "[[päť hodín]]",
+          "[[päť minút]]",
+          "[[päť sekúnd]]"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Jours, mois, années"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "jour",
+          "deň"
+        ],
+        [
+          "mois",
+          "mesiac"
+        ],
+        [
+          "année",
+          "rok"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Nombre",
+        "Jour",
+        "Mois",
+        "Année"
+      ],
+      "rows": [
+        [
+          "1",
+          "[[jeden deň]]",
+          "[[jeden mesiac]]",
+          "[[jeden rok]]"
+        ],
+        [
+          "2",
+          "[[dva dni]]",
+          "[[dva mesiace]]",
+          "[[dva roky]]"
+        ],
+        [
+          "3",
+          "[[tri dni]]",
+          "[[tri mesiace]]",
+          "[[tri roky]]"
+        ],
+        [
+          "5+",
+          "[[päť dní]]",
+          "[[päť mesiacov]]",
+          "[[päť rokov]]"
+        ]
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Dire l'heure"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Koľko je hodín?",
+      "speaker": null,
+      "natural": "Quelle heure est-il ?",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je jedna hodina.",
+      "speaker": null,
+      "natural": "Il est une heure.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Sú dve hodiny.",
+      "speaker": null,
+      "natural": "Il est deux heures.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je päť hodín.",
+      "speaker": null,
+      "natural": "Il est cinq heures.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Avec les minutes :"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je päť hodín a desať minút.",
+      "speaker": null,
+      "natural": "Il est cinq heures dix.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Les jours de la semaine"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "lundi",
+          "pondelok"
+        ],
+        [
+          "mardi",
+          "utorok"
+        ],
+        [
+          "mercredi",
+          "streda"
+        ],
+        [
+          "jeudi",
+          "štvrtok"
+        ],
+        [
+          "vendredi",
+          "piatok"
+        ],
+        [
+          "samedi",
+          "sobota"
+        ],
+        [
+          "dimanche",
+          "nedeľa"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Les mois de l'année"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "janvier",
+          "január"
+        ],
+        [
+          "février",
+          "február"
+        ],
+        [
+          "mars",
+          "marec"
+        ],
+        [
+          "avril",
+          "apríl"
+        ],
+        [
+          "mai",
+          "máj"
+        ],
+        [
+          "juin",
+          "jún"
+        ],
+        [
+          "juillet",
+          "júl"
+        ],
+        [
+          "août",
+          "august"
+        ],
+        [
+          "septembre",
+          "september"
+        ],
+        [
+          "octobre",
+          "október"
+        ],
+        [
+          "novembre",
+          "november"
+        ],
+        [
+          "décembre",
+          "december"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Les dates"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Aujourd'hui, demain, hier"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "aujourd'hui",
+          "dnes"
+        ],
+        [
+          "demain",
+          "zajtra"
+        ],
+        [
+          "hier",
+          "včera"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cette semaine, ce mois, cette année"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "cette semaine",
+          "tento týždeň"
+        ],
+        [
+          "ce mois",
+          "tento mesiac"
+        ],
+        [
+          "cette année",
+          "tento rok"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Année dernière / prochaine"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "l'année dernière",
+          "minulý rok"
+        ],
+        [
+          "l'année prochaine",
+          "budúci rok"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. Dire une date et parler de son anniversaire"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Demander une date de naissance"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kedy ste sa narodili?",
+      "speaker": null,
+      "natural": "Quand êtes-vous né(e) ?",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Narodil som sa v roku 1983.",
+      "speaker": null,
+      "natural": "Je suis né en 1983.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Demander la date d'anniversaire"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kedy máte narodeniny?",
+      "speaker": null,
+      "natural": "Quand est votre anniversaire ?",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moje narodeniny sú šiesteho augusta.",
+      "speaker": null,
+      "natural": "Mon anniversaire est le 6 août.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "7. Expressions et façons naturelles de dire l'heure"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Midi et minuit"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "midi",
+          "poludnie"
+        ],
+        [
+          "minuit",
+          "polnoc"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je poludnie.",
+      "speaker": null,
+      "natural": "C'est midi.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je polnoc.",
+      "speaker": null,
+      "natural": "C'est minuit.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Demi-heure et quarts d'heure"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "une demi-heure",
+          "pol hodiny"
+        ],
+        [
+          "un quart d'heure",
+          "štvrť hodiny"
+        ],
+        [
+          "trois quarts d'heure",
+          "trištvrte hodiny"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Dire l'heure avec les demi-heures :"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je pol šiestej.",
+      "speaker": null,
+      "natural": "Il est 5h30.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dire l'heure avec les quarts :"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je štvrť na šesť.",
+      "speaker": null,
+      "natural": "Il est 5h15.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je trištvrte na šesť.",
+      "speaker": null,
+      "natural": "Il est 5h45.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚠️ Pièges pour les francophones"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "1 heure → [[jedna hodina]]",
+        "2, 3, 4 heures → [[hodiny]]",
+        "5 heures et plus → [[hodín]]",
+        "1 minute → [[jedna minúta]]",
+        "2, 3, 4 minutes → [[minúty]]",
+        "5 minutes et plus → [[minút]]",
+        "Les jours et les mois s'écrivent avec une minuscule en slovaque.",
+        "Les demi-heures ne fonctionnent pas comme en français : [[Je pol šiestej]] signifie 5h30, pas 6h30."
+      ]
+    }
+  ]
+}

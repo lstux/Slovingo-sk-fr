@@ -1,0 +1,868 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-kola",
+      "type": "qcm",
+      "l1": "école",
+      "l2": "škola",
+      "choices_l1": [
+        "le trottoir",
+        "le riz",
+        "maison"
+      ],
+      "choices_l2": [
+        "strecha",
+        "moje meno",
+        "injekcia"
+      ]
+    },
+    {
+      "id": "qcm-trieda",
+      "type": "qcm",
+      "l1": "classe",
+      "l2": "trieda",
+      "choices_l1": [
+        "le serment",
+        "25,80 €",
+        "impatient"
+      ],
+      "choices_l2": [
+        "my jeme",
+        "stres",
+        "deň"
+      ]
+    },
+    {
+      "id": "qcm-iak-ia-ka",
+      "type": "qcm",
+      "l1": "élève",
+      "l2": "žiak / žiačka",
+      "choices_l1": [
+        "centième",
+        "premier",
+        "oignon"
+      ],
+      "choices_l2": [
+        "Musím mať vodu.",
+        "lekárnik / lekárnička",
+        "Chodím do práce autobusom."
+      ]
+    },
+    {
+      "id": "qcm-tudent-tudentka",
+      "type": "qcm",
+      "l1": "étudiant(e)",
+      "l2": "študent / študentka",
+      "choices_l1": [
+        "la casquette",
+        "l'indépendance",
+        "nous travaillons"
+      ],
+      "choices_l2": [
+        "on / ona býva",
+        "Nie je to dobré.",
+        "on / ona môže"
+      ]
+    },
+    {
+      "id": "qcm-u-ite-u-ite-ka",
+      "type": "qcm",
+      "l1": "enseignant(e)",
+      "l2": "učiteľ / učiteľka",
+      "choices_l1": [
+        "amour",
+        "le mari",
+        "à l'heure"
+      ],
+      "choices_l2": [
+        "Urobil som koláč.",
+        "milý / milá",
+        "nový / nová"
+      ]
+    },
+    {
+      "id": "qcm-univerzita",
+      "type": "qcm",
+      "l1": "université",
+      "l2": "univerzita",
+      "choices_l1": [
+        "dix euros",
+        "habiter",
+        "my"
+      ],
+      "choices_l2": [
+        "piaty",
+        "nikde",
+        "čakať"
+      ]
+    },
+    {
+      "id": "qcm-sk-ka",
+      "type": "qcm",
+      "l1": "examen",
+      "l2": "skúška",
+      "choices_l1": [
+        "défaite",
+        "fan, supporter",
+        "cousine"
+      ],
+      "choices_l2": [
+        "mesiac",
+        "tretina ceny",
+        "otvárať"
+      ]
+    },
+    {
+      "id": "qcm-zo-it",
+      "type": "qcm",
+      "l1": "cahier",
+      "l2": "zošit",
+      "choices_l1": [
+        "la messe",
+        "élève",
+        "donner"
+      ],
+      "choices_l2": [
+        "ja robím",
+        "politik",
+        "mrkva"
+      ]
+    },
+    {
+      "id": "qcm-kniha",
+      "type": "qcm",
+      "l1": "livre",
+      "l2": "kniha",
+      "choices_l1": [
+        "papier",
+        "pas cher",
+        "une demie-heure"
+      ],
+      "choices_l2": [
+        "bezfarebný",
+        "únava",
+        "revolúcia"
+      ]
+    },
+    {
+      "id": "qcm-pero",
+      "type": "qcm",
+      "l1": "stylo",
+      "l2": "pero",
+      "choices_l1": [
+        "note (scolaire)",
+        "rivière",
+        "ici"
+      ],
+      "choices_l2": [
+        "nikto",
+        "zdravie",
+        "známka"
+      ]
+    },
+    {
+      "id": "qcm-ceruzka",
+      "type": "qcm",
+      "l1": "crayon",
+      "l2": "ceruzka",
+      "choices_l1": [
+        "hier",
+        "3,14",
+        "verre"
+      ],
+      "choices_l2": [
+        "medveď",
+        "trdelník",
+        "cestovať"
+      ]
+    },
+    {
+      "id": "qcm-tabu-a",
+      "type": "qcm",
+      "l1": "tableau",
+      "l2": "tabuľa",
+      "choices_l1": [
+        "comprendre",
+        "elles",
+        "prudemment"
+      ],
+      "choices_l2": [
+        "zákaz",
+        "robíte",
+        "jedna štvrtina"
+      ]
+    },
+    {
+      "id": "qcm-ta-ka",
+      "type": "qcm",
+      "l1": "cartable",
+      "l2": "taška",
+      "choices_l1": [
+        "feu d'artifice",
+        "j'arrive",
+        "tulipe"
+      ],
+      "choices_l2": [
+        "počuť",
+        "my ideme",
+        "navštíviť"
+      ]
+    },
+    {
+      "id": "qcm-rozvrh",
+      "type": "qcm",
+      "l1": "emploi du temps",
+      "l2": "rozvrh",
+      "choices_l1": [
+        "le petit-déjeuner est à sept heures",
+        "le sac à dos",
+        "en effet / parce que"
+      ],
+      "choices_l2": [
+        "tím",
+        "Choď!",
+        "drahota"
+      ]
+    },
+    {
+      "id": "qcm-matematika",
+      "type": "qcm",
+      "l1": "mathématiques",
+      "l2": "matematika",
+      "choices_l1": [
+        "0,5%",
+        "je peux",
+        "entraînement"
+      ],
+      "choices_l2": [
+        "kompas",
+        "dielňa",
+        "Európska únia"
+      ]
+    },
+    {
+      "id": "qcm-sloven-ina",
+      "type": "qcm",
+      "l1": "slovaque (la matière)",
+      "l2": "slovenčina",
+      "choices_l1": [
+        "nuage / nuages",
+        "C'est après le coin.",
+        "ils / elles travaillent"
+      ],
+      "choices_l2": [
+        "klobúk",
+        "dvanásty",
+        "mesto"
+      ]
+    },
+    {
+      "id": "qcm-angli-tina",
+      "type": "qcm",
+      "l1": "anglais",
+      "l2": "angličtina",
+      "choices_l1": [
+        "baskets",
+        "donner",
+        "abeille"
+      ],
+      "choices_l2": [
+        "ohňostroj",
+        "tento mesiac",
+        "pôžička"
+      ]
+    },
+    {
+      "id": "qcm-dejepis",
+      "type": "qcm",
+      "l1": "histoire",
+      "l2": "dejepis",
+      "choices_l1": [
+        "l'herbe",
+        "miroir",
+        "90"
+      ],
+      "choices_l2": [
+        "láska",
+        "mrznúť",
+        "zemiaky"
+      ]
+    },
+    {
+      "id": "qcm-zemepis",
+      "type": "qcm",
+      "l1": "géographie",
+      "l2": "zemepis",
+      "choices_l1": [
+        "l'heure",
+        "vous pouvez",
+        "la canicule"
+      ],
+      "choices_l2": [
+        "alergia",
+        "dvadsať",
+        "euro"
+      ]
+    },
+    {
+      "id": "qcm-biol-gia",
+      "type": "qcm",
+      "l1": "biologie",
+      "l2": "biológia",
+      "choices_l1": [
+        "my",
+        "le chant",
+        "argenté"
+      ],
+      "choices_l2": [
+        "ďalej",
+        "pripravili",
+        "čítanie"
+      ]
+    },
+    {
+      "id": "qcm-telesn-v-chova",
+      "type": "qcm",
+      "l1": "éducation physique",
+      "l2": "telesná výchova",
+      "choices_l1": [
+        "petit",
+        "préparer",
+        "vous pouvez"
+      ],
+      "choices_l2": [
+        "jeden milión",
+        "smer",
+        "moja sestra"
+      ]
+    },
+    {
+      "id": "qcm-dom-ca-loha",
+      "type": "qcm",
+      "l1": "devoir (à la maison)",
+      "l2": "domáca úloha",
+      "choices_l1": [
+        "en effet / parce que",
+        "Puis-je y aller seul ?",
+        "J'écris une lettre."
+      ],
+      "choices_l2": [
+        "líška",
+        "breza",
+        "v kostole"
+      ]
+    },
+    {
+      "id": "qcm-zn-mka",
+      "type": "qcm",
+      "l1": "note (scolaire)",
+      "l2": "známka",
+      "choices_l1": [
+        "gants",
+        "fouetter (symboliquement)",
+        "le ruisseau"
+      ],
+      "choices_l2": [
+        "pripraviť",
+        "istota",
+        "Nemám hlad."
+      ]
+    },
+    {
+      "id": "qcm-pr-zdniny",
+      "type": "qcm",
+      "l1": "vacances (scolaires)",
+      "l2": "prázdniny",
+      "choices_l1": [
+        "visiter",
+        "dépenser",
+        "travail"
+      ],
+      "choices_l2": [
+        "na pošte",
+        "stužka",
+        "27,5 cm"
+      ]
+    },
+    {
+      "id": "qcm-prest-vka",
+      "type": "qcm",
+      "l1": "récréation, pause",
+      "l2": "prestávka",
+      "choices_l1": [
+        "hockey",
+        "ce mois",
+        "la voiture"
+      ],
+      "choices_l2": [
+        "hora",
+        "smäd",
+        "rastlina"
+      ]
+    },
+    {
+      "id": "qcm-riadite-riadite-ka",
+      "type": "qcm",
+      "l1": "directeur / directrice",
+      "l2": "riaditeľ / riaditeľka",
+      "choices_l1": [
+        "le sac à dos",
+        "ils / elles seront",
+        "poste (horaire de travail)"
+      ],
+      "choices_l2": [
+        "krátky → kratší",
+        "znudený / znudená",
+        "rozvedený / rozvedená"
+      ]
+    },
+    {
+      "id": "blank-do-ktorej-triedy-chod",
+      "type": "fill-blank",
+      "l1": "Dans quelle classe es-tu ?",
+      "l2": "Do ktorej triedy chodíš?",
+      "missing_l1": "quelle",
+      "missing_l2": "triedy",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "plus",
+        "heures",
+        "y"
+      ],
+      "choices_l2": [
+        "tam",
+        "na",
+        "do"
+      ]
+    },
+    {
+      "id": "blank-chod-m-do-piatej-triedy",
+      "type": "fill-blank",
+      "l1": "Je suis en cinquième (littéralement : cinquième classe).",
+      "l2": "Chodím do piatej triedy.",
+      "missing_l1": "en",
+      "missing_l2": "do",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "heures",
+        "ça",
+        "à"
+      ],
+      "choices_l2": [
+        "ale",
+        "ako",
+        "kde"
+      ]
+    },
+    {
+      "id": "blank-m-me-dnes-sk-ku-z-matematiky",
+      "type": "fill-blank",
+      "l1": "Nous avons un examen de mathématiques aujourd'hui.",
+      "l2": "Máme dnes skúšku z matematiky.",
+      "missing_l1": "de",
+      "missing_l2": "dnes",
+      "blank_index_l1": 4,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "où",
+        "suis",
+        "une"
+      ],
+      "choices_l2": [
+        "chcem",
+        "potom",
+        "nie"
+      ]
+    },
+    {
+      "id": "blank-mus-m-sa-u-i-na-sk-ku",
+      "type": "fill-blank",
+      "l1": "Je dois étudier pour l'examen.",
+      "l2": "Musím sa učiť na skúšku.",
+      "missing_l1": "pour",
+      "missing_l2": "na",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "il",
+        "sont",
+        "ne"
+      ],
+      "choices_l2": [
+        "sú",
+        "bolo",
+        "si"
+      ]
+    },
+    {
+      "id": "blank-m-m-r-d-dejepis-ale-nie-som-dobr-v-matematike",
+      "type": "fill-blank",
+      "l1": "J'aime l'histoire, mais je ne suis pas bon en mathématiques.",
+      "l2": "Mám rád dejepis, ale nie som dobrý v matematike.",
+      "missing_l1": "je",
+      "missing_l2": "v",
+      "blank_index_l1": 3,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "dans",
+        "pas",
+        "suis"
+      ],
+      "choices_l2": [
+        "ako",
+        "máte",
+        "čo"
+      ]
+    },
+    {
+      "id": "blank-dostal-som-dobr-zn-mku-z-angli-tiny",
+      "type": "fill-blank",
+      "l1": "J'ai eu une bonne note en anglais.",
+      "l2": "Dostal som dobrú známku z angličtiny.",
+      "missing_l1": "en",
+      "missing_l2": "som",
+      "blank_index_l1": 5,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "est",
+        "du",
+        "sur"
+      ],
+      "choices_l2": [
+        "je",
+        "potom",
+        "ste"
+      ]
+    },
+    {
+      "id": "listen-do-ktorej-triedy-chod",
+      "type": "listen",
+      "l1": "Dans quelle classe es-tu ?",
+      "l2": "Do ktorej triedy chodíš?",
+      "choices_l1": [
+        "Puis-je venir avec toi ?",
+        "La banque est à côté de la poste.",
+        "Eric, quand avez-vous le temps ?"
+      ]
+    },
+    {
+      "id": "listen-chod-m-do-piatej-triedy",
+      "type": "listen",
+      "l1": "Je suis en cinquième (littéralement : cinquième classe).",
+      "l2": "Chodím do piatej triedy.",
+      "choices_l1": [
+        "Portez-vous bien / À bientôt !",
+        "Le samedi il y a un marché.",
+        "Mauvaises. Il va pleuvoir toute la journée."
+      ]
+    },
+    {
+      "id": "listen-m-me-dnes-sk-ku-z-matematiky",
+      "type": "listen",
+      "l1": "Nous avons un examen de mathématiques aujourd'hui.",
+      "l2": "Máme dnes skúšku z matematiky.",
+      "choices_l1": [
+        "J'essaie la jupe bleue. Vous avez la taille M ?",
+        "J'ai soif. Tu prends un thé ?",
+        "Nous mangeons des fruits et des légumes."
+      ]
+    },
+    {
+      "id": "listen-mus-m-sa-u-i-na-sk-ku",
+      "type": "listen",
+      "l1": "Je dois étudier pour l'examen.",
+      "l2": "Musím sa učiť na skúšku.",
+      "choices_l1": [
+        "Je vais au travail en bus.",
+        "Où est votre voiture ?",
+        "Nous voulons aller à l'exposition."
+      ]
+    },
+    {
+      "id": "listen-m-m-r-d-dejepis-ale-nie-som-dobr-v-matematike",
+      "type": "listen",
+      "l1": "J'aime l'histoire, mais je ne suis pas bon en mathématiques.",
+      "l2": "Mám rád dejepis, ale nie som dobrý v matematike.",
+      "choices_l1": [
+        "L'agneau était sucré et le raifort était très piquant.",
+        "Grand-mère nous a donné des œufs et du gâteau comme récompense.",
+        "Le poteau indicateur montre l'itinéraire vers le lac."
+      ]
+    },
+    {
+      "id": "listen-dostal-som-dobr-zn-mku-z-angli-tiny",
+      "type": "listen",
+      "l1": "J'ai eu une bonne note en anglais.",
+      "l2": "Dostal som dobrú známku z angličtiny.",
+      "choices_l1": [
+        "Mon frère est très amusant.",
+        "L'enfant dort dans la chambre.",
+        "Ce fruit n'est pas encore mûr."
+      ]
+    },
+    {
+      "id": "order-do-ktorej-triedy-chod",
+      "type": "order",
+      "l1": "Dans quelle classe es-tu ?",
+      "l2": "Do ktorej triedy chodíš?",
+      "tokens_l1": [
+        "Dans",
+        "quelle",
+        "classe",
+        "es-tu",
+        "?",
+        "J'aime",
+        "l'histoire,",
+        "mais",
+        "je",
+        "ne",
+        "suis",
+        "pas",
+        "bon",
+        "en",
+        "mathématiques."
+      ],
+      "tokens_l2": [
+        "Do",
+        "ktorej",
+        "triedy",
+        "chodíš?",
+        "Mám",
+        "rád",
+        "dejepis,",
+        "ale",
+        "nie",
+        "som",
+        "dobrý",
+        "v",
+        "matematike."
+      ]
+    },
+    {
+      "id": "order-chod-m-do-piatej-triedy",
+      "type": "order",
+      "l1": "Je suis en cinquième (littéralement : cinquième classe).",
+      "l2": "Chodím do piatej triedy.",
+      "tokens_l1": [
+        "Je",
+        "suis",
+        "en",
+        "cinquième",
+        "(littéralement",
+        ":",
+        "cinquième",
+        "classe).",
+        "Je",
+        "dois",
+        "étudier",
+        "pour",
+        "l'examen."
+      ],
+      "tokens_l2": [
+        "Chodím",
+        "do",
+        "piatej",
+        "triedy.",
+        "Musím",
+        "sa",
+        "učiť",
+        "na",
+        "skúšku."
+      ]
+    },
+    {
+      "id": "order-m-me-dnes-sk-ku-z-matematiky",
+      "type": "order",
+      "l1": "Nous avons un examen de mathématiques aujourd'hui.",
+      "l2": "Máme dnes skúšku z matematiky.",
+      "tokens_l1": [
+        "Nous",
+        "avons",
+        "un",
+        "examen",
+        "de",
+        "mathématiques",
+        "aujourd'hui.",
+        "J'aime",
+        "l'histoire,",
+        "mais",
+        "je",
+        "ne",
+        "suis",
+        "pas",
+        "bon",
+        "en",
+        "mathématiques."
+      ],
+      "tokens_l2": [
+        "Máme",
+        "dnes",
+        "skúšku",
+        "z",
+        "matematiky.",
+        "Mám",
+        "rád",
+        "dejepis,",
+        "ale",
+        "nie",
+        "som",
+        "dobrý",
+        "v",
+        "matematike."
+      ]
+    },
+    {
+      "id": "order-mus-m-sa-u-i-na-sk-ku",
+      "type": "order",
+      "l1": "Je dois étudier pour l'examen.",
+      "l2": "Musím sa učiť na skúšku.",
+      "tokens_l1": [
+        "Je",
+        "dois",
+        "étudier",
+        "pour",
+        "l'examen.",
+        "J'aime",
+        "l'histoire,",
+        "mais",
+        "je",
+        "ne",
+        "suis",
+        "pas",
+        "bon",
+        "en",
+        "mathématiques."
+      ],
+      "tokens_l2": [
+        "Musím",
+        "sa",
+        "učiť",
+        "na",
+        "skúšku.",
+        "Mám",
+        "rád",
+        "dejepis,",
+        "ale",
+        "nie",
+        "som",
+        "dobrý",
+        "v",
+        "matematike."
+      ]
+    },
+    {
+      "id": "order-m-m-r-d-dejepis-ale-nie-som-dobr-v-matematike",
+      "type": "order",
+      "l1": "J'aime l'histoire, mais je ne suis pas bon en mathématiques.",
+      "l2": "Mám rád dejepis, ale nie som dobrý v matematike.",
+      "tokens_l1": [
+        "J'aime",
+        "l'histoire,",
+        "mais",
+        "je",
+        "ne",
+        "suis",
+        "pas",
+        "bon",
+        "en",
+        "mathématiques.",
+        "Dans",
+        "quelle",
+        "classe",
+        "es-tu",
+        "?"
+      ],
+      "tokens_l2": [
+        "Mám",
+        "rád",
+        "dejepis,",
+        "ale",
+        "nie",
+        "som",
+        "dobrý",
+        "v",
+        "matematike.",
+        "Do",
+        "ktorej",
+        "triedy",
+        "chodíš?"
+      ]
+    },
+    {
+      "id": "order-dostal-som-dobr-zn-mku-z-angli-tiny",
+      "type": "order",
+      "l1": "J'ai eu une bonne note en anglais.",
+      "l2": "Dostal som dobrú známku z angličtiny.",
+      "tokens_l1": [
+        "J'ai",
+        "eu",
+        "une",
+        "bonne",
+        "note",
+        "en",
+        "anglais.",
+        "J'aime",
+        "l'histoire,",
+        "mais",
+        "je",
+        "ne",
+        "suis",
+        "pas",
+        "bon",
+        "en",
+        "mathématiques."
+      ],
+      "tokens_l2": [
+        "Dostal",
+        "som",
+        "dobrú",
+        "známku",
+        "z",
+        "angličtiny.",
+        "Mám",
+        "rád",
+        "dejepis,",
+        "ale",
+        "nie",
+        "som",
+        "dobrý",
+        "v",
+        "matematike."
+      ]
+    },
+    {
+      "id": "match-kola-vocab",
+      "type": "match",
+      "l1": [
+        "école",
+        "classe",
+        "élève",
+        "étudiant(e)"
+      ],
+      "l2": [
+        "škola",
+        "trieda",
+        "žiak / žiačka",
+        "študent / študentka"
+      ]
+    },
+    {
+      "id": "match-do-ktorej-triedy-chod-sentences",
+      "type": "match",
+      "l1": [
+        "Dans quelle classe es-tu ?",
+        "Je suis en cinquième (littéralement : cinquième classe).",
+        "Nous avons un examen de mathématiques aujourd'hui.",
+        "Je dois étudier pour l'examen."
+      ],
+      "l2": [
+        "Do ktorej triedy chodíš?",
+        "Chodím do piatej triedy.",
+        "Máme dnes skúšku z matematiky.",
+        "Musím sa učiť na skúšku."
+      ]
+    }
+  ]
+}

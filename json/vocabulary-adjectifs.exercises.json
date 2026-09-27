@@ -1,0 +1,868 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-ve-k-ve-k",
+      "type": "qcm",
+      "l1": "grand(e)",
+      "l2": "veľký / veľká",
+      "choices_l1": [
+        "salade",
+        "amour",
+        "maladie"
+      ],
+      "choices_l2": [
+        "vystrašený / vystrašená",
+        "pekný / pekná",
+        "jeden / jedna / jedno"
+      ]
+    },
+    {
+      "id": "qcm-mal-mal",
+      "type": "qcm",
+      "l1": "petit(e)",
+      "l2": "malý / malá",
+      "choices_l1": [
+        "étoile",
+        "tôt",
+        "le ruban"
+      ],
+      "choices_l2": [
+        "mesto → v meste",
+        "dva / dve",
+        "Na Zelený štvrtok sme upratovali."
+      ]
+    },
+    {
+      "id": "qcm-dlh-dlh",
+      "type": "qcm",
+      "l1": "long / longue",
+      "l2": "dlhý / dlhá",
+      "choices_l1": [
+        "cool / bien (familier)",
+        "une moitié d'heure (30 min)",
+        "il / elle est"
+      ],
+      "choices_l2": [
+        "čerstvý / čerstvá",
+        "byt → v byte",
+        "Nepáči sa mi to."
+      ]
+    },
+    {
+      "id": "qcm-kr-tky-kr-tka",
+      "type": "qcm",
+      "l1": "court(e)",
+      "l2": "krátky / krátka",
+      "choices_l1": [
+        "métro",
+        "œuf",
+        "patient(e)"
+      ],
+      "choices_l2": [
+        "krátky → kratší",
+        "najhorší / najhoršia / najhoršie",
+        "Musíš si obliecť kabát."
+      ]
+    },
+    {
+      "id": "qcm-vysok-vysok",
+      "type": "qcm",
+      "l1": "haut(e), grand(e) (pour une personne)",
+      "l2": "vysoký / vysoká",
+      "choices_l1": [
+        "2 000 000",
+        "masculin : finale en consonne",
+        "Je leur ai donné des œufs."
+      ],
+      "choices_l2": [
+        "riaditeľ / riaditeľka",
+        "pracovitý / pracovitá",
+        "trištvrte na šesť"
+      ]
+    },
+    {
+      "id": "qcm-n-zky-n-zka",
+      "type": "qcm",
+      "l1": "bas(se), petit(e) (pour une personne)",
+      "l2": "nízky / nízka",
+      "choices_l1": [
+        "Combien ça coûte ?",
+        "leur / leurs",
+        "facile, léger / légère"
+      ],
+      "choices_l2": [
+        "Nie je to dobré.",
+        "Šibal ma sused.",
+        "jeden / jedna / jedno"
+      ]
+    },
+    {
+      "id": "qcm-pekn-pekn",
+      "type": "qcm",
+      "l1": "beau / belle",
+      "l2": "pekný / pekná",
+      "choices_l1": [
+        "œil / yeux",
+        "ils / elles veulent",
+        "Tu y vas à pied (en général) ?"
+      ],
+      "choices_l2": [
+        "okno → v okne",
+        "náš / naša / naše",
+        "Na Bielu sobotu sme piekli."
+      ]
+    },
+    {
+      "id": "qcm-kared-kared",
+      "type": "qcm",
+      "l1": "laid(e)",
+      "l2": "škaredý / škaredá",
+      "choices_l1": [
+        "tu veux",
+        "Noël",
+        "le hasard"
+      ],
+      "choices_l2": [
+        "jeden / jedna / jedno",
+        "Nefarbil som vajíčka.",
+        "Ideš na zastávku?"
+      ]
+    },
+    {
+      "id": "qcm-nov-nov",
+      "type": "qcm",
+      "l1": "neuf / neuve",
+      "l2": "nový / nová",
+      "choices_l1": [
+        "tu as décoré (femme)",
+        "je / moi",
+        "ils/elles ont préparé"
+      ],
+      "choices_l2": [
+        "váš / vaša / vaše",
+        "smutný / smutná",
+        "plášť do dažďa"
+      ]
+    },
+    {
+      "id": "qcm-star-star",
+      "type": "qcm",
+      "l1": "vieux / vieille",
+      "l2": "starý / stará",
+      "choices_l1": [
+        "neutre : finale en -o ou -e",
+        "acide, pas mûr",
+        "Tu prends un café ?"
+      ],
+      "choices_l2": [
+        "To je izba.",
+        "Musím mať vodu.",
+        "stará mama / babka"
+      ]
+    },
+    {
+      "id": "qcm-ist-ist",
+      "type": "qcm",
+      "l1": "propre",
+      "l2": "čistý / čistá",
+      "choices_l1": [
+        "araignée",
+        "le musée",
+        "jardin"
+      ],
+      "choices_l2": [
+        "byt → v byte",
+        "Táto trasa je žltá.",
+        "nahnevaný / nahnevaná"
+      ]
+    },
+    {
+      "id": "qcm-pinav-pinav",
+      "type": "qcm",
+      "l1": "sale",
+      "l2": "špinavý / špinavá",
+      "choices_l1": [
+        "l'été",
+        "amour",
+        "prendre"
+      ],
+      "choices_l2": [
+        "Hovorím trochu po slovensky.",
+        "dom → v dome",
+        "Toto je náročnejšie."
+      ]
+    },
+    {
+      "id": "qcm-mil-mil",
+      "type": "qcm",
+      "l1": "gentil / gentille",
+      "l2": "milý / milá",
+      "choices_l1": [
+        "il / elle peut",
+        "Je suis le balisage rouge.",
+        "copain (petit ami)"
+      ],
+      "choices_l2": [
+        "Je to dobré.",
+        "zlý / zlá",
+        "horší / horšia / horšie"
+      ]
+    },
+    {
+      "id": "qcm-inteligentn-inteligentn",
+      "type": "qcm",
+      "l1": "intelligent(e)",
+      "l2": "inteligentný / inteligentná",
+      "choices_l1": [
+        "vous mangez",
+        "l'église",
+        "le jambon"
+      ],
+      "choices_l2": [
+        "Je to dobré.",
+        "účtovník / účtovníčka",
+        "spím → nespím"
+      ]
+    },
+    {
+      "id": "qcm-leniv-leniv",
+      "type": "qcm",
+      "l1": "paresseux / paresseuse",
+      "l2": "lenivý / lenivá",
+      "choices_l1": [
+        "le dimanche des Rameaux",
+        "son / sa / ses (à elle)",
+        "Je vais à la boulangerie."
+      ],
+      "choices_l2": [
+        "Choď po modrej.",
+        "Poliali ma vodou.",
+        "kyslý / kyslá"
+      ]
+    },
+    {
+      "id": "qcm-pracovit-pracovit",
+      "type": "qcm",
+      "l1": "travailleur / travailleuse",
+      "l2": "pracovitý / pracovitá",
+      "choices_l1": [
+        "1/6 (un sixième)",
+        "le refuge, le chalet",
+        "je ne dors pas"
+      ],
+      "choices_l2": [
+        "pomalý / pomalá",
+        "Idem po červenej značke.",
+        "Dáme si koláč."
+      ]
+    },
+    {
+      "id": "qcm-trpezliv-trpezliv",
+      "type": "qcm",
+      "l1": "patient(e)",
+      "l2": "trpezlivý / trpezlivá",
+      "choices_l1": [
+        "invités",
+        "la chaise",
+        "la kofola"
+      ],
+      "choices_l2": [
+        "tri štvrtiny hodiny",
+        "chlieb je dobrý",
+        "raňajky sú o siedmej"
+      ]
+    },
+    {
+      "id": "qcm-z-bavn-z-bavn",
+      "type": "qcm",
+      "l1": "amusant(e)",
+      "l2": "zábavný / zábavná",
+      "choices_l1": [
+        "douleur",
+        "cheval",
+        "pêche"
+      ],
+      "choices_l2": [
+        "oni / ony",
+        "Je to pred kostolom.",
+        "bude to ťažké"
+      ]
+    },
+    {
+      "id": "qcm-ahk-ahk",
+      "type": "qcm",
+      "l1": "facile, léger / légère",
+      "l2": "ľahký / ľahká",
+      "choices_l1": [
+        "avoir le droit de",
+        "Tu vas à l'arrêt (là, maintenant) ?",
+        "Je vais apprendre le slovaque."
+      ],
+      "choices_l2": [
+        "učiteľ / učiteľka",
+        "dva / dve",
+        "Ak bude slnečno, pôjdeme von."
+      ]
+    },
+    {
+      "id": "qcm-a-k-a-k",
+      "type": "qcm",
+      "l1": "difficile, lourd(e)",
+      "l2": "ťažký / ťažká",
+      "choices_l1": [
+        "pierre",
+        "la cloche",
+        "les feuilles"
+      ],
+      "choices_l2": [
+        "Idem do práce.",
+        "ucho / uši",
+        "bude to ťažké"
+      ]
+    },
+    {
+      "id": "qcm-r-chly-r-chla",
+      "type": "qcm",
+      "l1": "rapide",
+      "l2": "rýchly / rýchla",
+      "choices_l1": [
+        "parents",
+        "mardi",
+        "le retour"
+      ],
+      "choices_l2": [
+        "oni / ony",
+        "malý / malá",
+        "Stojí to päť eur."
+      ]
+    },
+    {
+      "id": "qcm-pomal-pomal",
+      "type": "qcm",
+      "l1": "lent(e)",
+      "l2": "pomalý / pomalá",
+      "choices_l1": [
+        "compte (bancaire)",
+        "la grand-mère",
+        "le soir"
+      ],
+      "choices_l2": [
+        "okno → v okne",
+        "slaný / slaná",
+        "môj / moja / moje"
+      ]
+    },
+    {
+      "id": "qcm-dobr-dobr",
+      "type": "qcm",
+      "l1": "bon(ne)",
+      "l2": "dobrý / dobrá",
+      "choices_l1": [
+        "j'achète",
+        "demain",
+        "voyager"
+      ],
+      "choices_l2": [
+        "lacný / lacná",
+        "práce v domácnosti",
+        "chutný / chutná"
+      ]
+    },
+    {
+      "id": "qcm-zl-zl",
+      "type": "qcm",
+      "l1": "mauvais(e)",
+      "l2": "zlý / zlá",
+      "choices_l1": [
+        "joyeux",
+        "entendre",
+        "19,99 €"
+      ],
+      "choices_l2": [
+        "okno → v okne",
+        "mokrý / mokrá",
+        "zoo / zoologická záhrada"
+      ]
+    },
+    {
+      "id": "blank-ak-je-tvoj-nov-byt",
+      "type": "fill-blank",
+      "l1": "Comment est ton nouvel appartement ?",
+      "l2": "Aký je tvoj nový byt?",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "que",
+        "vous",
+        "veux"
+      ],
+      "choices_l2": [
+        "ísť",
+        "si",
+        "som"
+      ]
+    },
+    {
+      "id": "blank-je-ve-k-a-svetl",
+      "type": "fill-blank",
+      "l1": "Il est grand et lumineux.",
+      "l2": "Je veľký a svetlý.",
+      "missing_l1": "est",
+      "missing_l2": "a",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "il",
+        "mon",
+        "fait"
+      ],
+      "choices_l2": [
+        "bolo",
+        "môj",
+        "som"
+      ]
+    },
+    {
+      "id": "blank-t-diev-ina-je-ve-mi-vysok",
+      "type": "fill-blank",
+      "l1": "Cette fille est très grande.",
+      "l2": "Tá dievčina je veľmi vysoká.",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "des",
+        "tu",
+        "où"
+      ],
+      "choices_l2": [
+        "mám",
+        "bude",
+        "o"
+      ]
+    },
+    {
+      "id": "blank-toto-mesto-je-star-ale-ve-mi-pekn",
+      "type": "fill-blank",
+      "l1": "Cette ville est vieille mais très belle.",
+      "l2": "Toto mesto je staré, ale veľmi pekné.",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "mais",
+        "la",
+        "du"
+      ],
+      "choices_l2": [
+        "deň",
+        "a",
+        "ešte"
+      ]
+    },
+    {
+      "id": "blank-m-j-brat-je-ve-mi-z-bavn",
+      "type": "fill-blank",
+      "l1": "Mon frère est très amusant.",
+      "l2": "Môj brat je veľmi zábavný.",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "pas",
+        "fait",
+        "de"
+      ],
+      "choices_l2": [
+        "mi",
+        "potom",
+        "moja"
+      ]
+    },
+    {
+      "id": "blank-je-trochu-leniv-ale-ve-mi-mil",
+      "type": "fill-blank",
+      "l1": "Elle est un peu paresseuse, mais très gentille.",
+      "l2": "Je trochu lenivá, ale veľmi milá.",
+      "missing_l1": "est",
+      "missing_l2": "ale",
+      "blank_index_l1": 1,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "les",
+        "de",
+        "a"
+      ],
+      "choices_l2": [
+        "na",
+        "je",
+        "deti"
+      ]
+    },
+    {
+      "id": "blank-t-to-loha-je-pr-li-a-k",
+      "type": "fill-blank",
+      "l1": "Cet exercice est trop difficile.",
+      "l2": "Táto úloha je príliš ťažká.",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "j'ai",
+        "la",
+        "où"
+      ],
+      "choices_l2": [
+        "čo",
+        "v",
+        "mám"
+      ]
+    },
+    {
+      "id": "listen-ak-je-tvoj-nov-byt",
+      "type": "listen",
+      "l1": "Comment est ton nouvel appartement ?",
+      "l2": "Aký je tvoj nový byt?",
+      "choices_l1": [
+        "En hiver la nuit est plus longue que le jour.",
+        "Ceci est plus grand que cela.",
+        "La soupe de choucroute est chaude et acide."
+      ]
+    },
+    {
+      "id": "listen-je-ve-k-a-svetl",
+      "type": "listen",
+      "l1": "Il est grand et lumineux.",
+      "l2": "Je veľký a svetlý.",
+      "choices_l1": [
+        "Les deux choses. D'abord la télé, ensuite moi aussi sur la place.",
+        "Je suis assis près de la fenêtre.",
+        "Vous allez payer en espèces ou par carte ?"
+      ]
+    },
+    {
+      "id": "listen-t-diev-ina-je-ve-mi-vysok",
+      "type": "listen",
+      "l1": "Cette fille est très grande.",
+      "l2": "Tá dievčina je veľmi vysoká.",
+      "choices_l1": [
+        "À la gare. J'arrive à l'heure.",
+        "J'aime les carottes.",
+        "Vendredi c'est un jour férié."
+      ]
+    },
+    {
+      "id": "listen-toto-mesto-je-star-ale-ve-mi-pekn",
+      "type": "listen",
+      "l1": "Cette ville est vieille mais très belle.",
+      "l2": "Toto mesto je staré, ale veľmi pekné.",
+      "choices_l1": [
+        "Grand-mère nous a donné des œufs et du gâteau comme récompense.",
+        "Qu'est-ce que tu fais dans la vie ? / Quel est ton métier ?",
+        "J'aime courir dans le parc."
+      ]
+    },
+    {
+      "id": "listen-m-j-brat-je-ve-mi-z-bavn",
+      "type": "listen",
+      "l1": "Mon frère est très amusant.",
+      "l2": "Môj brat je veľmi zábavný.",
+      "choices_l1": [
+        "Je travaille dans le commerce.",
+        "Combien de temps tu as besoin ?",
+        "Je mange du pain."
+      ]
+    },
+    {
+      "id": "listen-je-trochu-leniv-ale-ve-mi-mil",
+      "type": "listen",
+      "l1": "Elle est un peu paresseuse, mais très gentille.",
+      "l2": "Je trochu lenivá, ale veľmi milá.",
+      "choices_l1": [
+        "C'est juste au coin de la rue.",
+        "Ensuite il y avait le rassemblement. Nous devions nous tenir droit, en rang, par groupes.",
+        "Oui, s'il vous plaît. Et fermez la porte."
+      ]
+    },
+    {
+      "id": "listen-t-to-loha-je-pr-li-a-k",
+      "type": "listen",
+      "l1": "Cet exercice est trop difficile.",
+      "l2": "Táto úloha je príliš ťažká.",
+      "choices_l1": [
+        "L'œuf est dans l'assiette.",
+        "J'achète du pain à la boulangerie.",
+        "Tu as un animal de compagnie ?"
+      ]
+    },
+    {
+      "id": "order-ak-je-tvoj-nov-byt",
+      "type": "order",
+      "l1": "Comment est ton nouvel appartement ?",
+      "l2": "Aký je tvoj nový byt?",
+      "tokens_l1": [
+        "Comment",
+        "est",
+        "ton",
+        "nouvel",
+        "appartement",
+        "?",
+        "Il",
+        "est",
+        "grand",
+        "et",
+        "lumineux."
+      ],
+      "tokens_l2": [
+        "Aký",
+        "je",
+        "tvoj",
+        "nový",
+        "byt?",
+        "Je",
+        "veľký",
+        "a",
+        "svetlý."
+      ]
+    },
+    {
+      "id": "order-je-ve-k-a-svetl",
+      "type": "order",
+      "l1": "Il est grand et lumineux.",
+      "l2": "Je veľký a svetlý.",
+      "tokens_l1": [
+        "Il",
+        "est",
+        "grand",
+        "et",
+        "lumineux.",
+        "Cette",
+        "ville",
+        "est",
+        "vieille",
+        "mais",
+        "très",
+        "belle."
+      ],
+      "tokens_l2": [
+        "Je",
+        "veľký",
+        "a",
+        "svetlý.",
+        "Toto",
+        "mesto",
+        "je",
+        "staré,",
+        "ale",
+        "veľmi",
+        "pekné."
+      ]
+    },
+    {
+      "id": "order-t-diev-ina-je-ve-mi-vysok",
+      "type": "order",
+      "l1": "Cette fille est très grande.",
+      "l2": "Tá dievčina je veľmi vysoká.",
+      "tokens_l1": [
+        "Cette",
+        "fille",
+        "est",
+        "très",
+        "grande.",
+        "Elle",
+        "est",
+        "un",
+        "peu",
+        "paresseuse,",
+        "mais",
+        "très",
+        "gentille."
+      ],
+      "tokens_l2": [
+        "Tá",
+        "dievčina",
+        "je",
+        "veľmi",
+        "vysoká.",
+        "Je",
+        "trochu",
+        "lenivá,",
+        "ale",
+        "veľmi",
+        "milá."
+      ]
+    },
+    {
+      "id": "order-toto-mesto-je-star-ale-ve-mi-pekn",
+      "type": "order",
+      "l1": "Cette ville est vieille mais très belle.",
+      "l2": "Toto mesto je staré, ale veľmi pekné.",
+      "tokens_l1": [
+        "Cette",
+        "ville",
+        "est",
+        "vieille",
+        "mais",
+        "très",
+        "belle.",
+        "Comment",
+        "est",
+        "ton",
+        "nouvel",
+        "appartement",
+        "?"
+      ],
+      "tokens_l2": [
+        "Toto",
+        "mesto",
+        "je",
+        "staré,",
+        "ale",
+        "veľmi",
+        "pekné.",
+        "Aký",
+        "je",
+        "tvoj",
+        "nový",
+        "byt?"
+      ]
+    },
+    {
+      "id": "order-m-j-brat-je-ve-mi-z-bavn",
+      "type": "order",
+      "l1": "Mon frère est très amusant.",
+      "l2": "Môj brat je veľmi zábavný.",
+      "tokens_l1": [
+        "Mon",
+        "frère",
+        "est",
+        "très",
+        "amusant.",
+        "Comment",
+        "est",
+        "ton",
+        "nouvel",
+        "appartement",
+        "?"
+      ],
+      "tokens_l2": [
+        "Môj",
+        "brat",
+        "je",
+        "veľmi",
+        "zábavný.",
+        "Aký",
+        "je",
+        "tvoj",
+        "nový",
+        "byt?"
+      ]
+    },
+    {
+      "id": "order-je-trochu-leniv-ale-ve-mi-mil",
+      "type": "order",
+      "l1": "Elle est un peu paresseuse, mais très gentille.",
+      "l2": "Je trochu lenivá, ale veľmi milá.",
+      "tokens_l1": [
+        "Elle",
+        "est",
+        "un",
+        "peu",
+        "paresseuse,",
+        "mais",
+        "très",
+        "gentille.",
+        "Mon",
+        "frère",
+        "est",
+        "très",
+        "amusant."
+      ],
+      "tokens_l2": [
+        "Je",
+        "trochu",
+        "lenivá,",
+        "ale",
+        "veľmi",
+        "milá.",
+        "Môj",
+        "brat",
+        "je",
+        "veľmi",
+        "zábavný."
+      ]
+    },
+    {
+      "id": "order-t-to-loha-je-pr-li-a-k",
+      "type": "order",
+      "l1": "Cet exercice est trop difficile.",
+      "l2": "Táto úloha je príliš ťažká.",
+      "tokens_l1": [
+        "Cet",
+        "exercice",
+        "est",
+        "trop",
+        "difficile.",
+        "Elle",
+        "est",
+        "un",
+        "peu",
+        "paresseuse,",
+        "mais",
+        "très",
+        "gentille."
+      ],
+      "tokens_l2": [
+        "Táto",
+        "úloha",
+        "je",
+        "príliš",
+        "ťažká.",
+        "Je",
+        "trochu",
+        "lenivá,",
+        "ale",
+        "veľmi",
+        "milá."
+      ]
+    },
+    {
+      "id": "match-ve-k-ve-k-vocab",
+      "type": "match",
+      "l1": [
+        "grand(e)",
+        "petit(e)",
+        "long / longue",
+        "court(e)"
+      ],
+      "l2": [
+        "veľký / veľká",
+        "malý / malá",
+        "dlhý / dlhá",
+        "krátky / krátka"
+      ]
+    },
+    {
+      "id": "match-ak-je-tvoj-nov-byt-sentences",
+      "type": "match",
+      "l1": [
+        "Comment est ton nouvel appartement ?",
+        "Il est grand et lumineux.",
+        "Cette fille est très grande.",
+        "Cette ville est vieille mais très belle."
+      ],
+      "l2": [
+        "Aký je tvoj nový byt?",
+        "Je veľký a svetlý.",
+        "Tá dievčina je veľmi vysoká.",
+        "Toto mesto je staré, ale veľmi pekné."
+      ]
+    }
+  ]
+}

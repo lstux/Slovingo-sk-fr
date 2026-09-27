@@ -1,0 +1,135 @@
+{
+  "id": "annex-grammaire-verbes-modaux",
+  "category": "annex",
+  "subgroup": "grammaire",
+  "subgroup_label": "Grammaire",
+  "title": "Grammaire - Les verbes modaux",
+  "image": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Ces verbes sont presque toujours suivis d'un infinitif, comme en français (\"je peux partir\", \"je dois manger\"). Attention : le slovaque distingue deux formes de \"pouvoir\" bien différentes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire essentiel"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "môcť",
+          "pouvoir (possibilité, permission générale)"
+        ],
+        [
+          "musieť",
+          "devoir / falloir"
+        ],
+        [
+          "chcieť",
+          "vouloir"
+        ],
+        [
+          "smieť",
+          "avoir le droit de"
+        ],
+        [
+          "vedieť",
+          "savoir (faire) / pouvoir (capacité)"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Exemples"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môžem ísť domov?",
+      "speaker": null,
+      "natural": "Je peux rentrer à la maison ?",
+      "literal": [
+        "Môžem = je peux",
+        "ísť domov = rentrer à la maison"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Musím sa učiť.",
+      "speaker": null,
+      "natural": "Je dois étudier.",
+      "literal": [
+        "Musím = je dois",
+        "sa učiť = étudier"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem jesť.",
+      "speaker": null,
+      "natural": "Je veux manger.",
+      "literal": [
+        "Chcem = je veux",
+        "jesť = manger"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Smiem tu fajčiť?",
+      "speaker": null,
+      "natural": "Ai-je le droit de fumer ici ?",
+      "literal": [
+        "Smiem = j'ai le droit / je peux (permission)",
+        "tu fajčiť = fumer ici"
+      ],
+      "notes": [
+        "\"Smieť\" exprime précisément une permission (avoir le droit de), alors que \"môcť\" exprime une possibilité plus générale."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Viem plávať.",
+      "speaker": null,
+      "natural": "Je sais nager.",
+      "literal": [
+        "Viem = je sais",
+        "plávať = nager"
+      ],
+      "notes": [
+        "\"Vedieť\" exprime une capacité ou une compétence acquise (savoir faire quelque chose), tandis que \"môcť\" exprime une possibilité liée au contexte (avoir l'occasion, être autorisé). On dirait \"viem plávať\" (je sais nager, une compétence) mais \"môžem ísť plávať\" (je peux aller nager, c'est possible en ce moment)."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Neviem hovoriť po slovensky.",
+      "speaker": null,
+      "natural": "Je ne sais pas parler slovaque.",
+      "literal": [
+        "Neviem = je ne sais pas",
+        "hovoriť po slovensky = parler slovaque"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môžeš mi pomôcť?",
+      "speaker": null,
+      "natural": "Peux-tu m'aider ?",
+      "literal": [
+        "Môžeš = tu peux",
+        "mi pomôcť = m'aider"
+      ],
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "introduction-compter",
+  "category": "introduction",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "🇸🇰 Introduction — Compter en slovaque",
+  "image": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Les nombres reviennent partout : l'âge, l'heure, les prix, les quantités. Tu les croiseras dans presque chaque série. Voici de quoi s'en sortir dès le départ — la liste complète (jusqu'au million !) reste dans la bibliothèque si tu veux tout voir d'un coup."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "1. De 0 à 20"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Číslica",
+        "Slovenčina"
+      ],
+      "rows": [
+        [
+          "0",
+          "nula"
+        ],
+        [
+          "1",
+          "jeden / jedna / jedno"
+        ],
+        [
+          "2",
+          "dva / dve"
+        ],
+        [
+          "3",
+          "tri"
+        ],
+        [
+          "4",
+          "štyri"
+        ],
+        [
+          "5",
+          "päť"
+        ],
+        [
+          "6",
+          "šesť"
+        ],
+        [
+          "7",
+          "sedem"
+        ],
+        [
+          "8",
+          "osem"
+        ],
+        [
+          "9",
+          "deväť"
+        ],
+        [
+          "10",
+          "desať"
+        ],
+        [
+          "11",
+          "jedenásť"
+        ],
+        [
+          "12",
+          "dvanásť"
+        ],
+        [
+          "13",
+          "trinásť"
+        ],
+        [
+          "14",
+          "štrnásť"
+        ],
+        [
+          "15",
+          "pätnásť"
+        ],
+        [
+          "16",
+          "šestnásť"
+        ],
+        [
+          "17",
+          "sedemnásť"
+        ],
+        [
+          "18",
+          "osemnásť"
+        ],
+        [
+          "19",
+          "devätnásť"
+        ],
+        [
+          "20",
+          "dvadsať"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "blockquote",
+      "lines": [
+        "**1 et 2 changent selon le genre** :",
+        "[[jeden muž]] = un homme · [[jedna žena]] = une femme · [[jedno dieťa]] = un enfant",
+        "[[dva muži]] = deux hommes · [[dve ženy]] = deux femmes"
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "2. Au-delà de 20"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les dizaines suivent le même principe :"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Číslo",
+        "Slovenčina"
+      ],
+      "rows": [
+        [
+          "20",
+          "dvadsať"
+        ],
+        [
+          "30",
+          "tridsať"
+        ],
+        [
+          "40",
+          "štyridsať"
+        ],
+        [
+          "50",
+          "päťdesiat"
+        ],
+        [
+          "60",
+          "šesťdesiat"
+        ],
+        [
+          "70",
+          "sedemdesiat"
+        ],
+        [
+          "80",
+          "osemdesiat"
+        ],
+        [
+          "90",
+          "deväťdesiat"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Et pour les nombres entre deux dizaines, on colle simplement dizaine + unité, en un seul mot : [[dvadsaťjeden]] (21), [[štyridsaťdva]] (42)... Rien à apprendre par cœur ici, juste le réflexe d'assembler."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "3. Dans une vraie phrase"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Koľko máš rokov?",
+      "speaker": null,
+      "natural": "Quel âge as-tu ?",
+      "literal": [
+        "Koľko = combien",
+        "máš = tu as",
+        "rokov = d'années"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám tridsať rokov.",
+      "speaker": null,
+      "natural": "J'ai trente ans.",
+      "literal": [
+        "Mám = j'ai",
+        "tridsať = trente",
+        "rokov = ans"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Koľko to stojí?",
+      "speaker": null,
+      "natural": "Combien ça coûte ?",
+      "literal": [
+        "Koľko = combien",
+        "to = ça",
+        "stojí = coûte"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "4. Pour aller plus loin"
+    },
+    {
+      "type": "paragraph",
+      "text": "La table complète des nombres (jusqu'au million) et les nombres ordinaux (premier, deuxième...) sont dans la bibliothèque, à consulter dès que tu as besoin d'un nombre précis."
+    }
+  ]
+}

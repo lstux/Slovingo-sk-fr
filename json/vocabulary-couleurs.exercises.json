@@ -1,0 +1,750 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-erven",
+      "type": "qcm",
+      "l1": "rouge",
+      "l2": "červený",
+      "choices_l1": [
+        "conduire",
+        "lunettes",
+        "champ"
+      ],
+      "choices_l2": [
+        "kofola",
+        "pol",
+        "skoro"
+      ]
+    },
+    {
+      "id": "qcm-modr",
+      "type": "qcm",
+      "l1": "bleu",
+      "l2": "modrý",
+      "choices_l1": [
+        "conduire",
+        "maison",
+        "voisin"
+      ],
+      "choices_l2": [
+        "priateľský",
+        "sveter",
+        "domáca úloha"
+      ]
+    },
+    {
+      "id": "qcm-zelen",
+      "type": "qcm",
+      "l1": "vert",
+      "l2": "zelený",
+      "choices_l1": [
+        "au printemps",
+        "janvier",
+        "rue"
+      ],
+      "choices_l2": [
+        "pohovka",
+        "ráno",
+        "sloboda"
+      ]
+    },
+    {
+      "id": "qcm-lt",
+      "type": "qcm",
+      "l1": "jaune",
+      "l2": "žltý",
+      "choices_l1": [
+        "le panier",
+        "la maman",
+        "fille"
+      ],
+      "choices_l2": [
+        "police",
+        "trdelník",
+        "ulica"
+      ]
+    },
+    {
+      "id": "qcm-oran-ov",
+      "type": "qcm",
+      "l1": "orange",
+      "l2": "oranžový",
+      "choices_l1": [
+        "la montre",
+        "le fromage",
+        "C'est bon."
+      ],
+      "choices_l2": [
+        "vlk",
+        "štát",
+        "dva milióny"
+      ]
+    },
+    {
+      "id": "qcm-fialov",
+      "type": "qcm",
+      "l1": "violet",
+      "l2": "fialový",
+      "choices_l1": [
+        "vous mangez",
+        "la vendeuse",
+        "6"
+      ],
+      "choices_l2": [
+        "nádej",
+        "koza",
+        "aha"
+      ]
+    },
+    {
+      "id": "qcm-ru-ov",
+      "type": "qcm",
+      "l1": "rose",
+      "l2": "ružový",
+      "choices_l1": [
+        "la chanson",
+        "noir",
+        "longtemps"
+      ],
+      "choices_l2": [
+        "včela",
+        "síce",
+        "ovocný strom"
+      ]
+    },
+    {
+      "id": "qcm-hned",
+      "type": "qcm",
+      "l1": "marron",
+      "l2": "hnedý",
+      "choices_l1": [
+        "l'enfant",
+        "déjà",
+        "le garçon"
+      ],
+      "choices_l2": [
+        "pozerať",
+        "večer",
+        "druhý"
+      ]
+    },
+    {
+      "id": "qcm-ierny",
+      "type": "qcm",
+      "l1": "noir",
+      "l2": "čierny",
+      "choices_l1": [
+        "je dois",
+        "le référendum",
+        "miroir"
+      ],
+      "choices_l2": [
+        "metro",
+        "malý",
+        "stupeň"
+      ]
+    },
+    {
+      "id": "qcm-biely",
+      "type": "qcm",
+      "l1": "blanc",
+      "l2": "biely",
+      "choices_l1": [
+        "le déménagement",
+        "le rocher",
+        "17"
+      ],
+      "choices_l2": [
+        "zelenina",
+        "zákaz",
+        "injekcia"
+      ]
+    },
+    {
+      "id": "qcm-siv",
+      "type": "qcm",
+      "l1": "gris",
+      "l2": "sivý",
+      "choices_l1": [
+        "assoiffé",
+        "neige",
+        "la boucherie"
+      ],
+      "choices_l2": [
+        "totiž",
+        "teta",
+        "slza"
+      ]
+    },
+    {
+      "id": "qcm-svetl",
+      "type": "qcm",
+      "l1": "clair",
+      "l2": "svetlý",
+      "choices_l1": [
+        "20",
+        "peinture",
+        "la rue"
+      ],
+      "choices_l2": [
+        "si",
+        "štyri",
+        "jadierko"
+      ]
+    },
+    {
+      "id": "qcm-tmav",
+      "type": "qcm",
+      "l1": "foncé",
+      "l2": "tmavý",
+      "choices_l1": [
+        "ranger",
+        "pont",
+        "pluie"
+      ],
+      "choices_l2": [
+        "šupka",
+        "veľmi",
+        "nos"
+      ]
+    },
+    {
+      "id": "qcm-farba",
+      "type": "qcm",
+      "l1": "couleur",
+      "l2": "farba",
+      "choices_l1": [
+        "nerveux",
+        "aéroport",
+        "ami"
+      ],
+      "choices_l2": [
+        "záchod",
+        "štvrť hodiny",
+        "otvárať"
+      ]
+    },
+    {
+      "id": "qcm-d-ha",
+      "type": "qcm",
+      "l1": "arc-en-ciel",
+      "l2": "dúha",
+      "choices_l1": [
+        "amical",
+        "célébrer",
+        "tu cherches"
+      ],
+      "choices_l2": [
+        "veľmi",
+        "referendum",
+        "ty vidíš"
+      ]
+    },
+    {
+      "id": "qcm-zlat",
+      "type": "qcm",
+      "l1": "doré",
+      "l2": "zlatý",
+      "choices_l1": [
+        "prendre",
+        "l'année",
+        "stupide"
+      ],
+      "choices_l2": [
+        "radosť",
+        "svadba",
+        "prestávka"
+      ]
+    },
+    {
+      "id": "qcm-strieborn",
+      "type": "qcm",
+      "l1": "argenté",
+      "l2": "strieborný",
+      "choices_l1": [
+        "corps",
+        "cigogne",
+        "19"
+      ],
+      "choices_l2": [
+        "vnútri",
+        "ty",
+        "robia"
+      ]
+    },
+    {
+      "id": "qcm-bezfarebn",
+      "type": "qcm",
+      "l1": "incolore",
+      "l2": "bezfarebný",
+      "choices_l1": [
+        "examen",
+        "la boucherie",
+        "la chanson"
+      ],
+      "choices_l2": [
+        "baterka",
+        "drahý",
+        "vstup"
+      ]
+    },
+    {
+      "id": "qcm-farebn",
+      "type": "qcm",
+      "l1": "coloré",
+      "l2": "farebný",
+      "choices_l1": [
+        "l'euro",
+        "carte",
+        "les lunettes"
+      ],
+      "choices_l2": [
+        "na jar",
+        "paska",
+        "vrchol"
+      ]
+    },
+    {
+      "id": "blank-ak-je-to-farba",
+      "type": "fill-blank",
+      "l1": "Quelle est cette couleur ?",
+      "l2": "Aký je to farba?",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "veux",
+        "ma",
+        "et"
+      ],
+      "choices_l2": [
+        "mám",
+        "môj",
+        "a"
+      ]
+    },
+    {
+      "id": "blank-toto-tri-ko-je-modr",
+      "type": "fill-blank",
+      "l1": "Ce t-shirt est bleu.",
+      "l2": "Toto tričko je modré.",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "il",
+        "je",
+        "un"
+      ],
+      "choices_l2": [
+        "nie",
+        "čo",
+        "chcem"
+      ]
+    },
+    {
+      "id": "blank-m-m-iernu-ta-ku",
+      "type": "fill-blank",
+      "l1": "J'ai un sac noir.",
+      "l2": "Mám čiernu tašku.",
+      "missing_l1": "un",
+      "missing_l2": "tašku",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "mon",
+        "pas",
+        "du"
+      ],
+      "choices_l2": [
+        "idem",
+        "ako",
+        "je"
+      ]
+    },
+    {
+      "id": "blank-m-te-to-aj-v-inej-farbe",
+      "type": "fill-blank",
+      "l1": "Vous l'avez aussi dans une autre couleur ?",
+      "l2": "Máte to aj v inej farbe?",
+      "missing_l1": "dans",
+      "missing_l2": "v",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "des",
+        "du",
+        "nous"
+      ],
+      "choices_l2": [
+        "ale",
+        "kde",
+        "potom"
+      ]
+    },
+    {
+      "id": "blank-p-i-sa-mi-t-lt-farba",
+      "type": "fill-blank",
+      "l1": "J'aime cette couleur jaune.",
+      "l2": "Páči sa mi tá žltá farba.",
+      "missing_l1": "cette",
+      "missing_l2": "sa",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "veux",
+        "nous",
+        "mon"
+      ],
+      "choices_l2": [
+        "čo",
+        "veľmi",
+        "to"
+      ]
+    },
+    {
+      "id": "blank-d-ha-m-sedem-farieb",
+      "type": "fill-blank",
+      "l1": "L'arc-en-ciel a sept couleurs.",
+      "l2": "Dúha má sedem farieb.",
+      "missing_l1": "a",
+      "missing_l2": "má",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "le",
+        "fait",
+        "ça"
+      ],
+      "choices_l2": [
+        "bolo",
+        "si",
+        "deň"
+      ]
+    },
+    {
+      "id": "blank-m-m-r-d-farebn-obr-zky",
+      "type": "fill-blank",
+      "l1": "J'aime les images colorées.",
+      "l2": "Mám rád farebné obrázky.",
+      "missing_l1": "les",
+      "missing_l2": "rád",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "un",
+        "du",
+        "vous"
+      ],
+      "choices_l2": [
+        "tam",
+        "deň",
+        "mi"
+      ]
+    },
+    {
+      "id": "listen-ak-je-to-farba",
+      "type": "listen",
+      "l1": "Quelle est cette couleur ?",
+      "l2": "Aký je to farba?",
+      "choices_l1": [
+        "J'ai faim. Je prends une soupe de choucroute et du pain.",
+        "Aujourd'hui c'est jeudi. Il est deux heures et demie.",
+        "L'eau est chaude. J'en veux de la froide."
+      ]
+    },
+    {
+      "id": "listen-toto-tri-ko-je-modr",
+      "type": "listen",
+      "l1": "Ce t-shirt est bleu.",
+      "l2": "Toto tričko je modré.",
+      "choices_l1": [
+        "Jeudi je commence à huit heures.",
+        "Dis-le encore une fois.",
+        "L'itinéraire vers le sommet est long, mais la vue en vaut la peine."
+      ]
+    },
+    {
+      "id": "listen-m-m-iernu-ta-ku",
+      "type": "listen",
+      "l1": "J'ai un sac noir.",
+      "l2": "Mám čiernu tašku.",
+      "choices_l1": [
+        "J'ouvre la fenêtre.",
+        "Quelle couleur veux-tu ?",
+        "Il est trois heures."
+      ]
+    },
+    {
+      "id": "listen-m-te-to-aj-v-inej-farbe",
+      "type": "listen",
+      "l1": "Vous l'avez aussi dans une autre couleur ?",
+      "l2": "Máte to aj v inej farbe?",
+      "choices_l1": [
+        "Quel est ton prénom ?",
+        "J'habite ici, dans une maison. J'ai un jardin.",
+        "Je veux essayer ce tee-shirt."
+      ]
+    },
+    {
+      "id": "listen-p-i-sa-mi-t-lt-farba",
+      "type": "listen",
+      "l1": "J'aime cette couleur jaune.",
+      "l2": "Páči sa mi tá žltá farba.",
+      "choices_l1": [
+        "Ensuite il y a des halušky. Tu aimes la bryndza ?",
+        "J'ai eu une bonne note en anglais.",
+        "Je préfère marcher (aller à pied)."
+      ]
+    },
+    {
+      "id": "listen-d-ha-m-sedem-farieb",
+      "type": "listen",
+      "l1": "L'arc-en-ciel a sept couleurs.",
+      "l2": "Dúha má sedem farieb.",
+      "choices_l1": [
+        "Quelle est la réduction ?",
+        "Nous avons un petit jardin derrière la maison.",
+        "Cet été est plus chaud, je n'ai pas besoin de porter un pull."
+      ]
+    },
+    {
+      "id": "listen-m-m-r-d-farebn-obr-zky",
+      "type": "listen",
+      "l1": "J'aime les images colorées.",
+      "l2": "Mám rád farebné obrázky.",
+      "choices_l1": [
+        "Le train arrive à midi et quart.",
+        "Au bout de quelques jours il était clair que quelque chose changeait vraiment. Même nos parents en parlaient déjà à voix haute.",
+        "Où est ma veste ?"
+      ]
+    },
+    {
+      "id": "order-ak-je-to-farba",
+      "type": "order",
+      "l1": "Quelle est cette couleur ?",
+      "l2": "Aký je to farba?",
+      "tokens_l1": [
+        "Quelle",
+        "est",
+        "cette",
+        "couleur",
+        "?",
+        "J'aime",
+        "les",
+        "images",
+        "colorées."
+      ],
+      "tokens_l2": [
+        "Aký",
+        "je",
+        "to",
+        "farba?",
+        "Mám",
+        "rád",
+        "farebné",
+        "obrázky."
+      ]
+    },
+    {
+      "id": "order-toto-tri-ko-je-modr",
+      "type": "order",
+      "l1": "Ce t-shirt est bleu.",
+      "l2": "Toto tričko je modré.",
+      "tokens_l1": [
+        "Ce",
+        "t-shirt",
+        "est",
+        "bleu.",
+        "L'arc-en-ciel",
+        "a",
+        "sept",
+        "couleurs."
+      ],
+      "tokens_l2": [
+        "Toto",
+        "tričko",
+        "je",
+        "modré.",
+        "Dúha",
+        "má",
+        "sedem",
+        "farieb."
+      ]
+    },
+    {
+      "id": "order-m-m-iernu-ta-ku",
+      "type": "order",
+      "l1": "J'ai un sac noir.",
+      "l2": "Mám čiernu tašku.",
+      "tokens_l1": [
+        "J'ai",
+        "un",
+        "sac",
+        "noir.",
+        "Quelle",
+        "est",
+        "cette",
+        "couleur",
+        "?"
+      ],
+      "tokens_l2": [
+        "Mám",
+        "čiernu",
+        "tašku.",
+        "Aký",
+        "je",
+        "to",
+        "farba?"
+      ]
+    },
+    {
+      "id": "order-m-te-to-aj-v-inej-farbe",
+      "type": "order",
+      "l1": "Vous l'avez aussi dans une autre couleur ?",
+      "l2": "Máte to aj v inej farbe?",
+      "tokens_l1": [
+        "Vous",
+        "l'avez",
+        "aussi",
+        "dans",
+        "une",
+        "autre",
+        "couleur",
+        "?",
+        "J'aime",
+        "les",
+        "images",
+        "colorées."
+      ],
+      "tokens_l2": [
+        "Máte",
+        "to",
+        "aj",
+        "v",
+        "inej",
+        "farbe?",
+        "Mám",
+        "rád",
+        "farebné",
+        "obrázky."
+      ]
+    },
+    {
+      "id": "order-p-i-sa-mi-t-lt-farba",
+      "type": "order",
+      "l1": "J'aime cette couleur jaune.",
+      "l2": "Páči sa mi tá žltá farba.",
+      "tokens_l1": [
+        "J'aime",
+        "cette",
+        "couleur",
+        "jaune.",
+        "J'aime",
+        "les",
+        "images",
+        "colorées."
+      ],
+      "tokens_l2": [
+        "Páči",
+        "sa",
+        "mi",
+        "tá",
+        "žltá",
+        "farba.",
+        "Mám",
+        "rád",
+        "farebné",
+        "obrázky."
+      ]
+    },
+    {
+      "id": "order-d-ha-m-sedem-farieb",
+      "type": "order",
+      "l1": "L'arc-en-ciel a sept couleurs.",
+      "l2": "Dúha má sedem farieb.",
+      "tokens_l1": [
+        "L'arc-en-ciel",
+        "a",
+        "sept",
+        "couleurs.",
+        "J'aime",
+        "les",
+        "images",
+        "colorées."
+      ],
+      "tokens_l2": [
+        "Dúha",
+        "má",
+        "sedem",
+        "farieb.",
+        "Mám",
+        "rád",
+        "farebné",
+        "obrázky."
+      ]
+    },
+    {
+      "id": "order-m-m-r-d-farebn-obr-zky",
+      "type": "order",
+      "l1": "J'aime les images colorées.",
+      "l2": "Mám rád farebné obrázky.",
+      "tokens_l1": [
+        "J'aime",
+        "les",
+        "images",
+        "colorées.",
+        "J'aime",
+        "cette",
+        "couleur",
+        "jaune."
+      ],
+      "tokens_l2": [
+        "Mám",
+        "rád",
+        "farebné",
+        "obrázky.",
+        "Páči",
+        "sa",
+        "mi",
+        "tá",
+        "žltá",
+        "farba."
+      ]
+    },
+    {
+      "id": "match-erven-vocab",
+      "type": "match",
+      "l1": [
+        "rouge",
+        "bleu",
+        "vert",
+        "jaune"
+      ],
+      "l2": [
+        "červený",
+        "modrý",
+        "zelený",
+        "žltý"
+      ]
+    },
+    {
+      "id": "match-ak-je-to-farba-sentences",
+      "type": "match",
+      "l1": [
+        "Quelle est cette couleur ?",
+        "Ce t-shirt est bleu.",
+        "J'ai un sac noir.",
+        "Vous l'avez aussi dans une autre couleur ?"
+      ],
+      "l2": [
+        "Aký je to farba?",
+        "Toto tričko je modré.",
+        "Mám čiernu tašku.",
+        "Máte to aj v inej farbe?"
+      ]
+    }
+  ]
+}

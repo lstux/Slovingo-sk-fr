@@ -1,0 +1,328 @@
+{
+  "id": "series-doma-na-navsteve",
+  "category": "series",
+  "subgroup": "doma",
+  "subgroup_label": "Doma",
+  "title": "Série Doma (5/5) — Na návšteve",
+  "image": {
+    "src": "img/doma_05_kosice.jpg",
+    "caption": "Košice — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Andrea reçoit Eric et Ján dans son appartement. Tout le vocabulaire de la série y passe, dans un échange suivi. Aucun mot nouveau, sauf ceux signalés dans les remarques."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les personnages"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "👩 Andrea, qui reçoit",
+        "👦 Eric, le Français",
+        "🧒 Ján, leur ami"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Eric et Andrea se vouvoient. Eric et Ján se tutoient."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le dialogue"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dobrý deň, Eric. Nech sa páči.",
+      "speaker": "👩",
+      "natural": "Bonjour, Eric. Entrez, je vous en prie.",
+      "literal": [
+        "Dobrý deň = bonjour",
+        "Nech sa páči = je vous en prie"
+      ],
+      "notes": [
+        "« Nech sa páči » sert à inviter à entrer, à s'asseoir ou à se servir. C'est l'expression d'accueil universelle."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ďakujem. Máte pekný byt.",
+      "speaker": "👦",
+      "natural": "Merci. Vous avez un bel appartement.",
+      "literal": [
+        "Ďakujem = merci",
+        "Máte = vous avez",
+        "pekný = bel",
+        "byt = appartement"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je malý. Máme tri izby.",
+      "speaker": "👩",
+      "natural": "Il est petit. Nous avons trois pièces.",
+      "literal": [
+        "Je = il est",
+        "malý = petit",
+        "Máme = nous avons",
+        "tri = trois",
+        "izby = pièces"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kde je kúpeľňa?",
+      "speaker": "🧒",
+      "natural": "Où est la salle de bain ?",
+      "literal": [
+        "Kde = où",
+        "je = est",
+        "kúpeľňa = la salle de bain"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na chodbe. Záchod je tam tiež.",
+      "speaker": "👩",
+      "natural": "Dans le couloir. Les toilettes sont là aussi.",
+      "literal": [
+        "Na chodbe = dans le couloir",
+        "Záchod = les toilettes",
+        "je = est",
+        "tam = là",
+        "tiež = aussi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Papuče sú tu?",
+      "speaker": "👦",
+      "natural": "Les chaussons sont ici ?",
+      "literal": [
+        "Papuče = les chaussons",
+        "sú = sont",
+        "tu = ici"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Áno, nech sa páči. Sadnite si na gauč.",
+      "speaker": "👩",
+      "natural": "Oui, je vous en prie. Asseyez-vous sur le canapé.",
+      "literal": [
+        "Áno = oui",
+        "Sadnite si = asseyez-vous",
+        "na gauč = sur le canapé"
+      ],
+      "notes": [
+        "« Sadnite si » est un impératif de politesse. Retiens la formule telle quelle, on l'entend partout."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čo robíš, Andrea?",
+      "speaker": "🧒",
+      "natural": "Que fais-tu, Andrea ?",
+      "literal": [
+        "Čo = que",
+        "robíš = fais-tu",
+        "Andrea = Andrea"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Varím. Máme obed o dvanástej.",
+      "speaker": "👩",
+      "natural": "Je cuisine. Nous déjeunons à midi.",
+      "literal": [
+        "Varím = je cuisine",
+        "Máme = nous avons",
+        "obed = le déjeuner",
+        "o dvanástej = à midi"
+      ],
+      "notes": [
+        "« obed » est le déjeuner, et « o dvanástej » veut dire à douze heures. Les heures viendront en leur temps."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môžem pomáhať?",
+      "speaker": "👦",
+      "natural": "Puis-je aider ?",
+      "literal": [
+        "Môžem = puis-je",
+        "pomáhať = aider"
+      ],
+      "notes": [
+        "« môcť » signifie pouvoir. « Môžem » suffit pour l'instant."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Áno. Umývajte poháre, prosím.",
+      "speaker": "👩",
+      "natural": "Oui. Lavez les verres, s'il vous plaît.",
+      "literal": [
+        "Umývajte = lavez",
+        "poháre = les verres",
+        "prosím = s'il vous plaît"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "A ja upratujem obývačku!",
+      "speaker": "🧒",
+      "natural": "Et moi je range le salon !",
+      "literal": [
+        "A = et",
+        "ja = moi",
+        "upratujem = je range",
+        "obývačku = le salon"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Taniere sú v skrini, v kuchyni.",
+      "speaker": "👩",
+      "natural": "Les assiettes sont dans l'armoire, dans la cuisine.",
+      "literal": [
+        "Taniere = les assiettes",
+        "sú = sont",
+        "v skrini = dans l'armoire",
+        "v kuchyni = dans la cuisine"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Otváram okno? Je tu teplo.",
+      "speaker": "👦",
+      "natural": "J'ouvre la fenêtre ? Il fait chaud ici.",
+      "literal": [
+        "Otváram = j'ouvre",
+        "okno = la fenêtre",
+        "Je tu teplo = il fait chaud ici"
+      ],
+      "notes": [
+        "« teplo » veut dire chaud. La tournure « je teplo » n'a pas de sujet, exactement comme « il fait chaud »."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Áno, prosím. A zatvárajte dvere.",
+      "speaker": "👩",
+      "natural": "Oui, s'il vous plaît. Et fermez la porte.",
+      "literal": [
+        "Áno = oui",
+        "prosím = s'il vous plaît",
+        "A = et",
+        "zatvárajte = fermez",
+        "dvere = la porte"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**On n'arrive jamais les mains vides.** Une bouteille de vin, un gâteau ou des fleurs pour la maîtresse de maison : c'est attendu, sans être ostentatoire. Les fleurs se donnent en nombre impair, le nombre pair étant réservé aux enterrements."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Nech sa páči est intraduisible.** Selon le contexte, [[Nech sa páči]] veut dire entrez, asseyez-vous, servez-vous, tenez, ou après vous. C'est probablement l'expression la plus utile à connaître pour une première visite."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Refuser à manger ne marche pas.** Dire qu'on n'a pas faim est interprété comme de la politesse, donc comme une invitation à insister. La stratégie qui fonctionne est d'accepter une petite part et de la finir lentement."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ďakujem, bolo to výborné.",
+      "speaker": null,
+      "natural": "Merci, c'était excellent.",
+      "literal": [
+        "Ďakujem = merci",
+        "bolo to = c'était",
+        "výborné = excellent"
+      ],
+      "notes": [
+        "« bolo » est un passé. On l'étudiera ailleurs ; ici, garde l'expression entière."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kde sú moje okuliare?",
+      "speaker": null,
+      "natural": "Où sont mes lunettes ?",
+      "literal": [
+        "Kde = où",
+        "sú = sont",
+        "moje = mes",
+        "okuliare = lunettes"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Náš dom je veľký, ale izby sú malé.",
+      "speaker": null,
+      "natural": "Notre maison est grande, mais les pièces sont petites.",
+      "literal": [
+        "Náš dom = notre maison",
+        "je = est",
+        "veľký = grand",
+        "ale = mais",
+        "izby = les pièces",
+        "sú = sont",
+        "malé = petites"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Hľadám kľúč. Nie je v taške.",
+      "speaker": null,
+      "natural": "Je cherche la clé. Elle n'est pas dans le sac.",
+      "literal": [
+        "Hľadám = je cherche",
+        "kľúč = la clé",
+        "Nie je = elle n'est pas",
+        "v taške = dans le sac"
+      ],
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "id": "series-jedlo-chcem-jest",
+  "category": "series",
+  "subgroup": "jedlo",
+  "subgroup_label": "Jedlo",
+  "title": "Série Jedlo (2/5) — Chcem jesť",
+  "image": {
+    "src": "img/jedlo_02_kofola_glass.jpg",
+    "caption": "Un verre de Kofola — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Dire qu'on a faim, qu'on a soif, et surtout demander ce qu'on veut. Le verbe **chcieť** est irrégulier mais indispensable."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "chcieť",
+          "vouloir"
+        ],
+        [
+          "raňajky",
+          "le petit-déjeuner"
+        ],
+        [
+          "obed",
+          "le déjeuner"
+        ],
+        [
+          "večera",
+          "le dîner"
+        ],
+        [
+          "hlad",
+          "la faim"
+        ],
+        [
+          "smäd",
+          "la soif"
+        ],
+        [
+          "ešte",
+          "encore"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vouloir — chcieť"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "ja chcem",
+          "je veux"
+        ],
+        [
+          "ty chceš",
+          "tu veux"
+        ],
+        [
+          "on / ona chce",
+          "il / elle veut"
+        ],
+        [
+          "my chceme",
+          "nous voulons"
+        ],
+        [
+          "vy chcete",
+          "vous voulez"
+        ],
+        [
+          "oni chcú",
+          "ils / elles veulent"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Avoir faim, avoir soif"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "Mám hlad.",
+          "J'ai faim."
+        ],
+        [
+          "Mám smäd.",
+          "J'ai soif."
+        ],
+        [
+          "Nemám hlad.",
+          "Je n'ai pas faim."
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme en français, on utilise « avoir » et non « être »."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám hlad.",
+      "speaker": null,
+      "natural": "J'ai faim.",
+      "literal": [
+        "Mám = j'ai",
+        "hlad = faim"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem jesť.",
+      "speaker": null,
+      "natural": "Je veux manger.",
+      "literal": [
+        "Chcem = je veux",
+        "jesť = manger"
+      ],
+      "notes": [
+        "Après « chcieť », le second verbe reste à l'infinitif, exactement comme en français."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chceš vodu?",
+      "speaker": null,
+      "natural": "Tu veux de l'eau ?",
+      "literal": [
+        "Chceš = tu veux",
+        "vodu = de l'eau"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám smäd. Chcem mlieko.",
+      "speaker": null,
+      "natural": "J'ai soif. Je veux du lait.",
+      "literal": [
+        "Mám = j'ai",
+        "smäd = soif",
+        "Chcem = je veux",
+        "mlieko = du lait"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Raňajky sú o siedmej.",
+      "speaker": null,
+      "natural": "Le petit-déjeuner est à sept heures.",
+      "literal": [
+        "Raňajky = le petit-déjeuner",
+        "sú = sont",
+        "o siedmej = à sept heures"
+      ],
+      "notes": [
+        "« raňajky » n'existe qu'au pluriel, d'où « sú » et non « je »."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Obed je o dvanástej.",
+      "speaker": null,
+      "natural": "Le déjeuner est à midi.",
+      "literal": [
+        "Obed = le déjeuner",
+        "je = est",
+        "o dvanástej = à douze heures"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Večera je o siedmej.",
+      "speaker": null,
+      "natural": "Le dîner est à sept heures.",
+      "literal": [
+        "Večera = le dîner",
+        "je = est",
+        "o siedmej = à sept heures"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chceš ešte polievku?",
+      "speaker": null,
+      "natural": "Tu veux encore de la soupe ?",
+      "literal": [
+        "Chceš = tu veux",
+        "ešte = encore",
+        "polievku = de la soupe"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nemám hlad. Nechcem jesť.",
+      "speaker": null,
+      "natural": "Je n'ai pas faim. Je ne veux pas manger.",
+      "literal": [
+        "Nemám = je n'ai pas",
+        "hlad = faim",
+        "Nechcem = je ne veux pas",
+        "jesť = manger"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na raňajky jem chlieb a syr.",
+      "speaker": null,
+      "natural": "Au petit-déjeuner je mange du pain et du fromage.",
+      "literal": [
+        "Na raňajky = au petit-déjeuner",
+        "jem = je mange",
+        "chlieb = du pain",
+        "a = et",
+        "syr = du fromage"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Deti chcú ovocie.",
+      "speaker": null,
+      "natural": "Les enfants veulent des fruits.",
+      "literal": [
+        "Deti = les enfants",
+        "chcú = veulent",
+        "ovocie = des fruits"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem ešte vodu, prosím.",
+      "speaker": null,
+      "natural": "Je veux encore de l'eau, s'il te plaît.",
+      "literal": [
+        "Chcem = je veux",
+        "ešte = encore",
+        "vodu = de l'eau",
+        "prosím = s'il te plaît"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Dobrú chuť.** On ne commence pas à manger sans avoir souhaité [[Dobrú chuť]] à la table — l'équivalent exact de « bon appétit ». L'oublier passe pour de la distraction plus que pour de la grossièreté, mais autant prendre le pli."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le déjeuner écrase le dîner.** L'[[obed]] est le repas principal : soupe, puis plat, souvent pris tôt. La [[večera]] est en comparaison très légère, parfois juste du pain, du fromage et quelques légumes."
+    },
+    {
+      "type": "paragraph",
+      "text": "**La soupe n'est pas optionnelle.** Un vrai obed commence par une [[polievka]], et sauter cette étape surprend. Les soupes slovaques sont consistantes, souvent à base de chou, de pommes de terre ou de légumineuses."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "hladný",
+          "affamé"
+        ],
+        [
+          "smädný",
+          "assoiffé"
+        ],
+        [
+          "plný",
+          "plein, rassasié"
+        ],
+        [
+          "málo",
+          "peu"
+        ],
+        [
+          "veľa",
+          "beaucoup"
+        ],
+        [
+          "teraz",
+          "maintenant"
+        ],
+        [
+          "potom",
+          "ensuite"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Som hladný.",
+      "speaker": null,
+      "natural": "J'ai faim.",
+      "literal": [
+        "Som = je suis",
+        "hladný = affamé"
+      ],
+      "notes": [
+        "Deux façons de le dire : « mám hlad » ou « som hladný ». La seconde s'accorde : une femme dira « som hladná »."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ďakujem, som plný.",
+      "speaker": null,
+      "natural": "Merci, je n'ai plus faim.",
+      "literal": [
+        "Ďakujem = merci",
+        "som = je suis",
+        "plný = rassasié"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Jem veľa, ale pijem málo.",
+      "speaker": null,
+      "natural": "Je mange beaucoup, mais je bois peu.",
+      "literal": [
+        "Jem = je mange",
+        "veľa = beaucoup",
+        "ale = mais",
+        "pijem = je bois",
+        "málo = peu"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Teraz jem, potom pijem kávu.",
+      "speaker": null,
+      "natural": "Maintenant je mange, ensuite je bois un café.",
+      "literal": [
+        "Teraz = maintenant",
+        "jem = je mange",
+        "potom = ensuite",
+        "pijem = je bois",
+        "kávu = un café"
+      ],
+      "notes": [
+        "« káva » (le café) est un mot bonus, pas encore vu dans la série — retiens juste la phrase."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Si smädný?",
+      "speaker": null,
+      "natural": "Tu as soif ?",
+      "literal": [
+        "Si = tu es",
+        "smädný = assoiffé"
+      ],
+      "notes": []
+    }
+  ]
+}

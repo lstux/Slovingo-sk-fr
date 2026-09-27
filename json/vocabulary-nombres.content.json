@@ -1,0 +1,417 @@
+{
+  "id": "vocabulary-nombres",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "🔢 Nombres de 21 à 1 million en slovaque",
+  "image": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Les grands nombres : dizaines, centaines, milliers et au-delà."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🔟 Les dizaines (20 à 90)"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Číslo",
+        "Slovenčina"
+      ],
+      "rows": [
+        [
+          "20",
+          "[[dvadsať]]"
+        ],
+        [
+          "30",
+          "[[tridsať]]"
+        ],
+        [
+          "40",
+          "[[štyridsať]]"
+        ],
+        [
+          "50",
+          "[[päťdesiat]]"
+        ],
+        [
+          "60",
+          "[[šesťdesiat]]"
+        ],
+        [
+          "70",
+          "[[sedemdesiat]]"
+        ],
+        [
+          "80",
+          "[[osemdesiat]]"
+        ],
+        [
+          "90",
+          "[[deväťdesiat]]"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧩 Nombres de 21 à 99"
+    },
+    {
+      "type": "paragraph",
+      "text": "On assemble **les dizaines et les unités en un seul mot** :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**21** = [[dvadsaťjeden]]",
+        "**28** = [[dvadsaťosem]]",
+        "**35** = [[tridsaťpäť]]",
+        "**42** = [[štyridsaťdva]]",
+        "**64** = [[šesťdesiatštyri]]",
+        "**99** = [[deväťdesiatdeväť]]"
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "💯 Les centaines (100 à 900)"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Číslo",
+        "Slovenčina",
+        "Prononciation"
+      ],
+      "rows": [
+        [
+          "100",
+          "[[sto]]",
+          "sto"
+        ],
+        [
+          "200",
+          "[[dvesto]]",
+          "dves-to"
+        ],
+        [
+          "300",
+          "[[tristo]]",
+          "tris-to"
+        ],
+        [
+          "400",
+          "[[štyristo]]",
+          "chteu-ris-to"
+        ],
+        [
+          "500",
+          "[[päťsto]]",
+          "päť-sto"
+        ],
+        [
+          "600",
+          "[[šesťsto]]",
+          "chechť-sto"
+        ],
+        [
+          "700",
+          "[[sedemsto]]",
+          "se-dem-sto"
+        ],
+        [
+          "800",
+          "[[osemsto]]",
+          "o-sem-sto"
+        ],
+        [
+          "900",
+          "[[deväťsto]]",
+          "de-vaïté-sto"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧩 Nombres de 101 à 999"
+    },
+    {
+      "type": "paragraph",
+      "text": "**La centaine forme un bloc séparé** du reste :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**101** = [[sto jeden]]",
+        "**120** = [[sto dvadsať]]",
+        "**125** = [[sto dvadsaťpäť]]",
+        "**234** = [[dvesto tridsaťštyri]]",
+        "**456** = [[štyristo päťdesiatšesť]]",
+        "**789** = [[sedemsto osemdesiatdeväť]]",
+        "**999** = [[deväťsto deväťdesiatdeväť]]"
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏔️ Les milliers (1 000 à 999 999)"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Číslo",
+        "Slovenčina"
+      ],
+      "rows": [
+        [
+          "1 000",
+          "[[tisíc]]"
+        ],
+        [
+          "2 000",
+          "[[dvetisíc]]"
+        ],
+        [
+          "3 000",
+          "[[tritisíc]]"
+        ],
+        [
+          "5 000",
+          "[[päťtisíc]]"
+        ],
+        [
+          "10 000",
+          "[[desaťtisíc]]"
+        ],
+        [
+          "100 000",
+          "[[stotisíc]]"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧩 La logique"
+    },
+    {
+      "type": "paragraph",
+      "text": "On met le nombre **devant** [[tisíc]] :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**dva** → [[dvetisíc]] = 2 000",
+        "**tri** → [[tritisíc]] = 3 000",
+        "**päť** → [[päťtisíc]] = 5 000"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ Pour **1 000**, on dit simplement [[tisíc]], pas *jedentisíc*."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Exemples complets"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**1 001** = [[tisíc jeden]]",
+        "**2 500** = [[dvetisíc päťsto]]",
+        "**3 421** = [[tritisíc štyristo dvadsaťjeden]]",
+        "**10 000** = [[desaťtisíc]]",
+        "**12 345** = [[dvanásťtisíc tristo štyridsaťpäť]]",
+        "**99 999** = [[deväťdesiatdeväťtisíc deväťsto deväťdesiatdeväť]]",
+        "**100 000** = [[stotisíc]]",
+        "**250 000** = [[dvesto päťdesiat tisíc]]"
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🎉 Le million (1 000 000+)"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Číslo",
+        "Slovenčina"
+      ],
+      "rows": [
+        [
+          "1 000 000",
+          "[[jeden milión]]"
+        ],
+        [
+          "2 000 000",
+          "[[dva milióny]]"
+        ],
+        [
+          "5 000 000",
+          "[[päť miliónov]]"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Attention : milión est un nom"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jusqu'à 999 999, [[tisíc]] est intégré au nombre :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "[[dvestotisíc]] = 200 000"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais **milión** est un nom **à part**, donc on sépare :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "[[jeden milión]] = 1 000 000",
+        "[[dva milióny]] = 2 000 000",
+        "[[päť miliónov]] = 5 000 000"
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📊 Résumé ultra-compact"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Échelle",
+        "Slovenčina",
+        "Exemple",
+        "Remarque"
+      ],
+      "rows": [
+        [
+          "20",
+          "[[dvadsať]]",
+          "20",
+          "Première dizaine"
+        ],
+        [
+          "50",
+          "[[päťdesiat]]",
+          "50",
+          "-desiat (50–90)"
+        ],
+        [
+          "21–99",
+          "diz. + unité",
+          "[[dvadsaťjeden]]",
+          "Tout en un mot"
+        ],
+        [
+          "100",
+          "[[sto]]",
+          "100",
+          "-sto (200–900)"
+        ],
+        [
+          "101–999",
+          "centaine + reste",
+          "[[sto dvadsať]]",
+          "Centaine séparée"
+        ],
+        [
+          "1 000",
+          "[[tisíc]]",
+          "1 000",
+          "Pas de \"jeden\""
+        ],
+        [
+          "2 000+",
+          "nombre + [[tisíc]]",
+          "[[dvetisíc]]",
+          "Nombre soudé"
+        ],
+        [
+          "1 000 000",
+          "[[milión]]",
+          "[[jeden milión]]",
+          "Nom séparé !"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🎯 La formule à retenir"
+    },
+    {
+      "type": "paragraph",
+      "text": "**20–49** → **-sať**"
+    },
+    {
+      "type": "paragraph",
+      "text": "**50–90** → **-desiat**"
+    },
+    {
+      "type": "paragraph",
+      "text": "**21–99** → diz. + unité *(soudé)*"
+    },
+    {
+      "type": "paragraph",
+      "text": "**100–900** → **-sto**"
+    },
+    {
+      "type": "paragraph",
+      "text": "**101–999** → centaine + reste *(séparé)*"
+    },
+    {
+      "type": "paragraph",
+      "text": "**1 000–999 999** → nombre + [[tisíc]] *(soudé)*"
+    },
+    {
+      "type": "paragraph",
+      "text": "**1 000 000+** → nombre + [[milión]] *(séparé)*"
+    }
+  ]
+}

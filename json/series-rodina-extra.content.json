@@ -1,0 +1,505 @@
+{
+  "id": "series-rodina-extra",
+  "category": "series",
+  "subgroup": "rodina",
+  "subgroup_label": "Rodina",
+  "title": "Série Rodina (extra) — Všetko dokopy",
+  "image": {
+    "src": "img/rodina_06_family_selencha.jpg",
+    "caption": "Une famille slovaque de Selenča — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Aucun mot nouveau ici. Tout le vocabulaire de la série est rassemblé, puis recombiné dans des phrases inédites."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tout le vocabulaire de la série"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "rodina",
+          "la famille"
+        ],
+        [
+          "matka",
+          "la mère"
+        ],
+        [
+          "otec",
+          "le père"
+        ],
+        [
+          "brat",
+          "le frère"
+        ],
+        [
+          "sestra",
+          "la sœur"
+        ],
+        [
+          "babka",
+          "la grand-mère"
+        ],
+        [
+          "dedko",
+          "le grand-père"
+        ],
+        [
+          "rodičia",
+          "les parents"
+        ],
+        [
+          "syn",
+          "le fils"
+        ],
+        [
+          "dcéra",
+          "la fille"
+        ],
+        [
+          "manžel",
+          "le mari"
+        ],
+        [
+          "manželka",
+          "l'épouse"
+        ],
+        [
+          "teta",
+          "la tante"
+        ],
+        [
+          "strýko",
+          "l'oncle"
+        ],
+        [
+          "bratranec",
+          "le cousin"
+        ],
+        [
+          "sesternica",
+          "la cousine"
+        ],
+        [
+          "kamarát",
+          "l'ami"
+        ],
+        [
+          "dieťa",
+          "l'enfant"
+        ],
+        [
+          "deti",
+          "les enfants"
+        ],
+        [
+          "meno",
+          "le prénom"
+        ],
+        [
+          "narodeniny",
+          "l'anniversaire"
+        ],
+        [
+          "rok",
+          "l'an, l'année"
+        ],
+        [
+          "kto",
+          "qui"
+        ],
+        [
+          "volať sa",
+          "s'appeler"
+        ],
+        [
+          "malý",
+          "petit"
+        ],
+        [
+          "veľký",
+          "grand"
+        ],
+        [
+          "starý",
+          "vieux"
+        ],
+        [
+          "mladý",
+          "jeune"
+        ],
+        [
+          "pracovať",
+          "travailler"
+        ],
+        [
+          "robiť",
+          "faire"
+        ],
+        [
+          "bývať",
+          "habiter"
+        ],
+        [
+          "učiteľ",
+          "le professeur"
+        ],
+        [
+          "učiteľka",
+          "la professeure"
+        ],
+        [
+          "lekár",
+          "le médecin"
+        ],
+        [
+          "študent",
+          "l'étudiant"
+        ],
+        [
+          "dôchodca",
+          "le retraité"
+        ],
+        [
+          "práca",
+          "le travail"
+        ],
+        [
+          "škola",
+          "l'école"
+        ],
+        [
+          "nemocnica",
+          "l'hôpital"
+        ],
+        [
+          "kancelária",
+          "le bureau"
+        ],
+        [
+          "obchod",
+          "le magasin"
+        ],
+        [
+          "mesto",
+          "la ville"
+        ],
+        [
+          "dedina",
+          "le village"
+        ],
+        [
+          "dom",
+          "la maison"
+        ],
+        [
+          "byt",
+          "l'appartement"
+        ],
+        [
+          "izba",
+          "la pièce, la chambre"
+        ],
+        [
+          "kuchyňa",
+          "la cuisine"
+        ],
+        [
+          "záhrada",
+          "le jardin"
+        ],
+        [
+          "panelák",
+          "l'immeuble préfabriqué"
+        ],
+        [
+          "chata",
+          "le chalet"
+        ],
+        [
+          "spolu",
+          "ensemble"
+        ],
+        [
+          "blízko",
+          "près"
+        ],
+        [
+          "ďaleko",
+          "loin"
+        ],
+        [
+          "tu",
+          "ici"
+        ],
+        [
+          "tiež",
+          "aussi"
+        ],
+        [
+          "veľa",
+          "beaucoup"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moja dcéra má päť rokov.",
+      "speaker": null,
+      "natural": "Ma fille a cinq ans.",
+      "literal": [
+        "Moja = ma",
+        "dcéra = fille",
+        "má = a",
+        "päť = cinq",
+        "rokov = ans"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môj syn je študent. Býva v meste.",
+      "speaker": null,
+      "natural": "Mon fils est étudiant. Il habite en ville.",
+      "literal": [
+        "Môj syn = mon fils",
+        "je = est",
+        "študent = étudiant",
+        "Býva = il habite",
+        "v meste = en ville"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kto býva v tom dome?",
+      "speaker": null,
+      "natural": "Qui habite dans cette maison ?",
+      "literal": [
+        "Kto = qui",
+        "býva = habite",
+        "v = dans",
+        "tom = cette",
+        "dome = maison"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moja manželka pracuje v kancelárii.",
+      "speaker": null,
+      "natural": "Mon épouse travaille dans un bureau.",
+      "literal": [
+        "Moja manželka = mon épouse",
+        "pracuje = travaille",
+        "v = dans",
+        "kancelárii = un bureau"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môj bratranec je mladý. Má osemnásť rokov.",
+      "speaker": null,
+      "natural": "Mon cousin est jeune. Il a dix-huit ans.",
+      "literal": [
+        "Môj bratranec = mon cousin",
+        "je = est",
+        "mladý = jeune",
+        "Má = il a",
+        "osemnásť = dix-huit",
+        "rokov = ans"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moja sesternica sa volá Mária.",
+      "speaker": null,
+      "natural": "Ma cousine s'appelle Mária.",
+      "literal": [
+        "Moja sesternica = ma cousine",
+        "sa volá = s'appelle",
+        "Mária = Mária"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môj strýko má veľký dom a záhradu.",
+      "speaker": null,
+      "natural": "Mon oncle a une grande maison et un jardin.",
+      "literal": [
+        "Môj strýko = mon oncle",
+        "má = a",
+        "veľký = grand",
+        "dom = maison",
+        "a = et",
+        "záhradu = un jardin"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nemám brata, ale mám dve sestry.",
+      "speaker": null,
+      "natural": "Je n'ai pas de frère, mais j'ai deux sœurs.",
+      "literal": [
+        "Nemám = je n'ai pas",
+        "brata = de frère",
+        "ale = mais",
+        "mám = j'ai",
+        "dve = deux",
+        "sestry = sœurs"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moje deti sú v izbe.",
+      "speaker": null,
+      "natural": "Mes enfants sont dans la chambre.",
+      "literal": [
+        "Moje = mes",
+        "deti = enfants",
+        "sú = sont",
+        "v = dans",
+        "izbe = la chambre"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moja teta je učiteľka a pracuje veľa.",
+      "speaker": null,
+      "natural": "Ma tante est professeure et elle travaille beaucoup.",
+      "literal": [
+        "Moja teta = ma tante",
+        "je = est",
+        "učiteľka = professeure",
+        "a = et",
+        "pracuje = elle travaille",
+        "veľa = beaucoup"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Naša chata je ďaleko.",
+      "speaker": null,
+      "natural": "Notre chalet est loin.",
+      "literal": [
+        "Naša = notre",
+        "chata = chalet",
+        "je = est",
+        "ďaleko = loin"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môj kamarát býva v paneláku, blízko.",
+      "speaker": null,
+      "natural": "Mon ami habite dans un immeuble, tout près.",
+      "literal": [
+        "Môj kamarát = mon ami",
+        "býva = habite",
+        "v paneláku = dans un immeuble",
+        "blízko = près"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kedy máš narodeniny?",
+      "speaker": null,
+      "natural": "Quand as-tu ton anniversaire ?",
+      "literal": [
+        "Kedy = quand",
+        "máš = as-tu",
+        "narodeniny = anniversaire"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môj otec a moja matka bývajú spolu na dedine.",
+      "speaker": null,
+      "natural": "Mon père et ma mère habitent ensemble au village.",
+      "literal": [
+        "Môj otec = mon père",
+        "a = et",
+        "moja matka = ma mère",
+        "bývajú = habitent",
+        "spolu = ensemble",
+        "na dedine = au village"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Aké je tvoje meno?",
+      "speaker": null,
+      "natural": "Quel est ton prénom ?",
+      "literal": [
+        "Aké = quel",
+        "je = est",
+        "tvoje = ton",
+        "meno = prénom"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moja babka je stará, ale robí veľa v záhrade.",
+      "speaker": null,
+      "natural": "Ma grand-mère est vieille, mais elle fait beaucoup dans le jardin.",
+      "literal": [
+        "Moja babka = ma grand-mère",
+        "je = est",
+        "stará = vieille",
+        "ale = mais",
+        "robí = elle fait",
+        "veľa = beaucoup",
+        "v záhrade = dans le jardin"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môj dedko je dôchodca a je tu.",
+      "speaker": null,
+      "natural": "Mon grand-père est retraité et il est ici.",
+      "literal": [
+        "Môj dedko = mon grand-père",
+        "je = est",
+        "dôchodca = retraité",
+        "a = et",
+        "je = il est",
+        "tu = ici"
+      ],
+      "notes": []
+    }
+  ]
+}

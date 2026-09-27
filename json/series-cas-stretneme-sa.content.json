@@ -1,0 +1,446 @@
+{
+  "id": "series-cas-stretneme-sa",
+  "category": "series",
+  "subgroup": "cas",
+  "subgroup_label": "Cas",
+  "title": "Série Čas (4/5) — Stretneme sa",
+  "image": {
+    "src": "img/960px-Stanicne_namestie_Kosice_Slowakei.JPG",
+    "caption": "Gare de Košice — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Fixer un rendez-vous : y aller, arriver, attendre, se retrouver. Le verbe **ísť** est irrégulier et vaut la peine d'être appris tel quel."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "ísť",
+          "aller"
+        ],
+        [
+          "prísť",
+          "arriver, venir"
+        ],
+        [
+          "čakať",
+          "attendre"
+        ],
+        [
+          "stretnúť sa",
+          "se retrouver"
+        ],
+        [
+          "kedy",
+          "quand"
+        ],
+        [
+          "skoro",
+          "tôt"
+        ],
+        [
+          "neskoro",
+          "tard"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Aller — ísť"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "ja idem",
+          "je vais"
+        ],
+        [
+          "ty ideš",
+          "tu vas"
+        ],
+        [
+          "on / ona ide",
+          "il / elle va"
+        ],
+        [
+          "my ideme",
+          "nous allons"
+        ],
+        [
+          "vy idete",
+          "vous allez"
+        ],
+        [
+          "oni idú",
+          "ils / elles vont"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Arriver — prísť"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "ja prídem",
+          "j'arrive"
+        ],
+        [
+          "ty prídeš",
+          "tu arrives"
+        ],
+        [
+          "on / ona príde",
+          "il / elle arrive"
+        ],
+        [
+          "my prídeme",
+          "nous arrivons"
+        ],
+        [
+          "vy prídete",
+          "vous arrivez"
+        ],
+        [
+          "oni prídu",
+          "ils / elles arrivent"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "*Prísť* est *ísť* avec le préfixe **prí-**, et la conjugaison suit le même moule."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kedy prídeš?",
+      "speaker": null,
+      "natural": "Quand arrives-tu ?",
+      "literal": [
+        "Kedy = quand",
+        "prídeš = arrives-tu"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Prídem o piatej.",
+      "speaker": null,
+      "natural": "J'arrive à cinq heures.",
+      "literal": [
+        "Prídem = j'arrive",
+        "o piatej = à cinq heures"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Idem teraz.",
+      "speaker": null,
+      "natural": "J'y vais maintenant.",
+      "literal": [
+        "Idem = j'y vais",
+        "teraz = maintenant"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čakám o siedmej.",
+      "speaker": null,
+      "natural": "J'attends à sept heures.",
+      "literal": [
+        "Čakám = j'attends",
+        "o siedmej = à sept heures"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Stretneme sa v stredu?",
+      "speaker": null,
+      "natural": "On se retrouve mercredi ?",
+      "literal": [
+        "Stretneme sa = nous nous retrouvons",
+        "v stredu = mercredi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Prídem skoro, nie neskoro.",
+      "speaker": null,
+      "natural": "J'arrive tôt, pas tard.",
+      "literal": [
+        "Prídem = j'arrive",
+        "skoro = tôt",
+        "nie = pas",
+        "neskoro = tard"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nečakaj, meškám.",
+      "speaker": null,
+      "natural": "N'attends pas, je suis en retard.",
+      "literal": [
+        "Nečakaj = n'attends pas",
+        "meškám = je suis en retard"
+      ],
+      "notes": [
+        "« nečakaj » est un impératif négatif. Retiens la forme telle quelle."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kedy ideš domov?",
+      "speaker": null,
+      "natural": "Quand rentres-tu ?",
+      "literal": [
+        "Kedy = quand",
+        "ideš = vas-tu",
+        "domov = à la maison"
+      ],
+      "notes": [
+        "Attention : *doma* signifie « à la maison » sans mouvement, *domov* « vers la maison »."
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Stretneme sa v piatok o pol siedmej.",
+      "speaker": null,
+      "natural": "On se retrouve vendredi à six heures et demie.",
+      "literal": [
+        "Stretneme sa = nous nous retrouvons",
+        "v piatok = vendredi",
+        "o pol siedmej = à six heures et demie"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Prídem asi o druhej. Čakaj, prosím.",
+      "speaker": null,
+      "natural": "J'arrive vers deux heures. Attends, s'il te plaît.",
+      "literal": [
+        "Prídem = j'arrive",
+        "asi = environ",
+        "o druhej = à deux heures",
+        "Čakaj = attends",
+        "prosím = s'il te plaît"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V sobotu ráno idem skoro.",
+      "speaker": null,
+      "natural": "Samedi matin j'y vais tôt.",
+      "literal": [
+        "V sobotu = samedi",
+        "ráno = matin",
+        "idem = j'y vais",
+        "skoro = tôt"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Meškám. Prídem o štvrť na deväť.",
+      "speaker": null,
+      "natural": "Je suis en retard. J'arrive à huit heures et quart.",
+      "literal": [
+        "Meškám = je suis en retard",
+        "Prídem = j'arrive",
+        "o štvrť na deväť = à huit heures et quart"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le train plutôt que la voiture.** Le réseau ferroviaire est dense et bon marché, et les jeunes ainsi que les retraités voyagent gratuitement sur les trains nationaux depuis plusieurs années. Les gares sont donc de vrais lieux de rendez-vous."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Ísť et chodiť ne sont pas interchangeables.** [[Ísť]] décrit un trajet précis en cours ou prévu, [[chodiť]] une habitude. « J'y vais maintenant » et « j'y vais tous les mardis » n'utilisent pas le même verbe. Pour l'instant, *ísť* suffira."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "stretnutie",
+          "le rendez-vous"
+        ],
+        [
+          "hodinky",
+          "la montre"
+        ],
+        [
+          "budík",
+          "le réveil"
+        ],
+        [
+          "autobus",
+          "le bus"
+        ],
+        [
+          "vlak",
+          "le train"
+        ],
+        [
+          "načas",
+          "à l'heure"
+        ],
+        [
+          "voľný",
+          "libre"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám stretnutie o desiatej.",
+      "speaker": null,
+      "natural": "J'ai un rendez-vous à dix heures.",
+      "literal": [
+        "Mám = j'ai",
+        "stretnutie = un rendez-vous",
+        "o desiatej = à dix heures"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Vlak prichádza načas.",
+      "speaker": null,
+      "natural": "Le train arrive à l'heure.",
+      "literal": [
+        "Vlak = le train",
+        "prichádza = arrive",
+        "načas = à l'heure"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Autobus mešká desať minút.",
+      "speaker": null,
+      "natural": "Le bus a dix minutes de retard.",
+      "literal": [
+        "Autobus = le bus",
+        "mešká = est en retard",
+        "desať = dix",
+        "minút = minutes"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Si voľný v sobotu?",
+      "speaker": null,
+      "natural": "Tu es libre samedi ?",
+      "literal": [
+        "Si = tu es",
+        "voľný = libre",
+        "v sobotu = samedi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Budík zvoní o šiestej.",
+      "speaker": null,
+      "natural": "Le réveil sonne à six heures.",
+      "literal": [
+        "Budík = le réveil",
+        "zvoní = sonne",
+        "o šiestej = à six heures"
+      ],
+      "notes": []
+    }
+  ]
+}

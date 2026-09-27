@@ -1,0 +1,437 @@
+{
+  "id": "series-cas-dni-v-tyzdni",
+  "category": "series",
+  "subgroup": "cas",
+  "subgroup_label": "Cas",
+  "title": "Série Čas (3/5) — Dni v týždni",
+  "image": {
+    "src": "img/cas_03_ruzomberok_station.jpg",
+    "caption": "Gare de Ružomberok — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Les sept jours, et la préposition **v** pour dire quel jour. Deux d'entre eux changent de forme, les cinq autres ne bougent pas."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "pondelok",
+          "lundi"
+        ],
+        [
+          "utorok",
+          "mardi"
+        ],
+        [
+          "streda",
+          "mercredi"
+        ],
+        [
+          "štvrtok",
+          "jeudi"
+        ],
+        [
+          "piatok",
+          "vendredi"
+        ],
+        [
+          "sobota",
+          "samedi"
+        ],
+        [
+          "nedeľa",
+          "dimanche"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dire quel jour"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "v pondelok",
+          "lundi"
+        ],
+        [
+          "v utorok",
+          "mardi"
+        ],
+        [
+          "v stredu",
+          "mercredi"
+        ],
+        [
+          "vo štvrtok",
+          "jeudi"
+        ],
+        [
+          "v piatok",
+          "vendredi"
+        ],
+        [
+          "v sobotu",
+          "samedi"
+        ],
+        [
+          "v nedeľu",
+          "dimanche"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Les jours masculins ne changent pas. Les trois féminins (*streda*, *sobota*, *nedeľa*) prennent un **-u**. Devant *štvrtok*, la préposition devient **vo** pour éviter l'enchaînement de consonnes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les jours ne prennent pas de majuscule"
+    },
+    {
+      "type": "paragraph",
+      "text": "En slovaque, *pondelok* s'écrit en minuscule au milieu d'une phrase, comme en français."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Aký je dnes deň?",
+      "speaker": null,
+      "natural": "Quel jour sommes-nous ?",
+      "literal": [
+        "Aký = quel",
+        "je = est",
+        "dnes = aujourd'hui",
+        "deň = jour"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dnes je pondelok.",
+      "speaker": null,
+      "natural": "Aujourd'hui c'est lundi.",
+      "literal": [
+        "Dnes = aujourd'hui",
+        "je = c'est",
+        "pondelok = lundi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Zajtra je utorok.",
+      "speaker": null,
+      "natural": "Demain c'est mardi.",
+      "literal": [
+        "Zajtra = demain",
+        "je = c'est",
+        "utorok = mardi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V stredu nemám čas.",
+      "speaker": null,
+      "natural": "Mercredi je n'ai pas le temps.",
+      "literal": [
+        "V stredu = mercredi",
+        "nemám = je n'ai pas",
+        "čas = le temps"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Vo štvrtok začínam o ôsmej.",
+      "speaker": null,
+      "natural": "Jeudi je commence à huit heures.",
+      "literal": [
+        "Vo štvrtok = jeudi",
+        "začínam = je commence",
+        "o ôsmej = à huit heures"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V piatok je večer dlhý.",
+      "speaker": null,
+      "natural": "Vendredi la soirée est longue.",
+      "literal": [
+        "V piatok = vendredi",
+        "je = est",
+        "večer = la soirée",
+        "dlhý = long"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V sobotu a v nedeľu som doma.",
+      "speaker": null,
+      "natural": "Samedi et dimanche je suis à la maison.",
+      "literal": [
+        "V sobotu = samedi",
+        "a = et",
+        "v nedeľu = dimanche",
+        "som = je suis",
+        "doma = à la maison"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V nedeľu vždy meškám.",
+      "speaker": null,
+      "natural": "Le dimanche je suis toujours en retard.",
+      "literal": [
+        "V nedeľu = le dimanche",
+        "vždy = toujours",
+        "meškám = je suis en retard"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V pondelok začínam o siedmej ráno.",
+      "speaker": null,
+      "natural": "Lundi je commence à sept heures du matin.",
+      "literal": [
+        "V pondelok = lundi",
+        "začínam = je commence",
+        "o siedmej = à sept heures",
+        "ráno = du matin"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V stredu poobede mám čas.",
+      "speaker": null,
+      "natural": "Mercredi après-midi j'ai le temps.",
+      "literal": [
+        "V stredu = mercredi",
+        "poobede = l'après-midi",
+        "mám = j'ai",
+        "čas = le temps"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dnes je štvrtok. Je pol tretej.",
+      "speaker": null,
+      "natural": "Aujourd'hui c'est jeudi. Il est deux heures et demie.",
+      "literal": [
+        "Dnes = aujourd'hui",
+        "je = c'est",
+        "štvrtok = jeudi",
+        "Je = il est",
+        "pol tretej = deux heures et demie"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V sobotu nikdy nevstávam skoro.",
+      "speaker": null,
+      "natural": "Le samedi je ne me lève jamais tôt.",
+      "literal": [
+        "V sobotu = le samedi",
+        "nikdy = jamais",
+        "nevstávam = je ne me lève pas",
+        "skoro = tôt"
+      ],
+      "notes": [
+        "« vstávať » signifie se lever : vstávam, vstávaš, vstáva."
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Les jours sont des mots parlants.** [[Streda]] veut dire « le milieu », [[štvrtok]] vient de « quatrième » et [[piatok]] de « cinquième ». Une fois qu'on repère la logique, la semaine se retient en une soirée."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Dimanche reste un jour ordinaire.** Contrairement à l'Autriche ou à l'Allemagne voisines, les commerces restent en général ouverts le dimanche en Slovaquie. C'est plutôt lors des jours fériés — une quinzaine par an — que la loi impose la fermeture des magasins."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le calendrier affiche les prénoms.** Chaque jour porte un prénom, le [[meniny]], imprimé sur les calendriers, annoncé à la radio et affiché dans les journaux. Le jour de son prénom se fête presque comme un anniversaire."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "týždeň",
+          "la semaine"
+        ],
+        [
+          "víkend",
+          "le week-end"
+        ],
+        [
+          "mesiac",
+          "le mois"
+        ],
+        [
+          "rok",
+          "l'année"
+        ],
+        [
+          "sviatok",
+          "le jour férié"
+        ],
+        [
+          "dátum",
+          "la date"
+        ],
+        [
+          "kalendár",
+          "le calendrier"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Cez víkend mám čas.",
+      "speaker": null,
+      "natural": "Le week-end j'ai le temps.",
+      "literal": [
+        "Cez víkend = pendant le week-end",
+        "mám = j'ai",
+        "čas = le temps"
+      ],
+      "notes": [
+        "« cez » veut dire pendant, à travers."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Týždeň má sedem dní.",
+      "speaker": null,
+      "natural": "La semaine a sept jours.",
+      "literal": [
+        "Týždeň = la semaine",
+        "má = a",
+        "sedem = sept",
+        "dní = jours"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Rok má dvanásť mesiacov.",
+      "speaker": null,
+      "natural": "L'année a douze mois.",
+      "literal": [
+        "Rok = l'année",
+        "má = a",
+        "dvanásť = douze",
+        "mesiacov = mois"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V piatok je sviatok.",
+      "speaker": null,
+      "natural": "Vendredi c'est un jour férié.",
+      "literal": [
+        "V piatok = vendredi",
+        "je = c'est",
+        "sviatok = un jour férié"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Aký je dnes dátum?",
+      "speaker": null,
+      "natural": "Quelle est la date aujourd'hui ?",
+      "literal": [
+        "Aký = quelle",
+        "je = est",
+        "dnes = aujourd'hui",
+        "dátum = la date"
+      ],
+      "notes": []
+    }
+  ]
+}

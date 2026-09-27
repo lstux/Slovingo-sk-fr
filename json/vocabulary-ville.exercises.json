@@ -1,0 +1,881 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-mesto",
+      "type": "qcm",
+      "l1": "ville",
+      "l2": "mesto",
+      "choices_l1": [
+        "le beurre",
+        "le chamois",
+        "centime"
+      ],
+      "choices_l2": [
+        "tábor",
+        "tento rok",
+        "smädný"
+      ]
+    },
+    {
+      "id": "qcm-ulica",
+      "type": "qcm",
+      "l1": "rue",
+      "l2": "ulica",
+      "choices_l1": [
+        "clair",
+        "faire",
+        "l'œuf"
+      ],
+      "choices_l2": [
+        "môj brat",
+        "chceme",
+        "vy robíte"
+      ]
+    },
+    {
+      "id": "qcm-n-mestie",
+      "type": "qcm",
+      "l1": "place",
+      "l2": "námestie",
+      "choices_l1": [
+        "l'heure",
+        "l'excursion",
+        "à l'heure"
+      ],
+      "choices_l2": [
+        "firma",
+        "ne- (préfixe)",
+        "čo"
+      ]
+    },
+    {
+      "id": "qcm-park",
+      "type": "qcm",
+      "l1": "parc",
+      "l2": "park",
+      "choices_l1": [
+        "aide",
+        "nourriture",
+        "le passeport"
+      ],
+      "choices_l2": [
+        "pomoc",
+        "náročný",
+        "zmena"
+      ]
+    },
+    {
+      "id": "qcm-most",
+      "type": "qcm",
+      "l1": "pont",
+      "l2": "most",
+      "choices_l1": [
+        "restaurant",
+        "natation",
+        "menu, carte"
+      ],
+      "choices_l2": [
+        "zemiaky",
+        "nákup",
+        "koza"
+      ]
+    },
+    {
+      "id": "qcm-kostol",
+      "type": "qcm",
+      "l1": "église",
+      "l2": "kostol",
+      "choices_l1": [
+        "satisfait(e), content(e)",
+        "pouvoir",
+        "la casquette"
+      ],
+      "choices_l2": [
+        "oko",
+        "nikdy",
+        "zima"
+      ]
+    },
+    {
+      "id": "qcm-m-zeum",
+      "type": "qcm",
+      "l1": "musée",
+      "l2": "múzeum",
+      "choices_l1": [
+        "dehors",
+        "le retour",
+        "hôtel"
+      ],
+      "choices_l2": [
+        "v múzeu",
+        "vy idete",
+        "poistenie"
+      ]
+    },
+    {
+      "id": "qcm-kni-nica",
+      "type": "qcm",
+      "l1": "bibliothèque",
+      "l2": "knižnica",
+      "choices_l1": [
+        "janvier",
+        "où (direction)",
+        "la vendeuse"
+      ],
+      "choices_l2": [
+        "srnka",
+        "ty môžeš",
+        "teplý"
+      ]
+    },
+    {
+      "id": "qcm-obchod",
+      "type": "qcm",
+      "l1": "magasin",
+      "l2": "obchod",
+      "choices_l1": [
+        "comprimé",
+        "la couverture",
+        "tête"
+      ],
+      "choices_l2": [
+        "kedy",
+        "trdelník",
+        "vrchol"
+      ]
+    },
+    {
+      "id": "qcm-supermarket",
+      "type": "qcm",
+      "l1": "supermarché",
+      "l2": "supermarket",
+      "choices_l1": [
+        "chien",
+        "jamais",
+        "dans l'appartement"
+      ],
+      "choices_l2": [
+        "choroba",
+        "silný",
+        "radosť"
+      ]
+    },
+    {
+      "id": "qcm-pek-re",
+      "type": "qcm",
+      "l1": "boulangerie",
+      "l2": "pekáreň",
+      "choices_l1": [
+        "entraînement",
+        "le gâteau",
+        "12"
+      ],
+      "choices_l2": [
+        "cibuľové šupky",
+        "učiteľka",
+        "doplatiť"
+      ]
+    },
+    {
+      "id": "qcm-lek-re",
+      "type": "qcm",
+      "l1": "pharmacie",
+      "l2": "lekáreň",
+      "choices_l1": [
+        "mouillé",
+        "livre",
+        "produit"
+      ],
+      "choices_l2": [
+        "oblečenie",
+        "o druhej",
+        "sirup"
+      ]
+    },
+    {
+      "id": "qcm-po-ta",
+      "type": "qcm",
+      "l1": "poste",
+      "l2": "pošta",
+      "choices_l1": [
+        "foncé",
+        "se lever",
+        "piquant"
+      ],
+      "choices_l2": [
+        "koláč",
+        "jedna desatina",
+        "Biela sobota"
+      ]
+    },
+    {
+      "id": "qcm-banka",
+      "type": "qcm",
+      "l1": "banque",
+      "l2": "banka",
+      "choices_l1": [
+        "pire",
+        "l'addition",
+        "tableau"
+      ],
+      "choices_l2": [
+        "stanica",
+        "dôchodca",
+        "svetlá"
+      ]
+    },
+    {
+      "id": "qcm-hotel",
+      "type": "qcm",
+      "l1": "hôtel",
+      "l2": "hotel",
+      "choices_l1": [
+        "la tranquillité",
+        "70",
+        "la faim"
+      ],
+      "choices_l2": [
+        "holub",
+        "oddiel",
+        "okno, mesto"
+      ]
+    },
+    {
+      "id": "qcm-doprava",
+      "type": "qcm",
+      "l1": "à droite (direction)",
+      "l2": "doprava",
+      "choices_l1": [
+        "il / elle (masc./fém./neutre)",
+        "oni / ony",
+        "l'agneau (petit, pascal)"
+      ],
+      "choices_l2": [
+        "plachý",
+        "menej",
+        "pokladňa"
+      ]
+    },
+    {
+      "id": "qcm-do-ava",
+      "type": "qcm",
+      "l1": "à gauche (direction)",
+      "l2": "doľava",
+      "choices_l1": [
+        "Fête de Cyrille et Méthode",
+        "la soupe de choucroute",
+        "il / elle veut"
+      ],
+      "choices_l2": [
+        "vidlička",
+        "sedieť",
+        "ja môžem"
+      ]
+    },
+    {
+      "id": "qcm-rovno",
+      "type": "qcm",
+      "l1": "tout droit",
+      "l2": "rovno",
+      "choices_l1": [
+        "la fenêtre",
+        "prendre",
+        "couple"
+      ],
+      "choices_l2": [
+        "džús",
+        "osem",
+        "minca"
+      ]
+    },
+    {
+      "id": "qcm-bl-zko",
+      "type": "qcm",
+      "l1": "près",
+      "l2": "blízko",
+      "choices_l1": [
+        "pierre",
+        "le sentier",
+        "le vélo"
+      ],
+      "choices_l2": [
+        "zemiaky",
+        "televízia",
+        "v noci"
+      ]
+    },
+    {
+      "id": "qcm-aleko",
+      "type": "qcm",
+      "l1": "loin",
+      "l2": "ďaleko",
+      "choices_l1": [
+        "tu veux",
+        "l'anniversaire",
+        "près"
+      ],
+      "choices_l2": [
+        "domáca úloha",
+        "štyri",
+        "ty chodíš"
+      ]
+    },
+    {
+      "id": "qcm-oproti",
+      "type": "qcm",
+      "l1": "en face de",
+      "l2": "oproti",
+      "choices_l1": [
+        "tout de suite",
+        "je cuisine, tu cuisines, il cuisine",
+        "je / moi"
+      ],
+      "choices_l2": [
+        "Bude daždivo.",
+        "teplota vzduchu",
+        "politik"
+      ]
+    },
+    {
+      "id": "qcm-ved-a",
+      "type": "qcm",
+      "l1": "à côté de",
+      "l2": "vedľa",
+      "choices_l1": [
+        "bonnet / casquette",
+        "le groupe, l'unité",
+        "Ça ne me plaît pas."
+      ],
+      "choices_l2": [
+        "kohút",
+        "ryba",
+        "revolúcia"
+      ]
+    },
+    {
+      "id": "qcm-centrum",
+      "type": "qcm",
+      "l1": "centre-ville",
+      "l2": "centrum",
+      "choices_l1": [
+        "mouillé(e)",
+        "centime",
+        "racine"
+      ],
+      "choices_l2": [
+        "zviera",
+        "29. august",
+        "semeno"
+      ]
+    },
+    {
+      "id": "qcm-predmestie",
+      "type": "qcm",
+      "l1": "banlieue",
+      "l2": "predmestie",
+      "choices_l1": [
+        "le ruban",
+        "la nourriture",
+        "arc-en-ciel"
+      ],
+      "choices_l2": [
+        "plávanie",
+        "unavený",
+        "vstup"
+      ]
+    },
+    {
+      "id": "qcm-dopravn-z-pcha",
+      "type": "qcm",
+      "l1": "embouteillage",
+      "l2": "dopravná zápcha",
+      "choices_l1": [
+        "la ceinture",
+        "la prévision",
+        "la forêt"
+      ],
+      "choices_l2": [
+        "lakeť",
+        "veľkosť",
+        "starý"
+      ]
+    },
+    {
+      "id": "qcm-chodn-k",
+      "type": "qcm",
+      "l1": "trottoir",
+      "l2": "chodník",
+      "choices_l1": [
+        "la douche",
+        "juste, directement",
+        "vraiment"
+      ],
+      "choices_l2": [
+        "malá sestra",
+        "oni idú",
+        "deväťdesiat"
+      ]
+    },
+    {
+      "id": "qcm-semafor",
+      "type": "qcm",
+      "l1": "feu (de circulation)",
+      "l2": "semafor",
+      "choices_l1": [
+        "arrêt (de bus)",
+        "son / sa / ses (à elle)",
+        "Je cherche la clé."
+      ],
+      "choices_l2": [
+        "modrý",
+        "hovoríte",
+        "vŕba"
+      ]
+    },
+    {
+      "id": "qcm-kri-ovatka",
+      "type": "qcm",
+      "l1": "carrefour",
+      "l2": "križovatka",
+      "choices_l1": [
+        "tôt, bientôt",
+        "neige",
+        "voiture"
+      ],
+      "choices_l2": [
+        "beh",
+        "kohút",
+        "čas"
+      ]
+    },
+    {
+      "id": "blank-prep-te-kde-je-najbli-ia-lek-re",
+      "type": "fill-blank",
+      "l1": "Excusez-moi, où est la pharmacie la plus proche ?",
+      "l2": "Prepáčte, kde je najbližšia lekáreň?",
+      "missing_l1": "la",
+      "missing_l2": "je",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "mon",
+        "vous",
+        "les"
+      ],
+      "choices_l2": [
+        "som",
+        "moja",
+        "sú"
+      ]
+    },
+    {
+      "id": "blank-cho-te-rovno-a-potom-doprava",
+      "type": "fill-blank",
+      "l1": "Allez tout droit puis à droite.",
+      "l2": "Choďte rovno a potom doprava.",
+      "missing_l1": "à",
+      "missing_l2": "a",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "plus",
+        "est",
+        "mais"
+      ],
+      "choices_l2": [
+        "nemám",
+        "má",
+        "idem"
+      ]
+    },
+    {
+      "id": "blank-je-to-aleko-odtia-to",
+      "type": "fill-blank",
+      "l1": "C'est loin d'ici ?",
+      "l2": "Je to ďaleko odtiaľto?",
+      "missing_l1": "loin",
+      "missing_l2": "to",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "mais",
+        "pas",
+        "a"
+      ],
+      "choices_l2": [
+        "má",
+        "ako",
+        "áno"
+      ]
+    },
+    {
+      "id": "blank-je-to-hne-za-rohom",
+      "type": "fill-blank",
+      "l1": "C'est juste au coin de la rue.",
+      "l2": "Je to hneď za rohom.",
+      "missing_l1": "la",
+      "missing_l2": "to",
+      "blank_index_l1": 5,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "j'ai",
+        "sont",
+        "mon"
+      ],
+      "choices_l2": [
+        "sa",
+        "môj",
+        "bolo"
+      ]
+    },
+    {
+      "id": "blank-banka-je-oproti-po-te",
+      "type": "fill-blank",
+      "l1": "La banque est en face de la poste.",
+      "l2": "Banka je oproti pošte.",
+      "missing_l1": "la",
+      "missing_l2": "je",
+      "blank_index_l1": 6,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "un",
+        "mais",
+        "y"
+      ],
+      "choices_l2": [
+        "potom",
+        "mi",
+        "na"
+      ]
+    },
+    {
+      "id": "blank-v-centre-mesta-je-ve-a-turistov",
+      "type": "fill-blank",
+      "l1": "Il y a beaucoup de touristes en centre-ville.",
+      "l2": "V centre mesta je veľa turistov.",
+      "missing_l1": "de",
+      "missing_l2": "je",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "heures",
+        "que",
+        "et"
+      ],
+      "choices_l2": [
+        "a",
+        "ešte",
+        "čo"
+      ]
+    },
+    {
+      "id": "listen-prep-te-kde-je-najbli-ia-lek-re",
+      "type": "listen",
+      "l1": "Excusez-moi, où est la pharmacie la plus proche ?",
+      "l2": "Prepáčte, kde je najbližšia lekáreň?",
+      "choices_l1": [
+        "J'aime courir dans le parc.",
+        "Ensuite il y a des halušky. Tu aimes la bryndza ?",
+        "Maman cuisine et moi je lave les verres."
+      ]
+    },
+    {
+      "id": "listen-cho-te-rovno-a-potom-doprava",
+      "type": "listen",
+      "l1": "Allez tout droit puis à droite.",
+      "l2": "Choďte rovno a potom doprava.",
+      "choices_l1": [
+        "Sur le chemin du retour je me suis arrêtée quelques mois en France, à Villeurbanne, près de Lyon.",
+        "Il / Elle a les yeux bleus.",
+        "Le matin je me lève à sept heures."
+      ]
+    },
+    {
+      "id": "listen-je-to-aleko-odtia-to",
+      "type": "listen",
+      "l1": "C'est loin d'ici ?",
+      "l2": "Je to ďaleko odtiaľto?",
+      "choices_l1": [
+        "Quel bus va au centre-ville ?",
+        "Je peux rentrer à la maison ?",
+        "D'abord on mange, ensuite on sort."
+      ]
+    },
+    {
+      "id": "listen-je-to-hne-za-rohom",
+      "type": "listen",
+      "l1": "C'est juste au coin de la rue.",
+      "l2": "Je to hneď za rohom.",
+      "choices_l1": [
+        "Où sont mes lunettes ?",
+        "Je leur ai donné des œufs et du gâteau comme récompense pour la chanson.",
+        "Je tousse depuis trois jours."
+      ]
+    },
+    {
+      "id": "listen-banka-je-oproti-po-te",
+      "type": "listen",
+      "l1": "La banque est en face de la poste.",
+      "l2": "Banka je oproti pošte.",
+      "choices_l1": [
+        "Oui, c'est notre tradition. Mais faites-le doucement !",
+        "Où est la gare ?",
+        "Goûte la bryndza ! Elle est salée."
+      ]
+    },
+    {
+      "id": "listen-v-centre-mesta-je-ve-a-turistov",
+      "type": "listen",
+      "l1": "Il y a beaucoup de touristes en centre-ville.",
+      "l2": "V centre mesta je veľa turistov.",
+      "choices_l1": [
+        "Honnêtement, je ne sais pas. Peut-être que c'était mieux ainsi, peut-être pas. Difficile à dire.",
+        "La lampe de poche est importante, si nous sommes en retard.",
+        "Je n'ai pas de monnaie, pouvez-vous me rendre la monnaie ?"
+      ]
+    },
+    {
+      "id": "order-prep-te-kde-je-najbli-ia-lek-re",
+      "type": "order",
+      "l1": "Excusez-moi, où est la pharmacie la plus proche ?",
+      "l2": "Prepáčte, kde je najbližšia lekáreň?",
+      "tokens_l1": [
+        "Excusez-moi,",
+        "où",
+        "est",
+        "la",
+        "pharmacie",
+        "la",
+        "plus",
+        "proche",
+        "?",
+        "Il",
+        "y",
+        "a",
+        "beaucoup",
+        "de",
+        "touristes",
+        "en",
+        "centre-ville."
+      ],
+      "tokens_l2": [
+        "Prepáčte,",
+        "kde",
+        "je",
+        "najbližšia",
+        "lekáreň?",
+        "V",
+        "centre",
+        "mesta",
+        "je",
+        "veľa",
+        "turistov."
+      ]
+    },
+    {
+      "id": "order-cho-te-rovno-a-potom-doprava",
+      "type": "order",
+      "l1": "Allez tout droit puis à droite.",
+      "l2": "Choďte rovno a potom doprava.",
+      "tokens_l1": [
+        "Allez",
+        "tout",
+        "droit",
+        "puis",
+        "à",
+        "droite.",
+        "C'est",
+        "juste",
+        "au",
+        "coin",
+        "de",
+        "la",
+        "rue."
+      ],
+      "tokens_l2": [
+        "Choďte",
+        "rovno",
+        "a",
+        "potom",
+        "doprava.",
+        "Je",
+        "to",
+        "hneď",
+        "za",
+        "rohom."
+      ]
+    },
+    {
+      "id": "order-je-to-aleko-odtia-to",
+      "type": "order",
+      "l1": "C'est loin d'ici ?",
+      "l2": "Je to ďaleko odtiaľto?",
+      "tokens_l1": [
+        "C'est",
+        "loin",
+        "d'ici",
+        "?",
+        "Il",
+        "y",
+        "a",
+        "beaucoup",
+        "de",
+        "touristes",
+        "en",
+        "centre-ville."
+      ],
+      "tokens_l2": [
+        "Je",
+        "to",
+        "ďaleko",
+        "odtiaľto?",
+        "V",
+        "centre",
+        "mesta",
+        "je",
+        "veľa",
+        "turistov."
+      ]
+    },
+    {
+      "id": "order-je-to-hne-za-rohom",
+      "type": "order",
+      "l1": "C'est juste au coin de la rue.",
+      "l2": "Je to hneď za rohom.",
+      "tokens_l1": [
+        "C'est",
+        "juste",
+        "au",
+        "coin",
+        "de",
+        "la",
+        "rue.",
+        "Il",
+        "y",
+        "a",
+        "beaucoup",
+        "de",
+        "touristes",
+        "en",
+        "centre-ville."
+      ],
+      "tokens_l2": [
+        "Je",
+        "to",
+        "hneď",
+        "za",
+        "rohom.",
+        "V",
+        "centre",
+        "mesta",
+        "je",
+        "veľa",
+        "turistov."
+      ]
+    },
+    {
+      "id": "order-banka-je-oproti-po-te",
+      "type": "order",
+      "l1": "La banque est en face de la poste.",
+      "l2": "Banka je oproti pošte.",
+      "tokens_l1": [
+        "La",
+        "banque",
+        "est",
+        "en",
+        "face",
+        "de",
+        "la",
+        "poste.",
+        "C'est",
+        "juste",
+        "au",
+        "coin",
+        "de",
+        "la",
+        "rue."
+      ],
+      "tokens_l2": [
+        "Banka",
+        "je",
+        "oproti",
+        "pošte.",
+        "Je",
+        "to",
+        "hneď",
+        "za",
+        "rohom."
+      ]
+    },
+    {
+      "id": "order-v-centre-mesta-je-ve-a-turistov",
+      "type": "order",
+      "l1": "Il y a beaucoup de touristes en centre-ville.",
+      "l2": "V centre mesta je veľa turistov.",
+      "tokens_l1": [
+        "Il",
+        "y",
+        "a",
+        "beaucoup",
+        "de",
+        "touristes",
+        "en",
+        "centre-ville.",
+        "Excusez-moi,",
+        "où",
+        "est",
+        "la",
+        "pharmacie",
+        "la",
+        "plus",
+        "proche",
+        "?"
+      ],
+      "tokens_l2": [
+        "V",
+        "centre",
+        "mesta",
+        "je",
+        "veľa",
+        "turistov.",
+        "Prepáčte,",
+        "kde",
+        "je",
+        "najbližšia",
+        "lekáreň?"
+      ]
+    },
+    {
+      "id": "match-mesto-vocab",
+      "type": "match",
+      "l1": [
+        "ville",
+        "rue",
+        "place",
+        "parc"
+      ],
+      "l2": [
+        "mesto",
+        "ulica",
+        "námestie",
+        "park"
+      ]
+    },
+    {
+      "id": "match-prep-te-kde-je-najbli-ia-lek-re-sentences",
+      "type": "match",
+      "l1": [
+        "Excusez-moi, où est la pharmacie la plus proche ?",
+        "Allez tout droit puis à droite.",
+        "C'est loin d'ici ?",
+        "C'est juste au coin de la rue."
+      ],
+      "l2": [
+        "Prepáčte, kde je najbližšia lekáreň?",
+        "Choďte rovno a potom doprava.",
+        "Je to ďaleko odtiaľto?",
+        "Je to hneď za rohom."
+      ]
+    }
+  ]
+}

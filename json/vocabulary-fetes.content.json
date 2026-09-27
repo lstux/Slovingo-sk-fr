@@ -1,0 +1,285 @@
+{
+  "id": "vocabulary-fetes",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "🎉 Sviatky (Les fêtes)",
+  "image": null,
+  "content": [
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Fêtes et occasions courantes"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "narodeniny",
+          "anniversaire"
+        ],
+        [
+          "Vianoce",
+          "Noël"
+        ],
+        [
+          "Veľká noc",
+          "Pâques"
+        ],
+        [
+          "Nový rok",
+          "Nouvel An"
+        ],
+        [
+          "meniny",
+          "fête (du prénom)"
+        ],
+        [
+          "svadba",
+          "mariage"
+        ],
+        [
+          "oslava",
+          "fête, célébration"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "+ En Slovaquie, on fête aussi les \"meniny\" : chaque prénom est associé à une date dans le calendrier, et on la célèbre comme un petit anniversaire."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Souhaiter et féliciter"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Všetko najlepšie k narodeninám!",
+      "speaker": null,
+      "natural": "Joyeux anniversaire ! (littéralement : tout le meilleur pour ton anniversaire)",
+      "literal": [
+        "všetko najlepšie = tout le meilleur · k narodeninám = pour l'anniversaire"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Veselé Vianoce a šťastný nový rok!",
+      "speaker": null,
+      "natural": "Joyeux Noël et bonne année !",
+      "literal": [
+        "veselé Vianoce = joyeux Noël · šťastný nový rok = heureuse nouvelle année"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Blahoželám k svadbe!",
+      "speaker": null,
+      "natural": "Félicitations pour votre mariage !",
+      "literal": [
+        "blahoželám = je félicite · k svadbe = pour le mariage"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Prajem ti pekné meniny!",
+      "speaker": null,
+      "natural": "Je te souhaite une bonne fête (de prénom) !",
+      "literal": [
+        "prajem ti = je te souhaite · pekné meniny = belle fête du prénom"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Organiser une fête"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "pozvánka",
+          "invitation"
+        ],
+        [
+          "darček",
+          "cadeau"
+        ],
+        [
+          "torta",
+          "gâteau"
+        ],
+        [
+          "sviečka",
+          "bougie"
+        ],
+        [
+          "hostia",
+          "invités"
+        ],
+        [
+          "oslavovať",
+          "fêter, célébrer"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Pozývam ťa na moje narodeninové oslavy.",
+      "speaker": null,
+      "natural": "Je t'invite à ma fête d'anniversaire.",
+      "literal": [
+        "pozývam ťa = je t'invite · na moje narodeninové oslavy = à ma fête d'anniversaire"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kúpil som ti malý darček.",
+      "speaker": null,
+      "natural": "Je t'ai acheté un petit cadeau.",
+      "literal": [
+        "kúpil som ti = je t'ai acheté · malý darček = petit cadeau"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Le calendrier des fêtes en Slovaquie"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "1. január",
+          "Jour de l'An"
+        ],
+        [
+          "Veľká noc",
+          "Pâques (date variable)"
+        ],
+        [
+          "1. máj",
+          "Fête du travail"
+        ],
+        [
+          "5. júl",
+          "Fête de Cyrille et Méthode"
+        ],
+        [
+          "29. august",
+          "Anniversaire du soulèvement national slovaque"
+        ],
+        [
+          "1. september",
+          "Jour de la Constitution"
+        ],
+        [
+          "24.-26. december",
+          "Noël"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "+ Ces dates sont des jours fériés officiels en Slovaquie ; certaines (comme le 29 août ou le 1er septembre) sont propres à l'histoire du pays et n'ont pas d'équivalent direct en France."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Petit vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "tradícia",
+          "tradition"
+        ],
+        [
+          "zvyk",
+          "coutume"
+        ],
+        [
+          "stromček",
+          "sapin (de Noël)"
+        ],
+        [
+          "ohňostroj",
+          "feu d'artifice"
+        ],
+        [
+          "pesnička",
+          "chanson"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na Vianoce zdobíme stromček.",
+      "speaker": null,
+      "natural": "À Noël nous décorons le sapin.",
+      "literal": [
+        "na Vianoce = à Noël · zdobíme = nous décorons · stromček = sapin"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚠️ Pièges pour les francophones"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "\"meniny\" (fête du prénom) est une tradition slovaque à part entière, sans équivalent direct en France : chaque jour du calendrier correspond à un ou plusieurs prénoms.",
+        "\"Vianoce\" (Noël) est toujours au pluriel en slovaque, comme \"les fêtes\" en français.",
+        "Les souhaits utilisent souvent la structure \"všetko najlepšie k...\" (tout le meilleur pour...), une formule à retenir telle quelle plutôt qu'à traduire mot à mot."
+      ]
+    }
+  ]
+}

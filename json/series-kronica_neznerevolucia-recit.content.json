@@ -1,0 +1,222 @@
+{
+  "id": "series-kronica_neznerevolucia-recit",
+  "category": "series",
+  "subgroup": "kronica_neznerevolucia",
+  "subgroup_label": "Kronica nezne revolucia",
+  "title": "Nežná revolúcia (2/3) — Na námestí",
+  "image": {
+    "src": "img/kronika_revolucia_02_kosice_hlavna.jpg",
+    "caption": "Hlavná ulica, artère où les Košičania se sont rassemblés par dizaines de milliers en novembre 1989 — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Andrea continue son récit : les rumeurs à l'école, la première fois sur la place, et ce bruit de clés qu'elle n'a jamais oublié."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le récit d'Andrea",
+      "is_dialogue_section": true
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V škole sa najprv len šuškalo. Učitelia boli nervózni, ale nič nevysvetľovali.",
+      "speaker": "👩",
+      "natural": "À l'école on ne faisait d'abord que chuchoter. Les professeurs étaient nerveux, mais n'expliquaient rien.",
+      "literal": [
+        "V škole = à l'école",
+        "sa najprv len šuškalo = on ne faisait d'abord que chuchoter",
+        "Učitelia boli nervózni = les professeurs étaient nerveux",
+        "ale nič nevysvetľovali = mais n'expliquaient rien"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Deti si to medzi sebou hovorili?",
+      "speaker": "👦",
+      "natural": "Les enfants se le disaient entre eux ?",
+      "literal": [
+        "Deti = les enfants",
+        "si to hovorili = se le disaient",
+        "medzi sebou = entre eux"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Áno, ale nikto poriadne nerozumel, čo sa presne deje v Prahe.",
+      "speaker": "👩",
+      "natural": "Oui, mais personne ne comprenait vraiment ce qui se passait exactement à Prague.",
+      "literal": [
+        "Áno = oui",
+        "nikto poriadne nerozumel = personne ne comprenait vraiment",
+        "čo sa presne deje = ce qui se passe exactement"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Potom jedného dňa staršia sestra mojej kamarátky povedala, že bude demonštrácia na Hlavnej.",
+      "speaker": "👩",
+      "natural": "Puis un jour la grande sœur de mon amie a dit qu'il y aurait une manifestation sur Hlavná.",
+      "literal": [
+        "jedného dňa = un jour",
+        "staršia sestra mojej kamarátky = la grande sœur de mon amie",
+        "povedala, že = a dit que",
+        "bude demonštrácia na Hlavnej = il y aurait une manifestation sur Hlavná (la grande rue de Košice)"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "A šli ste tam?",
+      "speaker": "👦",
+      "natural": "Et vous y êtes allée ?",
+      "literal": [
+        "šli ste tam = vous y êtes allée"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Išla som s ňou, tajne, bez toho, aby to vedeli moji rodičia.",
+      "speaker": "👩",
+      "natural": "J'y suis allée avec elle, en secret, sans que mes parents le sachent.",
+      "literal": [
+        "Išla som s ňou = j'y suis allée avec elle",
+        "tajne = en secret",
+        "bez toho, aby to vedeli = sans qu'ils le sachent",
+        "moji rodičia = mes parents"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na námestí bolo obrovské množstvo ľudí. Nikdy predtým som nič také nevidela.",
+      "speaker": "👩",
+      "natural": "Sur la place il y avait une foule énorme. Je n'avais jamais rien vu de tel avant.",
+      "literal": [
+        "Na námestí = sur la place",
+        "obrovské množstvo ľudí = une foule énorme",
+        "Nikdy predtým = jamais avant",
+        "nič také = rien de tel"
+      ],
+      "notes": [
+        "« Námestie » ici, c'est Hlavná ulica : à Košice, cette rue piétonne est si large et si longue qu'elle fait aussi office de place publique."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čo ste cítili?",
+      "speaker": "👦",
+      "natural": "Qu'avez-vous ressenti ?",
+      "literal": [
+        "Čo ste cítili = qu'avez-vous ressenti"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Strach aj nadšenie naraz. Bolo to zvláštne, tie dva pocity spolu.",
+      "speaker": "👩",
+      "natural": "De la peur et de l'enthousiasme à la fois. C'était étrange, ces deux sentiments ensemble.",
+      "literal": [
+        "Strach aj nadšenie naraz = de la peur et de l'enthousiasme à la fois",
+        "Bolo to zvláštne = c'était étrange",
+        "tie dva pocity spolu = ces deux sentiments ensemble"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ľudia zvonili kľúčmi. Celé námestie znelo ako obrovský zvon.",
+      "speaker": "👩",
+      "natural": "Les gens agitaient leurs clés. Toute la place résonnait comme une immense cloche.",
+      "literal": [
+        "Ľudia zvonili kľúčmi = les gens agitaient leurs clés",
+        "Celé námestie znelo = toute la place résonnait",
+        "ako obrovský zvon = comme une immense cloche"
+      ],
+      "notes": [
+        "Faire tinter ses clés en signe de protestation pacifique est devenu un symbole marquant de la Révolution de velours."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "A prečo práve kľúče?",
+      "speaker": "👦",
+      "natural": "Et pourquoi justement des clés ?",
+      "literal": [
+        "A prečo práve kľúče = et pourquoi justement des clés"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Vraj to znamenalo, že komunistickej strane zvoní umieračik. Presne neviem, kto to vymyslel.",
+      "speaker": "👩",
+      "natural": "Apparemment ça signifiait que le glas sonnait pour le parti communiste. Je ne sais pas exactement qui a inventé ça.",
+      "literal": [
+        "Vraj to znamenalo = apparemment ça signifiait",
+        "komunistickej strane zvoní umieračik = le glas sonne pour le parti communiste",
+        "Presne neviem = je ne sais pas exactement",
+        "kto to vymyslel = qui a inventé ça"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ľudia mali transparenty, kričali heslá o slobode. Bolo to hlasné, ale nikto nebol násilný.",
+      "speaker": "👩",
+      "natural": "Les gens avaient des banderoles, criaient des slogans sur la liberté. C'était bruyant, mais personne n'était violent.",
+      "literal": [
+        "Ľudia mali transparenty = les gens avaient des banderoles",
+        "kričali heslá o slobode = criaient des slogans sur la liberté",
+        "Bolo to hlasné = c'était bruyant",
+        "nikto nebol násilný = personne n'était violent"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "A domov ste sa vrátili bez problémov?",
+      "speaker": "👦",
+      "natural": "Et vous êtes rentrée à la maison sans problème ?",
+      "literal": [
+        "domov ste sa vrátili = vous êtes rentrée à la maison",
+        "bez problémov = sans problème"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Áno, ale srdce mi bilo veľmi rýchlo. Bála som sa, že ma rodičia uvidia v správach.",
+      "speaker": "👩",
+      "natural": "Oui, mais mon cœur battait très vite. J'avais peur que mes parents me voient aux infos.",
+      "literal": [
+        "srdce mi bilo veľmi rýchlo = mon cœur battait très vite",
+        "Bála som sa = j'avais peur",
+        "že ma rodičia uvidia v správach = que mes parents me voient aux infos"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "O pár dní bolo jasné, že sa niečo naozaj mení. Aj naši rodičia o tom už hovorili nahlas.",
+      "speaker": "👩",
+      "natural": "Au bout de quelques jours il était clair que quelque chose changeait vraiment. Même nos parents en parlaient déjà à voix haute.",
+      "literal": [
+        "O pár dní = au bout de quelques jours",
+        "bolo jasné = il était clair",
+        "že sa niečo naozaj mení = que quelque chose changeait vraiment",
+        "hovorili nahlas = parlaient à voix haute"
+      ],
+      "notes": []
+    }
+  ]
+}

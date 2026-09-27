@@ -1,0 +1,430 @@
+{
+  "id": "series-pocasie-co-si-obliect",
+  "category": "series",
+  "subgroup": "pocasie",
+  "subgroup_label": "Pocasie",
+  "title": "Série Počasie (3/5) — Čo si obliecť?",
+  "image": {
+    "src": "img/pocasie_03_tatras_landscape.jpg",
+    "caption": "Paysage d'été dans les Tatras"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "S'habiller selon la météo. On retrouve les vêtements de la série Nákupy, avec le verbe **obliecť si** et une nuance de nécessité."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "obliecť si",
+          "mettre, enfiler"
+        ],
+        [
+          "kabát",
+          "le manteau"
+        ],
+        [
+          "šál",
+          "l'écharpe"
+        ],
+        [
+          "rukavice",
+          "les gants"
+        ],
+        [
+          "slnečné okuliare",
+          "les lunettes de soleil"
+        ],
+        [
+          "dáždnik",
+          "le parapluie"
+        ],
+        [
+          "musieť",
+          "devoir"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Devoir — musieť"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "ja musím",
+          "je dois"
+        ],
+        [
+          "ty musíš",
+          "tu dois"
+        ],
+        [
+          "on / ona musí",
+          "il / elle doit"
+        ],
+        [
+          "my musíme",
+          "nous devons"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Musieť + infinitif"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "Musím ísť.",
+          "Je dois y aller."
+        ],
+        [
+          "Musíš si obliecť kabát.",
+          "Tu dois mettre un manteau."
+        ],
+        [
+          "Musíme mať dáždnik.",
+          "Nous devons avoir un parapluie."
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme *chcieť*, *musieť* est toujours suivi d'un infinitif : aucun mot de liaison à ajouter."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Musím si obliecť kabát. Je zima.",
+      "speaker": null,
+      "natural": "Je dois mettre un manteau. Il fait froid.",
+      "literal": [
+        "Musím si obliecť = je dois mettre",
+        "kabát = un manteau",
+        "Je zima = il fait froid"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V zime nosím šál a rukavice.",
+      "speaker": null,
+      "natural": "En hiver je porte une écharpe et des gants.",
+      "literal": [
+        "V zime = en hiver",
+        "nosím = je porte",
+        "šál = une écharpe",
+        "a = et",
+        "rukavice = des gants"
+      ],
+      "notes": [
+        "« nosiť » signifie porter (un vêtement) : nosím, nosíš, nosí."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V lete nosím slnečné okuliare.",
+      "speaker": null,
+      "natural": "En été je porte des lunettes de soleil.",
+      "literal": [
+        "V lete = en été",
+        "nosím = je porte",
+        "slnečné okuliare = des lunettes de soleil"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Musíš mať dáždnik, prší.",
+      "speaker": null,
+      "natural": "Tu dois avoir un parapluie, il pleut.",
+      "literal": [
+        "Musíš mať = tu dois avoir",
+        "dáždnik = un parapluie",
+        "prší = il pleut"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čo si mám dnes obliecť?",
+      "speaker": null,
+      "natural": "Qu'est-ce que je dois mettre aujourd'hui ?",
+      "literal": [
+        "Čo = quoi",
+        "si mám obliecť = dois-je mettre",
+        "dnes = aujourd'hui"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Musíme ísť skoro, bude búrka.",
+      "speaker": null,
+      "natural": "Nous devons y aller tôt, il va y avoir un orage.",
+      "literal": [
+        "Musíme ísť = nous devons y aller",
+        "skoro = tôt",
+        "bude búrka = il va y avoir un orage"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nemusíš nosiť kabát, je teplo.",
+      "speaker": null,
+      "natural": "Tu n'as pas besoin de porter un manteau, il fait chaud.",
+      "literal": [
+        "Nemusíš nosiť = tu n'as pas besoin de porter",
+        "kabát = un manteau",
+        "je teplo = il fait chaud"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Obliecť si niečo teplé!",
+      "speaker": null,
+      "natural": "Mets quelque chose de chaud !",
+      "literal": [
+        "Obliecť si = mets",
+        "niečo teplé = quelque chose de chaud"
+      ],
+      "notes": [
+        "Impératif. Retiens la forme telle quelle."
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na jar musím mať dáždnik, ale nie kabát.",
+      "speaker": null,
+      "natural": "Au printemps je dois avoir un parapluie, mais pas de manteau.",
+      "literal": [
+        "Na jar = au printemps",
+        "musím mať = je dois avoir",
+        "dáždnik = un parapluie",
+        "ale nie = mais pas",
+        "kabát = de manteau"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V zime je zima, tak nosím rukavice a šál.",
+      "speaker": null,
+      "natural": "En hiver il fait froid, alors je porte des gants et une écharpe.",
+      "literal": [
+        "V zime = en hiver",
+        "je zima = il fait froid",
+        "tak = alors",
+        "nosím = je porte",
+        "rukavice = des gants",
+        "a šál = et une écharpe"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Toto leto je teplejšie, nemusím nosiť sveter.",
+      "speaker": null,
+      "natural": "Cet été est plus chaud, je n'ai pas besoin de porter un pull.",
+      "literal": [
+        "Toto leto = cet été",
+        "je teplejšie = est plus chaud",
+        "nemusím nosiť = je n'ai pas besoin de porter",
+        "sveter = un pull"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Les couches sont une religion locale.** Face à un climat continental aux écarts marqués, s'habiller « à la cebuľa », en couches comme un oignon, est le conseil qu'on donne à tout étranger avant l'hiver."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le passage de la saison de ski dicte le calendrier scolaire.** Une semaine de vacances, la [[jarné prázdniny]], tombe en plein hiver et sert traditionnellement à partir aux sports d'hiver dans les Tatras."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Musieť n'a pas d'équivalent poli distinct.** Contrairement au français qui nuance entre « devoir » et « il faudrait », [[musieť]] sert dans presque tous les contextes de nécessité, du plus urgent au plus anodin."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "čižmy",
+          "les bottes"
+        ],
+        [
+          "plášť do dažďa",
+          "l'imperméable"
+        ],
+        [
+          "krémy na opaľovanie",
+          "la crème solaire"
+        ],
+        [
+          "šiltovka",
+          "la casquette"
+        ],
+        [
+          "ponožky",
+          "les chaussettes"
+        ],
+        [
+          "teplota vzduchu",
+          "la température de l'air"
+        ],
+        [
+          "oblečenie",
+          "les vêtements"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V daždi nosím čižmy a plášť do dažďa.",
+      "speaker": null,
+      "natural": "Sous la pluie je porte des bottes et un imperméable.",
+      "literal": [
+        "V daždi = sous la pluie",
+        "nosím = je porte",
+        "čižmy = des bottes",
+        "a = et",
+        "plášť do dažďa = un imperméable"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Musíš mať krém na opaľovanie, slnko je silné.",
+      "speaker": null,
+      "natural": "Tu dois avoir de la crème solaire, le soleil est fort.",
+      "literal": [
+        "Musíš mať = tu dois avoir",
+        "krém na opaľovanie = de la crème solaire",
+        "slnko = le soleil",
+        "je = est",
+        "silné = fort"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ponožky sú mokré!",
+      "speaker": null,
+      "natural": "Les chaussettes sont mouillées !",
+      "literal": [
+        "Ponožky = les chaussettes",
+        "sú = sont",
+        "mokré = mouillées"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nosím šiltovku v lete.",
+      "speaker": null,
+      "natural": "Je porte une casquette en été.",
+      "literal": [
+        "Nosím = je porte",
+        "šiltovku = une casquette",
+        "v lete = en été"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Oblečenie na zimu je drahé.",
+      "speaker": null,
+      "natural": "Les vêtements d'hiver sont chers.",
+      "literal": [
+        "Oblečenie na zimu = les vêtements d'hiver",
+        "je = est",
+        "drahé = chers"
+      ],
+      "notes": []
+    }
+  ]
+}

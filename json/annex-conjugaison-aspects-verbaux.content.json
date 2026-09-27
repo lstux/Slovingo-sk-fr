@@ -1,0 +1,588 @@
+{
+  "id": "annex-conjugaison-aspects-verbaux",
+  "category": "annex",
+  "subgroup": "conjugaison",
+  "subgroup_label": "Conjugaison",
+  "title": "Mémo 3 – Les aspects verbaux",
+  "image": null,
+  "content": [
+    {
+      "type": "blockquote",
+      "lines": [
+        "L'aspect est une notion essentielle en slovaque. Là où le français utilise souvent un seul verbe avec différents temps, le slovaque utilise très souvent deux verbes différents pour préciser la manière dont l'action se déroule."
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📚 Qu'est-ce que l'aspect ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En slovaque, un verbe peut être :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**imperfectif** : l'action est en cours, habituelle, répétée ou sans indication de fin.",
+        "**perfectif** : l'action est vue comme terminée, avec un résultat obtenu."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Il ne s'agit pas simplement du temps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une action au présent peut être imperfective ou perfective."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📚 Exemple principal : [[robiť]] / [[urobiť]]"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque",
+        "Aspect"
+      ],
+      "rows": [
+        [
+          "faire (en général, être en train de faire)",
+          "[[robiť]]",
+          "imperfectif"
+        ],
+        [
+          "faire et terminer",
+          "[[urobiť]]",
+          "perfectif"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Exemples :"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "Je fais un gâteau.",
+          "[[Robím koláč.]]"
+        ],
+        [
+          "Je vais faire un gâteau (et il sera terminé).",
+          "[[Urobím koláč.]]"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📚 L'imperfectif : [[robiť]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "L'imperfectif est utilisé pour :"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Une action en cours"
+    },
+    {
+      "type": "paragraph",
+      "text": "[[Čo robíš?]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ Que fais-tu ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "[[Robím kávu.]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ Je fais du café. (je suis en train de le préparer)"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Une habitude"
+    },
+    {
+      "type": "paragraph",
+      "text": "[[Každý deň robím kávu.]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ Je fais du café tous les jours."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Une action sans insister sur la fin"
+    },
+    {
+      "type": "paragraph",
+      "text": "[[Čítam knihu.]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ Je lis un livre."
+    },
+    {
+      "type": "paragraph",
+      "text": "On insiste sur l'activité, pas sur le fait de l'avoir terminé."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📚 Le perfectif : [[urobiť]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le perfectif est utilisé quand on considère l'action comme achevée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exemples :"
+    },
+    {
+      "type": "paragraph",
+      "text": "[[Urobím kávu.]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ Je vais faire un café (et il sera prêt)."
+    },
+    {
+      "type": "paragraph",
+      "text": "[[Urobil som kávu.]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ J'ai fait un café."
+    },
+    {
+      "type": "paragraph",
+      "text": "[[Urobila som večeru.]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ J'ai préparé le dîner."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📚 Quelques paires fréquentes"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Imperfectif",
+        "Perfectif"
+      ],
+      "rows": [
+        [
+          "faire",
+          "[[robiť]]",
+          "[[urobiť]]"
+        ],
+        [
+          "écrire",
+          "[[písať]]",
+          "[[napísať]]"
+        ],
+        [
+          "lire",
+          "[[čítať]]",
+          "[[prečítať]]"
+        ],
+        [
+          "acheter",
+          "[[kupovať]]",
+          "[[kúpiť]]"
+        ],
+        [
+          "apprendre",
+          "[[učiť sa]]",
+          "[[naučiť sa]]"
+        ],
+        [
+          "dire",
+          "[[hovoriť]]",
+          "[[povedať]]"
+        ]
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🔍 À remarquer"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le présent perfectif parle souvent du futur"
+    },
+    {
+      "type": "paragraph",
+      "text": "C'est une grande différence avec le français."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exemple :"
+    },
+    {
+      "type": "paragraph",
+      "text": "[[Robím večeru.]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ Je fais le dîner maintenant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais :"
+    },
+    {
+      "type": "paragraph",
+      "text": "[[Urobím večeru.]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Littéralement :"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ Je fais le dîner."
+    },
+    {
+      "type": "paragraph",
+      "text": "En réalité :"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ Je vais faire le dîner / je préparerai le dîner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pourquoi ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Parce que [[urobiť]] indique que l'action sera terminée."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le futur imperfectif utilise [[byť]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour une action future sans notion de résultat :"
+    },
+    {
+      "type": "paragraph",
+      "text": "[[Budem robiť večeru.]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ Je ferai le dîner / je serai en train de préparer le dîner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparaison :"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "Je préparerai le dîner (résultat attendu)",
+          "[[Urobím večeru.]]"
+        ],
+        [
+          "Je préparerai le dîner (activité prévue)",
+          "[[Budem robiť večeru.]]"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "On ne choisit pas toujours librement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le préfixe change souvent l'aspect :"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Imperfectif",
+        "Perfectif"
+      ],
+      "rows": [
+        [
+          "[[písať]]",
+          "[[napísať]]"
+        ],
+        [
+          "[[čítať]]",
+          "[[prečítať]]"
+        ],
+        [
+          "[[robiť]]",
+          "[[urobiť]]"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais il existe beaucoup d'exceptions et de nuances."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "💬 Exemples"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "Je lis un livre.",
+          "[[Čítam knihu.]]"
+        ],
+        [
+          "J'ai lu un livre (entièrement).",
+          "[[Prečítal som knihu.]]"
+        ],
+        [
+          "J'écris une lettre.",
+          "[[Píšem list.]]"
+        ],
+        [
+          "J'ai écrit une lettre.",
+          "[[Napísal som list.]]"
+        ],
+        [
+          "Je fais un gâteau.",
+          "[[Robím koláč.]]"
+        ],
+        [
+          "J'ai fait un gâteau.",
+          "[[Urobil som koláč.]]"
+        ],
+        [
+          "Je vais apprendre le slovaque.",
+          "[[Naučím sa po slovensky.]]"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🎯 À retenir"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "[[robiť]] = faire, être en train de faire",
+        "[[urobiť]] = faire et terminer"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "[[čítať]] = lire",
+        "[[prečítať]] = lire entièrement"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "[[písať]] = écrire",
+        "[[napísať]] = écrire et terminer"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "[[Budem robiť.]] = je ferai / je serai en train de faire",
+        "[[Urobím.]] = je ferai (et ce sera terminé)"
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚠️ Pièges du français"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le présent ne veut pas toujours dire \"maintenant\""
+    },
+    {
+      "type": "paragraph",
+      "text": "En français :"
+    },
+    {
+      "type": "blockquote",
+      "lines": [
+        "Je fais."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "peut vouloir dire :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "je suis en train de faire",
+        "je fais habituellement",
+        "je vais faire"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En slovaque, le choix du verbe précise souvent cette nuance."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le passé composé français ne suffit pas"
+    },
+    {
+      "type": "paragraph",
+      "text": "En français :"
+    },
+    {
+      "type": "blockquote",
+      "lines": [
+        "J'ai lu un livre."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "peut simplement donner une information."
+    },
+    {
+      "type": "paragraph",
+      "text": "En slovaque, il faut choisir :"
+    },
+    {
+      "type": "paragraph",
+      "text": "[[Čítal som knihu.]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ J'ai lu un livre (activité, sans préciser la fin)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ou"
+    },
+    {
+      "type": "paragraph",
+      "text": "[[Prečítal som knihu.]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "→ J'ai lu un livre entièrement."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Il ne faut pas traduire les préfixes automatiquement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un préfixe comme [[na-]], [[u-]] ou [[pre-]] change souvent l'aspect, mais pas toujours avec une traduction directe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le mieux est d'apprendre les verbes par paire :"
+    },
+    {
+      "type": "paragraph",
+      "text": "[[písať]] / [[napísať]]"
+    },
+    {
+      "type": "paragraph",
+      "text": "plutôt que d'essayer de deviner uniquement avec le préfixe."
+    }
+  ]
+}

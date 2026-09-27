@@ -1,0 +1,379 @@
+{
+  "id": "series-doma-nase-izby",
+  "category": "series",
+  "subgroup": "doma",
+  "subgroup_label": "Doma",
+  "title": "Série Doma (1/5) — Naše izby",
+  "image": {
+    "src": "img/doma_01_village_museum_martin.jpg",
+    "caption": "Musée du village slovaque, Martin — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Les pièces du logement, et le point qui commande toute la grammaire slovaque : le genre des noms. Bonne nouvelle, il se lit presque toujours sur la dernière lettre."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "dom",
+          "la maison"
+        ],
+        [
+          "byt",
+          "l'appartement"
+        ],
+        [
+          "izba",
+          "la pièce, la chambre"
+        ],
+        [
+          "kuchyňa",
+          "la cuisine"
+        ],
+        [
+          "kúpeľňa",
+          "la salle de bain"
+        ],
+        [
+          "spálňa",
+          "la chambre à coucher"
+        ],
+        [
+          "obývačka",
+          "le salon"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le genre se voit à la fin du mot"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "dom, byt",
+          "masculin : finale en consonne"
+        ],
+        [
+          "izba, kuchyňa",
+          "féminin : finale en -a ou -ňa"
+        ],
+        [
+          "okno, mesto",
+          "neutre : finale en -o ou -e"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce n'est pas une décoration : le genre décide de la forme des adjectifs, des possessifs et des terminaisons à venir. Autant le repérer tout de suite."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "C'est / ce sont"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "To je izba.",
+          "C'est une pièce."
+        ],
+        [
+          "To sú izby.",
+          "Ce sont des pièces."
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "To je náš dom.",
+      "speaker": null,
+      "natural": "C'est notre maison.",
+      "literal": [
+        "To je = c'est",
+        "náš = notre",
+        "dom = maison"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Máme štyri izby.",
+      "speaker": null,
+      "natural": "Nous avons quatre pièces.",
+      "literal": [
+        "Máme = nous avons",
+        "štyri = quatre",
+        "izby = pièces"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kuchyňa je malá.",
+      "speaker": null,
+      "natural": "La cuisine est petite.",
+      "literal": [
+        "Kuchyňa = la cuisine",
+        "je = est",
+        "malá = petite"
+      ],
+      "notes": [
+        "kuchyňa est féminin, donc l'adjectif prend -á."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Obývačka je veľká.",
+      "speaker": null,
+      "natural": "Le salon est grand.",
+      "literal": [
+        "Obývačka = le salon",
+        "je = est",
+        "veľká = grande"
+      ],
+      "notes": [
+        "En slovaque, obývačka est féminin : d'où « veľká » et non « veľký »."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kde je kúpeľňa?",
+      "speaker": null,
+      "natural": "Où est la salle de bain ?",
+      "literal": [
+        "Kde = où",
+        "je = est",
+        "kúpeľňa = la salle de bain"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Spálňa je tam.",
+      "speaker": null,
+      "natural": "La chambre est là-bas.",
+      "literal": [
+        "Spálňa = la chambre",
+        "je = est",
+        "tam = là-bas"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Bývam v byte.",
+      "speaker": null,
+      "natural": "J'habite dans un appartement.",
+      "literal": [
+        "Bývam = j'habite",
+        "v = dans",
+        "byte = un appartement"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Náš byt je malý, ale pekný.",
+      "speaker": null,
+      "natural": "Notre appartement est petit, mais joli.",
+      "literal": [
+        "Náš = notre",
+        "byt = appartement",
+        "je = est",
+        "malý = petit",
+        "ale = mais",
+        "pekný = joli"
+      ],
+      "notes": [
+        "byt est masculin : malý et pekný prennent la terminaison -ý."
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le salon s'appelle « la pièce où l'on vit ».** [[Obývačka]] vient du verbe *obývať*, habiter. Le mot dit exactement ce qu'il désigne, et c'est le cas de beaucoup de mots slovaques : une fois qu'on repère la racine, le vocabulaire devient bien moins arbitraire."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Toilettes et salle de bain sont deux pièces.** Dans la plupart des logements, le [[záchod]] est séparé de la [[kúpeľňa]]. Demander « où est la salle de bain » quand on cherche les toilettes peut donc mener à un malentendu poli."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Čičmany, le village peint.** Dans ce village du nord, les maisons de bois sont couvertes de motifs blancs peints à la chaux. Ces dessins géométriques sont devenus un emblème national, repris sur les maillots sportifs et les objets touristiques du pays entier."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "záchod",
+          "les toilettes"
+        ],
+        [
+          "chodba",
+          "le couloir"
+        ],
+        [
+          "pivnica",
+          "la cave"
+        ],
+        [
+          "balkón",
+          "le balcon"
+        ],
+        [
+          "garáž",
+          "le garage"
+        ],
+        [
+          "dvor",
+          "la cour"
+        ],
+        [
+          "strecha",
+          "le toit"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Záchod je na chodbe.",
+      "speaker": null,
+      "natural": "Les toilettes sont dans le couloir.",
+      "literal": [
+        "Záchod = les toilettes",
+        "je = est",
+        "na = dans, sur",
+        "chodbe = le couloir"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Máme balkón a garáž.",
+      "speaker": null,
+      "natural": "Nous avons un balcon et un garage.",
+      "literal": [
+        "Máme = nous avons",
+        "balkón = un balcon",
+        "a = et",
+        "garáž = un garage"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Deti sú na dvore.",
+      "speaker": null,
+      "natural": "Les enfants sont dans la cour.",
+      "literal": [
+        "Deti = les enfants",
+        "sú = sont",
+        "na = dans",
+        "dvore = la cour"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Pivnica je malá a stará.",
+      "speaker": null,
+      "natural": "La cave est petite et vieille.",
+      "literal": [
+        "Pivnica = la cave",
+        "je = est",
+        "malá = petite",
+        "a = et",
+        "stará = vieille"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Strecha je veľká.",
+      "speaker": null,
+      "natural": "Le toit est grand.",
+      "literal": [
+        "Strecha = le toit",
+        "je = est",
+        "veľká = grande"
+      ],
+      "notes": [
+        "strecha est féminin en slovaque, alors que « toit » est masculin en français. C'est fréquent : le genre ne se traduit pas."
+      ]
+    }
+  ]
+}

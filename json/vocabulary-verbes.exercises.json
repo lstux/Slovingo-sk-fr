@@ -1,0 +1,1020 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-s",
+      "type": "qcm",
+      "l1": "aller (à pied, ponctuel)",
+      "l2": "ísť",
+      "choices_l1": [
+        "jus (de fruit)",
+        "frais / fraîche",
+        "pharmacien / pharmacienne"
+      ],
+      "choices_l2": [
+        "byt",
+        "ty piješ",
+        "on"
+      ]
+    },
+    {
+      "id": "qcm-chodi",
+      "type": "qcm",
+      "l1": "aller (habituel, à pied)",
+      "l2": "chodiť",
+      "choices_l1": [
+        "C'est après le coin.",
+        "Combien ça coûte ?",
+        "trois quarts de rabais"
+      ],
+      "choices_l2": [
+        "odznak",
+        "oni",
+        "poistenie"
+      ]
+    },
+    {
+      "id": "qcm-be-a",
+      "type": "qcm",
+      "l1": "courir",
+      "l2": "bežať",
+      "choices_l1": [
+        "Pâques",
+        "le balcon",
+        "à gauche"
+      ],
+      "choices_l2": [
+        "pohovka",
+        "hrozno",
+        "koberec"
+      ]
+    },
+    {
+      "id": "qcm-pr-s",
+      "type": "qcm",
+      "l1": "arriver, venir",
+      "l2": "prísť",
+      "choices_l1": [
+        "la serviette",
+        "longtemps",
+        "électricien"
+      ],
+      "choices_l2": [
+        "pozvánka",
+        "1. január",
+        "biely"
+      ]
+    },
+    {
+      "id": "qcm-od-s",
+      "type": "qcm",
+      "l1": "partir",
+      "l2": "odísť",
+      "choices_l1": [
+        "vingtième",
+        "le téléphone",
+        "pâtes"
+      ],
+      "choices_l2": [
+        "srnka",
+        "chladnička",
+        "v zime"
+      ]
+    },
+    {
+      "id": "qcm-vr-ti-sa",
+      "type": "qcm",
+      "l1": "revenir",
+      "l2": "vrátiť sa",
+      "choices_l1": [
+        "la bibliothèque",
+        "certes",
+        "difficile"
+      ],
+      "choices_l2": [
+        "drobné",
+        "tu",
+        "v parku"
+      ]
+    },
+    {
+      "id": "qcm-jes",
+      "type": "qcm",
+      "l1": "manger",
+      "l2": "jesť",
+      "choices_l1": [
+        "fête, célébration",
+        "argenté",
+        "un an"
+      ],
+      "choices_l2": [
+        "za rohom",
+        "desať rokov",
+        "jazyk"
+      ]
+    },
+    {
+      "id": "qcm-pi",
+      "type": "qcm",
+      "l1": "boire",
+      "l2": "piť",
+      "choices_l1": [
+        "bon(ne)",
+        "rouge",
+        "le référendum"
+      ],
+      "choices_l2": [
+        "vy budete",
+        "oblak",
+        "cibuľové šupky"
+      ]
+    },
+    {
+      "id": "qcm-spa",
+      "type": "qcm",
+      "l1": "dormir",
+      "l2": "spať",
+      "choices_l1": [
+        "le bureau",
+        "graine",
+        "jumeaux"
+      ],
+      "choices_l2": [
+        "my chceme",
+        "úspory",
+        "cestovať"
+      ]
+    },
+    {
+      "id": "qcm-vst-va",
+      "type": "qcm",
+      "l1": "se lever",
+      "l2": "vstávať",
+      "choices_l1": [
+        "je mange",
+        "je suis",
+        "tu travailles"
+      ],
+      "choices_l2": [
+        "ceruzka",
+        "ružový",
+        "rozdelenie"
+      ]
+    },
+    {
+      "id": "qcm-pracova",
+      "type": "qcm",
+      "l1": "travailler",
+      "l2": "pracovať",
+      "choices_l1": [
+        "musique",
+        "ty",
+        "espèces"
+      ],
+      "choices_l2": [
+        "nástup",
+        "my",
+        "káva"
+      ]
+    },
+    {
+      "id": "qcm-oddychova",
+      "type": "qcm",
+      "l1": "se reposer",
+      "l2": "oddychovať",
+      "choices_l1": [
+        "jeu",
+        "le grand-père",
+        "pluvieux"
+      ],
+      "choices_l2": [
+        "rovnako ako",
+        "1. september",
+        "horúci"
+      ]
+    },
+    {
+      "id": "qcm-hovori",
+      "type": "qcm",
+      "l1": "parler",
+      "l2": "hovoriť",
+      "choices_l1": [
+        "intelligent",
+        "cheval",
+        "serviette"
+      ],
+      "choices_l2": [
+        "pôst",
+        "baránok",
+        "slabý"
+      ]
+    },
+    {
+      "id": "qcm-poveda",
+      "type": "qcm",
+      "l1": "dire",
+      "l2": "povedať",
+      "choices_l1": [
+        "2 000",
+        "la maman",
+        "ensuite"
+      ],
+      "choices_l2": [
+        "kosť",
+        "mám",
+        "maľovanie"
+      ]
+    },
+    {
+      "id": "qcm-p-ta-sa",
+      "type": "qcm",
+      "l1": "demander",
+      "l2": "pýtať sa",
+      "choices_l1": [
+        "bon",
+        "clé",
+        "tâches ménagères"
+      ],
+      "choices_l2": [
+        "košík",
+        "už",
+        "v lete"
+      ]
+    },
+    {
+      "id": "qcm-odpoveda",
+      "type": "qcm",
+      "l1": "répondre",
+      "l2": "odpovedať",
+      "choices_l1": [
+        "le dîner",
+        "pierre",
+        "bâtiment"
+      ],
+      "choices_l2": [
+        "kamzík",
+        "vlk",
+        "opatrne"
+      ]
+    },
+    {
+      "id": "qcm-rozumie",
+      "type": "qcm",
+      "l1": "comprendre",
+      "l2": "rozumieť",
+      "choices_l1": [
+        "banc",
+        "chaise",
+        "année"
+      ],
+      "choices_l2": [
+        "hladný",
+        "priamo",
+        "budeme stúpať"
+      ]
+    },
+    {
+      "id": "qcm-myslie-si",
+      "type": "qcm",
+      "l1": "penser",
+      "l2": "myslieť si",
+      "choices_l1": [
+        "la professeure",
+        "métro",
+        "septembre"
+      ],
+      "choices_l2": [
+        "siedmy",
+        "stolička",
+        "náročný"
+      ]
+    },
+    {
+      "id": "qcm-robi",
+      "type": "qcm",
+      "l1": "faire",
+      "l2": "robiť",
+      "choices_l1": [
+        "la Tchécoslovaquie",
+        "la vendeuse",
+        "sympathique"
+      ],
+      "choices_l2": [
+        "auto",
+        "sekunda",
+        "Robím kávu."
+      ]
+    },
+    {
+      "id": "qcm-da",
+      "type": "qcm",
+      "l1": "donner",
+      "l2": "dať",
+      "choices_l1": [
+        "coûter",
+        "chaque",
+        "printemps"
+      ],
+      "choices_l2": [
+        "štyri",
+        "knižnica",
+        "obchod"
+      ]
+    },
+    {
+      "id": "qcm-vzia",
+      "type": "qcm",
+      "l1": "prendre",
+      "l2": "vziať",
+      "choices_l1": [
+        "le bus",
+        "l'année dernière",
+        "je vais"
+      ],
+      "choices_l2": [
+        "osem",
+        "opasok",
+        "mráz"
+      ]
+    },
+    {
+      "id": "qcm-chcie",
+      "type": "qcm",
+      "l1": "vouloir",
+      "l2": "chcieť",
+      "choices_l1": [
+        "coutume",
+        "le miroir",
+        "je bois"
+      ],
+      "choices_l2": [
+        "siedmy",
+        "loď",
+        "beh"
+      ]
+    },
+    {
+      "id": "qcm-m-c",
+      "type": "qcm",
+      "l1": "pouvoir",
+      "l2": "môcť",
+      "choices_l1": [
+        "en colère",
+        "dormir",
+        "mettre, enfiler"
+      ],
+      "choices_l2": [
+        "štrnásty",
+        "kúpiť",
+        "fanúšik"
+      ]
+    },
+    {
+      "id": "qcm-musie",
+      "type": "qcm",
+      "l1": "devoir",
+      "l2": "musieť",
+      "choices_l1": [
+        "boulangerie",
+        "rire",
+        "novembre"
+      ],
+      "choices_l2": [
+        "1. január",
+        "ovocný strom",
+        "desiata"
+      ]
+    },
+    {
+      "id": "qcm-vidie",
+      "type": "qcm",
+      "l1": "voir",
+      "l2": "vidieť",
+      "choices_l1": [
+        "pull",
+        "le retraité",
+        "onzième"
+      ],
+      "choices_l2": [
+        "motorka",
+        "minúta",
+        "šalát"
+      ]
+    },
+    {
+      "id": "qcm-po-u",
+      "type": "qcm",
+      "l1": "entendre",
+      "l2": "počuť",
+      "choices_l1": [
+        "orange",
+        "les Slovaques",
+        "enseignant(e)"
+      ],
+      "choices_l2": [
+        "tretí",
+        "nuž",
+        "ale"
+      ]
+    },
+    {
+      "id": "qcm-k-pi",
+      "type": "qcm",
+      "l1": "acheter",
+      "l2": "kúpiť",
+      "choices_l1": [
+        "l'entrée, l'adhésion",
+        "trentième",
+        "soudainement"
+      ],
+      "choices_l2": [
+        "peňaženka",
+        "odchod",
+        "výlet"
+      ]
+    },
+    {
+      "id": "qcm-preda",
+      "type": "qcm",
+      "l1": "vendre",
+      "l2": "predať",
+      "choices_l1": [
+        "biologie",
+        "jean",
+        "anniversaire"
+      ],
+      "choices_l2": [
+        "pracovná zmena",
+        "víno",
+        "bocian"
+      ]
+    },
+    {
+      "id": "qcm-h-ada",
+      "type": "qcm",
+      "l1": "chercher",
+      "l2": "hľadať",
+      "choices_l1": [
+        "nous voyons",
+        "le vin",
+        "le manteau"
+      ],
+      "choices_l2": [
+        "tvár",
+        "politik",
+        "príležitosť"
+      ]
+    },
+    {
+      "id": "qcm-n-js",
+      "type": "qcm",
+      "l1": "trouver",
+      "l2": "nájsť",
+      "choices_l1": [
+        "clé",
+        "la boulangerie",
+        "vert"
+      ],
+      "choices_l2": [
+        "noha",
+        "sveter",
+        "príroda"
+      ]
+    },
+    {
+      "id": "blank-r-no-vst-vam-o-siedmej",
+      "type": "fill-blank",
+      "l1": "Le matin je me lève à sept heures.",
+      "l2": "Ráno vstávam o siedmej.",
+      "missing_l1": "je",
+      "missing_l2": "o",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "heures",
+        "ne",
+        "me"
+      ],
+      "choices_l2": [
+        "som",
+        "dnes",
+        "si"
+      ]
+    },
+    {
+      "id": "blank-chod-m-spa-okolo-desiatej",
+      "type": "fill-blank",
+      "l1": "Je vais me coucher vers dix heures.",
+      "l2": "Chodím spať okolo desiatej.",
+      "missing_l1": "heures",
+      "missing_l2": "spať",
+      "blank_index_l1": 6,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "fait",
+        "ça",
+        "du"
+      ],
+      "choices_l2": [
+        "potom",
+        "koľko",
+        "moja"
+      ]
+    },
+    {
+      "id": "blank-hovor-po-slovensky",
+      "type": "fill-blank",
+      "l1": "Tu parles slovaque ?",
+      "l2": "Hovoríš po slovensky?",
+      "missing_l1": "slovaque",
+      "missing_l2": "po",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "est",
+        "me",
+        "où"
+      ],
+      "choices_l2": [
+        "ísť",
+        "mi",
+        "do"
+      ]
+    },
+    {
+      "id": "blank-nerozumiem-m-e-to-zopakova",
+      "type": "fill-blank",
+      "l1": "Je ne comprends pas, tu peux répéter ?",
+      "l2": "Nerozumiem, môžeš to zopakovať?",
+      "missing_l1": "pas",
+      "missing_l2": "to",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "fait",
+        "y",
+        "sur"
+      ],
+      "choices_l2": [
+        "na",
+        "veľmi",
+        "áno"
+      ]
+    },
+    {
+      "id": "blank-o-si-o-tom-mysl",
+      "type": "fill-blank",
+      "l1": "Qu'est-ce que tu en penses ?",
+      "l2": "Čo si o tom myslíš?",
+      "missing_l1": "en",
+      "missing_l2": "si",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "le",
+        "veux",
+        "et"
+      ],
+      "choices_l2": [
+        "tam",
+        "idem",
+        "ešte"
+      ]
+    },
+    {
+      "id": "blank-mus-m-s-domov",
+      "type": "fill-blank",
+      "l1": "Je dois rentrer à la maison.",
+      "l2": "Musím ísť domov.",
+      "missing_l1": "la",
+      "missing_l2": "ísť",
+      "blank_index_l1": 4,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "ça",
+        "à",
+        "je"
+      ],
+      "choices_l2": [
+        "ako",
+        "a",
+        "nemám"
+      ]
+    },
+    {
+      "id": "blank-m-e-mi-pom-c",
+      "type": "fill-blank",
+      "l1": "Tu peux m'aider ?",
+      "l2": "Môžeš mi pomôcť?",
+      "missing_l1": "peux",
+      "missing_l2": "mi",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "tu",
+        "mais",
+        "c'est"
+      ],
+      "choices_l2": [
+        "deň",
+        "je",
+        "nemám"
+      ]
+    },
+    {
+      "id": "blank-h-ad-m-svoje-k-e-nevidel-si-ich",
+      "type": "fill-blank",
+      "l1": "Je cherche mes clés, tu ne les as pas vues ?",
+      "l2": "Hľadám svoje kľúče, nevidel si ich?",
+      "missing_l1": "les",
+      "missing_l2": "si",
+      "blank_index_l1": 6,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "que",
+        "une",
+        "mais"
+      ],
+      "choices_l2": [
+        "kde",
+        "bolo",
+        "sú"
+      ]
+    },
+    {
+      "id": "listen-r-no-vst-vam-o-siedmej",
+      "type": "listen",
+      "l1": "Le matin je me lève à sept heures.",
+      "l2": "Ráno vstávam o siedmej.",
+      "choices_l1": [
+        "Non, seulement dix minutes. Ou prends le tram.",
+        "Le sac de couchage est chaud.",
+        "J'habite ici, dans une maison. J'ai un jardin."
+      ]
+    },
+    {
+      "id": "listen-chod-m-spa-okolo-desiatej",
+      "type": "listen",
+      "l1": "Je vais me coucher vers dix heures.",
+      "l2": "Chodím spať okolo desiatej.",
+      "choices_l1": [
+        "Mon anniversaire est le 6 août.",
+        "Le rocher est dur.",
+        "Les fruits sont frais et très sucrés."
+      ]
+    },
+    {
+      "id": "listen-hovor-po-slovensky",
+      "type": "listen",
+      "l1": "Tu parles slovaque ?",
+      "l2": "Hovoríš po slovensky?",
+      "choices_l1": [
+        "Nous avons teint les œufs le samedi saint, puis nous les avons donnés aux garçons.",
+        "Le soir je suis à la maison.",
+        "Oui, très bien. On était dehors avec des amis, on fêtait le nouvel an comme chaque année."
+      ]
+    },
+    {
+      "id": "listen-nerozumiem-m-e-to-zopakova",
+      "type": "listen",
+      "l1": "Je ne comprends pas, tu peux répéter ?",
+      "l2": "Nerozumiem, môžeš to zopakovať?",
+      "choices_l1": [
+        "C'est notre appartement.",
+        "La lampe est sur la table, mais le livre est sur l'étagère.",
+        "Le panier a un ruban coloré."
+      ]
+    },
+    {
+      "id": "listen-o-si-o-tom-mysl",
+      "type": "listen",
+      "l1": "Qu'est-ce que tu en penses ?",
+      "l2": "Čo si o tom myslíš?",
+      "choices_l1": [
+        "Les fruits sont sucrés.",
+        "J'arrive à cinq heures.",
+        "L'enfant dort dans la chambre."
+      ]
+    },
+    {
+      "id": "listen-o-rob",
+      "type": "listen",
+      "l1": "Qu'est-ce que tu fais ?",
+      "l2": "Čo robíš?",
+      "choices_l1": [
+        "Je leur ai donné des œufs comme récompense.",
+        "Le bus part à six heures, le train à sept heures.",
+        "Joyeux Noël et bonne année !"
+      ]
+    },
+    {
+      "id": "listen-mus-m-s-domov",
+      "type": "listen",
+      "l1": "Je dois rentrer à la maison.",
+      "l2": "Musím ísť domov.",
+      "choices_l1": [
+        "Aujourd'hui la frontière entre nous n'est qu'une formalité. Vous ne la remarquez même pas en y allant en voiture.",
+        "Que fais-tu pendant ton temps libre ?",
+        "Je suis assis sur la chaise."
+      ]
+    },
+    {
+      "id": "listen-m-e-mi-pom-c",
+      "type": "listen",
+      "l1": "Tu peux m'aider ?",
+      "l2": "Môžeš mi pomôcť?",
+      "choices_l1": [
+        "S'il fait beau le week-end, nous irons randonner.",
+        "Tu verras une église. Le musée est après le coin, à côté de l'église.",
+        "Mes parents sont retraités. Ils habitent tout près."
+      ]
+    },
+    {
+      "id": "listen-h-ad-m-svoje-k-e-nevidel-si-ich",
+      "type": "listen",
+      "l1": "Je cherche mes clés, tu ne les as pas vues ?",
+      "l2": "Hľadám svoje kľúče, nevidel si ich?",
+      "choices_l1": [
+        "Où est la cuillère ?",
+        "Les enfants veulent des fruits.",
+        "Je voudrais un billet pour Bratislava."
+      ]
+    },
+    {
+      "id": "order-r-no-vst-vam-o-siedmej",
+      "type": "order",
+      "l1": "Le matin je me lève à sept heures.",
+      "l2": "Ráno vstávam o siedmej.",
+      "tokens_l1": [
+        "Le",
+        "matin",
+        "je",
+        "me",
+        "lève",
+        "à",
+        "sept",
+        "heures.",
+        "Je",
+        "dois",
+        "rentrer",
+        "à",
+        "la",
+        "maison."
+      ],
+      "tokens_l2": [
+        "Ráno",
+        "vstávam",
+        "o",
+        "siedmej.",
+        "Musím",
+        "ísť",
+        "domov."
+      ]
+    },
+    {
+      "id": "order-chod-m-spa-okolo-desiatej",
+      "type": "order",
+      "l1": "Je vais me coucher vers dix heures.",
+      "l2": "Chodím spať okolo desiatej.",
+      "tokens_l1": [
+        "Je",
+        "vais",
+        "me",
+        "coucher",
+        "vers",
+        "dix",
+        "heures.",
+        "Je",
+        "cherche",
+        "mes",
+        "clés,",
+        "tu",
+        "ne",
+        "les",
+        "as",
+        "pas",
+        "vues",
+        "?"
+      ],
+      "tokens_l2": [
+        "Chodím",
+        "spať",
+        "okolo",
+        "desiatej.",
+        "Hľadám",
+        "svoje",
+        "kľúče,",
+        "nevidel",
+        "si",
+        "ich?"
+      ]
+    },
+    {
+      "id": "order-hovor-po-slovensky",
+      "type": "order",
+      "l1": "Tu parles slovaque ?",
+      "l2": "Hovoríš po slovensky?",
+      "tokens_l1": [
+        "Tu",
+        "parles",
+        "slovaque",
+        "?",
+        "Tu",
+        "peux",
+        "m'aider",
+        "?"
+      ],
+      "tokens_l2": [
+        "Hovoríš",
+        "po",
+        "slovensky?",
+        "Môžeš",
+        "mi",
+        "pomôcť?"
+      ]
+    },
+    {
+      "id": "order-nerozumiem-m-e-to-zopakova",
+      "type": "order",
+      "l1": "Je ne comprends pas, tu peux répéter ?",
+      "l2": "Nerozumiem, môžeš to zopakovať?",
+      "tokens_l1": [
+        "Je",
+        "ne",
+        "comprends",
+        "pas,",
+        "tu",
+        "peux",
+        "répéter",
+        "?",
+        "Je",
+        "dois",
+        "rentrer",
+        "à",
+        "la",
+        "maison."
+      ],
+      "tokens_l2": [
+        "Nerozumiem,",
+        "môžeš",
+        "to",
+        "zopakovať?",
+        "Musím",
+        "ísť",
+        "domov."
+      ]
+    },
+    {
+      "id": "order-o-si-o-tom-mysl",
+      "type": "order",
+      "l1": "Qu'est-ce que tu en penses ?",
+      "l2": "Čo si o tom myslíš?",
+      "tokens_l1": [
+        "Qu'est-ce",
+        "que",
+        "tu",
+        "en",
+        "penses",
+        "?",
+        "Tu",
+        "parles",
+        "slovaque",
+        "?"
+      ],
+      "tokens_l2": [
+        "Čo",
+        "si",
+        "o",
+        "tom",
+        "myslíš?",
+        "Hovoríš",
+        "po",
+        "slovensky?"
+      ]
+    },
+    {
+      "id": "order-mus-m-s-domov",
+      "type": "order",
+      "l1": "Je dois rentrer à la maison.",
+      "l2": "Musím ísť domov.",
+      "tokens_l1": [
+        "Je",
+        "dois",
+        "rentrer",
+        "à",
+        "la",
+        "maison.",
+        "Tu",
+        "peux",
+        "m'aider",
+        "?"
+      ],
+      "tokens_l2": [
+        "Musím",
+        "ísť",
+        "domov.",
+        "Môžeš",
+        "mi",
+        "pomôcť?"
+      ]
+    },
+    {
+      "id": "order-m-e-mi-pom-c",
+      "type": "order",
+      "l1": "Tu peux m'aider ?",
+      "l2": "Môžeš mi pomôcť?",
+      "tokens_l1": [
+        "Tu",
+        "peux",
+        "m'aider",
+        "?",
+        "Qu'est-ce",
+        "que",
+        "tu",
+        "en",
+        "penses",
+        "?"
+      ],
+      "tokens_l2": [
+        "Môžeš",
+        "mi",
+        "pomôcť?",
+        "Čo",
+        "si",
+        "o",
+        "tom",
+        "myslíš?"
+      ]
+    },
+    {
+      "id": "order-h-ad-m-svoje-k-e-nevidel-si-ich",
+      "type": "order",
+      "l1": "Je cherche mes clés, tu ne les as pas vues ?",
+      "l2": "Hľadám svoje kľúče, nevidel si ich?",
+      "tokens_l1": [
+        "Je",
+        "cherche",
+        "mes",
+        "clés,",
+        "tu",
+        "ne",
+        "les",
+        "as",
+        "pas",
+        "vues",
+        "?",
+        "Je",
+        "ne",
+        "comprends",
+        "pas,",
+        "tu",
+        "peux",
+        "répéter",
+        "?"
+      ],
+      "tokens_l2": [
+        "Hľadám",
+        "svoje",
+        "kľúče,",
+        "nevidel",
+        "si",
+        "ich?",
+        "Nerozumiem,",
+        "môžeš",
+        "to",
+        "zopakovať?"
+      ]
+    },
+    {
+      "id": "match-s-vocab",
+      "type": "match",
+      "l1": [
+        "aller (à pied, ponctuel)",
+        "aller (habituel, à pied)",
+        "courir",
+        "arriver, venir"
+      ],
+      "l2": [
+        "ísť",
+        "chodiť",
+        "bežať",
+        "prísť"
+      ]
+    },
+    {
+      "id": "match-r-no-vst-vam-o-siedmej-sentences",
+      "type": "match",
+      "l1": [
+        "Le matin je me lève à sept heures.",
+        "Je vais me coucher vers dix heures.",
+        "Tu parles slovaque ?",
+        "Je ne comprends pas, tu peux répéter ?"
+      ],
+      "l2": [
+        "Ráno vstávam o siedmej.",
+        "Chodím spať okolo desiatej.",
+        "Hovoríš po slovensky?",
+        "Nerozumiem, môžeš to zopakovať?"
+      ]
+    }
+  ]
+}

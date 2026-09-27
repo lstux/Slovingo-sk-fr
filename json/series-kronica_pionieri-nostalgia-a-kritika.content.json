@@ -1,0 +1,106 @@
+{
+  "id": "series-kronica_pionieri-nostalgia-a-kritika",
+  "category": "series",
+  "subgroup": "kronica_pionieri",
+  "subgroup_label": "Kronica pionieri",
+  "title": "Pionieri (3/3) — Medzi nostalgiou a kritikou",
+  "image": {
+    "src": "img/Stužica_primeval_forest,_Slovakia.jpg",
+    "caption": "Forêt primaire de Stužica, Slovaquie — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**L'organisation des pionniers n'était pas un choix, mais elle ne se vivait pas non plus comme une contrainte permanente.** Rattachée au parti communiste, l'adhésion était attendue de la quasi-totalité des enfants dès l'école primaire. Pourtant, une fois sur place, l'expérience concrète — jeux, chants, compétitions entre [[družiny]] — ressemblait à s'y méprendre à n'importe quel mouvement de jeunesse occidental de la même époque."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Les générations n'en parlent pas de la même façon.** Ceux qui avaient dix ans dans les années 70-80 gardent souvent un souvenir tendre des étés au [[tábor]], détaché du contexte politique qui l'encadrait. Leurs parents, en revanche, ou ceux qui ont vécu l'endoctrinement de plus près à l'âge adulte, portent un regard beaucoup plus critique sur l'ensemble du système dont ces camps faisaient partie."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le débat sur la nostalgie communiste reste vif en Slovaquie aujourd'hui.** Certains objets, chansons ou souvenirs d'enfance de cette époque sont réappropriés avec une pointe d'humour ou d'ironie — un peu comme un kitsch assumé — tandis que d'autres refusent catégoriquement toute forme de nostalgie envers une période de privation des libertés fondamentales. Il n'existe pas de consensus national sur la question, et le sujet peut encore diviser une même famille."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Séparer l'expérience personnelle du cadre politique n'a rien d'incohérent.** Beaucoup de Slovaques, comme Andrea, tiennent les deux fils en même temps : l'attachement sincère à des souvenirs d'enfance heureux, et une conscience claire du système autoritaire qui organisait ces mêmes souvenirs. Ce n'est pas une contradiction, mais une manière assez commune de faire la paix avec son propre passé."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le pont avec aujourd'hui",
+      "is_dialogue_section": true
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dnes existujú aj iné tábory, ale úplne iné, bez politiky.",
+      "speaker": "👩",
+      "natural": "Aujourd'hui il existe aussi d'autres camps, mais complètement différents, sans politique.",
+      "literal": [
+        "Dnes existujú = aujourd'hui il existe",
+        "aj iné tábory = aussi d'autres camps",
+        "úplne iné = complètement différents",
+        "bez politiky = sans politique"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Poslali by ste tam svoje dieťa, keby ste ho mali?",
+      "speaker": "👦",
+      "natural": "Enverriez-vous votre enfant là-bas, si vous en aviez un ?",
+      "literal": [
+        "Poslali by ste = enverriez-vous",
+        "svoje dieťa = votre enfant",
+        "keby ste ho mali = si vous en aviez un"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na podobný tábor, áno, prečo nie. Ale bez tej ideológie, samozrejme.",
+      "speaker": "👩",
+      "natural": "Dans un camp similaire, oui, pourquoi pas. Mais sans cette idéologie, bien sûr.",
+      "literal": [
+        "Na podobný tábor = dans un camp similaire",
+        "áno, prečo nie = oui, pourquoi pas",
+        "Ale bez tej ideológie = mais sans cette idéologie"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "S mojou mamou o tom hovoríme inak ako s kamarátkami z tábora.",
+      "speaker": "👩",
+      "natural": "J'en parle différemment avec ma mère qu'avec mes copines de camp.",
+      "literal": [
+        "S mojou mamou = avec ma mère",
+        "o tom hovoríme inak = j'en parle différemment",
+        "ako s kamarátkami z tábora = qu'avec mes copines de camp"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ďakujem, že ste mi to porozprávali. Teraz to chápem oveľa lepšie.",
+      "speaker": "👦",
+      "natural": "Merci de m'avoir raconté ça. Maintenant je comprends beaucoup mieux.",
+      "literal": [
+        "Ďakujem, že ste mi to porozprávali = merci de m'avoir raconté ça",
+        "Teraz to chápem oveľa lepšie = maintenant je comprends beaucoup mieux"
+      ],
+      "notes": []
+    }
+  ]
+}

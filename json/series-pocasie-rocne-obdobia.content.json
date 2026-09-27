@@ -1,0 +1,437 @@
+{
+  "id": "series-pocasie-rocne-obdobia",
+  "category": "series",
+  "subgroup": "pocasie",
+  "subgroup_label": "Pocasie",
+  "title": "Série Počasie (2/5) — Ročné obdobia",
+  "image": {
+    "src": "img/pocasie_02_autumn_colors.jpg",
+    "caption": "Couleurs d'automne — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Les quatre saisons, et le comparatif : plus chaud, plus froid. Une nouvelle terminaison à repérer, mais qui suit une logique simple."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "jar",
+          "le printemps"
+        ],
+        [
+          "leto",
+          "l'été"
+        ],
+        [
+          "jeseň",
+          "l'automne"
+        ],
+        [
+          "zima",
+          "l'hiver"
+        ],
+        [
+          "ročné obdobie",
+          "la saison"
+        ],
+        [
+          "obľúbený",
+          "préféré"
+        ],
+        [
+          "každý",
+          "chaque"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dire la saison"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "na jar",
+          "au printemps"
+        ],
+        [
+          "v lete",
+          "en été"
+        ],
+        [
+          "na jeseň",
+          "en automne"
+        ],
+        [
+          "v zime",
+          "en hiver"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme pour les jours, il n'y a pas de règle unique : *jar* et *jeseň* prennent *na*, *leto* et *zima* prennent *v*. Ça se fige vite avec la pratique."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le comparatif en -ejší / -šie"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "teplý → teplejší",
+          "chaud → plus chaud"
+        ],
+        [
+          "studený → studenejší",
+          "froid → plus froid"
+        ],
+        [
+          "krátky → kratší",
+          "court → plus court"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Le plus souvent, on ajoute **-ejší** à l'adjectif. Quelques mots courants comme *krátky* ont une forme plus courte irrégulière."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Aké je tvoje obľúbené ročné obdobie?",
+      "speaker": null,
+      "natural": "Quelle est ta saison préférée ?",
+      "literal": [
+        "Aké = quelle",
+        "je = est",
+        "tvoje = ta",
+        "obľúbené = préférée",
+        "ročné obdobie = saison"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám rád leto.",
+      "speaker": null,
+      "natural": "J'aime l'été.",
+      "literal": [
+        "Mám rád = j'aime",
+        "leto = l'été"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na jar je teplejšie ako v zime.",
+      "speaker": null,
+      "natural": "Au printemps il fait plus chaud qu'en hiver.",
+      "literal": [
+        "Na jar = au printemps",
+        "je teplejšie = il fait plus chaud",
+        "ako = que",
+        "v zime = qu'en hiver"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V lete sú dni dlhšie.",
+      "speaker": null,
+      "natural": "En été les jours sont plus longs.",
+      "literal": [
+        "V lete = en été",
+        "sú = sont",
+        "dni = les jours",
+        "dlhšie = plus longs"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na jeseň prší často.",
+      "speaker": null,
+      "natural": "En automne il pleut souvent.",
+      "literal": [
+        "Na jeseň = en automne",
+        "prší = il pleut",
+        "často = souvent"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V zime je noc dlhšia ako deň.",
+      "speaker": null,
+      "natural": "En hiver la nuit est plus longue que le jour.",
+      "literal": [
+        "V zime = en hiver",
+        "je = est",
+        "noc = la nuit",
+        "dlhšia = plus longue",
+        "ako = que",
+        "deň = le jour"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Každé ročné obdobie je iné.",
+      "speaker": null,
+      "natural": "Chaque saison est différente.",
+      "literal": [
+        "Každé = chaque",
+        "ročné obdobie = saison",
+        "je = est",
+        "iné = différente"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Toto leto je teplejšie ako minulé.",
+      "speaker": null,
+      "natural": "Cet été est plus chaud que le précédent.",
+      "literal": [
+        "Toto leto = cet été",
+        "je teplejšie = est plus chaud",
+        "ako = que",
+        "minulé = le précédent"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V zime sneží, ale na jar svieti slnko.",
+      "speaker": null,
+      "natural": "En hiver il neige, mais au printemps le soleil brille.",
+      "literal": [
+        "V zime = en hiver",
+        "sneží = il neige",
+        "ale = mais",
+        "na jar = au printemps",
+        "svieti slnko = le soleil brille"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dnes je chladnejšie ako včera.",
+      "speaker": null,
+      "natural": "Aujourd'hui il fait plus frais qu'hier.",
+      "literal": [
+        "Dnes = aujourd'hui",
+        "je chladnejšie = il fait plus frais",
+        "ako = que",
+        "včera = qu'hier"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám rád jeseň, lebo farby sú pekné.",
+      "speaker": null,
+      "natural": "J'aime l'automne, parce que les couleurs sont belles.",
+      "literal": [
+        "Mám rád = j'aime",
+        "jeseň = l'automne",
+        "lebo = parce que",
+        "farby = les couleurs",
+        "sú = sont",
+        "pekné = belles"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**L'automne dans les Tatras attire les photographes du monde entier.** Les mélèzes qui virent au jaune doré contre le vert sombre des sapins créent un contraste spectaculaire, surtout dans les vallées de la Basse Tatra et de la région de Liptov."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le printemps commence par la fonte des neiges.** [[Jar]] est associé au réveil de la nature et à Pâques, souvent célébrée quand la neige recule encore dans les montagnes. On plante, on nettoie, on prépare les jardins."
+    },
+    {
+      "type": "paragraph",
+      "text": "**L'hiver rythme le calendrier social.** Entre Noël, le Nouvel An et les vacances de ski scolaires, [[zima]] est la saison où les familles se retrouvent le plus. Beaucoup possèdent ou louent un chalet en montagne pour cette période."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "lístie",
+          "les feuilles"
+        ],
+        [
+          "kvet",
+          "la fleur"
+        ],
+        [
+          "tráva",
+          "l'herbe"
+        ],
+        [
+          "horúčava",
+          "la canicule"
+        ],
+        [
+          "mráz",
+          "le gel"
+        ],
+        [
+          "deň",
+          "le jour"
+        ],
+        [
+          "noc",
+          "la nuit"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na jeseň padá lístie.",
+      "speaker": null,
+      "natural": "En automne les feuilles tombent.",
+      "literal": [
+        "Na jeseň = en automne",
+        "padá = tombe",
+        "lístie = les feuilles"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na jar kvitnú kvety.",
+      "speaker": null,
+      "natural": "Au printemps les fleurs fleurissent.",
+      "literal": [
+        "Na jar = au printemps",
+        "kvitnú = fleurissent",
+        "kvety = les fleurs"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V lete je niekedy horúčava.",
+      "speaker": null,
+      "natural": "En été il y a parfois une canicule.",
+      "literal": [
+        "V lete = en été",
+        "je = il y a",
+        "niekedy = parfois",
+        "horúčava = une canicule"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Tráva je zelená a mokrá.",
+      "speaker": null,
+      "natural": "L'herbe est verte et mouillée.",
+      "literal": [
+        "Tráva = l'herbe",
+        "je = est",
+        "zelená = verte",
+        "a = et",
+        "mokrá = mouillée"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V zime je silný mráz.",
+      "speaker": null,
+      "natural": "En hiver il y a un fort gel.",
+      "literal": [
+        "V zime = en hiver",
+        "je = il y a",
+        "silný = fort",
+        "mráz = gel"
+      ],
+      "notes": []
+    }
+  ]
+}

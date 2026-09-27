@@ -1,0 +1,477 @@
+{
+  "id": "series-pocasie-extra",
+  "category": "series",
+  "subgroup": "pocasie",
+  "subgroup_label": "Pocasie",
+  "title": "Série Počasie (extra) — Všetko dokopy",
+  "image": {
+    "src": "img/pocasie_06_strbske_pleso_trail.jpg",
+    "caption": "Sentier de randonnée, Štrbské Pleso — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Aucun mot nouveau. Tout le vocabulaire de la série est rassemblé, puis recombiné dans des phrases inédites."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tout le vocabulaire de la série"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "počasie",
+          "le temps (météo)"
+        ],
+        [
+          "slnko",
+          "le soleil"
+        ],
+        [
+          "dážď",
+          "la pluie"
+        ],
+        [
+          "sneh",
+          "la neige"
+        ],
+        [
+          "vietor",
+          "le vent"
+        ],
+        [
+          "oblak",
+          "le nuage"
+        ],
+        [
+          "búrka",
+          "l'orage"
+        ],
+        [
+          "dáždnik",
+          "le parapluie"
+        ],
+        [
+          "mrznúť",
+          "geler"
+        ],
+        [
+          "teplota",
+          "la température"
+        ],
+        [
+          "stupeň",
+          "le degré"
+        ],
+        [
+          "hmla",
+          "le brouillard"
+        ],
+        [
+          "dúha",
+          "l'arc-en-ciel"
+        ],
+        [
+          "obloha",
+          "le ciel"
+        ],
+        [
+          "jar",
+          "le printemps"
+        ],
+        [
+          "leto",
+          "l'été"
+        ],
+        [
+          "jeseň",
+          "l'automne"
+        ],
+        [
+          "zima",
+          "l'hiver"
+        ],
+        [
+          "ročné obdobie",
+          "la saison"
+        ],
+        [
+          "obľúbený",
+          "préféré"
+        ],
+        [
+          "každý",
+          "chaque"
+        ],
+        [
+          "lístie",
+          "les feuilles"
+        ],
+        [
+          "kvet",
+          "la fleur"
+        ],
+        [
+          "tráva",
+          "l'herbe"
+        ],
+        [
+          "horúčava",
+          "la canicule"
+        ],
+        [
+          "mráz",
+          "le gel"
+        ],
+        [
+          "deň",
+          "le jour"
+        ],
+        [
+          "noc",
+          "la nuit"
+        ],
+        [
+          "obliecť si",
+          "mettre, enfiler"
+        ],
+        [
+          "kabát",
+          "le manteau"
+        ],
+        [
+          "šál",
+          "l'écharpe"
+        ],
+        [
+          "rukavice",
+          "les gants"
+        ],
+        [
+          "slnečné okuliare",
+          "les lunettes de soleil"
+        ],
+        [
+          "musieť",
+          "devoir"
+        ],
+        [
+          "čižmy",
+          "les bottes"
+        ],
+        [
+          "plášť do dažďa",
+          "l'imperméable"
+        ],
+        [
+          "krémy na opaľovanie",
+          "la crème solaire"
+        ],
+        [
+          "šiltovka",
+          "la casquette"
+        ],
+        [
+          "ponožky",
+          "les chaussettes"
+        ],
+        [
+          "teplota vzduchu",
+          "la température de l'air"
+        ],
+        [
+          "oblečenie",
+          "les vêtements"
+        ],
+        [
+          "predpoveď",
+          "la prévision"
+        ],
+        [
+          "zajtra bude",
+          "demain il fera / il y aura"
+        ],
+        [
+          "slnečno",
+          "ensoleillé"
+        ],
+        [
+          "oblačno",
+          "nuageux"
+        ],
+        [
+          "daždivo",
+          "pluvieux"
+        ],
+        [
+          "meniť",
+          "changer"
+        ],
+        [
+          "plán",
+          "le plan"
+        ],
+        [
+          "zostať",
+          "rester"
+        ],
+        [
+          "vonku",
+          "dehors"
+        ],
+        [
+          "vnútri",
+          "à l'intérieur"
+        ],
+        [
+          "výlet",
+          "l'excursion"
+        ],
+        [
+          "turistika",
+          "la randonnée"
+        ],
+        [
+          "upozornenie",
+          "l'alerte"
+        ],
+        [
+          "istota",
+          "la certitude"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na jar prší často, tak vždy nosím dáždnik.",
+      "speaker": null,
+      "natural": "Au printemps il pleut souvent, alors je porte toujours un parapluie.",
+      "literal": [
+        "Na jar = au printemps",
+        "prší = il pleut",
+        "často = souvent",
+        "tak = alors",
+        "vždy = toujours",
+        "nosím = je porte",
+        "dáždnik = un parapluie"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Toto leto je horúčava, teplota je tridsať stupňov.",
+      "speaker": null,
+      "natural": "Cet été il fait canicule, la température est de trente degrés.",
+      "literal": [
+        "Toto leto = cet été",
+        "je horúčava = il fait canicule",
+        "teplota = la température",
+        "je = est",
+        "tridsať stupňov = trente degrés"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V zime musím nosiť kabát, šál a rukavice.",
+      "speaker": null,
+      "natural": "En hiver je dois porter un manteau, une écharpe et des gants.",
+      "literal": [
+        "V zime = en hiver",
+        "musím nosiť = je dois porter",
+        "kabát = un manteau",
+        "šál = une écharpe",
+        "a = et",
+        "rukavice = des gants"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ak bude slnečno na víkend, pôjdeme na turistiku.",
+      "speaker": null,
+      "natural": "S'il fait beau le week-end, nous irons randonner.",
+      "literal": [
+        "Ak bude slnečno = s'il fait beau",
+        "na víkend = le week-end",
+        "pôjdeme = nous irons",
+        "na turistiku = randonner"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na jeseň padá lístie a oblaky sú tmavšie.",
+      "speaker": null,
+      "natural": "En automne les feuilles tombent et les nuages sont plus sombres.",
+      "literal": [
+        "Na jeseň = en automne",
+        "padá = tombe",
+        "lístie = les feuilles",
+        "a = et",
+        "oblaky = les nuages",
+        "sú = sont",
+        "tmavšie = plus sombres"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Predpoveď hovorí, že zajtra bude búrka.",
+      "speaker": null,
+      "natural": "Les prévisions disent que demain il y aura un orage.",
+      "literal": [
+        "Predpoveď = les prévisions",
+        "hovorí = disent",
+        "že = que",
+        "zajtra = demain",
+        "bude búrka = il y aura un orage"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Musíme zostať vnútri, vonku mrzne.",
+      "speaker": null,
+      "natural": "Nous devons rester à l'intérieur, dehors il gèle.",
+      "literal": [
+        "Musíme zostať = nous devons rester",
+        "vnútri = à l'intérieur",
+        "vonku = dehors",
+        "mrzne = il gèle"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Obľúbené ročné obdobie mojej sestry je jar, lebo kvitnú kvety.",
+      "speaker": null,
+      "natural": "La saison préférée de ma sœur est le printemps, parce que les fleurs fleurissent.",
+      "literal": [
+        "Obľúbené ročné obdobie = la saison préférée",
+        "mojej sestry = de ma sœur",
+        "je jar = est le printemps",
+        "lebo = parce que",
+        "kvitnú = fleurissent",
+        "kvety = les fleurs"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je hmla, tak musíme meniť plán výletu.",
+      "speaker": null,
+      "natural": "Il y a du brouillard, alors nous devons changer le plan de l'excursion.",
+      "literal": [
+        "Je hmla = il y a du brouillard",
+        "tak = alors",
+        "musíme meniť = nous devons changer",
+        "plán výletu = le plan de l'excursion"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V horách je vždy chladnejšie, tak beriem šiltovku a bundu.",
+      "speaker": null,
+      "natural": "En montagne il fait toujours plus frais, alors je prends une casquette et une veste.",
+      "literal": [
+        "V horách = en montagne",
+        "je vždy chladnejšie = il fait toujours plus frais",
+        "tak = alors",
+        "beriem = je prends",
+        "šiltovku = une casquette",
+        "a bundu = et une veste"
+      ],
+      "notes": [
+        "« brať » signifie prendre, au présent."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Po búrke je krásna dúha na oblohe.",
+      "speaker": null,
+      "natural": "Après l'orage il y a un bel arc-en-ciel dans le ciel.",
+      "literal": [
+        "Po búrke = après l'orage",
+        "je = il y a",
+        "krásna dúha = un bel arc-en-ciel",
+        "na oblohe = dans le ciel"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je upozornenie na sneh, cesty budú nebezpečné.",
+      "speaker": null,
+      "natural": "Il y a une alerte neige, les routes seront dangereuses.",
+      "literal": [
+        "Je = il y a",
+        "upozornenie na sneh = une alerte neige",
+        "cesty = les routes",
+        "budú = seront",
+        "nebezpečné = dangereuses"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nemusíš nosiť plášť do dažďa, dnes je slnečno.",
+      "speaker": null,
+      "natural": "Tu n'as pas besoin de porter un imperméable, aujourd'hui il fait beau.",
+      "literal": [
+        "Nemusíš nosiť = tu n'as pas besoin de porter",
+        "plášť do dažďa = un imperméable",
+        "dnes = aujourd'hui",
+        "je slnečno = il fait beau"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Krémy na opaľovanie sú dôležité v lete, slnko je silné.",
+      "speaker": null,
+      "natural": "La crème solaire est importante en été, le soleil est fort.",
+      "literal": [
+        "Krémy na opaľovanie = la crème solaire",
+        "sú = sont",
+        "dôležité = importante",
+        "v lete = en été",
+        "slnko = le soleil",
+        "je = est",
+        "silné = fort"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Toto ročné obdobie je krajšie ako minulé.",
+      "speaker": null,
+      "natural": "Cette saison est plus belle que la précédente.",
+      "literal": [
+        "Toto ročné obdobie = cette saison",
+        "je krajšie = est plus belle",
+        "ako minulé = que la précédente"
+      ],
+      "notes": []
+    }
+  ]
+}

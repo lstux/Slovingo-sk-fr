@@ -1,0 +1,697 @@
+{
+  "id": "vocabulary-partie-1",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "Vocabulaire - Partie 1",
+  "image": null,
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "😊 Émotions et caractère"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "šťastný",
+          "heureux"
+        ],
+        [
+          "smutný",
+          "triste"
+        ],
+        [
+          "nahnevaný",
+          "en colère"
+        ],
+        [
+          "pokojný",
+          "calme"
+        ],
+        [
+          "unavený",
+          "fatigué"
+        ],
+        [
+          "veselý",
+          "joyeux"
+        ],
+        [
+          "dobrý",
+          "gentil, bon"
+        ],
+        [
+          "zlý",
+          "méchant"
+        ],
+        [
+          "múdry",
+          "intelligent"
+        ],
+        [
+          "hlúpy",
+          "stupide"
+        ],
+        [
+          "odvážny",
+          "courageux"
+        ],
+        [
+          "plachý",
+          "timide"
+        ],
+        [
+          "silný",
+          "fort"
+        ],
+        [
+          "slabý",
+          "faible"
+        ],
+        [
+          "milý",
+          "sympathique"
+        ],
+        [
+          "trpezlivý",
+          "patient"
+        ],
+        [
+          "netrpezlivý",
+          "impatient"
+        ],
+        [
+          "úprimný",
+          "honnête"
+        ],
+        [
+          "priateľský",
+          "amical"
+        ],
+        [
+          "nervózny",
+          "nerveux"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dnes som veľmi šťastný.",
+      "speaker": null,
+      "natural": "Aujourd'hui, je suis très heureux.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Prečo si smutný?",
+      "speaker": null,
+      "natural": "Pourquoi es-tu triste ?",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Som trochu unavený.",
+      "speaker": null,
+      "natural": "Je suis un peu fatigué.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je veľmi milá.",
+      "speaker": null,
+      "natural": "Elle est très gentille.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Buď pokojný.",
+      "speaker": null,
+      "natural": "Sois calme.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "❤️ Relations"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "rodina",
+          "famille"
+        ],
+        [
+          "otec",
+          "père"
+        ],
+        [
+          "mama",
+          "mère"
+        ],
+        [
+          "brat",
+          "frère"
+        ],
+        [
+          "sestra",
+          "sœur"
+        ],
+        [
+          "syn",
+          "fils"
+        ],
+        [
+          "dcéra",
+          "fille"
+        ],
+        [
+          "dieťa",
+          "enfant"
+        ],
+        [
+          "priateľ",
+          "ami"
+        ],
+        [
+          "priateľka",
+          "amie / petite amie"
+        ],
+        [
+          "manžel",
+          "mari"
+        ],
+        [
+          "manželka",
+          "épouse"
+        ],
+        [
+          "sused",
+          "voisin"
+        ],
+        [
+          "kolega",
+          "collègue"
+        ],
+        [
+          "známy",
+          "connaissance"
+        ],
+        [
+          "láska",
+          "amour"
+        ],
+        [
+          "pomoc",
+          "aide"
+        ],
+        [
+          "stretnutie",
+          "rencontre"
+        ],
+        [
+          "hosť",
+          "invité"
+        ],
+        [
+          "pár",
+          "couple"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Toto je moja rodina.",
+      "speaker": null,
+      "natural": "Voici ma famille.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám dobrého priateľa.",
+      "speaker": null,
+      "natural": "J'ai un bon ami.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moja sestra býva v Košiciach.",
+      "speaker": null,
+      "natural": "Ma sœur habite à Košice.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Radi pomáhame priateľom.",
+      "speaker": null,
+      "natural": "Nous aidons volontiers nos amis.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ďakujem za pomoc.",
+      "speaker": null,
+      "natural": "Merci pour ton aide.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "👕 Vêtements et parties du corps"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "hlava",
+          "tête"
+        ],
+        [
+          "tvár",
+          "visage"
+        ],
+        [
+          "oko",
+          "œil"
+        ],
+        [
+          "nos",
+          "nez"
+        ],
+        [
+          "ústa",
+          "bouche"
+        ],
+        [
+          "ucho",
+          "oreille"
+        ],
+        [
+          "ruka",
+          "main / bras"
+        ],
+        [
+          "prst",
+          "doigt"
+        ],
+        [
+          "noha",
+          "jambe / pied"
+        ],
+        [
+          "srdce",
+          "cœur"
+        ],
+        [
+          "tričko",
+          "t-shirt"
+        ],
+        [
+          "košeľa",
+          "chemise"
+        ],
+        [
+          "nohavice",
+          "pantalon"
+        ],
+        [
+          "šaty",
+          "robe"
+        ],
+        [
+          "sukňa",
+          "jupe"
+        ],
+        [
+          "bunda",
+          "veste"
+        ],
+        [
+          "kabát",
+          "manteau"
+        ],
+        [
+          "topánky",
+          "chaussures"
+        ],
+        [
+          "ponožky",
+          "chaussettes"
+        ],
+        [
+          "čiapka",
+          "bonnet / casquette"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Bolí ma hlava.",
+      "speaker": null,
+      "natural": "J'ai mal à la tête.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám nové topánky.",
+      "speaker": null,
+      "natural": "J'ai de nouvelles chaussures.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kde je moja bunda?",
+      "speaker": null,
+      "natural": "Où est ma veste ?",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Má modré oči.",
+      "speaker": null,
+      "natural": "Il / Elle a les yeux bleus.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Obleč si kabát.",
+      "speaker": null,
+      "natural": "Mets ton manteau.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🍽️ Nourriture et cuisine"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "chlieb",
+          "pain"
+        ],
+        [
+          "maslo",
+          "beurre"
+        ],
+        [
+          "syr",
+          "fromage"
+        ],
+        [
+          "vajce",
+          "œuf"
+        ],
+        [
+          "mäso",
+          "viande"
+        ],
+        [
+          "ryba",
+          "poisson"
+        ],
+        [
+          "zelenina",
+          "légumes"
+        ],
+        [
+          "ovocie",
+          "fruits"
+        ],
+        [
+          "jablko",
+          "pomme"
+        ],
+        [
+          "zemiak",
+          "pomme de terre"
+        ],
+        [
+          "polievka",
+          "soupe"
+        ],
+        [
+          "voda",
+          "eau"
+        ],
+        [
+          "káva",
+          "café"
+        ],
+        [
+          "čaj",
+          "thé"
+        ],
+        [
+          "cukor",
+          "sucre"
+        ],
+        [
+          "soľ",
+          "sel"
+        ],
+        [
+          "tanier",
+          "assiette"
+        ],
+        [
+          "pohár",
+          "verre"
+        ],
+        [
+          "lyžica",
+          "cuillère"
+        ],
+        [
+          "nôž",
+          "couteau"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dám si kávu.",
+      "speaker": null,
+      "natural": "Je vais prendre un café.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem pohár vody.",
+      "speaker": null,
+      "natural": "Je voudrais un verre d'eau.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Polievka je veľmi dobrá.",
+      "speaker": null,
+      "natural": "La soupe est très bonne.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ješ rád ovocie?",
+      "speaker": null,
+      "natural": "Aimes-tu les fruits ?",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kde je lyžica?",
+      "speaker": null,
+      "natural": "Où est la cuillère ?",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏢 Lieux et bâtiments"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "dom",
+          "maison"
+        ],
+        [
+          "byt",
+          "appartement"
+        ],
+        [
+          "budova",
+          "bâtiment"
+        ],
+        [
+          "škola",
+          "école"
+        ],
+        [
+          "nemocnica",
+          "hôpital"
+        ],
+        [
+          "lekáreň",
+          "pharmacie"
+        ],
+        [
+          "obchod",
+          "magasin"
+        ],
+        [
+          "reštaurácia",
+          "restaurant"
+        ],
+        [
+          "hotel",
+          "hôtel"
+        ],
+        [
+          "stanica",
+          "gare"
+        ],
+        [
+          "letisko",
+          "aéroport"
+        ],
+        [
+          "banka",
+          "banque"
+        ],
+        [
+          "pošta",
+          "poste"
+        ],
+        [
+          "kostol",
+          "église"
+        ],
+        [
+          "múzeum",
+          "musée"
+        ],
+        [
+          "park",
+          "parc"
+        ],
+        [
+          "námestie",
+          "place"
+        ],
+        [
+          "kancelária",
+          "bureau"
+        ],
+        [
+          "toaleta",
+          "toilettes"
+        ],
+        [
+          "výťah",
+          "ascenseur"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kde je stanica?",
+      "speaker": null,
+      "natural": "Où est la gare ?",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ideme do reštaurácie.",
+      "speaker": null,
+      "natural": "Nous allons au restaurant.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Hotel je blízko centra.",
+      "speaker": null,
+      "natural": "L'hôtel est près du centre.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Hľadám lekáreň.",
+      "speaker": null,
+      "natural": "Je cherche une pharmacie.",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Bývam v byte.",
+      "speaker": null,
+      "natural": "J'habite dans un appartement.",
+      "literal": [],
+      "notes": []
+    }
+  ]
+}

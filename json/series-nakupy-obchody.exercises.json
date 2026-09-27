@@ -1,0 +1,1036 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-obchod",
+      "type": "qcm",
+      "l1": "le magasin",
+      "l2": "obchod",
+      "choices_l1": [
+        "le chalet",
+        "les fruits",
+        "tu manges"
+      ],
+      "choices_l2": [
+        "v skrini",
+        "malá sestra",
+        "streda"
+      ]
+    },
+    {
+      "id": "qcm-potraviny",
+      "type": "qcm",
+      "l1": "l'épicerie",
+      "l2": "potraviny",
+      "choices_l1": [
+        "la fille",
+        "un an",
+        "les lunettes"
+      ],
+      "choices_l2": [
+        "vstávať",
+        "okno, mesto",
+        "my prídeme"
+      ]
+    },
+    {
+      "id": "qcm-pek-re",
+      "type": "qcm",
+      "l1": "la boulangerie",
+      "l2": "pekáreň",
+      "choices_l1": [
+        "les fruits",
+        "rassasié",
+        "l'année"
+      ],
+      "choices_l2": [
+        "langoše",
+        "pivnica",
+        "oni jedia"
+      ]
+    },
+    {
+      "id": "qcm-m-siarstvo",
+      "type": "qcm",
+      "l1": "la boucherie",
+      "l2": "mäsiarstvo",
+      "choices_l1": [
+        "commencer",
+        "le mois",
+        "dans l'armoire"
+      ],
+      "choices_l2": [
+        "voda",
+        "ja jem",
+        "dlho"
+      ]
+    },
+    {
+      "id": "qcm-lek-re",
+      "type": "qcm",
+      "l1": "la pharmacie",
+      "l2": "lekáreň",
+      "choices_l1": [
+        "la sœur",
+        "samedi",
+        "ouvrir"
+      ],
+      "choices_l2": [
+        "v pondelok",
+        "kúpeľňa",
+        "sesternica"
+      ]
+    },
+    {
+      "id": "qcm-trh",
+      "type": "qcm",
+      "l1": "le marché",
+      "l2": "trh",
+      "choices_l1": [
+        "l'hôpital",
+        "le soir",
+        "le médecin"
+      ],
+      "choices_l2": [
+        "víkend",
+        "čaj",
+        "my prídeme"
+      ]
+    },
+    {
+      "id": "qcm-kupova",
+      "type": "qcm",
+      "l1": "acheter",
+      "l2": "kupovať",
+      "choices_l1": [
+        "le quart",
+        "la clé",
+        "peu"
+      ],
+      "choices_l2": [
+        "ja pijem",
+        "oni pracujú",
+        "hneď"
+      ]
+    },
+    {
+      "id": "qcm-ja-kupujem",
+      "type": "qcm",
+      "l1": "j'achète",
+      "l2": "ja kupujem",
+      "choices_l1": [
+        "l'école",
+        "nous faisons",
+        "l'heure"
+      ],
+      "choices_l2": [
+        "telefón",
+        "počúvať",
+        "chvíľa"
+      ]
+    },
+    {
+      "id": "qcm-ty-kupuje",
+      "type": "qcm",
+      "l1": "tu achètes",
+      "l2": "ty kupuješ",
+      "choices_l1": [
+        "les lunettes",
+        "maintenant",
+        "beaucoup"
+      ],
+      "choices_l2": [
+        "víkend",
+        "vždy",
+        "čakať"
+      ]
+    },
+    {
+      "id": "qcm-on-ona-kupuje",
+      "type": "qcm",
+      "l1": "il / elle achète",
+      "l2": "on / ona kupuje",
+      "choices_l1": [
+        "Je cherche le livre.",
+        "les halušky, petites quenelles de pomme de terre",
+        "sur la chaise"
+      ],
+      "choices_l2": [
+        "byt → v byte",
+        "mlieko je dobré",
+        "upratujem → neupratujem"
+      ]
+    },
+    {
+      "id": "qcm-my-kupujeme",
+      "type": "qcm",
+      "l1": "nous achetons",
+      "l2": "my kupujeme",
+      "choices_l1": [
+        "la tante",
+        "l'école",
+        "s'appeler"
+      ],
+      "choices_l2": [
+        "kyslý",
+        "oddychovať",
+        "izba"
+      ]
+    },
+    {
+      "id": "qcm-idem-do-obchodu",
+      "type": "qcm",
+      "l1": "Je vais au magasin.",
+      "l2": "Idem do obchodu.",
+      "choices_l1": [
+        "il / elle fait",
+        "le pain est bon (masculin)",
+        "à une heure"
+      ],
+      "choices_l2": [
+        "mesto → v meste",
+        "on / ona ide",
+        "trištvrte na šesť"
+      ]
+    },
+    {
+      "id": "qcm-idem-do-pek-rne",
+      "type": "qcm",
+      "l1": "Je vais à la boulangerie.",
+      "l2": "Idem do pekárne.",
+      "choices_l1": [
+        "plaire au goût",
+        "Je n'ai pas faim.",
+        "je ne dors pas"
+      ],
+      "choices_l2": [
+        "Dám si pivo.",
+        "okno → Vidím okno.",
+        "Aké je to?"
+      ]
+    },
+    {
+      "id": "qcm-idem-do-lek-rne",
+      "type": "qcm",
+      "l1": "Je vais à la pharmacie.",
+      "l2": "Idem do lekárne.",
+      "choices_l1": [
+        "il / elle va",
+        "la pièce, la chambre",
+        "C'est une pièce."
+      ],
+      "choices_l2": [
+        "on / ona hľadá",
+        "on / ona pracuje",
+        "okno → Vidím okno."
+      ]
+    },
+    {
+      "id": "qcm-poklad-a",
+      "type": "qcm",
+      "l1": "la caisse",
+      "l2": "pokladňa",
+      "choices_l1": [
+        "je suis",
+        "la grand-mère",
+        "laver"
+      ],
+      "choices_l2": [
+        "obed",
+        "zemiaky",
+        "o tretej"
+      ]
+    },
+    {
+      "id": "qcm-ko-k",
+      "type": "qcm",
+      "l1": "le panier",
+      "l2": "košík",
+      "choices_l1": [
+        "se retrouver",
+        "la cave",
+        "la fenêtre"
+      ],
+      "choices_l2": [
+        "nôž",
+        "ja prídem",
+        "pol šiestej"
+      ]
+    },
+    {
+      "id": "qcm-voz-k",
+      "type": "qcm",
+      "l1": "le chariot",
+      "l2": "vozík",
+      "choices_l1": [
+        "la bière",
+        "environ",
+        "tu es"
+      ],
+      "choices_l2": [
+        "strecha",
+        "kľúč",
+        "rodina"
+      ]
+    },
+    {
+      "id": "qcm-predava",
+      "type": "qcm",
+      "l1": "le vendeur",
+      "l2": "predavač",
+      "choices_l1": [
+        "le sac",
+        "j'habite",
+        "l'appartement"
+      ],
+      "choices_l2": [
+        "otec",
+        "dvor",
+        "Mám smäd."
+      ]
+    },
+    {
+      "id": "qcm-predava-ka",
+      "type": "qcm",
+      "l1": "la vendeuse",
+      "l2": "predavačka",
+      "choices_l1": [
+        "hier",
+        "plein, rassasié",
+        "l'œuf"
+      ],
+      "choices_l2": [
+        "babka",
+        "tanier",
+        "rodina"
+      ]
+    },
+    {
+      "id": "qcm-otvoren",
+      "type": "qcm",
+      "l1": "ouvert",
+      "l2": "otvorené",
+      "choices_l1": [
+        "vous habitez",
+        "tu bois",
+        "tu travailles"
+      ],
+      "choices_l2": [
+        "ty bývaš",
+        "bratranec",
+        "teraz"
+      ]
+    },
+    {
+      "id": "qcm-zatvoren",
+      "type": "qcm",
+      "l1": "fermé",
+      "l2": "zatvorené",
+      "choices_l1": [
+        "affamé",
+        "faire",
+        "ensemble"
+      ],
+      "choices_l2": [
+        "Mám hlad.",
+        "dvere",
+        "nemocnica"
+      ]
+    },
+    {
+      "id": "blank-idem-do-obchodu",
+      "type": "fill-blank",
+      "l1": "Je vais au magasin.",
+      "l2": "Idem do obchodu.",
+      "missing_l1": "au",
+      "missing_l2": "do",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "elle",
+        "une",
+        "mon"
+      ],
+      "choices_l2": [
+        "a",
+        "v",
+        "moja"
+      ]
+    },
+    {
+      "id": "blank-kupujem-chlieb-v-pek-rni",
+      "type": "fill-blank",
+      "l1": "J'achète du pain à la boulangerie.",
+      "l2": "Kupujem chlieb v pekárni.",
+      "missing_l1": "la",
+      "missing_l2": "v",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "plaît",
+        "les",
+        "sont"
+      ],
+      "choices_l2": [
+        "ale",
+        "otec",
+        "kde"
+      ]
+    },
+    {
+      "id": "blank-ide-do-potrav-n",
+      "type": "fill-blank",
+      "l1": "Tu vas à l'épicerie ?",
+      "l2": "Ideš do potravín?",
+      "missing_l1": "à",
+      "missing_l2": "do",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "c'est",
+        "le",
+        "pas"
+      ],
+      "choices_l2": [
+        "otec",
+        "mám",
+        "čas"
+      ]
+    },
+    {
+      "id": "blank-m-so-kupujem-v-m-siarstve",
+      "type": "fill-blank",
+      "l1": "J'achète la viande à la boucherie.",
+      "l2": "Mäso kupujem v mäsiarstve.",
+      "missing_l1": "la",
+      "missing_l2": "v",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "un",
+        "suis",
+        "et"
+      ],
+      "choices_l2": [
+        "si",
+        "máme",
+        "na"
+      ]
+    },
+    {
+      "id": "blank-idem-do-lek-rne",
+      "type": "fill-blank",
+      "l1": "Je vais à la pharmacie.",
+      "l2": "Idem do lekárne.",
+      "missing_l1": "la",
+      "missing_l2": "do",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "soupe",
+        "une",
+        "mais"
+      ],
+      "choices_l2": [
+        "prídem",
+        "je",
+        "rokov"
+      ]
+    },
+    {
+      "id": "blank-v-sobotu-je-trh",
+      "type": "fill-blank",
+      "l1": "Le samedi il y a un marché.",
+      "l2": "V sobotu je trh.",
+      "missing_l1": "un",
+      "missing_l2": "je",
+      "blank_index_l1": 5,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "en",
+        "est",
+        "plaît"
+      ],
+      "choices_l2": [
+        "pol",
+        "siedmej",
+        "kuchyni"
+      ]
+    },
+    {
+      "id": "blank-poklad-a-je-tam",
+      "type": "fill-blank",
+      "l1": "La caisse est là-bas.",
+      "l2": "Pokladňa je tam.",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "nous",
+        "les",
+        "maison"
+      ],
+      "choices_l2": [
+        "na",
+        "kuchyni",
+        "ráno"
+      ]
+    },
+    {
+      "id": "blank-kde-je-ko-k",
+      "type": "fill-blank",
+      "l1": "Où est le panier ?",
+      "l2": "Kde je košík?",
+      "missing_l1": "le",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "nous",
+        "où",
+        "de"
+      ],
+      "choices_l2": [
+        "ja",
+        "prídem",
+        "si"
+      ]
+    },
+    {
+      "id": "blank-obchod-je-otvoren",
+      "type": "fill-blank",
+      "l1": "Le magasin est ouvert.",
+      "l2": "Obchod je otvorený.",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "plaît",
+        "un",
+        "mon"
+      ],
+      "choices_l2": [
+        "kde",
+        "jem",
+        "môj"
+      ]
+    },
+    {
+      "id": "blank-lek-re-je-dnes-zatvoren",
+      "type": "fill-blank",
+      "l1": "La pharmacie est fermée aujourd'hui.",
+      "l2": "Lekáreň je dnes zatvorená.",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "le",
+        "soupe",
+        "maison"
+      ],
+      "choices_l2": [
+        "prídem",
+        "a",
+        "kde"
+      ]
+    },
+    {
+      "id": "blank-predava-ka-je-ve-mi-mil",
+      "type": "fill-blank",
+      "l1": "La vendeuse est très gentille.",
+      "l2": "Predavačka je veľmi milá.",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "soupe",
+        "je",
+        "enfants"
+      ],
+      "choices_l2": [
+        "si",
+        "pol",
+        "siedmej"
+      ]
+    },
+    {
+      "id": "listen-idem-do-obchodu",
+      "type": "listen",
+      "l1": "Je vais au magasin.",
+      "l2": "Idem do obchodu.",
+      "choices_l1": [
+        "Les enfants aident à la maison.",
+        "La serviette et le savon sont dans la salle de bain.",
+        "Le gâteau est savoureux, mais ça fait beaucoup."
+      ]
+    },
+    {
+      "id": "listen-kupujem-chlieb-v-pek-rni",
+      "type": "listen",
+      "l1": "J'achète du pain à la boulangerie.",
+      "l2": "Kupujem chlieb v pekárni.",
+      "choices_l1": [
+        "Merci, c'était excellent.",
+        "Je me repose sur le lit et j'écoute.",
+        "Le week-end j'ai le temps."
+      ]
+    },
+    {
+      "id": "listen-ide-do-potrav-n",
+      "type": "listen",
+      "l1": "Tu vas à l'épicerie ?",
+      "l2": "Ideš do potravín?",
+      "choices_l1": [
+        "Il est cinq heures et demie.",
+        "Tu as soif ?",
+        "N'attends pas, je suis en retard."
+      ]
+    },
+    {
+      "id": "listen-m-so-kupujem-v-m-siarstve",
+      "type": "listen",
+      "l1": "J'achète la viande à la boucherie.",
+      "l2": "Mäso kupujem v mäsiarstve.",
+      "choices_l1": [
+        "Mon cousin est jeune. Il a dix-huit ans.",
+        "Notre appartement est petit, mais joli.",
+        "J'arrive à huit heures moins le quart."
+      ]
+    },
+    {
+      "id": "listen-idem-do-lek-rne",
+      "type": "listen",
+      "l1": "Je vais à la pharmacie.",
+      "l2": "Idem do lekárne.",
+      "choices_l1": [
+        "Le week-end je ne me lève jamais tôt.",
+        "J'aime le fromage, mais je n'aime pas le lait.",
+        "On se retrouve vendredi à six heures et demie."
+      ]
+    },
+    {
+      "id": "listen-v-sobotu-je-trh",
+      "type": "listen",
+      "l1": "Le samedi il y a un marché.",
+      "l2": "V sobotu je trh.",
+      "choices_l1": [
+        "Oui. Lavez les verres, s'il vous plaît.",
+        "Maman est dans le salon.",
+        "Le couteau et l'assiette sont sur la table."
+      ]
+    },
+    {
+      "id": "listen-o-kupuje",
+      "type": "listen",
+      "l1": "Qu'est-ce que tu achètes ?",
+      "l2": "Čo kupuješ?",
+      "choices_l1": [
+        "Eric, voici ma famille.",
+        "Quand as-tu ton anniversaire ?",
+        "L'après-midi je n'ai pas le temps."
+      ]
+    },
+    {
+      "id": "listen-nekupujem-ve-a",
+      "type": "listen",
+      "l1": "Je n'achète pas beaucoup.",
+      "l2": "Nekupujem veľa.",
+      "choices_l1": [
+        "Mes enfants sont dans la chambre.",
+        "Je prends une soupe et ensuite un goulash.",
+        "Quelle est la date aujourd'hui ? Regarde le calendrier."
+      ]
+    },
+    {
+      "id": "listen-poklad-a-je-tam",
+      "type": "listen",
+      "l1": "La caisse est là-bas.",
+      "l2": "Pokladňa je tam.",
+      "choices_l1": [
+        "Merci. Qu'est-ce que c'est ?",
+        "Ma sœur est à la maison.",
+        "Tu prends un goulash ?"
+      ]
+    },
+    {
+      "id": "listen-kde-je-ko-k",
+      "type": "listen",
+      "l1": "Où est le panier ?",
+      "l2": "Kde je košík?",
+      "choices_l1": [
+        "Que fais-tu ?",
+        "L'armoire est dans la pièce.",
+        "Je me lève et je ferme la fenêtre. Il fait froid."
+      ]
+    },
+    {
+      "id": "listen-obchod-je-otvoren",
+      "type": "listen",
+      "l1": "Le magasin est ouvert.",
+      "l2": "Obchod je otvorený.",
+      "choices_l1": [
+        "Papa range la cave et le garage.",
+        "Ma grand-mère habite au village et ma tante habite en ville.",
+        "Je veux encore du café. Il est froid."
+      ]
+    },
+    {
+      "id": "listen-lek-re-je-dnes-zatvoren",
+      "type": "listen",
+      "l1": "La pharmacie est fermée aujourd'hui.",
+      "l2": "Lekáreň je dnes zatvorená.",
+      "choices_l1": [
+        "Moi aussi je suis professeur.",
+        "J'ai le livre.",
+        "Je suis professeur. Je travaille dans une école."
+      ]
+    },
+    {
+      "id": "listen-predava-ka-je-ve-mi-mil",
+      "type": "listen",
+      "l1": "La vendeuse est très gentille.",
+      "l2": "Predavačka je veľmi milá.",
+      "choices_l1": [
+        "La soupe de choucroute est chaude et acide.",
+        "Mon cousin est jeune. Il a dix-huit ans.",
+        "Ján a vingt ans. Il est étudiant."
+      ]
+    },
+    {
+      "id": "order-idem-do-obchodu",
+      "type": "order",
+      "l1": "Je vais au magasin.",
+      "l2": "Idem do obchodu.",
+      "tokens_l1": [
+        "Je",
+        "vais",
+        "au",
+        "magasin.",
+        "Le",
+        "magasin",
+        "est",
+        "ouvert."
+      ],
+      "tokens_l2": [
+        "Idem",
+        "do",
+        "obchodu.",
+        "Obchod",
+        "je",
+        "otvorený."
+      ]
+    },
+    {
+      "id": "order-kupujem-chlieb-v-pek-rni",
+      "type": "order",
+      "l1": "J'achète du pain à la boulangerie.",
+      "l2": "Kupujem chlieb v pekárni.",
+      "tokens_l1": [
+        "J'achète",
+        "du",
+        "pain",
+        "à",
+        "la",
+        "boulangerie.",
+        "Je",
+        "vais",
+        "à",
+        "la",
+        "pharmacie."
+      ],
+      "tokens_l2": [
+        "Kupujem",
+        "chlieb",
+        "v",
+        "pekárni.",
+        "Idem",
+        "do",
+        "lekárne."
+      ]
+    },
+    {
+      "id": "order-ide-do-potrav-n",
+      "type": "order",
+      "l1": "Tu vas à l'épicerie ?",
+      "l2": "Ideš do potravín?",
+      "tokens_l1": [
+        "Tu",
+        "vas",
+        "à",
+        "l'épicerie",
+        "?",
+        "Où",
+        "est",
+        "le",
+        "panier",
+        "?"
+      ],
+      "tokens_l2": [
+        "Ideš",
+        "do",
+        "potravín?",
+        "Kde",
+        "je",
+        "košík?"
+      ]
+    },
+    {
+      "id": "order-m-so-kupujem-v-m-siarstve",
+      "type": "order",
+      "l1": "J'achète la viande à la boucherie.",
+      "l2": "Mäso kupujem v mäsiarstve.",
+      "tokens_l1": [
+        "J'achète",
+        "la",
+        "viande",
+        "à",
+        "la",
+        "boucherie.",
+        "Le",
+        "magasin",
+        "est",
+        "ouvert."
+      ],
+      "tokens_l2": [
+        "Mäso",
+        "kupujem",
+        "v",
+        "mäsiarstve.",
+        "Obchod",
+        "je",
+        "otvorený."
+      ]
+    },
+    {
+      "id": "order-idem-do-lek-rne",
+      "type": "order",
+      "l1": "Je vais à la pharmacie.",
+      "l2": "Idem do lekárne.",
+      "tokens_l1": [
+        "Je",
+        "vais",
+        "à",
+        "la",
+        "pharmacie.",
+        "Tu",
+        "vas",
+        "à",
+        "l'épicerie",
+        "?"
+      ],
+      "tokens_l2": [
+        "Idem",
+        "do",
+        "lekárne.",
+        "Ideš",
+        "do",
+        "potravín?"
+      ]
+    },
+    {
+      "id": "order-v-sobotu-je-trh",
+      "type": "order",
+      "l1": "Le samedi il y a un marché.",
+      "l2": "V sobotu je trh.",
+      "tokens_l1": [
+        "Le",
+        "samedi",
+        "il",
+        "y",
+        "a",
+        "un",
+        "marché.",
+        "La",
+        "vendeuse",
+        "est",
+        "très",
+        "gentille."
+      ],
+      "tokens_l2": [
+        "V",
+        "sobotu",
+        "je",
+        "trh.",
+        "Predavačka",
+        "je",
+        "veľmi",
+        "milá."
+      ]
+    },
+    {
+      "id": "order-poklad-a-je-tam",
+      "type": "order",
+      "l1": "La caisse est là-bas.",
+      "l2": "Pokladňa je tam.",
+      "tokens_l1": [
+        "La",
+        "caisse",
+        "est",
+        "là-bas.",
+        "La",
+        "vendeuse",
+        "est",
+        "très",
+        "gentille."
+      ],
+      "tokens_l2": [
+        "Pokladňa",
+        "je",
+        "tam.",
+        "Predavačka",
+        "je",
+        "veľmi",
+        "milá."
+      ]
+    },
+    {
+      "id": "order-kde-je-ko-k",
+      "type": "order",
+      "l1": "Où est le panier ?",
+      "l2": "Kde je košík?",
+      "tokens_l1": [
+        "Où",
+        "est",
+        "le",
+        "panier",
+        "?",
+        "Le",
+        "samedi",
+        "il",
+        "y",
+        "a",
+        "un",
+        "marché."
+      ],
+      "tokens_l2": [
+        "Kde",
+        "je",
+        "košík?",
+        "V",
+        "sobotu",
+        "je",
+        "trh."
+      ]
+    },
+    {
+      "id": "order-obchod-je-otvoren",
+      "type": "order",
+      "l1": "Le magasin est ouvert.",
+      "l2": "Obchod je otvorený.",
+      "tokens_l1": [
+        "Le",
+        "magasin",
+        "est",
+        "ouvert.",
+        "Le",
+        "samedi",
+        "il",
+        "y",
+        "a",
+        "un",
+        "marché."
+      ],
+      "tokens_l2": [
+        "Obchod",
+        "je",
+        "otvorený.",
+        "V",
+        "sobotu",
+        "je",
+        "trh."
+      ]
+    },
+    {
+      "id": "order-lek-re-je-dnes-zatvoren",
+      "type": "order",
+      "l1": "La pharmacie est fermée aujourd'hui.",
+      "l2": "Lekáreň je dnes zatvorená.",
+      "tokens_l1": [
+        "La",
+        "pharmacie",
+        "est",
+        "fermée",
+        "aujourd'hui.",
+        "La",
+        "vendeuse",
+        "est",
+        "très",
+        "gentille."
+      ],
+      "tokens_l2": [
+        "Lekáreň",
+        "je",
+        "dnes",
+        "zatvorená.",
+        "Predavačka",
+        "je",
+        "veľmi",
+        "milá."
+      ]
+    },
+    {
+      "id": "order-predava-ka-je-ve-mi-mil",
+      "type": "order",
+      "l1": "La vendeuse est très gentille.",
+      "l2": "Predavačka je veľmi milá.",
+      "tokens_l1": [
+        "La",
+        "vendeuse",
+        "est",
+        "très",
+        "gentille.",
+        "J'achète",
+        "la",
+        "viande",
+        "à",
+        "la",
+        "boucherie."
+      ],
+      "tokens_l2": [
+        "Predavačka",
+        "je",
+        "veľmi",
+        "milá.",
+        "Mäso",
+        "kupujem",
+        "v",
+        "mäsiarstve."
+      ]
+    },
+    {
+      "id": "match-obchod-vocab",
+      "type": "match",
+      "l1": [
+        "le magasin",
+        "l'épicerie",
+        "la boulangerie",
+        "la boucherie"
+      ],
+      "l2": [
+        "obchod",
+        "potraviny",
+        "pekáreň",
+        "mäsiarstvo"
+      ]
+    },
+    {
+      "id": "match-idem-do-obchodu-sentences",
+      "type": "match",
+      "l1": [
+        "Je vais au magasin.",
+        "J'achète du pain à la boulangerie.",
+        "Tu vas à l'épicerie ?",
+        "J'achète la viande à la boucherie."
+      ],
+      "l2": [
+        "Idem do obchodu.",
+        "Kupujem chlieb v pekárni.",
+        "Ideš do potravín?",
+        "Mäso kupujem v mäsiarstve."
+      ]
+    }
+  ]
+}

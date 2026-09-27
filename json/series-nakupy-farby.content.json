@@ -1,0 +1,427 @@
+{
+  "id": "series-nakupy-farby",
+  "category": "series",
+  "subgroup": "nakupy",
+  "subgroup_label": "Nakupy",
+  "title": "Série Nákupy (2/5) — Farby",
+  "image": {
+    "src": "img/nakupy_02_village_shop.jpg",
+    "caption": "Épicerie de village à Tatranská Štrba — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Les couleurs, qui s'accordent comme n'importe quel adjectif. Et le verbe **páčiť sa**, pour dire ce qui nous plaît."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "červený",
+          "rouge"
+        ],
+        [
+          "modrý",
+          "bleu"
+        ],
+        [
+          "zelený",
+          "vert"
+        ],
+        [
+          "žltý",
+          "jaune"
+        ],
+        [
+          "čierny",
+          "noir"
+        ],
+        [
+          "biely",
+          "blanc"
+        ],
+        [
+          "farba",
+          "la couleur"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les couleurs s'accordent"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "červený svetr",
+          "un pull rouge (masculin)"
+        ],
+        [
+          "červená taška",
+          "un sac rouge (féminin)"
+        ],
+        [
+          "červené auto",
+          "une voiture rouge (neutre)"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Même schéma que tous les adjectifs déjà vus : **-ý / -á / -é**."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ça me plaît — páčiť sa"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "Páči sa mi to.",
+          "Ça me plaît."
+        ],
+        [
+          "Nepáči sa mi to.",
+          "Ça ne me plaît pas."
+        ],
+        [
+          "Páči sa ti to?",
+          "Ça te plaît ?"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Comme *chutiť*, la construction est renversée : c'est l'objet qui « plaît à » la personne."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem červenú tašku.",
+      "speaker": null,
+      "natural": "Je veux un sac rouge.",
+      "literal": [
+        "Chcem = je veux",
+        "červenú = rouge",
+        "tašku = un sac"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Máš modré auto?",
+      "speaker": null,
+      "natural": "Tu as une voiture bleue ?",
+      "literal": [
+        "Máš = tu as",
+        "modré = bleue",
+        "auto = une voiture"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Táto košeľa je zelená.",
+      "speaker": null,
+      "natural": "Cette chemise est verte.",
+      "literal": [
+        "Táto = cette",
+        "košeľa = chemise",
+        "je = est",
+        "zelená = verte"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem žlté tričko.",
+      "speaker": null,
+      "natural": "Je veux un tee-shirt jaune.",
+      "literal": [
+        "Chcem = je veux",
+        "žlté = jaune",
+        "tričko = un tee-shirt"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Máte to v čiernej?",
+      "speaker": null,
+      "natural": "Vous l'avez en noir ?",
+      "literal": [
+        "Máte = vous avez",
+        "to = cela",
+        "v čiernej = en noir"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Biela farba je pekná.",
+      "speaker": null,
+      "natural": "La couleur blanche est jolie.",
+      "literal": [
+        "Biela = blanche",
+        "farba = couleur",
+        "je = est",
+        "pekná = jolie"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Páči sa mi to.",
+      "speaker": null,
+      "natural": "Ça me plaît.",
+      "literal": [
+        "Páči sa mi = ça me plaît",
+        "to = cela"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nepáči sa mi tá farba.",
+      "speaker": null,
+      "natural": "Cette couleur ne me plaît pas.",
+      "literal": [
+        "Nepáči sa mi = ça ne me plaît pas",
+        "tá farba = cette couleur"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Idem do obchodu. Chcem modrú tašku.",
+      "speaker": null,
+      "natural": "Je vais au magasin. Je veux un sac bleu.",
+      "literal": [
+        "Idem = je vais",
+        "do obchodu = au magasin",
+        "Chcem = je veux",
+        "modrú = bleu",
+        "tašku = un sac"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kupujem červené jablká na trhu.",
+      "speaker": null,
+      "natural": "J'achète des pommes rouges au marché.",
+      "literal": [
+        "Kupujem = j'achète",
+        "červené = rouges",
+        "jablká = pommes",
+        "na trhu = au marché"
+      ],
+      "notes": [
+        "« jablko » veut dire pomme ; au pluriel jablká. On le retrouvera dans le vocabulaire complémentaire."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Páči sa mi zelená farba, ale nie žltá.",
+      "speaker": null,
+      "natural": "J'aime la couleur verte, mais pas la jaune.",
+      "literal": [
+        "Páči sa mi = j'aime",
+        "zelená farba = la couleur verte",
+        "ale = mais",
+        "nie = pas",
+        "žltá = la jaune"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Modrý a le sens du bleu-vert.** Selon la région et le locuteur, [[modrý]] peut légèrement déborder vers ce qu'un francophone appellerait turquoise. Rien de systématique, mais ça explique certains désaccords amusants sur la couleur exacte d'un objet."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le rouge et le blanc du drapeau.** Ces deux couleurs, associées au bleu, dominent le drapeau national et reviennent dans énormément de symboles traditionnels : costumes, décorations de Pâques, motifs brodés."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Páči sa mi to, la phrase la plus utile du shopping.** Elle sert aussi bien pour un vêtement que pour un paysage ou une personne. Sa version négative, [[Nepáči sa mi to]], reste polie même pour décliner poliment un article qu'on te montre."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "oranžový",
+          "orange"
+        ],
+        [
+          "ružový",
+          "rose"
+        ],
+        [
+          "hnedý",
+          "marron"
+        ],
+        [
+          "sivý",
+          "gris"
+        ],
+        [
+          "tmavý",
+          "foncé"
+        ],
+        [
+          "svetlý",
+          "clair"
+        ],
+        [
+          "jablko",
+          "la pomme"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám hnedé topánky.",
+      "speaker": null,
+      "natural": "J'ai des chaussures marron.",
+      "literal": [
+        "Mám = j'ai",
+        "hnedé = marron",
+        "topánky = des chaussures"
+      ],
+      "notes": [
+        "« topánka » (une chaussure) existe au singulier, contrairement à nohavice ou okuliare : ici c'est juste un pluriel ordinaire, comme en français."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem svetlú farbu, nie tmavú.",
+      "speaker": null,
+      "natural": "Je veux une couleur claire, pas foncée.",
+      "literal": [
+        "Chcem = je veux",
+        "svetlú = claire",
+        "farbu = couleur",
+        "nie = pas",
+        "tmavú = foncée"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Sivé auto je pekné.",
+      "speaker": null,
+      "natural": "La voiture grise est belle.",
+      "literal": [
+        "Sivé = grise",
+        "auto = voiture",
+        "je = est",
+        "pekné = belle"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ružová taška sa mi páči.",
+      "speaker": null,
+      "natural": "Le sac rose me plaît.",
+      "literal": [
+        "Ružová taška = le sac rose",
+        "sa mi páči = me plaît"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Oranžové jablko je sladké.",
+      "speaker": null,
+      "natural": "La pomme orange est sucrée.",
+      "literal": [
+        "Oranžové = orange",
+        "jablko = pomme",
+        "je = est",
+        "sladké = sucrée"
+      ],
+      "notes": []
+    }
+  ]
+}

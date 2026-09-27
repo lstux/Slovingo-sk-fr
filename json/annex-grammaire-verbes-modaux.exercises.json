@@ -1,0 +1,427 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-m-c",
+      "type": "qcm",
+      "l1": "pouvoir (possibilité, permission générale)",
+      "l2": "môcť",
+      "choices_l1": [
+        "la séparation, la scission",
+        "J'ai fait un gâteau.",
+        "le marché du travail"
+      ],
+      "choices_l2": [
+        "príchod",
+        "motýľ",
+        "strýko"
+      ]
+    },
+    {
+      "id": "qcm-musie",
+      "type": "qcm",
+      "l1": "devoir / falloir",
+      "l2": "musieť",
+      "choices_l1": [
+        "bien / d'accord",
+        "la lampe de poche",
+        "neuf / neuve"
+      ],
+      "choices_l2": [
+        "oko",
+        "päť miliónov",
+        "jablko"
+      ]
+    },
+    {
+      "id": "qcm-chcie",
+      "type": "qcm",
+      "l1": "vouloir",
+      "l2": "chcieť",
+      "choices_l1": [
+        "en été",
+        "Nouvel An",
+        "la banderole"
+      ],
+      "choices_l2": [
+        "ide",
+        "robím",
+        "vajce"
+      ]
+    },
+    {
+      "id": "qcm-smie",
+      "type": "qcm",
+      "l1": "avoir le droit de",
+      "l2": "smieť",
+      "choices_l1": [
+        "ils / elles peuvent",
+        "la vie chère",
+        "bonnet / casquette"
+      ],
+      "choices_l2": [
+        "slivovica",
+        "skúsenosť",
+        "chcú"
+      ]
+    },
+    {
+      "id": "qcm-vedie",
+      "type": "qcm",
+      "l1": "savoir (faire) / pouvoir (capacité)",
+      "l2": "vedieť",
+      "choices_l1": [
+        "je marcherai (d'habitude)",
+        "ils/elles ont été",
+        "la vue, le panorama"
+      ],
+      "choices_l2": [
+        "spiatočný lístok",
+        "šoférovať",
+        "pozerať"
+      ]
+    },
+    {
+      "id": "blank-m-em-s-domov",
+      "type": "fill-blank",
+      "l1": "Je peux rentrer à la maison ?",
+      "l2": "Môžem ísť domov?",
+      "missing_l1": "la",
+      "missing_l2": "ísť",
+      "blank_index_l1": 4,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "fait",
+        "du",
+        "me"
+      ],
+      "choices_l2": [
+        "je",
+        "bolo",
+        "dnes"
+      ]
+    },
+    {
+      "id": "blank-mus-m-sa-u-i",
+      "type": "fill-blank",
+      "l1": "Je dois étudier.",
+      "l2": "Musím sa učiť.",
+      "missing_l1": "dois",
+      "missing_l2": "sa",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "cette",
+        "que",
+        "des"
+      ],
+      "choices_l2": [
+        "to",
+        "potom",
+        "v"
+      ]
+    },
+    {
+      "id": "blank-smiem-tu-faj-i",
+      "type": "fill-blank",
+      "l1": "Ai-je le droit de fumer ici ?",
+      "l2": "Smiem tu fajčiť?",
+      "missing_l1": "le",
+      "missing_l2": "tu",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "ma",
+        "de",
+        "ne"
+      ],
+      "choices_l2": [
+        "mám",
+        "na",
+        "idem"
+      ]
+    },
+    {
+      "id": "blank-neviem-hovori-po-slovensky",
+      "type": "fill-blank",
+      "l1": "Je ne sais pas parler slovaque.",
+      "l2": "Neviem hovoriť po slovensky.",
+      "missing_l1": "pas",
+      "missing_l2": "po",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "et",
+        "nous",
+        "j'ai"
+      ],
+      "choices_l2": [
+        "je",
+        "môj",
+        "v"
+      ]
+    },
+    {
+      "id": "blank-m-e-mi-pom-c",
+      "type": "fill-blank",
+      "l1": "Peux-tu m'aider ?",
+      "l2": "Môžeš mi pomôcť?",
+      "missing_l1": "m'aider",
+      "missing_l2": "mi",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "mais",
+        "de",
+        "des"
+      ],
+      "choices_l2": [
+        "chcem",
+        "je",
+        "môj"
+      ]
+    },
+    {
+      "id": "listen-m-em-s-domov",
+      "type": "listen",
+      "l1": "Je peux rentrer à la maison ?",
+      "l2": "Môžem ísť domov?",
+      "choices_l1": [
+        "Je veux encore de l'eau, s'il te plaît.",
+        "Ouvre la fenêtre, s'il te plaît.",
+        "J'allais au camp chaque été, de sept à quatorze ans."
+      ]
+    },
+    {
+      "id": "listen-mus-m-sa-u-i",
+      "type": "listen",
+      "l1": "Je dois étudier.",
+      "l2": "Musím sa učiť.",
+      "choices_l1": [
+        "J'aime la couleur verte, mais pas la jaune.",
+        "Mon anniversaire est le 6 août.",
+        "Vous avez un bonnet noir ?"
+      ]
+    },
+    {
+      "id": "listen-chcem-jes",
+      "type": "listen",
+      "l1": "Je veux manger.",
+      "l2": "Chcem jesť.",
+      "choices_l1": [
+        "Le lundi de Pâques est différent des autres jours.",
+        "J'ai soif, tu prends un verre d'eau avec moi ?",
+        "Je commence à sept heures."
+      ]
+    },
+    {
+      "id": "listen-smiem-tu-faj-i",
+      "type": "listen",
+      "l1": "Ai-je le droit de fumer ici ?",
+      "l2": "Smiem tu fajčiť?",
+      "choices_l1": [
+        "Oui, après quelques mois je comprenais déjà la plupart des choses. Et j'ai commencé à vraiment aimer ce mode de vie.",
+        "Je joue au tennis chaque week-end.",
+        "Il gèle. La route est glissante."
+      ]
+    },
+    {
+      "id": "listen-viem-pl-va",
+      "type": "listen",
+      "l1": "Je sais nager.",
+      "l2": "Viem plávať.",
+      "choices_l1": [
+        "Le prix est élevé.",
+        "Le samedi saint maman a fait de la pâtisserie.",
+        "C'est certes cher, mais de qualité."
+      ]
+    },
+    {
+      "id": "listen-neviem-hovori-po-slovensky",
+      "type": "listen",
+      "l1": "Je ne sais pas parler slovaque.",
+      "l2": "Neviem hovoriť po slovensky.",
+      "choices_l1": [
+        "Aujourd'hui il y a beaucoup de circulation en ville.",
+        "Que fais-tu ?",
+        "Le lundi de Pâques les garçons rendent visite aux filles."
+      ]
+    },
+    {
+      "id": "listen-m-e-mi-pom-c",
+      "type": "listen",
+      "l1": "Peux-tu m'aider ?",
+      "l2": "Môžeš mi pomôcť?",
+      "choices_l1": [
+        "Tu peux m'aider ?",
+        "Je vis à…",
+        "Et mercredi ?"
+      ]
+    },
+    {
+      "id": "order-m-em-s-domov",
+      "type": "order",
+      "l1": "Je peux rentrer à la maison ?",
+      "l2": "Môžem ísť domov?",
+      "tokens_l1": [
+        "Je",
+        "peux",
+        "rentrer",
+        "à",
+        "la",
+        "maison",
+        "?",
+        "Je",
+        "dois",
+        "étudier."
+      ],
+      "tokens_l2": [
+        "Môžem",
+        "ísť",
+        "domov?",
+        "Musím",
+        "sa",
+        "učiť."
+      ]
+    },
+    {
+      "id": "order-mus-m-sa-u-i",
+      "type": "order",
+      "l1": "Je dois étudier.",
+      "l2": "Musím sa učiť.",
+      "tokens_l1": [
+        "Je",
+        "dois",
+        "étudier.",
+        "Peux-tu",
+        "m'aider",
+        "?"
+      ],
+      "tokens_l2": [
+        "Musím",
+        "sa",
+        "učiť.",
+        "Môžeš",
+        "mi",
+        "pomôcť?"
+      ]
+    },
+    {
+      "id": "order-smiem-tu-faj-i",
+      "type": "order",
+      "l1": "Ai-je le droit de fumer ici ?",
+      "l2": "Smiem tu fajčiť?",
+      "tokens_l1": [
+        "Ai-je",
+        "le",
+        "droit",
+        "de",
+        "fumer",
+        "ici",
+        "?",
+        "Je",
+        "peux",
+        "rentrer",
+        "à",
+        "la",
+        "maison",
+        "?"
+      ],
+      "tokens_l2": [
+        "Smiem",
+        "tu",
+        "fajčiť?",
+        "Môžem",
+        "ísť",
+        "domov?"
+      ]
+    },
+    {
+      "id": "order-neviem-hovori-po-slovensky",
+      "type": "order",
+      "l1": "Je ne sais pas parler slovaque.",
+      "l2": "Neviem hovoriť po slovensky.",
+      "tokens_l1": [
+        "Je",
+        "ne",
+        "sais",
+        "pas",
+        "parler",
+        "slovaque.",
+        "Je",
+        "peux",
+        "rentrer",
+        "à",
+        "la",
+        "maison",
+        "?"
+      ],
+      "tokens_l2": [
+        "Neviem",
+        "hovoriť",
+        "po",
+        "slovensky.",
+        "Môžem",
+        "ísť",
+        "domov?"
+      ]
+    },
+    {
+      "id": "order-m-e-mi-pom-c",
+      "type": "order",
+      "l1": "Peux-tu m'aider ?",
+      "l2": "Môžeš mi pomôcť?",
+      "tokens_l1": [
+        "Peux-tu",
+        "m'aider",
+        "?",
+        "Je",
+        "peux",
+        "rentrer",
+        "à",
+        "la",
+        "maison",
+        "?"
+      ],
+      "tokens_l2": [
+        "Môžeš",
+        "mi",
+        "pomôcť?",
+        "Môžem",
+        "ísť",
+        "domov?"
+      ]
+    },
+    {
+      "id": "match-m-c-vocab",
+      "type": "match",
+      "l1": [
+        "pouvoir (possibilité, permission générale)",
+        "devoir / falloir",
+        "vouloir",
+        "avoir le droit de"
+      ],
+      "l2": [
+        "môcť",
+        "musieť",
+        "chcieť",
+        "smieť"
+      ]
+    },
+    {
+      "id": "match-m-em-s-domov-sentences",
+      "type": "match",
+      "l1": [
+        "Je peux rentrer à la maison ?",
+        "Je dois étudier.",
+        "Je veux manger.",
+        "Ai-je le droit de fumer ici ?"
+      ],
+      "l2": [
+        "Môžem ísť domov?",
+        "Musím sa učiť.",
+        "Chcem jesť.",
+        "Smiem tu fajčiť?"
+      ]
+    }
+  ]
+}

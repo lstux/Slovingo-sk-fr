@@ -1,0 +1,1018 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-pionier-pionierka",
+      "type": "qcm",
+      "l1": "pionnier / pionnière",
+      "l2": "pionier / pionierka",
+      "choices_l1": [
+        "tu as décoré (homme)",
+        "le parcours, l'itinéraire",
+        "Ce parcours est jaune."
+      ],
+      "choices_l2": [
+        "on / ona skúsi",
+        "Bolo by to pekné.",
+        "on / ona robí"
+      ]
+    },
+    {
+      "id": "qcm-atka",
+      "type": "qcm",
+      "l1": "le foulard",
+      "l2": "šatka",
+      "choices_l1": [
+        "aller habituellement",
+        "la maison",
+        "l'hébergement"
+      ],
+      "choices_l2": [
+        "zdobila si",
+        "ty prídeš",
+        "malá sestra"
+      ]
+    },
+    {
+      "id": "qcm-t-bor",
+      "type": "qcm",
+      "l1": "le camp",
+      "l2": "tábor",
+      "choices_l1": [
+        "C'est cher.",
+        "dix ans",
+        "geler"
+      ],
+      "choices_l2": [
+        "sedieť",
+        "starý",
+        "Veľkonočný pondelok"
+      ]
+    },
+    {
+      "id": "qcm-oddiel",
+      "type": "qcm",
+      "l1": "le groupe, l'unité",
+      "l2": "oddiel",
+      "choices_l1": [
+        "ma sœur (féminin)",
+        "court → plus court",
+        "Tournez à gauche !"
+      ],
+      "choices_l2": [
+        "Bude daždivo.",
+        "ja môžem",
+        "pol šiestej"
+      ]
+    },
+    {
+      "id": "qcm-ved-ci",
+      "type": "qcm",
+      "l1": "l'animateur, le chef",
+      "l2": "vedúci",
+      "choices_l1": [
+        "ils / elles travaillent",
+        "Il fait chaud.",
+        "Il est deux heures."
+      ],
+      "choices_l2": [
+        "lampa",
+        "jeden rok",
+        "Svieti slnko."
+      ]
+    },
+    {
+      "id": "qcm-odznak",
+      "type": "qcm",
+      "l1": "le badge, l'insigne",
+      "l2": "odznak",
+      "choices_l1": [
+        "Je vais au magasin.",
+        "le trdelník, pâtisserie roulée",
+        "Je voudrais un thé. (homme)"
+      ],
+      "choices_l2": [
+        "peniaze",
+        "hodiny",
+        "meniť"
+      ]
+    },
+    {
+      "id": "qcm-n-stup",
+      "type": "qcm",
+      "l1": "le rassemblement",
+      "l2": "nástup",
+      "choices_l1": [
+        "la force",
+        "le gâteau",
+        "beaucoup"
+      ],
+      "choices_l2": [
+        "čierny",
+        "oblačno",
+        "strýko"
+      ]
+    },
+    {
+      "id": "qcm-bugel",
+      "type": "qcm",
+      "l1": "le clairon",
+      "l2": "bugel",
+      "choices_l1": [
+        "le quart",
+        "l'exposition",
+        "le temps"
+      ],
+      "choices_l2": [
+        "námestie",
+        "brat",
+        "kabát"
+      ]
+    },
+    {
+      "id": "qcm-piese",
+      "type": "qcm",
+      "l1": "le chant",
+      "l2": "pieseň",
+      "choices_l1": [
+        "se reposer",
+        "l'orage",
+        "vous pouvez"
+      ],
+      "choices_l2": [
+        "langoše",
+        "jeden rok",
+        "drahota"
+      ]
+    },
+    {
+      "id": "qcm-stan",
+      "type": "qcm",
+      "l1": "la tente",
+      "l2": "stan",
+      "choices_l1": [
+        "nous devons",
+        "l'arc-en-ciel",
+        "C'est cher."
+      ],
+      "choices_l2": [
+        "oni boli",
+        "dôchodca",
+        "turistické topánky"
+      ]
+    },
+    {
+      "id": "qcm-dru-ina",
+      "type": "qcm",
+      "l1": "la petite équipe (au sein d'un oddiel)",
+      "l2": "družina",
+      "choices_l1": [
+        "tout de suite",
+        "Je prends un goulash.",
+        "Ils m'ont arrosé d'eau."
+      ],
+      "choices_l2": [
+        "ty ideš",
+        "vy môžete",
+        "kyslý"
+      ]
+    },
+    {
+      "id": "qcm-s-ub",
+      "type": "qcm",
+      "l1": "le serment",
+      "l2": "sľub",
+      "choices_l1": [
+        "à l'heure",
+        "C'est bon.",
+        "le bonnet"
+      ],
+      "choices_l2": [
+        "meškať",
+        "šibať",
+        "električka"
+      ]
+    },
+    {
+      "id": "blank-andrea-kto-je-to-na-tejto-fotke-m-te-tam-erven-atku",
+      "type": "fill-blank",
+      "l1": "Andrea, qui est-ce sur cette photo ? Vous avez un foulard rouge là.",
+      "l2": "Andrea, kto je to na tejto fotke? Máte tam červenú šatku.",
+      "missing_l1": "un",
+      "missing_l2": "je",
+      "blank_index_l1": 9,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "sur",
+        "ma",
+        "et"
+      ],
+      "choices_l2": [
+        "si",
+        "áno",
+        "kde"
+      ]
+    },
+    {
+      "id": "blank-to-som-ja-mala-som-asi-desa-rokov-boli-sme-na-pionierskom-t-bore",
+      "type": "fill-blank",
+      "l1": "C'est moi ! J'avais environ dix ans. Nous étions dans un camp de pionniers.",
+      "l2": "To som ja! Mala som asi desať rokov. Boli sme na pionierskom tábore.",
+      "missing_l1": "de",
+      "missing_l2": "na",
+      "blank_index_l1": 12,
+      "blank_index_l2": 10,
+      "choices_l1": [
+        "mais",
+        "vous",
+        "c'est"
+      ],
+      "choices_l2": [
+        "vajíčka",
+        "má",
+        "kde"
+      ]
+    },
+    {
+      "id": "blank-po-ul-som-o-tom-ale-neviem-si-to-naozaj-predstavi-ak-to-bolo",
+      "type": "fill-blank",
+      "l1": "J'en ai entendu parler, mais je n'arrive pas vraiment à me l'imaginer. C'était comment ?",
+      "l2": "Počul som o tom, ale neviem si to naozaj predstaviť. Aké to bolo?",
+      "missing_l1": "je",
+      "missing_l2": "to",
+      "blank_index_l1": 5,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "une",
+        "pas",
+        "mais"
+      ],
+      "choices_l2": [
+        "ísť",
+        "máte",
+        "prosím"
+      ]
+    },
+    {
+      "id": "blank-bolo-to-plne-in-ako-si-asi-mysl-te-poviem-v-m-o-tom",
+      "type": "fill-blank",
+      "l1": "C'était complètement différent de ce que vous pensez probablement. Je vais vous en parler.",
+      "l2": "Bolo to úplne iné, ako si asi myslíte. Poviem vám o tom.",
+      "missing_l1": "Je",
+      "missing_l2": "to",
+      "blank_index_l1": 9,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "des",
+        "est",
+        "c'est"
+      ],
+      "choices_l2": [
+        "má",
+        "prosím",
+        "idem"
+      ]
+    },
+    {
+      "id": "blank-chodila-som-na-t-bor-ka-d-leto-od-siedmich-do-trn-stich-rokov",
+      "type": "fill-blank",
+      "l1": "J'allais au camp chaque été, de sept à quatorze ans.",
+      "l2": "Chodila som na tábor každé leto, od siedmich do štrnástich rokov.",
+      "missing_l1": "de",
+      "missing_l2": "na",
+      "blank_index_l1": 5,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "plus",
+        "pas",
+        "nous"
+      ],
+      "choices_l2": [
+        "nie",
+        "potom",
+        "moja"
+      ]
+    },
+    {
+      "id": "blank-to-bolo-povinn-alebo-ste-si-to-vybrali",
+      "type": "fill-blank",
+      "l1": "C'était obligatoire, ou vous l'aviez choisi ?",
+      "l2": "To bolo povinné, alebo ste si to vybrali?",
+      "missing_l1": "vous",
+      "missing_l2": "to",
+      "blank_index_l1": 3,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "a",
+        "un",
+        "pas"
+      ],
+      "choices_l2": [
+        "ísť",
+        "moja",
+        "a"
+      ]
+    },
+    {
+      "id": "blank-by-pionierom-bolo-skoro-automatick-ale-t-bor-s-m-to-sme-mali-radi",
+      "type": "fill-blank",
+      "l1": "Être pionnier c'était presque automatique. Mais le camp lui-même, on l'aimait.",
+      "l2": "Byť pionierom bolo skoro automatické. Ale tábor sám, to sme mali radi.",
+      "missing_l1": "le",
+      "missing_l2": "to",
+      "blank_index_l1": 6,
+      "blank_index_l2": 8,
+      "choices_l1": [
+        "de",
+        "mais",
+        "plus"
+      ],
+      "choices_l2": [
+        "bude",
+        "chcem",
+        "nie"
+      ]
+    },
+    {
+      "id": "blank-aha-tak-e-to-nebolo-len-ideol-gia-bolo-to-aj-skuto-ne-leto-s-kamar-tmi",
+      "type": "fill-blank",
+      "l1": "Ah. Donc ce n'était pas seulement de l'idéologie, c'était aussi vraiment un été avec des copains.",
+      "l2": "Aha. Takže to nebolo len ideológia, bolo to aj skutočne leto s kamarátmi.",
+      "missing_l1": "de",
+      "missing_l2": "to",
+      "blank_index_l1": 6,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "où",
+        "il",
+        "un"
+      ],
+      "choices_l2": [
+        "sme",
+        "toto",
+        "som"
+      ]
+    },
+    {
+      "id": "blank-presne-tak-obidve-veci-naraz-po-me-na-to-poporiadku",
+      "type": "fill-blank",
+      "l1": "Exactement. Les deux choses à la fois. Allons-y dans l'ordre.",
+      "l2": "Presne tak. Obidve veci naraz. Poďme na to poporiadku.",
+      "missing_l1": "la",
+      "missing_l2": "na",
+      "blank_index_l1": 5,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "mon",
+        "heures",
+        "veux"
+      ],
+      "choices_l2": [
+        "vodu",
+        "vajíčka",
+        "musíme"
+      ]
+    },
+    {
+      "id": "listen-andrea-kto-je-to-na-tejto-fotke-m-te-tam-erven-atku",
+      "type": "listen",
+      "l1": "Andrea, qui est-ce sur cette photo ? Vous avez un foulard rouge là.",
+      "l2": "Andrea, kto je to na tejto fotke? Máte tam červenú šatku.",
+      "choices_l1": [
+        "J'écris et je ne regarde pas la télévision.",
+        "Nous avons une réservation pour deux lits.",
+        "Notre appartement est petit, mais la salle de bain est grande."
+      ]
+    },
+    {
+      "id": "listen-to-som-ja-mala-som-asi-desa-rokov-boli-sme-na-pionierskom-t-bore",
+      "type": "listen",
+      "l1": "C'est moi ! J'avais environ dix ans. Nous étions dans un camp de pionniers.",
+      "l2": "To som ja! Mala som asi desať rokov. Boli sme na pionierskom tábore.",
+      "choices_l1": [
+        "Nous allons au restaurant.",
+        "Nous avons du riz et des pommes de terre.",
+        "Mon grand-père est retraité et il habite tout près."
+      ]
+    },
+    {
+      "id": "listen-po-ul-som-o-tom-ale-neviem-si-to-naozaj-predstavi-ak-to-bolo",
+      "type": "listen",
+      "l1": "J'en ai entendu parler, mais je n'arrive pas vraiment à me l'imaginer. C'était comment ?",
+      "l2": "Počul som o tom, ale neviem si to naozaj predstaviť. Aké to bolo?",
+      "choices_l1": [
+        "De rien. À bientôt !",
+        "Samedi matin j'y vais tôt.",
+        "La lampe est sur la table."
+      ]
+    },
+    {
+      "id": "listen-bolo-to-plne-in-ako-si-asi-mysl-te-poviem-v-m-o-tom",
+      "type": "listen",
+      "l1": "C'était complètement différent de ce que vous pensez probablement. Je vais vous en parler.",
+      "l2": "Bolo to úplne iné, ako si asi myslíte. Poviem vám o tom.",
+      "choices_l1": [
+        "Je ne mange pas de viande.",
+        "Le soir je n'ai jamais le temps.",
+        "Le panier a un ruban coloré."
+      ]
+    },
+    {
+      "id": "listen-chodila-som-na-t-bor-ka-d-leto-od-siedmich-do-trn-stich-rokov",
+      "type": "listen",
+      "l1": "J'allais au camp chaque été, de sept à quatorze ans.",
+      "l2": "Chodila som na tábor každé leto, od siedmich do štrnástich rokov.",
+      "choices_l1": [
+        "Au petit-déjeuner je mange un œuf et du pain avec du beurre.",
+        "Je ne peux pas y aller sans eau.",
+        "En montagne il y a un beau silence."
+      ]
+    },
+    {
+      "id": "listen-to-bolo-povinn-alebo-ste-si-to-vybrali",
+      "type": "listen",
+      "l1": "C'était obligatoire, ou vous l'aviez choisi ?",
+      "l2": "To bolo povinné, alebo ste si to vybrali?",
+      "choices_l1": [
+        "Moi je ne veux pas de halušky. Je veux du gâteau !",
+        "Ma montre retarde de cinq minutes.",
+        "Le samedi je ne me lève jamais tôt."
+      ]
+    },
+    {
+      "id": "listen-by-pionierom-bolo-skoro-automatick-ale-t-bor-s-m-to-sme-mali-radi",
+      "type": "listen",
+      "l1": "Être pionnier c'était presque automatique. Mais le camp lui-même, on l'aimait.",
+      "l2": "Byť pionierom bolo skoro automatické. Ale tábor sám, to sme mali radi.",
+      "choices_l1": [
+        "Jeudi matin j'y vais tôt.",
+        "Je veux une couleur claire, pas foncée.",
+        "Les prévisions disent que demain il y aura un orage."
+      ]
+    },
+    {
+      "id": "listen-aha-tak-e-to-nebolo-len-ideol-gia-bolo-to-aj-skuto-ne-leto-s-kamar-tmi",
+      "type": "listen",
+      "l1": "Ah. Donc ce n'était pas seulement de l'idéologie, c'était aussi vraiment un été avec des copains.",
+      "l2": "Aha. Takže to nebolo len ideológia, bolo to aj skutočne leto s kamarátmi.",
+      "choices_l1": [
+        "Ma tante est professeure et elle travaille beaucoup.",
+        "La crème solaire est importante en été, le soleil est fort.",
+        "Je voudrais une chambre dans le refuge."
+      ]
+    },
+    {
+      "id": "listen-presne-tak-obidve-veci-naraz-po-me-na-to-poporiadku",
+      "type": "listen",
+      "l1": "Exactement. Les deux choses à la fois. Allons-y dans l'ordre.",
+      "l2": "Presne tak. Obidve veci naraz. Poďme na to poporiadku.",
+      "choices_l1": [
+        "Le goulash est brûlant. Tu veux de l'eau ?",
+        "Nous prenons une soupe chaude et un thé.",
+        "La soupe de choucroute me plaît. J'en veux encore."
+      ]
+    },
+    {
+      "id": "order-andrea-kto-je-to-na-tejto-fotke-m-te-tam-erven-atku",
+      "type": "order",
+      "l1": "Andrea, qui est-ce sur cette photo ? Vous avez un foulard rouge là.",
+      "l2": "Andrea, kto je to na tejto fotke? Máte tam červenú šatku.",
+      "tokens_l1": [
+        "Andrea,",
+        "qui",
+        "est-ce",
+        "sur",
+        "cette",
+        "photo",
+        "?",
+        "Vous",
+        "avez",
+        "un",
+        "foulard",
+        "rouge",
+        "là.",
+        "Exactement.",
+        "Les",
+        "deux",
+        "choses",
+        "à",
+        "la",
+        "fois.",
+        "Allons-y",
+        "dans",
+        "l'ordre."
+      ],
+      "tokens_l2": [
+        "Andrea,",
+        "kto",
+        "je",
+        "to",
+        "na",
+        "tejto",
+        "fotke?",
+        "Máte",
+        "tam",
+        "červenú",
+        "šatku.",
+        "Presne",
+        "tak.",
+        "Obidve",
+        "veci",
+        "naraz.",
+        "Poďme",
+        "na",
+        "to",
+        "poporiadku."
+      ]
+    },
+    {
+      "id": "order-to-som-ja-mala-som-asi-desa-rokov-boli-sme-na-pionierskom-t-bore",
+      "type": "order",
+      "l1": "C'est moi ! J'avais environ dix ans. Nous étions dans un camp de pionniers.",
+      "l2": "To som ja! Mala som asi desať rokov. Boli sme na pionierskom tábore.",
+      "tokens_l1": [
+        "C'est",
+        "moi",
+        "!",
+        "J'avais",
+        "environ",
+        "dix",
+        "ans.",
+        "Nous",
+        "étions",
+        "dans",
+        "un",
+        "camp",
+        "de",
+        "pionniers.",
+        "Ah.",
+        "Donc",
+        "ce",
+        "n'était",
+        "pas",
+        "seulement",
+        "de",
+        "l'idéologie,",
+        "c'était",
+        "aussi",
+        "vraiment",
+        "un",
+        "été",
+        "avec",
+        "des",
+        "copains."
+      ],
+      "tokens_l2": [
+        "To",
+        "som",
+        "ja!",
+        "Mala",
+        "som",
+        "asi",
+        "desať",
+        "rokov.",
+        "Boli",
+        "sme",
+        "na",
+        "pionierskom",
+        "tábore.",
+        "Aha.",
+        "Takže",
+        "to",
+        "nebolo",
+        "len",
+        "ideológia,",
+        "bolo",
+        "to",
+        "aj",
+        "skutočne",
+        "leto",
+        "s",
+        "kamarátmi."
+      ]
+    },
+    {
+      "id": "order-po-ul-som-o-tom-ale-neviem-si-to-naozaj-predstavi-ak-to-bolo",
+      "type": "order",
+      "l1": "J'en ai entendu parler, mais je n'arrive pas vraiment à me l'imaginer. C'était comment ?",
+      "l2": "Počul som o tom, ale neviem si to naozaj predstaviť. Aké to bolo?",
+      "tokens_l1": [
+        "J'en",
+        "ai",
+        "entendu",
+        "parler,",
+        "mais",
+        "je",
+        "n'arrive",
+        "pas",
+        "vraiment",
+        "à",
+        "me",
+        "l'imaginer.",
+        "C'était",
+        "comment",
+        "?",
+        "C'était",
+        "obligatoire,",
+        "ou",
+        "vous",
+        "l'aviez",
+        "choisi",
+        "?"
+      ],
+      "tokens_l2": [
+        "Počul",
+        "som",
+        "o",
+        "tom,",
+        "ale",
+        "neviem",
+        "si",
+        "to",
+        "naozaj",
+        "predstaviť.",
+        "Aké",
+        "to",
+        "bolo?",
+        "To",
+        "bolo",
+        "povinné,",
+        "alebo",
+        "ste",
+        "si",
+        "to",
+        "vybrali?"
+      ]
+    },
+    {
+      "id": "order-bolo-to-plne-in-ako-si-asi-mysl-te-poviem-v-m-o-tom",
+      "type": "order",
+      "l1": "C'était complètement différent de ce que vous pensez probablement. Je vais vous en parler.",
+      "l2": "Bolo to úplne iné, ako si asi myslíte. Poviem vám o tom.",
+      "tokens_l1": [
+        "C'était",
+        "complètement",
+        "différent",
+        "de",
+        "ce",
+        "que",
+        "vous",
+        "pensez",
+        "probablement.",
+        "Je",
+        "vais",
+        "vous",
+        "en",
+        "parler.",
+        "Ah.",
+        "Donc",
+        "ce",
+        "n'était",
+        "pas",
+        "seulement",
+        "de",
+        "l'idéologie,",
+        "c'était",
+        "aussi",
+        "vraiment",
+        "un",
+        "été",
+        "avec",
+        "des",
+        "copains."
+      ],
+      "tokens_l2": [
+        "Bolo",
+        "to",
+        "úplne",
+        "iné,",
+        "ako",
+        "si",
+        "asi",
+        "myslíte.",
+        "Poviem",
+        "vám",
+        "o",
+        "tom.",
+        "Aha.",
+        "Takže",
+        "to",
+        "nebolo",
+        "len",
+        "ideológia,",
+        "bolo",
+        "to",
+        "aj",
+        "skutočne",
+        "leto",
+        "s",
+        "kamarátmi."
+      ]
+    },
+    {
+      "id": "order-chodila-som-na-t-bor-ka-d-leto-od-siedmich-do-trn-stich-rokov",
+      "type": "order",
+      "l1": "J'allais au camp chaque été, de sept à quatorze ans.",
+      "l2": "Chodila som na tábor každé leto, od siedmich do štrnástich rokov.",
+      "tokens_l1": [
+        "J'allais",
+        "au",
+        "camp",
+        "chaque",
+        "été,",
+        "de",
+        "sept",
+        "à",
+        "quatorze",
+        "ans.",
+        "Être",
+        "pionnier",
+        "c'était",
+        "presque",
+        "automatique.",
+        "Mais",
+        "le",
+        "camp",
+        "lui-même,",
+        "on",
+        "l'aimait."
+      ],
+      "tokens_l2": [
+        "Chodila",
+        "som",
+        "na",
+        "tábor",
+        "každé",
+        "leto,",
+        "od",
+        "siedmich",
+        "do",
+        "štrnástich",
+        "rokov.",
+        "Byť",
+        "pionierom",
+        "bolo",
+        "skoro",
+        "automatické.",
+        "Ale",
+        "tábor",
+        "sám,",
+        "to",
+        "sme",
+        "mali",
+        "radi."
+      ]
+    },
+    {
+      "id": "order-to-bolo-povinn-alebo-ste-si-to-vybrali",
+      "type": "order",
+      "l1": "C'était obligatoire, ou vous l'aviez choisi ?",
+      "l2": "To bolo povinné, alebo ste si to vybrali?",
+      "tokens_l1": [
+        "C'était",
+        "obligatoire,",
+        "ou",
+        "vous",
+        "l'aviez",
+        "choisi",
+        "?",
+        "J'en",
+        "ai",
+        "entendu",
+        "parler,",
+        "mais",
+        "je",
+        "n'arrive",
+        "pas",
+        "vraiment",
+        "à",
+        "me",
+        "l'imaginer.",
+        "C'était",
+        "comment",
+        "?"
+      ],
+      "tokens_l2": [
+        "To",
+        "bolo",
+        "povinné,",
+        "alebo",
+        "ste",
+        "si",
+        "to",
+        "vybrali?",
+        "Počul",
+        "som",
+        "o",
+        "tom,",
+        "ale",
+        "neviem",
+        "si",
+        "to",
+        "naozaj",
+        "predstaviť.",
+        "Aké",
+        "to",
+        "bolo?"
+      ]
+    },
+    {
+      "id": "order-by-pionierom-bolo-skoro-automatick-ale-t-bor-s-m-to-sme-mali-radi",
+      "type": "order",
+      "l1": "Être pionnier c'était presque automatique. Mais le camp lui-même, on l'aimait.",
+      "l2": "Byť pionierom bolo skoro automatické. Ale tábor sám, to sme mali radi.",
+      "tokens_l1": [
+        "Être",
+        "pionnier",
+        "c'était",
+        "presque",
+        "automatique.",
+        "Mais",
+        "le",
+        "camp",
+        "lui-même,",
+        "on",
+        "l'aimait.",
+        "C'est",
+        "moi",
+        "!",
+        "J'avais",
+        "environ",
+        "dix",
+        "ans.",
+        "Nous",
+        "étions",
+        "dans",
+        "un",
+        "camp",
+        "de",
+        "pionniers."
+      ],
+      "tokens_l2": [
+        "Byť",
+        "pionierom",
+        "bolo",
+        "skoro",
+        "automatické.",
+        "Ale",
+        "tábor",
+        "sám,",
+        "to",
+        "sme",
+        "mali",
+        "radi.",
+        "To",
+        "som",
+        "ja!",
+        "Mala",
+        "som",
+        "asi",
+        "desať",
+        "rokov.",
+        "Boli",
+        "sme",
+        "na",
+        "pionierskom",
+        "tábore."
+      ]
+    },
+    {
+      "id": "order-aha-tak-e-to-nebolo-len-ideol-gia-bolo-to-aj-skuto-ne-leto-s-kamar-tmi",
+      "type": "order",
+      "l1": "Ah. Donc ce n'était pas seulement de l'idéologie, c'était aussi vraiment un été avec des copains.",
+      "l2": "Aha. Takže to nebolo len ideológia, bolo to aj skutočne leto s kamarátmi.",
+      "tokens_l1": [
+        "Ah.",
+        "Donc",
+        "ce",
+        "n'était",
+        "pas",
+        "seulement",
+        "de",
+        "l'idéologie,",
+        "c'était",
+        "aussi",
+        "vraiment",
+        "un",
+        "été",
+        "avec",
+        "des",
+        "copains.",
+        "C'était",
+        "obligatoire,",
+        "ou",
+        "vous",
+        "l'aviez",
+        "choisi",
+        "?"
+      ],
+      "tokens_l2": [
+        "Aha.",
+        "Takže",
+        "to",
+        "nebolo",
+        "len",
+        "ideológia,",
+        "bolo",
+        "to",
+        "aj",
+        "skutočne",
+        "leto",
+        "s",
+        "kamarátmi.",
+        "To",
+        "bolo",
+        "povinné,",
+        "alebo",
+        "ste",
+        "si",
+        "to",
+        "vybrali?"
+      ]
+    },
+    {
+      "id": "order-presne-tak-obidve-veci-naraz-po-me-na-to-poporiadku",
+      "type": "order",
+      "l1": "Exactement. Les deux choses à la fois. Allons-y dans l'ordre.",
+      "l2": "Presne tak. Obidve veci naraz. Poďme na to poporiadku.",
+      "tokens_l1": [
+        "Exactement.",
+        "Les",
+        "deux",
+        "choses",
+        "à",
+        "la",
+        "fois.",
+        "Allons-y",
+        "dans",
+        "l'ordre.",
+        "Andrea,",
+        "qui",
+        "est-ce",
+        "sur",
+        "cette",
+        "photo",
+        "?",
+        "Vous",
+        "avez",
+        "un",
+        "foulard",
+        "rouge",
+        "là."
+      ],
+      "tokens_l2": [
+        "Presne",
+        "tak.",
+        "Obidve",
+        "veci",
+        "naraz.",
+        "Poďme",
+        "na",
+        "to",
+        "poporiadku.",
+        "Andrea,",
+        "kto",
+        "je",
+        "to",
+        "na",
+        "tejto",
+        "fotke?",
+        "Máte",
+        "tam",
+        "červenú",
+        "šatku."
+      ]
+    },
+    {
+      "id": "match-pionier-pionierka-vocab",
+      "type": "match",
+      "l1": [
+        "pionnier / pionnière",
+        "le foulard",
+        "le camp",
+        "le groupe, l'unité"
+      ],
+      "l2": [
+        "pionier / pionierka",
+        "šatka",
+        "tábor",
+        "oddiel"
+      ]
+    },
+    {
+      "id": "match-andrea-kto-je-to-na-tejto-fotke-m-te-tam-erven-atku-sentences",
+      "type": "match",
+      "l1": [
+        "Andrea, qui est-ce sur cette photo ? Vous avez un foulard rouge là.",
+        "C'est moi ! J'avais environ dix ans. Nous étions dans un camp de pionniers.",
+        "J'en ai entendu parler, mais je n'arrive pas vraiment à me l'imaginer. C'était comment ?",
+        "C'était complètement différent de ce que vous pensez probablement. Je vais vous en parler."
+      ],
+      "l2": [
+        "Andrea, kto je to na tejto fotke? Máte tam červenú šatku.",
+        "To som ja! Mala som asi desať rokov. Boli sme na pionierskom tábore.",
+        "Počul som o tom, ale neviem si to naozaj predstaviť. Aké to bolo?",
+        "Bolo to úplne iné, ako si asi myslíte. Poviem vám o tom."
+      ]
+    }
+  ]
+}

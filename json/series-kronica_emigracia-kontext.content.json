@@ -1,0 +1,201 @@
+{
+  "id": "series-kronica_emigracia-kontext",
+  "category": "series",
+  "subgroup": "kronica_emigracia",
+  "subgroup_label": "Kronica emigracia",
+  "title": "Emigrácia (1/3) — Rozhodnutie",
+  "image": {
+    "src": "img/Bratislava_Airport_passport_control_stamp.jpg",
+    "caption": "Tampon de contrôle des passeports, aéroport de Bratislava — Wikimedia Commons"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Après quatre récits sur l'histoire de son pays, Andrea en raconte un dernier — le sien. Celui qui explique ce qu'elle a vécu à l'étranger, et pourquoi elle a fini par revenir vivre à Bratislava."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les personnages"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "👦 Eric",
+        "👩 Andrea"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Eric et Andrea se vouvoient."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le dialogue"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Andrea, povedali ste, že mi to poviete nabudúce. Tak som tu.",
+      "speaker": "👦",
+      "natural": "Andrea, vous avez dit que vous me le diriez la prochaine fois. Alors me voilà.",
+      "literal": [
+        "povedali ste = vous avez dit",
+        "že mi to poviete nabudúce = que vous me le diriez la prochaine fois",
+        "Tak som tu = alors me voilà"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Áno, máte pravdu. Toto je asi ten najosobnejší príbeh zo všetkých.",
+      "speaker": "👩",
+      "natural": "Oui, vous avez raison. C'est sans doute l'histoire la plus personnelle de toutes.",
+      "literal": [
+        "máte pravdu = vous avez raison",
+        "najosobnejší príbeh zo všetkých = l'histoire la plus personnelle de toutes"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Prečo ste sa vlastne rozhodli odísť zo Slovenska?",
+      "speaker": "👦",
+      "natural": "Pourquoi avez-vous finalement décidé de quitter la Slovaquie ?",
+      "literal": [
+        "Prečo ste sa rozhodli odísť = pourquoi avez-vous décidé de partir",
+        "zo Slovenska = de Slovaquie"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nebol to jeden dôvod. Bola to kombinácia práce, zvedavosti a možno aj trochu nudy.",
+      "speaker": "👩",
+      "natural": "Ce n'était pas une seule raison. C'était une combinaison de travail, de curiosité et peut-être aussi d'un peu d'ennui.",
+      "literal": [
+        "Nebol to jeden dôvod = ce n'était pas une seule raison",
+        "kombinácia práce, zvedavosti = une combinaison de travail, de curiosité",
+        "a možno aj trochu nudy = et peut-être aussi d'un peu d'ennui"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le vocabulaire de l'époque"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "odchod",
+          "le départ"
+        ],
+        [
+          "sťahovanie",
+          "le déménagement"
+        ],
+        [
+          "jazyková bariéra",
+          "la barrière de la langue"
+        ],
+        [
+          "skúsenosť",
+          "l'expérience"
+        ],
+        [
+          "domov",
+          "le chez-soi, le pays natal"
+        ],
+        [
+          "cudzina",
+          "l'étranger (le pays étranger)"
+        ],
+        [
+          "návrat",
+          "le retour"
+        ],
+        [
+          "stesknutie",
+          "le mal du pays"
+        ],
+        [
+          "istota",
+          "la sécurité, la certitude"
+        ],
+        [
+          "odvaha",
+          "le courage"
+        ],
+        [
+          "náhoda",
+          "le hasard"
+        ],
+        [
+          "osud",
+          "le destin"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Premiers repères",
+      "is_dialogue_section": true
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Odišla som v roku dvetisícpäť. Mala som vtedy tridsaťjeden rokov.",
+      "speaker": "👩",
+      "natural": "Je suis partie en 2005. J'avais alors trente et un ans.",
+      "literal": [
+        "Odišla som v roku dvetisícpäť = je suis partie en 2005",
+        "Mala som vtedy = j'avais alors",
+        "tridsaťjeden rokov = trente et un ans"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "To bol už rok po vstupe do únie.",
+      "speaker": "👦",
+      "natural": "C'était donc déjà un an après l'entrée dans l'union.",
+      "literal": [
+        "To bol už rok po = c'était déjà un an après",
+        "vstupe do únie = l'entrée dans l'union"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Presne tak. Trochu som počkala, kým som sa naozaj rozhodla.",
+      "speaker": "👩",
+      "natural": "Exactement. J'ai un peu attendu avant de vraiment me décider.",
+      "literal": [
+        "Presne tak = exactement",
+        "Trochu som počkala = j'ai un peu attendu",
+        "kým som sa naozaj rozhodla = avant de vraiment me décider"
+      ],
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "series-jedlo-obed-u-babky",
+  "category": "series",
+  "subgroup": "jedlo",
+  "subgroup_label": "Jedlo",
+  "title": "Série Jedlo (5/5) — Obed u babky",
+  "image": {
+    "src": "img/jedlo_05_beer_kofola_table.jpg",
+    "caption": "Bière et kofola à table, Slovenský raj — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Dimanche midi, déjeuner chez Babka Zuzana. Tout le vocabulaire de la série y passe. Aucun mot nouveau, sauf ceux signalés dans les remarques."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les personnages"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "👵 Babka Zuzana, qui a cuisiné",
+        "👦 Eric, le Français",
+        "🧒 Ján, son ami",
+        "👧 Katka, la petite sœur de Ján"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Eric vouvoie Babka Zuzana. Eric, Ján et Katka se tutoient."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le dialogue"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nech sa páči. Dobrú chuť!",
+      "speaker": "👵",
+      "natural": "Servez-vous. Bon appétit !",
+      "literal": [
+        "Nech sa páči = servez-vous",
+        "Dobrú chuť = bon appétit"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ďakujem. Čo je to?",
+      "speaker": "👦",
+      "natural": "Merci. Qu'est-ce que c'est ?",
+      "literal": [
+        "Ďakujem = merci",
+        "Čo = quoi",
+        "je = est",
+        "to = cela"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kapustnica. Je teplá, pozor.",
+      "speaker": "👵",
+      "natural": "De la soupe de choucroute. Elle est chaude, attention.",
+      "literal": [
+        "Kapustnica = soupe de choucroute",
+        "Je = elle est",
+        "teplá = chaude",
+        "pozor = attention"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je to veľmi chutné.",
+      "speaker": "👦",
+      "natural": "C'est très savoureux.",
+      "literal": [
+        "Je to = c'est",
+        "veľmi = très",
+        "chutné = savoureux"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Potom sú halušky. Máš rád bryndzu?",
+      "speaker": "🧒",
+      "natural": "Ensuite il y a des halušky. Tu aimes la bryndza ?",
+      "literal": [
+        "Potom = ensuite",
+        "sú = il y a",
+        "halušky = des halušky",
+        "Máš rád = aimes-tu",
+        "bryndzu = la bryndza"
+      ],
+      "notes": [
+        "« mať rád » veut dire aimer. La forme change selon le locuteur : un homme dit « mám rád », une femme « mám rada »."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Neviem. Ochutnám!",
+      "speaker": "👦",
+      "natural": "Je ne sais pas. Je vais goûter !",
+      "literal": [
+        "Neviem = je ne sais pas",
+        "Ochutnám = je vais goûter"
+      ],
+      "notes": [
+        "« vedieť » signifie savoir : viem, vieš, vie."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ja nechcem halušky. Chcem koláč!",
+      "speaker": "👧",
+      "natural": "Moi je ne veux pas de halušky. Je veux du gâteau !",
+      "literal": [
+        "Ja = moi",
+        "nechcem = je ne veux pas",
+        "halušky = de halušky",
+        "Chcem = je veux",
+        "koláč = du gâteau"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Najprv obed, potom koláč.",
+      "speaker": "👵",
+      "natural": "D'abord le déjeuner, ensuite le gâteau.",
+      "literal": [
+        "Najprv = d'abord",
+        "obed = le déjeuner",
+        "potom = ensuite",
+        "koláč = le gâteau"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Eric, dáte si pivo alebo vodu?",
+      "speaker": "👵",
+      "natural": "Eric, vous prenez une bière ou de l'eau ?",
+      "literal": [
+        "dáte si = vous prenez",
+        "pivo = une bière",
+        "alebo = ou",
+        "vodu = de l'eau"
+      ],
+      "notes": [
+        "« alebo » veut dire ou. Petit mot très courant."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Vodu, prosím. Mám smäd.",
+      "speaker": "👦",
+      "natural": "De l'eau, s'il vous plaît. J'ai soif.",
+      "literal": [
+        "Vodu = de l'eau",
+        "prosím = s'il vous plaît",
+        "Mám = j'ai",
+        "smäd = soif"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ja si dám pivo. Na zdravie!",
+      "speaker": "🧒",
+      "natural": "Moi je prends une bière. Santé !",
+      "literal": [
+        "Ja = moi",
+        "si dám = je prends",
+        "pivo = une bière",
+        "Na zdravie = santé"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcete ešte polievku?",
+      "speaker": "👵",
+      "natural": "Vous voulez encore de la soupe ?",
+      "literal": [
+        "Chcete = vous voulez",
+        "ešte = encore",
+        "polievku = de la soupe"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nie, ďakujem. Som plný.",
+      "speaker": "👦",
+      "natural": "Non, merci. Je n'ai plus faim.",
+      "literal": [
+        "Nie = non",
+        "ďakujem = merci",
+        "Som = je suis",
+        "plný = rassasié"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ešte trochu. Nie ste hladný?",
+      "speaker": "👵",
+      "natural": "Encore un peu. Vous n'avez pas faim ?",
+      "literal": [
+        "Ešte = encore",
+        "trochu = un peu",
+        "Nie ste = vous n'êtes pas",
+        "hladný = affamé"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Babka vždy hovorí \"ešte trochu\"!",
+      "speaker": "👧",
+      "natural": "Grand-mère dit toujours « encore un peu » !",
+      "literal": [
+        "Babka = grand-mère",
+        "vždy = toujours",
+        "hovorí = dit",
+        "ešte trochu = encore un peu"
+      ],
+      "notes": [
+        "« vždy » veut dire toujours et « hovoriť » veut dire parler, dire."
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le déjeuner du dimanche est un marathon.** Soupe, plat, dessert, et un café pour finir. Prévoir un après-midi entier, et ne pas déjeuner avant."
+    },
+    {
+      "type": "paragraph",
+      "text": "**« Ešte trochu » n'est pas une question.** Refuser une deuxième portion est interprété comme de la politesse, donc comme une invitation à insister. La parade qui fonctionne consiste à accepter une petite part et à la manger lentement."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Mať rád, deux verbes en un.** [[Mať rád]] sert pour les plats comme pour les gens : *mám rád halušky* et *mám rád Katku* utilisent la même structure. Le contexte évite la confusion, en général."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dám si guláš a pivo.",
+      "speaker": null,
+      "natural": "Je prends un goulash et une bière.",
+      "literal": [
+        "Dám si = je prends",
+        "guláš = un goulash",
+        "a = et",
+        "pivo = une bière"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám rád syr, ale nemám rád mlieko.",
+      "speaker": null,
+      "natural": "J'aime le fromage, mais je n'aime pas le lait.",
+      "literal": [
+        "Mám rád = j'aime",
+        "syr = le fromage",
+        "ale = mais",
+        "nemám rád = je n'aime pas",
+        "mlieko = le lait"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kapustnica je slaná a trochu kyslá.",
+      "speaker": null,
+      "natural": "La soupe de choucroute est salée et un peu acide.",
+      "literal": [
+        "Kapustnica = la soupe de choucroute",
+        "je = est",
+        "slaná = salée",
+        "a = et",
+        "trochu = un peu",
+        "kyslá = acide"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem ešte kávu. Je studená.",
+      "speaker": null,
+      "natural": "Je veux encore du café. Il est froid.",
+      "literal": [
+        "Chcem = je veux",
+        "ešte = encore",
+        "kávu = du café",
+        "Je = il est",
+        "studená = froide"
+      ],
+      "notes": []
+    }
+  ]
+}

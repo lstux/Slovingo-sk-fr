@@ -1,0 +1,325 @@
+{
+  "id": "vocabulary-meteo",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "☀️ Počasie (La météo)",
+  "image": null,
+  "content": [
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Le temps qu'il fait"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "slnko",
+          "soleil"
+        ],
+        [
+          "dážď",
+          "pluie"
+        ],
+        [
+          "sneh",
+          "neige"
+        ],
+        [
+          "vietor",
+          "vent"
+        ],
+        [
+          "oblak / mraky",
+          "nuage / nuages"
+        ],
+        [
+          "hmla",
+          "brouillard"
+        ],
+        [
+          "búrka",
+          "orage"
+        ],
+        [
+          "dúha",
+          "arc-en-ciel"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Dire quel temps il fait"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Aké je dnes počasie?",
+      "speaker": null,
+      "natural": "Quel temps fait-il aujourd'hui ?",
+      "literal": [
+        "aké = quel · dnes = aujourd'hui · počasie = temps (météo)"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dnes je pekne.",
+      "speaker": null,
+      "natural": "Aujourd'hui il fait beau.",
+      "literal": [
+        "dnes = aujourd'hui · pekne = bien, beau (adverbe)"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Vonku prší.",
+      "speaker": null,
+      "natural": "Il pleut dehors.",
+      "literal": [
+        "vonku = dehors · prší = il pleut"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Sneží už od rána.",
+      "speaker": null,
+      "natural": "Il neige depuis ce matin.",
+      "literal": [
+        "sneží = il neige · už od rána = déjà depuis le matin"
+      ],
+      "notes": []
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"prší\" et \"sneží\" sont des verbes impersonnels : ils n'ont pas de sujet, comme \"il pleut\" en français."
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Fúka silný vietor.",
+      "speaker": null,
+      "natural": "Il y a un vent fort qui souffle.",
+      "literal": [
+        "fúka = ça souffle · silný vietor = vent fort"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Les températures"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "teplota",
+          "température"
+        ],
+        [
+          "teplo",
+          "chaud (il fait chaud)"
+        ],
+        [
+          "zima",
+          "froid (il fait froid)"
+        ],
+        [
+          "horúco",
+          "très chaud"
+        ],
+        [
+          "chladno",
+          "frais"
+        ],
+        [
+          "stupeň",
+          "degré"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Vonku je zima.",
+      "speaker": null,
+      "natural": "Il fait froid dehors.",
+      "literal": [
+        "vonku = dehors · je zima = il fait froid"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dnes je strašne horúco.",
+      "speaker": null,
+      "natural": "Aujourd'hui il fait terriblement chaud.",
+      "literal": [
+        "dnes = aujourd'hui · strašne = terriblement · horúco = très chaud"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Má dvadsať stupňov.",
+      "speaker": null,
+      "natural": "Il fait vingt degrés.",
+      "literal": [
+        "má = il a (littéralement) · dvadsať stupňov = vingt degrés"
+      ],
+      "notes": []
+    },
+    {
+      "type": "paragraph",
+      "text": "+ Pour la température, le slovaque utilise littéralement \"il a\" (má) plutôt que \"il fait\" comme en français."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Les saisons"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "jar",
+          "printemps"
+        ],
+        [
+          "leto",
+          "été"
+        ],
+        [
+          "jeseň",
+          "automne"
+        ],
+        [
+          "zima",
+          "hiver"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "+ Attention : \"zima\" veut dire à la fois \"hiver\" (nom) et \"froid\" (dans \"je zima\" = il fait froid). Le contexte permet de distinguer les deux sens."
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V lete je väčšinou teplo.",
+      "speaker": null,
+      "natural": "En été il fait généralement chaud.",
+      "literal": [
+        "v lete = en été · väčšinou = généralement · teplo = chaud"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V zime často sneží.",
+      "speaker": null,
+      "natural": "En hiver il neige souvent.",
+      "literal": [
+        "v zime = en hiver · často = souvent · sneží = il neige"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Petit vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "predpoveď počasia",
+          "prévisions météo"
+        ],
+        [
+          "dáždnik",
+          "parapluie"
+        ],
+        [
+          "mokrý / mokrá",
+          "mouillé(e)"
+        ],
+        [
+          "suchý / suchá",
+          "sec / sèche"
+        ],
+        [
+          "zamračené",
+          "nuageux"
+        ],
+        [
+          "jasno",
+          "ciel clair, dégagé"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Vezmi si dáždnik, bude pršať.",
+      "speaker": null,
+      "natural": "Prends un parapluie, il va pleuvoir.",
+      "literal": [
+        "vezmi si = prends · dáždnik = parapluie · bude pršať = il va pleuvoir"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚠️ Pièges pour les francophones"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "\"prší\", \"sneží\", \"fúka\" sont des verbes **sans sujet** : pas d'équivalent de \"il\" à ajouter devant, contrairement au français.",
+        "Pour la température, le slovaque dit littéralement \"il a X degrés\" ([[má dvadsať stupňov]]), pas \"il fait X degrés\".",
+        "\"zima\" a deux sens (hiver / froid) : [[zima]] comme saison vs [[je zima]] pour dire qu'il fait froid."
+      ]
+    }
+  ]
+}

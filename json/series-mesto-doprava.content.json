@@ -1,0 +1,427 @@
+{
+  "id": "series-mesto-doprava",
+  "category": "series",
+  "subgroup": "mesto",
+  "subgroup_label": "Mesto",
+  "title": "Série Mesto (2/5) — Doprava",
+  "image": {
+    "src": "img/mesto_02_tram_stop.jpg",
+    "caption": "Tram devant la gare de Košice — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Les transports en commun. Et la distinction entre **ísť** (un trajet précis) et **chodiť** (une habitude), déjà annoncée dans la série Čas."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "autobus",
+          "le bus"
+        ],
+        [
+          "električka",
+          "le tram"
+        ],
+        [
+          "vlak",
+          "le train"
+        ],
+        [
+          "zastávka",
+          "l'arrêt"
+        ],
+        [
+          "cestovný lístok",
+          "le ticket"
+        ],
+        [
+          "chodiť",
+          "aller habituellement"
+        ],
+        [
+          "MHD",
+          "les transports en commun"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ísť ou chodiť ?"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "Idem do práce.",
+          "Je vais au travail (maintenant)."
+        ],
+        [
+          "Chodím do práce autobusom.",
+          "Je vais au travail en bus (d'habitude)."
+        ],
+        [
+          "Ideš na zastávku?",
+          "Tu vas à l'arrêt (là, maintenant) ?"
+        ],
+        [
+          "Chodíš pešo?",
+          "Tu y vas à pied (en général) ?"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "*Ísť* décrit un déplacement précis et ponctuel. *Chodiť* décrit une habitude répétée. Le choix entre les deux ne dépend pas du moyen de transport, mais de la régularité de l'action."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Chodiť au présent"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "ja chodím",
+          "je vais (habituellement)"
+        ],
+        [
+          "ty chodíš",
+          "tu vas"
+        ],
+        [
+          "on / ona chodí",
+          "il / elle va"
+        ],
+        [
+          "my chodíme",
+          "nous allons"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chodím do práce autobusom.",
+      "speaker": null,
+      "natural": "Je vais au travail en bus.",
+      "literal": [
+        "Chodím = je vais (d'habitude)",
+        "do práce = au travail",
+        "autobusom = en bus"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dnes idem pešo.",
+      "speaker": null,
+      "natural": "Aujourd'hui j'y vais à pied.",
+      "literal": [
+        "Dnes = aujourd'hui",
+        "idem = j'y vais",
+        "pešo = à pied"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kde je zastávka?",
+      "speaker": null,
+      "natural": "Où est l'arrêt ?",
+      "literal": [
+        "Kde = où",
+        "je = est",
+        "zastávka = l'arrêt"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem cestovný lístok.",
+      "speaker": null,
+      "natural": "Je veux un ticket.",
+      "literal": [
+        "Chcem = je veux",
+        "cestovný lístok = un ticket"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Električka ide o piatej.",
+      "speaker": null,
+      "natural": "Le tram part à cinq heures.",
+      "literal": [
+        "Električka = le tram",
+        "ide = part",
+        "o piatej = à cinq heures"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chodíš vždy vlakom?",
+      "speaker": null,
+      "natural": "Tu prends toujours le train ?",
+      "literal": [
+        "Chodíš = vas-tu (d'habitude)",
+        "vždy = toujours",
+        "vlakom = en train"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Autobus mešká desať minút.",
+      "speaker": null,
+      "natural": "Le bus a dix minutes de retard.",
+      "literal": [
+        "Autobus = le bus",
+        "mešká = est en retard",
+        "desať minút = dix minutes"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "MHD je v Košiciach dobrá.",
+      "speaker": null,
+      "natural": "Les transports en commun sont bons à Košice.",
+      "literal": [
+        "MHD = les transports en commun",
+        "je = est",
+        "v Košiciach = à Košice",
+        "dobrá = bonne"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chodím do parku každý deň.",
+      "speaker": null,
+      "natural": "Je vais au parc tous les jours.",
+      "literal": [
+        "Chodím = je vais (d'habitude)",
+        "do parku = au parc",
+        "každý deň = tous les jours"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Idem na námestie. Ideš so mnou?",
+      "speaker": null,
+      "natural": "Je vais sur la place. Tu viens avec moi ?",
+      "literal": [
+        "Idem = je vais",
+        "na námestie = sur la place",
+        "Ideš = tu viens",
+        "so mnou = avec moi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Múzeum je zatvorené. Chodíme tam v sobotu.",
+      "speaker": null,
+      "natural": "Le musée est fermé. On y va d'habitude le samedi.",
+      "literal": [
+        "Múzeum = le musée",
+        "je = est",
+        "zatvorené = fermé",
+        "Chodíme = nous allons (d'habitude)",
+        "tam = là",
+        "v sobotu = le samedi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**MHD, l'abréviation que tout le monde utilise.** Pour *mestská hromadná doprava*, transport urbain collectif, ce sigle apparaît sur les applications, les tickets et les panneaux. Personne ne prononce la version longue au quotidien."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le tram de Košice roule depuis 1891, à l'origine tiré par des chevaux.** Il a été électrifié en 1913, et reste depuis un pilier de la mobilité en ville, avec des rames modernes à côté de vieux modèles encore en service sur certaines lignes. Les tickets s'achètent en borne ou par application."
+    },
+    {
+      "type": "paragraph",
+      "text": "**La gratuité pour les jeunes et les seniors.** Depuis quelques années, les moins de 26 ans et les plus de 62 ans voyagent gratuitement sur les trains nationaux. Une bonne nouvelle à connaître si tu voyages avec de la famille slovaque."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "pešo",
+          "à pied"
+        ],
+        [
+          "bicykel",
+          "le vélo"
+        ],
+        [
+          "auto",
+          "la voiture"
+        ],
+        [
+          "taxík",
+          "le taxi"
+        ],
+        [
+          "lístok",
+          "le billet"
+        ],
+        [
+          "stanica",
+          "la gare, la station"
+        ],
+        [
+          "smer",
+          "la direction"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chodím do školy pešo.",
+      "speaker": null,
+      "natural": "Je vais à l'école à pied.",
+      "literal": [
+        "Chodím = je vais (d'habitude)",
+        "do školy = à l'école",
+        "pešo = à pied"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám bicykel, ale dnes idem autom.",
+      "speaker": null,
+      "natural": "J'ai un vélo, mais aujourd'hui j'y vais en voiture.",
+      "literal": [
+        "Mám = j'ai",
+        "bicykel = un vélo",
+        "ale = mais",
+        "dnes = aujourd'hui",
+        "idem = j'y vais",
+        "autom = en voiture"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Zavolám taxík.",
+      "speaker": null,
+      "natural": "Je vais appeler un taxi.",
+      "literal": [
+        "Zavolám = je vais appeler",
+        "taxík = un taxi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Aký je smer?",
+      "speaker": null,
+      "natural": "Quelle est la direction ?",
+      "literal": [
+        "Aký = quelle",
+        "je = est",
+        "smer = la direction"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Stanica je ďaleko, choď električkou.",
+      "speaker": null,
+      "natural": "La gare est loin, prends le tram.",
+      "literal": [
+        "Stanica = la gare",
+        "je = est",
+        "ďaleko = loin",
+        "choď = prends, va",
+        "električkou = en tram"
+      ],
+      "notes": []
+    }
+  ]
+}

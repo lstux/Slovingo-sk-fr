@@ -1,0 +1,425 @@
+{
+  "id": "series-mesto-kade-mam-ist",
+  "category": "series",
+  "subgroup": "mesto",
+  "subgroup_label": "Mesto",
+  "title": "Série Mesto (3/5) — Kade mám ísť?",
+  "image": {
+    "src": "img/mesto_03_square.jpg",
+    "caption": "La rue Hlavná à Košice — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Demander son chemin et le suivre. C'est ici qu'apparaît l'**impératif**, la forme qu'on utilise pour donner une instruction."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "choď",
+          "va"
+        ],
+        [
+          "choďte",
+          "allez (vouvoiement)"
+        ],
+        [
+          "rovno",
+          "tout droit"
+        ],
+        [
+          "vľavo",
+          "à gauche"
+        ],
+        [
+          "vpravo",
+          "à droite"
+        ],
+        [
+          "za rohom",
+          "après le coin"
+        ],
+        [
+          "priamo",
+          "juste, directement"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "L'impératif de base"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "Choď!",
+          "Va ! (tutoiement)"
+        ],
+        [
+          "Choďte!",
+          "Allez ! (vouvoiement)"
+        ],
+        [
+          "Zabočte vľavo!",
+          "Tournez à gauche !"
+        ],
+        [
+          "Choďte rovno!",
+          "Allez tout droit !"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "L'impératif se retient d'abord tel quel, sans en construire la règle : ce sont des formes très fréquentes qu'on entend partout dans la rue."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Situer un lieu"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "Je to za rohom.",
+          "C'est après le coin."
+        ],
+        [
+          "Je to vedľa banky.",
+          "C'est à côté de la banque."
+        ],
+        [
+          "Je to pred kostolom.",
+          "C'est devant l'église."
+        ],
+        [
+          "Je to blízko.",
+          "C'est près d'ici."
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Prepáčte, kde je pošta?",
+      "speaker": null,
+      "natural": "Excusez-moi, où est la poste ?",
+      "literal": [
+        "Prepáčte = excusez-moi",
+        "kde = où",
+        "je = est",
+        "pošta = la poste"
+      ],
+      "notes": [
+        "« prepáčte » sert à aborder un inconnu poliment."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Choďte rovno a potom vľavo.",
+      "speaker": null,
+      "natural": "Allez tout droit puis à gauche.",
+      "literal": [
+        "Choďte = allez",
+        "rovno = tout droit",
+        "a potom = et ensuite",
+        "vľavo = à gauche"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je to za rohom.",
+      "speaker": null,
+      "natural": "C'est après le coin.",
+      "literal": [
+        "Je to = c'est",
+        "za rohom = après le coin"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Choď vpravo, nie vľavo!",
+      "speaker": null,
+      "natural": "Va à droite, pas à gauche !",
+      "literal": [
+        "Choď = va",
+        "vpravo = à droite",
+        "nie = pas",
+        "vľavo = à gauche"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Múzeum je priamo pred vami.",
+      "speaker": null,
+      "natural": "Le musée est juste devant vous.",
+      "literal": [
+        "Múzeum = le musée",
+        "je = est",
+        "priamo = juste",
+        "pred vami = devant vous"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Zastávka je blízko, choďte rovno.",
+      "speaker": null,
+      "natural": "L'arrêt est proche, allez tout droit.",
+      "literal": [
+        "Zastávka = l'arrêt",
+        "je = est",
+        "blízko = proche",
+        "choďte rovno = allez tout droit"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kade mám ísť?",
+      "speaker": null,
+      "natural": "Par où dois-je aller ?",
+      "literal": [
+        "Kade = par où",
+        "mám ísť = dois-je aller"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ďakujem za pomoc!",
+      "speaker": null,
+      "natural": "Merci pour l'aide !",
+      "literal": [
+        "Ďakujem = merci",
+        "za pomoc = pour l'aide"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Prepáčte, kde je zastávka autobusu?",
+      "speaker": null,
+      "natural": "Excusez-moi, où est l'arrêt de bus ?",
+      "literal": [
+        "Prepáčte = excusez-moi",
+        "kde = où",
+        "je = est",
+        "zastávka autobusu = l'arrêt de bus"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Choďte rovno, kostol je na námestí.",
+      "speaker": null,
+      "natural": "Allez tout droit, l'église est sur la place.",
+      "literal": [
+        "Choďte rovno = allez tout droit",
+        "kostol = l'église",
+        "je = est",
+        "na námestí = sur la place"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Banka je vedľa múzea, za rohom.",
+      "speaker": null,
+      "natural": "La banque est à côté du musée, après le coin.",
+      "literal": [
+        "Banka = la banque",
+        "je = est",
+        "vedľa múzea = à côté du musée",
+        "za rohom = après le coin"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Prepáčte ouvre toutes les portes.** Ce mot d'excuse poli sert à interpeller un inconnu, à se faufiler dans une foule ou à s'excuser d'un vrai impair. C'est probablement l'un des mots les plus utiles du répertoire touristique."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Les Slovaques indiquent volontiers le chemin à pied.** Demander sa route dans la rue reste courant et bien accueilli, contrairement à d'autres capitales où l'on préfère sortir son téléphone. Une explication orale accompagnée d'un geste du bras est fréquente."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le vieux centre se visite surtout à pied.** [[Hlavná ulica]], piétonne depuis 1986, forme le plus grand centre historique protégé de Slovaquie, et la plupart des sites se trouvent à quelques minutes les uns des autres — largement de quoi pratiquer *rovno*, *vľavo* et *vpravo* en vrai."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "roh",
+          "le coin"
+        ],
+        [
+          "smer",
+          "la direction"
+        ],
+        [
+          "ďalej",
+          "plus loin"
+        ],
+        [
+          "naspäť",
+          "en arrière"
+        ],
+        [
+          "križovatka",
+          "le carrefour"
+        ],
+        [
+          "svetlá",
+          "les feux"
+        ],
+        [
+          "chodník",
+          "le trottoir"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na križovatke choďte vpravo.",
+      "speaker": null,
+      "natural": "Au carrefour, allez à droite.",
+      "literal": [
+        "Na križovatke = au carrefour",
+        "choďte = allez",
+        "vpravo = à droite"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Svetlá sú červené.",
+      "speaker": null,
+      "natural": "Les feux sont rouges.",
+      "literal": [
+        "Svetlá = les feux",
+        "sú = sont",
+        "červené = rouges"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Choďte ešte kúsok ďalej.",
+      "speaker": null,
+      "natural": "Allez encore un peu plus loin.",
+      "literal": [
+        "Choďte = allez",
+        "ešte kúsok = encore un peu",
+        "ďalej = plus loin"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Vráťte sa naspäť.",
+      "speaker": null,
+      "natural": "Retournez en arrière.",
+      "literal": [
+        "Vráťte sa = retournez",
+        "naspäť = en arrière"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chodník je úzky.",
+      "speaker": null,
+      "natural": "Le trottoir est étroit.",
+      "literal": [
+        "Chodník = le trottoir",
+        "je = est",
+        "úzky = étroit"
+      ],
+      "notes": []
+    }
+  ]
+}

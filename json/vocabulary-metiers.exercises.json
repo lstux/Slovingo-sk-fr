@@ -1,0 +1,805 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-u-ite-u-ite-ka",
+      "type": "qcm",
+      "l1": "enseignant / enseignante",
+      "l2": "učiteľ / učiteľka",
+      "choices_l1": [
+        "il / elle est",
+        "trois quarts de rabais",
+        "Il fait frais."
+      ],
+      "choices_l2": [
+        "Páči sa ti to?",
+        "upratujem, upratuješ, upratuje",
+        "upratujem → neupratujem"
+      ]
+    },
+    {
+      "id": "qcm-lek-r-lek-rka",
+      "type": "qcm",
+      "l1": "médecin",
+      "l2": "lekár / lekárka",
+      "choices_l1": [
+        "vallée",
+        "faire",
+        "l'hébergement"
+      ],
+      "choices_l2": [
+        "Dostala som odmenu.",
+        "Dal som chlapcom vajíčka.",
+        "on / ona hľadá"
+      ]
+    },
+    {
+      "id": "qcm-kuch-r-kuch-rka",
+      "type": "qcm",
+      "l1": "cuisinier / cuisinière",
+      "l2": "kuchár / kuchárka",
+      "choices_l1": [
+        "je / moi",
+        "haut(e), grand(e) (pour une personne)",
+        "jus (de fruit)"
+      ],
+      "choices_l2": [
+        "varím, varíš, varí",
+        "záchod / toaleta",
+        "nervózny / nervózna"
+      ]
+    },
+    {
+      "id": "qcm-predava-predava-ka",
+      "type": "qcm",
+      "l1": "vendeur / vendeuse",
+      "l2": "predavač / predavačka",
+      "choices_l1": [
+        "trois quarts d'heure (45 min)",
+        "dans la pièce",
+        "Il fait chaud."
+      ],
+      "choices_l2": [
+        "Aké je to?",
+        "unavený / unavená",
+        "okno → Vidím okno."
+      ]
+    },
+    {
+      "id": "qcm-policajt-policajtka",
+      "type": "qcm",
+      "l1": "policier / policière",
+      "l2": "policajt / policajtka",
+      "choices_l1": [
+        "à la mode",
+        "la vue, le panorama",
+        "sonner (une cloche, ici : agiter)"
+      ],
+      "choices_l2": [
+        "najlepší / najlepšia / najlepšie",
+        "lekár / lekárka",
+        "váš / vaša / vaše"
+      ]
+    },
+    {
+      "id": "qcm-hasi",
+      "type": "qcm",
+      "l1": "pompier",
+      "l2": "hasič",
+      "choices_l1": [
+        "longtemps",
+        "couloir",
+        "chanson"
+      ],
+      "choices_l2": [
+        "je",
+        "náročný",
+        "štrnásť"
+      ]
+    },
+    {
+      "id": "qcm-vodi",
+      "type": "qcm",
+      "l1": "conducteur",
+      "l2": "vodič",
+      "choices_l1": [
+        "acide",
+        "tradition",
+        "1"
+      ],
+      "choices_l2": [
+        "kopec",
+        "pol",
+        "farma"
+      ]
+    },
+    {
+      "id": "qcm-tovn-k-tovn-ka",
+      "type": "qcm",
+      "l1": "comptable",
+      "l2": "účtovník / účtovníčka",
+      "choices_l1": [
+        "le calendrier",
+        "l'appartement",
+        "classe"
+      ],
+      "choices_l2": [
+        "byt → v byte",
+        "Na Bielu sobotu sme piekli.",
+        "umývam, umývaš, umýva"
+      ]
+    },
+    {
+      "id": "qcm-in-inier",
+      "type": "qcm",
+      "l1": "ingénieur",
+      "l2": "inžinier",
+      "choices_l1": [
+        "ils",
+        "tu seras",
+        "quatorzième"
+      ],
+      "choices_l2": [
+        "politik",
+        "omša",
+        "oheň"
+      ]
+    },
+    {
+      "id": "qcm-program-tor-program-torka",
+      "type": "qcm",
+      "l1": "informaticien / informaticienne",
+      "l2": "programátor / programátorka",
+      "choices_l1": [
+        "quoi / que",
+        "le vendredi saint",
+        "cher / chère"
+      ],
+      "choices_l2": [
+        "Koľko to stojí?",
+        "zoo / zoologická záhrada",
+        "veľký / veľká"
+      ]
+    },
+    {
+      "id": "qcm-elektrik-r",
+      "type": "qcm",
+      "l1": "électricien",
+      "l2": "elektrikár",
+      "choices_l1": [
+        "longtemps",
+        "l'été",
+        "jour"
+      ],
+      "choices_l2": [
+        "hovoríme",
+        "Idem domov.",
+        "trieda"
+      ]
+    },
+    {
+      "id": "qcm-mur-r",
+      "type": "qcm",
+      "l1": "maçon",
+      "l2": "murár",
+      "choices_l1": [
+        "j'achète",
+        "mais",
+        "l'assiette"
+      ],
+      "choices_l2": [
+        "spálňa",
+        "hostia",
+        "blízko"
+      ]
+    },
+    {
+      "id": "qcm-maliar",
+      "type": "qcm",
+      "l1": "peintre",
+      "l2": "maliar",
+      "choices_l1": [
+        "aujourd'hui",
+        "cave",
+        "eau"
+      ],
+      "choices_l2": [
+        "strach",
+        "ty chceš",
+        "piaty"
+      ]
+    },
+    {
+      "id": "qcm-spisovate-spisovate-ka",
+      "type": "qcm",
+      "l1": "écrivain / écrivaine",
+      "l2": "spisovateľ / spisovateľka",
+      "choices_l1": [
+        "ranger, faire le ménage",
+        "Il fera pluvieux.",
+        "à sept heures"
+      ],
+      "choices_l2": [
+        "Dal som chlapcom vajíčka.",
+        "stôl → na stole",
+        "umývam, umývaš, umýva"
+      ]
+    },
+    {
+      "id": "qcm-hudobn-k-hudobn-ka",
+      "type": "qcm",
+      "l1": "musicien / musicienne",
+      "l2": "hudobník / hudobníčka",
+      "choices_l1": [
+        "Je n'ai pas teint d'œufs.",
+        "le marché du travail",
+        "un tiers - deux tiers"
+      ],
+      "choices_l2": [
+        "on / ona je",
+        "tvoj / tvoja / tvoje",
+        "chorý / chorá"
+      ]
+    },
+    {
+      "id": "qcm-pr-ca",
+      "type": "qcm",
+      "l1": "travail",
+      "l2": "práca",
+      "choices_l1": [
+        "cette semaine",
+        "voyageur",
+        "le miroir"
+      ],
+      "choices_l2": [
+        "film",
+        "káva",
+        "krk"
+      ]
+    },
+    {
+      "id": "qcm-firma",
+      "type": "qcm",
+      "l1": "entreprise",
+      "l2": "firma",
+      "choices_l1": [
+        "100%",
+        "près",
+        "hôpital"
+      ],
+      "choices_l2": [
+        "nuž",
+        "módny",
+        "inžinier"
+      ]
+    },
+    {
+      "id": "qcm-kancel-ria",
+      "type": "qcm",
+      "l1": "bureau",
+      "l2": "kancelária",
+      "choices_l1": [
+        "vendredi",
+        "maison",
+        "vy"
+      ],
+      "choices_l2": [
+        "o piatej",
+        "oni",
+        "ja jem"
+      ]
+    },
+    {
+      "id": "qcm-diel-a",
+      "type": "qcm",
+      "l1": "atelier",
+      "l2": "dielňa",
+      "choices_l1": [
+        "vous serez",
+        "caisse",
+        "l'arc-en-ciel"
+      ],
+      "choices_l2": [
+        "film",
+        "náročný",
+        "ty chodíš"
+      ]
+    },
+    {
+      "id": "qcm-nemocnica",
+      "type": "qcm",
+      "l1": "hôpital",
+      "l2": "nemocnica",
+      "choices_l1": [
+        "comptable",
+        "beau-père",
+        "gants"
+      ],
+      "choices_l2": [
+        "marec",
+        "chladnička",
+        "tri"
+      ]
+    },
+    {
+      "id": "qcm-kola",
+      "type": "qcm",
+      "l1": "école",
+      "l2": "škola",
+      "choices_l1": [
+        "calme",
+        "vent",
+        "corps"
+      ],
+      "choices_l2": [
+        "balkón",
+        "netrpezlivý",
+        "robí"
+      ]
+    },
+    {
+      "id": "qcm-obchod",
+      "type": "qcm",
+      "l1": "magasin",
+      "l2": "obchod",
+      "choices_l1": [
+        "le sel",
+        "sale",
+        "0"
+      ],
+      "choices_l2": [
+        "vyšetrenie",
+        "ovocie",
+        "družina"
+      ]
+    },
+    {
+      "id": "qcm-f-fka",
+      "type": "qcm",
+      "l1": "chef, patron / patronne",
+      "l2": "šéf / šéfka",
+      "choices_l1": [
+        "l'étudiant / l'étudiante",
+        "payer un supplément",
+        "Je vais au magasin."
+      ],
+      "choices_l2": [
+        "pekný / pekná",
+        "práce v domácnosti",
+        "pracovitý / pracovitá"
+      ]
+    },
+    {
+      "id": "qcm-kolega-kolegy-a",
+      "type": "qcm",
+      "l1": "collègue",
+      "l2": "kolega / kolegyňa",
+      "choices_l1": [
+        "Il pleut.",
+        "miroir",
+        "janvier"
+      ],
+      "choices_l2": [
+        "Chodím do práce autobusom.",
+        "čerstvý / čerstvá",
+        "dobrý / dobrá"
+      ]
+    },
+    {
+      "id": "qcm-plat",
+      "type": "qcm",
+      "l1": "salaire",
+      "l2": "plat",
+      "choices_l1": [
+        "le saule",
+        "ici",
+        "dix euros"
+      ],
+      "choices_l2": [
+        "revolúcia",
+        "teplo",
+        "slivovica"
+      ]
+    },
+    {
+      "id": "qcm-dovolenka",
+      "type": "qcm",
+      "l1": "congé",
+      "l2": "dovolenka",
+      "choices_l1": [
+        "l'assiette",
+        "canard",
+        "le fils"
+      ],
+      "choices_l2": [
+        "fajn",
+        "veľkosť",
+        "teraz"
+      ]
+    },
+    {
+      "id": "qcm-pracovn-zmena",
+      "type": "qcm",
+      "l1": "poste (horaire de travail)",
+      "l2": "pracovná zmena",
+      "choices_l1": [
+        "C'est près d'ici.",
+        "la vue, le panorama",
+        "acide, pas mûr"
+      ],
+      "choices_l2": [
+        "biely",
+        "predpoveď počasia",
+        "manžel"
+      ]
+    },
+    {
+      "id": "blank-m-pracuje-ak-je-tvoje-povolanie",
+      "type": "fill-blank",
+      "l1": "Qu'est-ce que tu fais dans la vie ? / Quel est ton métier ?",
+      "l2": "Čím pracuješ? / Aké je tvoje povolanie?",
+      "missing_l1": "la",
+      "missing_l2": "je",
+      "blank_index_l1": 5,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "c'est",
+        "suis",
+        "le"
+      ],
+      "choices_l2": [
+        "sú",
+        "mám",
+        "na"
+      ]
+    },
+    {
+      "id": "blank-som-u-ite-ka-na-z-kladnej-kole",
+      "type": "fill-blank",
+      "l1": "Je suis enseignante à l'école primaire.",
+      "l2": "Som učiteľka na základnej škole.",
+      "missing_l1": "à",
+      "missing_l2": "na",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "j'ai",
+        "des",
+        "de"
+      ],
+      "choices_l2": [
+        "tam",
+        "ste",
+        "mi"
+      ]
+    },
+    {
+      "id": "blank-pracujem-ako-program-tor",
+      "type": "fill-blank",
+      "l1": "Je travaille comme informaticien.",
+      "l2": "Pracujem ako programátor.",
+      "missing_l1": "travaille",
+      "missing_l2": "ako",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "au",
+        "où",
+        "mon"
+      ],
+      "choices_l2": [
+        "ste",
+        "sa",
+        "to"
+      ]
+    },
+    {
+      "id": "blank-pracujem-vo-firme-v-centre-mesta",
+      "type": "fill-blank",
+      "l1": "Je travaille dans une entreprise en centre-ville.",
+      "l2": "Pracujem vo firme v centre mesta.",
+      "missing_l1": "en",
+      "missing_l2": "v",
+      "blank_index_l1": 5,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "j'ai",
+        "et",
+        "sur"
+      ],
+      "choices_l2": [
+        "má",
+        "potom",
+        "ako"
+      ]
+    },
+    {
+      "id": "blank-m-j-f-je-ve-mi-mil",
+      "type": "fill-blank",
+      "l1": "Mon patron est très gentil.",
+      "l2": "Môj šéf je veľmi milý.",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "la",
+        "plus",
+        "dans"
+      ],
+      "choices_l2": [
+        "tam",
+        "o",
+        "mi"
+      ]
+    },
+    {
+      "id": "listen-m-pracuje-ak-je-tvoje-povolanie",
+      "type": "listen",
+      "l1": "Qu'est-ce que tu fais dans la vie ? / Quel est ton métier ?",
+      "l2": "Čím pracuješ? / Aké je tvoje povolanie?",
+      "choices_l1": [
+        "Ensuite il y a des halušky. Tu aimes la bryndza ?",
+        "Oui, mais mon cœur battait très vite. J'avais peur que mes parents me voient aux infos.",
+        "Le matin je me lève à sept heures."
+      ]
+    },
+    {
+      "id": "listen-som-u-ite-ka-na-z-kladnej-kole",
+      "type": "listen",
+      "l1": "Je suis enseignante à l'école primaire.",
+      "l2": "Som učiteľka na základnej škole.",
+      "choices_l1": [
+        "Je mange beaucoup, mais je bois peu.",
+        "Le soir il y avait le feu de camp. On chantait, on se racontait des histoires.",
+        "Où habites-tu ?"
+      ]
+    },
+    {
+      "id": "listen-pracujem-ako-program-tor",
+      "type": "listen",
+      "l1": "Je travaille comme informaticien.",
+      "l2": "Pracujem ako programátor.",
+      "choices_l1": [
+        "Être pionnier c'était presque automatique. Mais le camp lui-même, on l'aimait.",
+        "Le bus a dix minutes de retard.",
+        "Ça a dû être difficile, recommencer complètement à zéro."
+      ]
+    },
+    {
+      "id": "listen-kde-pracuje",
+      "type": "listen",
+      "l1": "Où travailles-tu ?",
+      "l2": "Kde pracuješ?",
+      "choices_l1": [
+        "Chaque saison est différente.",
+        "Je n'y suis jamais allé.",
+        "Tu as une carte et une boussole ?"
+      ]
+    },
+    {
+      "id": "listen-pracujem-vo-firme-v-centre-mesta",
+      "type": "listen",
+      "l1": "Je travaille dans une entreprise en centre-ville.",
+      "l2": "Pracujem vo firme v centre mesta.",
+      "choices_l1": [
+        "Je leur ai donné des œufs et du gâteau comme récompense pour la chanson.",
+        "Et vous-même vous faites partie de cette histoire, non ? Vous êtes aussi partie, après tout.",
+        "Oui. Après cet été à Lyon je me suis dit qu'il était temps de vraiment rentrer chez moi."
+      ]
+    },
+    {
+      "id": "listen-m-j-f-je-ve-mi-mil",
+      "type": "listen",
+      "l1": "Mon patron est très gentil.",
+      "l2": "Môj šéf je veľmi milý.",
+      "choices_l1": [
+        "Aujourd'hui il fait frais, demain il fera chaud.",
+        "Mes parents travaillent.",
+        "Le salon est grand."
+      ]
+    },
+    {
+      "id": "order-m-pracuje-ak-je-tvoje-povolanie",
+      "type": "order",
+      "l1": "Qu'est-ce que tu fais dans la vie ? / Quel est ton métier ?",
+      "l2": "Čím pracuješ? / Aké je tvoje povolanie?",
+      "tokens_l1": [
+        "Qu'est-ce",
+        "que",
+        "tu",
+        "fais",
+        "dans",
+        "la",
+        "vie",
+        "?",
+        "/",
+        "Quel",
+        "est",
+        "ton",
+        "métier",
+        "?",
+        "Mon",
+        "patron",
+        "est",
+        "très",
+        "gentil."
+      ],
+      "tokens_l2": [
+        "Čím",
+        "pracuješ?",
+        "/",
+        "Aké",
+        "je",
+        "tvoje",
+        "povolanie?",
+        "Môj",
+        "šéf",
+        "je",
+        "veľmi",
+        "milý."
+      ]
+    },
+    {
+      "id": "order-som-u-ite-ka-na-z-kladnej-kole",
+      "type": "order",
+      "l1": "Je suis enseignante à l'école primaire.",
+      "l2": "Som učiteľka na základnej škole.",
+      "tokens_l1": [
+        "Je",
+        "suis",
+        "enseignante",
+        "à",
+        "l'école",
+        "primaire.",
+        "Qu'est-ce",
+        "que",
+        "tu",
+        "fais",
+        "dans",
+        "la",
+        "vie",
+        "?",
+        "/",
+        "Quel",
+        "est",
+        "ton",
+        "métier",
+        "?"
+      ],
+      "tokens_l2": [
+        "Som",
+        "učiteľka",
+        "na",
+        "základnej",
+        "škole.",
+        "Čím",
+        "pracuješ?",
+        "/",
+        "Aké",
+        "je",
+        "tvoje",
+        "povolanie?"
+      ]
+    },
+    {
+      "id": "order-pracujem-ako-program-tor",
+      "type": "order",
+      "l1": "Je travaille comme informaticien.",
+      "l2": "Pracujem ako programátor.",
+      "tokens_l1": [
+        "Je",
+        "travaille",
+        "comme",
+        "informaticien.",
+        "Mon",
+        "patron",
+        "est",
+        "très",
+        "gentil."
+      ],
+      "tokens_l2": [
+        "Pracujem",
+        "ako",
+        "programátor.",
+        "Môj",
+        "šéf",
+        "je",
+        "veľmi",
+        "milý."
+      ]
+    },
+    {
+      "id": "order-pracujem-vo-firme-v-centre-mesta",
+      "type": "order",
+      "l1": "Je travaille dans une entreprise en centre-ville.",
+      "l2": "Pracujem vo firme v centre mesta.",
+      "tokens_l1": [
+        "Je",
+        "travaille",
+        "dans",
+        "une",
+        "entreprise",
+        "en",
+        "centre-ville.",
+        "Je",
+        "suis",
+        "enseignante",
+        "à",
+        "l'école",
+        "primaire."
+      ],
+      "tokens_l2": [
+        "Pracujem",
+        "vo",
+        "firme",
+        "v",
+        "centre",
+        "mesta.",
+        "Som",
+        "učiteľka",
+        "na",
+        "základnej",
+        "škole."
+      ]
+    },
+    {
+      "id": "order-m-j-f-je-ve-mi-mil",
+      "type": "order",
+      "l1": "Mon patron est très gentil.",
+      "l2": "Môj šéf je veľmi milý.",
+      "tokens_l1": [
+        "Mon",
+        "patron",
+        "est",
+        "très",
+        "gentil.",
+        "Je",
+        "travaille",
+        "comme",
+        "informaticien."
+      ],
+      "tokens_l2": [
+        "Môj",
+        "šéf",
+        "je",
+        "veľmi",
+        "milý.",
+        "Pracujem",
+        "ako",
+        "programátor."
+      ]
+    },
+    {
+      "id": "match-u-ite-u-ite-ka-vocab",
+      "type": "match",
+      "l1": [
+        "enseignant / enseignante",
+        "médecin",
+        "cuisinier / cuisinière",
+        "vendeur / vendeuse"
+      ],
+      "l2": [
+        "učiteľ / učiteľka",
+        "lekár / lekárka",
+        "kuchár / kuchárka",
+        "predavač / predavačka"
+      ]
+    },
+    {
+      "id": "match-m-pracuje-ak-je-tvoje-povolanie-sentences",
+      "type": "match",
+      "l1": [
+        "Qu'est-ce que tu fais dans la vie ? / Quel est ton métier ?",
+        "Je suis enseignante à l'école primaire.",
+        "Je travaille comme informaticien.",
+        "Où travailles-tu ?"
+      ],
+      "l2": [
+        "Čím pracuješ? / Aké je tvoje povolanie?",
+        "Som učiteľka na základnej škole.",
+        "Pracujem ako programátor.",
+        "Kde pracuješ?"
+      ]
+    }
+  ]
+}

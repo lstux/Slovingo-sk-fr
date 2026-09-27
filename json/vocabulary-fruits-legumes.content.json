@@ -1,0 +1,277 @@
+{
+  "id": "vocabulary-fruits-legumes",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "🍎 Ovocie a zelenina (Les fruits et légumes)",
+  "image": null,
+  "content": [
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Les fruits courants"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "jablko",
+          "pomme"
+        ],
+        [
+          "hruška",
+          "poire"
+        ],
+        [
+          "banán",
+          "banane"
+        ],
+        [
+          "pomaranč",
+          "orange"
+        ],
+        [
+          "citrón",
+          "citron"
+        ],
+        [
+          "jahoda",
+          "fraise"
+        ],
+        [
+          "hrozno",
+          "raisin"
+        ],
+        [
+          "broskyňa",
+          "pêche"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"hrozno\" (raisin) est un mot singulier en slovaque, comme \"le raisin\" en français : on ne dit pas \"des raisins\" un par un de la même façon."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Les légumes courants"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "zemiak",
+          "pomme de terre"
+        ],
+        [
+          "paradajka",
+          "tomate"
+        ],
+        [
+          "uhorka",
+          "concombre"
+        ],
+        [
+          "mrkva",
+          "carotte"
+        ],
+        [
+          "cibuľa",
+          "oignon"
+        ],
+        [
+          "cesnak",
+          "ail"
+        ],
+        [
+          "paprika",
+          "poivron"
+        ],
+        [
+          "šalát",
+          "salade"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Parler de ses goûts"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám rád jablká.",
+      "speaker": null,
+      "natural": "J'aime les pommes.",
+      "literal": [
+        "mám rád = j'aime (dit par un homme) · jablká = pommes"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám rada mrkvu.",
+      "speaker": null,
+      "natural": "J'aime les carottes.",
+      "literal": [
+        "mám rada = j'aime (dit par une femme) · mrkvu = carotte"
+      ],
+      "notes": []
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"mám rád\" pour un homme, \"mám rada\" pour une femme : le verbe \"avoir\" reste le même, mais l'adjectif \"rád/rada\" s'accorde avec la personne qui parle."
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nemám rád cibuľu.",
+      "speaker": null,
+      "natural": "Je n'aime pas l'oignon.",
+      "literal": [
+        "nemám rád = je n'aime pas · cibuľu = oignon (accusatif)"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kúpil som kilo jabĺk.",
+      "speaker": null,
+      "natural": "J'ai acheté un kilo de pommes.",
+      "literal": [
+        "kúpil som = j'ai acheté · kilo = kilo · jabĺk = pommes (génitif pluriel)"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Au marché"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Koľko stoja tieto paradajky?",
+      "speaker": null,
+      "natural": "Combien coûtent ces tomates ?",
+      "literal": [
+        "koľko stoja = combien coûtent · tieto = ces · paradajky = tomates"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dajte mi prosím pol kila hrušiek.",
+      "speaker": null,
+      "natural": "Donnez-moi s'il vous plaît un demi-kilo de poires.",
+      "literal": [
+        "dajte mi = donnez-moi · pol kila = un demi-kilo · hrušiek = poires (génitif pluriel)"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Sú tieto zemiaky čerstvé?",
+      "speaker": null,
+      "natural": "Ces pommes de terre sont-elles fraîches ?",
+      "literal": [
+        "sú = sont · tieto zemiaky = ces pommes de terre · čerstvé = fraîches"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Petit vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "ovocie",
+          "fruits (terme général)"
+        ],
+        [
+          "zelenina",
+          "légumes (terme général)"
+        ],
+        [
+          "šupka",
+          "peau, épluchure"
+        ],
+        [
+          "jadierko",
+          "pépin"
+        ],
+        [
+          "zrelý / zrelá",
+          "mûr(e)"
+        ],
+        [
+          "kyslý / kyslá",
+          "acide, pas mûr"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Toto ovocie ešte nie je zrelé.",
+      "speaker": null,
+      "natural": "Ce fruit n'est pas encore mûr.",
+      "literal": [
+        "toto ovocie = ce fruit · ešte nie je = n'est pas encore · zrelé = mûr"
+      ],
+      "notes": []
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"ovocie\" (fruits) et \"zelenina\" (légumes) sont des noms collectifs singuliers en slovaque : on ne les met pas au pluriel comme en français."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚠️ Pièges pour les francophones"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "\"ovocie\" et \"zelenina\" sont grammaticalement **singuliers**, même s'ils désignent un ensemble : pas de \"s\" ni de pluriel comme en français.",
+        "\"mám rád\" (homme) / \"mám rada\" (femme) : penser à accorder \"rád/rada\" selon qui parle, et non selon ce dont on parle.",
+        "Beaucoup de quantités (kilo, pol kila...) sont suivies du génitif pluriel : [[jabĺk]], [[hrušiek]] — une forme différente du nominatif à retenir petit à petit."
+      ]
+    }
+  ]
+}

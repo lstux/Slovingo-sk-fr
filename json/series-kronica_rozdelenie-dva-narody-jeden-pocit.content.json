@@ -1,0 +1,112 @@
+{
+  "id": "series-kronica_rozdelenie-dva-narody-jeden-pocit",
+  "category": "series",
+  "subgroup": "kronica_rozdelenie",
+  "subgroup_label": "Kronica rozdelenie",
+  "title": "Rozdelenie (3/3) — Dva národy, jeden pocit",
+  "image": {
+    "src": "img/Bratislava,_Hrad,_Slovensko.jpg",
+    "caption": "Le château de Bratislava, siège du Conseil national slovaque — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Après le récit, Andrea et Eric reviennent sur ce que cette séparation représente aujourd'hui, plus de trente ans après."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**L'appellation « divorce de velours » vient du contraste avec d'autres séparations de la même époque.** Contrairement à l'éclatement violent de la Yougoslavie qui se déroulait au même moment, la scission tchéco-slovaque s'est faite sans aucun conflit armé, par accord entre dirigeants politiques. Le terme, popularisé à l'international, souligne ce caractère pacifique et négocié."
+    },
+    {
+      "type": "paragraph",
+      "text": "**L'absence de référendum reste un point sensible dans la mémoire collective.** Les sondages de l'époque montraient qu'une majorité de citoyens des deux côtés préféraient le maintien d'un État commun, ou au moins un vote pour trancher la question. La décision finale, prise par accord entre gouvernements sans consultation populaire directe, continue d'alimenter un sentiment que cette histoire s'est faite « au-dessus » des gens plutôt qu'avec eux."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Les relations entre Slovaques et Tchèques sont restées étonnamment chaleureuses malgré la séparation politique.** Aujourd'hui encore, la proximité linguistique et culturelle fait que beaucoup de Slovaques regardent la télévision tchèque, lisent des livres en tchèque, ou ont de la famille de l'autre côté de la frontière sans que cela paraisse étrange. Le lien reste vécu comme presque plus fort que la frontière elle-même."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le sentiment dominant, encore aujourd'hui, est moins la fierté nationaliste que le pragmatisme.** Peu de Slovaques célèbrent le 1er janvier comme une fête nationale enthousiaste ; c'est avant tout devenu la date de naissance administrative du pays. Certains y voient une opportunité manquée d'unité, d'autres un mal nécessaire ayant permis à chaque nation de suivre sa propre trajectoire politique et économique."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Les jeunes générations slovaques et tchèques n'ont jamais connu qu'une frontière ouverte.** Depuis l'entrée des deux pays dans l'espace Schengen, passer d'un pays à l'autre ne requiert plus aucun contrôle, ce qui rend la séparation de 1993 presque abstraite pour ceux qui sont nés après."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le pont avec aujourd'hui",
+      "is_dialogue_section": true
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dnes je hranica medzi nami len formalita. Ani si ju nevšimnete, keď tam idete autom.",
+      "speaker": "👩",
+      "natural": "Aujourd'hui la frontière entre nous n'est qu'une formalité. Vous ne la remarquez même pas en y allant en voiture.",
+      "literal": [
+        "Dnes je hranica = aujourd'hui la frontière est",
+        "len formalita = qu'une formalité",
+        "Ani si ju nevšimnete = vous ne la remarquez même pas"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ľutujete niekedy, že sa Československo rozdelilo?",
+      "speaker": "👦",
+      "natural": "Regrettez-vous parfois que la Tchécoslovaquie se soit séparée ?",
+      "literal": [
+        "Ľutujete niekedy = regrettez-vous parfois",
+        "že sa Československo rozdelilo = que la Tchécoslovaquie se soit séparée"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Úprimne, neviem. Možno to bolo lepšie takto, možno nie. Ťažko povedať.",
+      "speaker": "👩",
+      "natural": "Honnêtement, je ne sais pas. Peut-être que c'était mieux ainsi, peut-être pas. Difficile à dire.",
+      "literal": [
+        "Úprimne, neviem = honnêtement, je ne sais pas",
+        "Možno to bolo lepšie takto = peut-être que c'était mieux ainsi",
+        "Ťažko povedať = difficile à dire"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "To znie ako veľmi vyvážený pohľad.",
+      "speaker": "👦",
+      "natural": "Ça sonne comme un regard très équilibré.",
+      "literal": [
+        "To znie ako = ça sonne comme",
+        "veľmi vyvážený pohľad = un regard très équilibré"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Väčšina ľudí u nás to tak vidí. Nie je to hrdosť ani ľútosť. Je to len naša história.",
+      "speaker": "👩",
+      "natural": "La plupart des gens chez nous voient ça comme ça. Ce n'est ni de la fierté ni du regret. C'est juste notre histoire.",
+      "literal": [
+        "Väčšina ľudí u nás = la plupart des gens chez nous",
+        "Nie je to hrdosť ani ľútosť = ce n'est ni de la fierté ni du regret",
+        "Je to len naša história = c'est juste notre histoire"
+      ],
+      "notes": []
+    }
+  ]
+}

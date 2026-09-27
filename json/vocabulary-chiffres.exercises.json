@@ -1,0 +1,404 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-nula",
+      "type": "qcm",
+      "l1": "0",
+      "l2": "nula",
+      "choices_l1": [
+        "tomate",
+        "grand(e)",
+        "l'année prochaine"
+      ],
+      "choices_l2": [
+        "dvetisíc",
+        "jedna pätina",
+        "nos"
+      ]
+    },
+    {
+      "id": "qcm-jeden-jedna-jedno",
+      "type": "qcm",
+      "l1": "1",
+      "l2": "jeden / jedna / jedno",
+      "choices_l1": [
+        "100 000",
+        "heureux",
+        "entraînement"
+      ],
+      "choices_l2": [
+        "lenivý / lenivá",
+        "Kňaz požehnal jedlo.",
+        "mlieko je dobré"
+      ]
+    },
+    {
+      "id": "qcm-dva-dve",
+      "type": "qcm",
+      "l1": "2",
+      "l2": "dva / dve",
+      "choices_l1": [
+        "graine",
+        "chaussettes",
+        "mauvais"
+      ],
+      "choices_l2": [
+        "zub / zuby",
+        "on / ona pracuje",
+        "stará mama / babka"
+      ]
+    },
+    {
+      "id": "qcm-tri",
+      "type": "qcm",
+      "l1": "3",
+      "l2": "tri",
+      "choices_l1": [
+        "moitié-moitié",
+        "l'automne",
+        "cheval"
+      ],
+      "choices_l2": [
+        "hokej",
+        "jedna osmina",
+        "sviatok"
+      ]
+    },
+    {
+      "id": "qcm-tyri",
+      "type": "qcm",
+      "l1": "4",
+      "l2": "štyri",
+      "choices_l1": [
+        "la soupe",
+        "le voisin",
+        "quinzième"
+      ],
+      "choices_l2": [
+        "malý brat",
+        "skúška",
+        "múdry"
+      ]
+    },
+    {
+      "id": "qcm-p",
+      "type": "qcm",
+      "l1": "5",
+      "l2": "päť",
+      "choices_l1": [
+        "papier",
+        "entreprise",
+        "j'habite"
+      ],
+      "choices_l2": [
+        "koleno",
+        "matematika",
+        "bankomat"
+      ]
+    },
+    {
+      "id": "qcm-es",
+      "type": "qcm",
+      "l1": "6",
+      "l2": "šesť",
+      "choices_l1": [
+        "le vendeur",
+        "cabine d'essayage",
+        "collègue"
+      ],
+      "choices_l2": [
+        "aj",
+        "červený svetr",
+        "sedemnásť"
+      ]
+    },
+    {
+      "id": "qcm-sedem",
+      "type": "qcm",
+      "l1": "7",
+      "l2": "sedem",
+      "choices_l1": [
+        "l'Union européenne",
+        "précisément",
+        "je dois"
+      ],
+      "choices_l2": [
+        "júl",
+        "ceruzka",
+        "ty pracuješ"
+      ]
+    },
+    {
+      "id": "qcm-osem",
+      "type": "qcm",
+      "l1": "8",
+      "l2": "osem",
+      "choices_l1": [
+        "samedi",
+        "le quart",
+        "le salon"
+      ],
+      "choices_l2": [
+        "koberec",
+        "teda",
+        "maslo"
+      ]
+    },
+    {
+      "id": "qcm-dev",
+      "type": "qcm",
+      "l1": "9",
+      "l2": "deväť",
+      "choices_l1": [
+        "la tente",
+        "pharmacie",
+        "nous travaillons"
+      ],
+      "choices_l2": [
+        "kúpiť",
+        "Česi",
+        "búrka"
+      ]
+    },
+    {
+      "id": "qcm-desa",
+      "type": "qcm",
+      "l1": "10",
+      "l2": "desať",
+      "choices_l1": [
+        "0",
+        "le déjeuner",
+        "se calmer"
+      ],
+      "choices_l2": [
+        "modrá košeľa",
+        "varenie",
+        "pohovka"
+      ]
+    },
+    {
+      "id": "qcm-jeden-s",
+      "type": "qcm",
+      "l1": "11",
+      "l2": "jedenásť",
+      "choices_l1": [
+        "élève",
+        "jaune",
+        "le prénom"
+      ],
+      "choices_l2": [
+        "Nemám hlad.",
+        "ráno",
+        "na ulici"
+      ]
+    },
+    {
+      "id": "qcm-dvan-s",
+      "type": "qcm",
+      "l1": "12",
+      "l2": "dvanásť",
+      "choices_l1": [
+        "l'après-midi",
+        "couleur",
+        "nous devons"
+      ],
+      "choices_l2": [
+        "dvere",
+        "tím",
+        "bryndza"
+      ]
+    },
+    {
+      "id": "qcm-trin-s",
+      "type": "qcm",
+      "l1": "13",
+      "l2": "trinásť",
+      "choices_l1": [
+        "violet",
+        "salaire",
+        "queue"
+      ],
+      "choices_l2": [
+        "otvárať",
+        "mačka",
+        "bicykel"
+      ]
+    },
+    {
+      "id": "qcm-trn-s",
+      "type": "qcm",
+      "l1": "14",
+      "l2": "štrnásť",
+      "choices_l1": [
+        "voyager",
+        "seconde",
+        "tout simplement"
+      ],
+      "choices_l2": [
+        "ucho",
+        "šiltovka",
+        "mäsiarstvo"
+      ]
+    },
+    {
+      "id": "qcm-p-tn-s",
+      "type": "qcm",
+      "l1": "15",
+      "l2": "pätnásť",
+      "choices_l1": [
+        "le printemps",
+        "rire",
+        "3"
+      ],
+      "choices_l2": [
+        "búrka",
+        "nôž",
+        "jedno euro"
+      ]
+    },
+    {
+      "id": "qcm-estn-s",
+      "type": "qcm",
+      "l1": "16",
+      "l2": "šestnásť",
+      "choices_l1": [
+        "poire",
+        "le tee-shirt",
+        "forêt"
+      ],
+      "choices_l2": [
+        "tvár",
+        "farbila som",
+        "náplasť"
+      ]
+    },
+    {
+      "id": "qcm-sedemn-s",
+      "type": "qcm",
+      "l1": "17",
+      "l2": "sedemnásť",
+      "choices_l1": [
+        "mardi",
+        "parler",
+        "légumes"
+      ],
+      "choices_l2": [
+        "uhorka",
+        "pláž",
+        "stáť"
+      ]
+    },
+    {
+      "id": "qcm-osemn-s",
+      "type": "qcm",
+      "l1": "18",
+      "l2": "osemnásť",
+      "choices_l1": [
+        "teindre, colorer",
+        "seconde",
+        "la fenêtre"
+      ],
+      "choices_l2": [
+        "sto percent",
+        "domov",
+        "bryndza"
+      ]
+    },
+    {
+      "id": "qcm-dev-tn-s",
+      "type": "qcm",
+      "l1": "19",
+      "l2": "devätnásť",
+      "choices_l1": [
+        "la clé",
+        "calme",
+        "mère"
+      ],
+      "choices_l2": [
+        "priateľka",
+        "šoférovať",
+        "ja jem"
+      ]
+    },
+    {
+      "id": "qcm-dvadsa",
+      "type": "qcm",
+      "l1": "20",
+      "l2": "dvadsať",
+      "choices_l1": [
+        "le programme",
+        "la jupe",
+        "savoureux"
+      ],
+      "choices_l2": [
+        "lacný",
+        "zajtra",
+        "teplomer"
+      ]
+    },
+    {
+      "id": "blank-ko-ko-je-to",
+      "type": "fill-blank",
+      "l1": "Combien ça fait ?",
+      "l2": "Koľko je to?",
+      "missing_l1": "fait",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "veux",
+        "que",
+        "le"
+      ],
+      "choices_l2": [
+        "mi",
+        "dnes",
+        "tam"
+      ]
+    },
+    {
+      "id": "listen-ko-ko-je-to",
+      "type": "listen",
+      "l1": "Combien ça fait ?",
+      "l2": "Koľko je to?",
+      "choices_l1": [
+        "Le raifort est très piquant !",
+        "Dis-le encore une fois.",
+        "Jeudi matin j'y vais tôt."
+      ]
+    },
+    {
+      "id": "order-ko-ko-je-to",
+      "type": "order",
+      "l1": "Combien ça fait ?",
+      "l2": "Koľko je to?",
+      "tokens_l1": [
+        "Combien",
+        "ça",
+        "fait",
+        "?"
+      ],
+      "tokens_l2": [
+        "Koľko",
+        "je",
+        "to?"
+      ]
+    },
+    {
+      "id": "match-nula-vocab",
+      "type": "match",
+      "l1": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "l2": [
+        "nula",
+        "jeden / jedna / jedno",
+        "dva / dve",
+        "tri"
+      ]
+    }
+  ]
+}

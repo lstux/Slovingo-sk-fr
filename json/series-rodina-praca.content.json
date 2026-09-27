@@ -1,0 +1,446 @@
+{
+  "id": "series-rodina-praca",
+  "category": "series",
+  "subgroup": "rodina",
+  "subgroup_label": "Rodina",
+  "title": "Série Rodina (3/5) — Práca",
+  "image": {
+    "src": "img/rodina_03_classroom.jpg",
+    "caption": "Une salle de classe en Slovaquie — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "On dit ce que font les gens de la famille. Deux nouveaux verbes, **pracovať** et **robiť**, et une bonne nouvelle : le slovaque n'a pas d'articles."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "pracovať",
+          "travailler"
+        ],
+        [
+          "robiť",
+          "faire"
+        ],
+        [
+          "učiteľ",
+          "le professeur"
+        ],
+        [
+          "učiteľka",
+          "la professeure"
+        ],
+        [
+          "lekár",
+          "le médecin"
+        ],
+        [
+          "študent",
+          "l'étudiant"
+        ],
+        [
+          "dôchodca",
+          "le retraité"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Travailler — pracovať"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "ja pracujem",
+          "je travaille"
+        ],
+        [
+          "ty pracuješ",
+          "tu travailles"
+        ],
+        [
+          "on / ona pracuje",
+          "il / elle travaille"
+        ],
+        [
+          "my pracujeme",
+          "nous travaillons"
+        ],
+        [
+          "vy pracujete",
+          "vous travaillez"
+        ],
+        [
+          "oni pracujú",
+          "ils / elles travaillent"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Le radical change : *pracov-* devient *pracuj-*. Tous les verbes en **-ovať** fonctionnent ainsi."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Faire — robiť"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "ja robím",
+          "je fais"
+        ],
+        [
+          "ty robíš",
+          "tu fais"
+        ],
+        [
+          "on / ona robí",
+          "il / elle fait"
+        ],
+        [
+          "my robíme",
+          "nous faisons"
+        ],
+        [
+          "vy robíte",
+          "vous faites"
+        ],
+        [
+          "oni robia",
+          "ils / elles font"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čo robíš?",
+      "speaker": null,
+      "natural": "Que fais-tu ?",
+      "literal": [
+        "Čo = que, quoi",
+        "robíš = fais-tu"
+      ],
+      "notes": [
+        "C'est aussi la question qu'on pose pour demander le métier de quelqu'un."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môj otec je učiteľ.",
+      "speaker": null,
+      "natural": "Mon père est professeur.",
+      "literal": [
+        "Môj = mon",
+        "otec = père",
+        "je = est",
+        "učiteľ = professeur"
+      ],
+      "notes": [
+        "Aucun article en slovaque : on ne dit pas « un professeur », simplement « je učiteľ »."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moja mama je učiteľka.",
+      "speaker": null,
+      "natural": "Ma maman est professeure.",
+      "literal": [
+        "Moja = ma",
+        "mama = maman",
+        "je = est",
+        "učiteľka = professeure"
+      ],
+      "notes": [
+        "Le féminin des métiers se forme le plus souvent en ajoutant -ka : učiteľ devient učiteľka, lekár devient lekárka."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moja sestra je lekárka.",
+      "speaker": null,
+      "natural": "Ma sœur est médecin.",
+      "literal": [
+        "Moja = ma",
+        "sestra = sœur",
+        "je = est",
+        "lekárka = médecin (femme)"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môj brat je študent. Nepracuje.",
+      "speaker": null,
+      "natural": "Mon frère est étudiant. Il ne travaille pas.",
+      "literal": [
+        "Môj = mon",
+        "brat = frère",
+        "je = est",
+        "študent = étudiant",
+        "Nepracuje = il ne travaille pas"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môj dedko je dôchodca.",
+      "speaker": null,
+      "natural": "Mon grand-père est retraité.",
+      "literal": [
+        "Môj = mon",
+        "dedko = grand-père",
+        "je = est",
+        "dôchodca = retraité"
+      ],
+      "notes": [
+        "Malgré sa terminaison en -a, dôchodca est un nom masculin."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kde pracuješ?",
+      "speaker": null,
+      "natural": "Où travailles-tu ?",
+      "literal": [
+        "Kde = où",
+        "pracuješ = travailles-tu"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moja teta je lekárka. Má štyridsať rokov.",
+      "speaker": null,
+      "natural": "Ma tante est médecin. Elle a quarante ans.",
+      "literal": [
+        "Moja teta = ma tante",
+        "je = est",
+        "lekárka = médecin",
+        "Má = elle a",
+        "štyridsať = quarante",
+        "rokov = ans"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moji rodičia pracujú.",
+      "speaker": null,
+      "natural": "Mes parents travaillent.",
+      "literal": [
+        "Moji = mes",
+        "rodičia = parents",
+        "pracujú = travaillent"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moja babka nepracuje. Je stará.",
+      "speaker": null,
+      "natural": "Ma grand-mère ne travaille pas. Elle est vieille.",
+      "literal": [
+        "Moja babka = ma grand-mère",
+        "nepracuje = ne travaille pas",
+        "Je = elle est",
+        "stará = vieille"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Pas d'articles, jamais.** Ni « le », ni « la », ni « un ». [[Učiteľ]] veut dire aussi bien « un professeur » que « le professeur » selon le contexte. C'est un des rares endroits où le slovaque simplifie la vie, alors profites-en."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Les métiers ont un féminin systématique.** Là où le français hésite encore, le slovaque tranche depuis toujours : [[lekárka]], [[učiteľka]], [[študentka]]. Employer la forme masculine pour une femme sonnerait franchement bizarre."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le nom de famille des femmes.** Il prend presque toujours la terminaison **-ová** : la fille de monsieur Novák s'appelle [[Nováková]]. La règle s'applique même aux noms étrangers dans certains documents officiels, ce qui donne des surprises aux touristes."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "práca",
+          "le travail"
+        ],
+        [
+          "škola",
+          "l'école"
+        ],
+        [
+          "nemocnica",
+          "l'hôpital"
+        ],
+        [
+          "kancelária",
+          "le bureau"
+        ],
+        [
+          "obchod",
+          "le magasin"
+        ],
+        [
+          "tiež",
+          "aussi"
+        ],
+        [
+          "veľa",
+          "beaucoup"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Pracujem v škole.",
+      "speaker": null,
+      "natural": "Je travaille à l'école.",
+      "literal": [
+        "Pracujem = je travaille",
+        "v = à, dans",
+        "škole = l'école"
+      ],
+      "notes": [
+        "Après « v », škola devient škole. C'est le locatif, on le retrouvera partout."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moja sestra pracuje v nemocnici.",
+      "speaker": null,
+      "natural": "Ma sœur travaille à l'hôpital.",
+      "literal": [
+        "Moja sestra = ma sœur",
+        "pracuje = travaille",
+        "v = à",
+        "nemocnici = l'hôpital"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môj brat pracuje v obchode.",
+      "speaker": null,
+      "natural": "Mon frère travaille dans un magasin.",
+      "literal": [
+        "Môj brat = mon frère",
+        "pracuje = travaille",
+        "v = dans",
+        "obchode = un magasin"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ja som tiež učiteľ.",
+      "speaker": null,
+      "natural": "Moi aussi je suis professeur.",
+      "literal": [
+        "Ja = moi, je",
+        "som = suis",
+        "tiež = aussi",
+        "učiteľ = professeur"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám veľa práce.",
+      "speaker": null,
+      "natural": "J'ai beaucoup de travail.",
+      "literal": [
+        "Mám = j'ai",
+        "veľa = beaucoup",
+        "práce = de travail"
+      ],
+      "notes": [
+        "Après « veľa », le nom passe au génitif : práca devient práce."
+      ]
+    }
+  ]
+}

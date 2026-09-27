@@ -1,0 +1,757 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-rodina",
+      "type": "qcm",
+      "l1": "famille",
+      "l2": "rodina",
+      "choices_l1": [
+        "tu",
+        "l'imperméable",
+        "sympathique"
+      ],
+      "choices_l2": [
+        "zaujímavý",
+        "Biela sobota",
+        "jablko"
+      ]
+    },
+    {
+      "id": "qcm-otec",
+      "type": "qcm",
+      "l1": "père",
+      "l2": "otec",
+      "choices_l1": [
+        "concert",
+        "je dois",
+        "gris"
+      ],
+      "choices_l2": [
+        "oni jedia",
+        "jedna pätina",
+        "Mám smäd."
+      ]
+    },
+    {
+      "id": "qcm-mama",
+      "type": "qcm",
+      "l1": "mère",
+      "l2": "mama",
+      "choices_l1": [
+        "chaud",
+        "l'ours",
+        "l'hébergement"
+      ],
+      "choices_l2": [
+        "dvanásť",
+        "oheň",
+        "srdce"
+      ]
+    },
+    {
+      "id": "qcm-rodi-ia",
+      "type": "qcm",
+      "l1": "parents",
+      "l2": "rodičia",
+      "choices_l1": [
+        "le ruban",
+        "fraise",
+        "robe"
+      ],
+      "choices_l2": [
+        "robí",
+        "slabý",
+        "poistenie"
+      ]
+    },
+    {
+      "id": "qcm-syn",
+      "type": "qcm",
+      "l1": "fils",
+      "l2": "syn",
+      "choices_l1": [
+        "la porte",
+        "note (scolaire)",
+        "savon"
+      ],
+      "choices_l2": [
+        "zošit",
+        "ty ideš",
+        "námestie"
+      ]
+    },
+    {
+      "id": "qcm-dc-ra",
+      "type": "qcm",
+      "l1": "fille",
+      "l2": "dcéra",
+      "choices_l1": [
+        "faire",
+        "les clés",
+        "se lever"
+      ],
+      "choices_l2": [
+        "my kupujeme",
+        "srsť",
+        "kedy"
+      ]
+    },
+    {
+      "id": "qcm-brat",
+      "type": "qcm",
+      "l1": "frère",
+      "l2": "brat",
+      "choices_l1": [
+        "ingénieur",
+        "pomme",
+        "violet"
+      ],
+      "choices_l2": [
+        "kaviareň",
+        "lieky",
+        "smiať sa"
+      ]
+    },
+    {
+      "id": "qcm-sestra",
+      "type": "qcm",
+      "l1": "sœur",
+      "l2": "sestra",
+      "choices_l1": [
+        "la date",
+        "libre",
+        "intelligent"
+      ],
+      "choices_l2": [
+        "sťahovať sa",
+        "ešte",
+        "Bude oblačno."
+      ]
+    },
+    {
+      "id": "qcm-deti",
+      "type": "qcm",
+      "l1": "enfants",
+      "l2": "deti",
+      "choices_l1": [
+        "l'étranger",
+        "ranger, nettoyer",
+        "6"
+      ],
+      "choices_l2": [
+        "trdelník",
+        "pätnásť",
+        "návrat"
+      ]
+    },
+    {
+      "id": "qcm-star-otec-dedko",
+      "type": "qcm",
+      "l1": "grand-père",
+      "l2": "starý otec / dedko",
+      "choices_l1": [
+        "cher",
+        "préparer",
+        "sixième"
+      ],
+      "choices_l2": [
+        "Toto je náročnejšie.",
+        "kniha → Hľadám knihu.",
+        "zdravý / zdravá"
+      ]
+    },
+    {
+      "id": "qcm-star-mama-babka",
+      "type": "qcm",
+      "l1": "grand-mère",
+      "l2": "stará mama / babka",
+      "choices_l1": [
+        "comprimé",
+        "la robe",
+        "un peu"
+      ],
+      "choices_l2": [
+        "sedemdesiat päť percent",
+        "Je jedna hodina.",
+        "on / ona chodí"
+      ]
+    },
+    {
+      "id": "qcm-star-rodi-ia",
+      "type": "qcm",
+      "l1": "grands-parents",
+      "l2": "starí rodičia",
+      "choices_l1": [
+        "en ville",
+        "économies",
+        "mari"
+      ],
+      "choices_l2": [
+        "nič",
+        "alergia",
+        "ústa"
+      ]
+    },
+    {
+      "id": "qcm-vnuk",
+      "type": "qcm",
+      "l1": "petit-fils",
+      "l2": "vnuk",
+      "choices_l1": [
+        "le politicien",
+        "troisième",
+        "tu manges"
+      ],
+      "choices_l2": [
+        "vidlička",
+        "možno",
+        "mäsiarstvo"
+      ]
+    },
+    {
+      "id": "qcm-vnu-ka",
+      "type": "qcm",
+      "l1": "petite-fille",
+      "l2": "vnučka",
+      "choices_l1": [
+        "danse",
+        "un euro",
+        "tu cherches"
+      ],
+      "choices_l2": [
+        "Prší.",
+        "ceruzka",
+        "slnečno"
+      ]
+    },
+    {
+      "id": "qcm-str-ko",
+      "type": "qcm",
+      "l1": "oncle",
+      "l2": "strýko",
+      "choices_l1": [
+        "famille",
+        "vous voulez",
+        "tâches ménagères"
+      ],
+      "choices_l2": [
+        "trdelník",
+        "značka",
+        "Neupratovali sme."
+      ]
+    },
+    {
+      "id": "qcm-teta",
+      "type": "qcm",
+      "l1": "tante",
+      "l2": "teta",
+      "choices_l1": [
+        "le billet",
+        "l'immeuble préfabriqué",
+        "le politicien"
+      ],
+      "choices_l2": [
+        "stý",
+        "hovoriť",
+        "vedieť"
+      ]
+    },
+    {
+      "id": "qcm-bratranec",
+      "type": "qcm",
+      "l1": "cousin",
+      "l2": "bratranec",
+      "choices_l1": [
+        "pluvieux",
+        "bière",
+        "température"
+      ],
+      "choices_l2": [
+        "rozhodnutie",
+        "ovocie",
+        "občianstvo"
+      ]
+    },
+    {
+      "id": "qcm-sesternica",
+      "type": "qcm",
+      "l1": "cousine",
+      "l2": "sesternica",
+      "choices_l1": [
+        "la robe",
+        "oncle",
+        "le parapluie"
+      ],
+      "choices_l2": [
+        "chce",
+        "hovorí",
+        "vy môžete"
+      ]
+    },
+    {
+      "id": "qcm-man-el",
+      "type": "qcm",
+      "l1": "mari",
+      "l2": "manžel",
+      "choices_l1": [
+        "mouillé(e)",
+        "affamé",
+        "l'arc-en-ciel"
+      ],
+      "choices_l2": [
+        "moja sestra",
+        "vodič",
+        "supermarket"
+      ]
+    },
+    {
+      "id": "qcm-man-elka",
+      "type": "qcm",
+      "l1": "femme (épouse)",
+      "l2": "manželka",
+      "choices_l1": [
+        "oreille",
+        "température",
+        "la révolution"
+      ],
+      "choices_l2": [
+        "dúha",
+        "vstávať",
+        "dnes"
+      ]
+    },
+    {
+      "id": "qcm-priate",
+      "type": "qcm",
+      "l1": "copain (petit ami)",
+      "l2": "priateľ",
+      "choices_l1": [
+        "le vendredi saint",
+        "trois quarts d'heure",
+        "un pull rouge (masculin)"
+      ],
+      "choices_l2": [
+        "dať",
+        "potom",
+        "málo"
+      ]
+    },
+    {
+      "id": "qcm-priate-ka",
+      "type": "qcm",
+      "l1": "copine (petite amie)",
+      "l2": "priateľka",
+      "choices_l1": [
+        "la tartinade au fromage",
+        "1/6 (un sixième)",
+        "le dimanche des Rameaux"
+      ],
+      "choices_l2": [
+        "akcia",
+        "film",
+        "v utorok"
+      ]
+    },
+    {
+      "id": "qcm-svokor",
+      "type": "qcm",
+      "l1": "beau-père",
+      "l2": "svokor",
+      "choices_l1": [
+        "elle",
+        "chaque",
+        "les soldes"
+      ],
+      "choices_l2": [
+        "nástupište",
+        "malý brat",
+        "ty chodíš"
+      ]
+    },
+    {
+      "id": "qcm-svokra",
+      "type": "qcm",
+      "l1": "belle-mère",
+      "l2": "svokra",
+      "choices_l1": [
+        "course",
+        "fruits",
+        "embouteillage"
+      ],
+      "choices_l2": [
+        "chutný",
+        "Choďte rovno!",
+        "oni pijú"
+      ]
+    },
+    {
+      "id": "qcm-slobodn-slobodn",
+      "type": "qcm",
+      "l1": "célibataire",
+      "l2": "slobodný / slobodná",
+      "choices_l1": [
+        "tu fais",
+        "lundi",
+        "aucun"
+      ],
+      "choices_l2": [
+        "Sú štyri hodiny.",
+        "Je jedna hodina.",
+        "on / ona / ono"
+      ]
+    },
+    {
+      "id": "qcm-rozveden-rozveden",
+      "type": "qcm",
+      "l1": "divorcé(e)",
+      "l2": "rozvedený / rozvedená",
+      "choices_l1": [
+        "l'indépendance",
+        "hier",
+        "canard"
+      ],
+      "choices_l2": [
+        "policajt / policajtka",
+        "polovici na polovicu",
+        "plášť do dažďa"
+      ]
+    },
+    {
+      "id": "qcm-dvoji-ky",
+      "type": "qcm",
+      "l1": "jumeaux",
+      "l2": "dvojičky",
+      "choices_l1": [
+        "le livre",
+        "œuf",
+        "mûr(e)"
+      ],
+      "choices_l2": [
+        "kohút",
+        "tráva",
+        "musieť"
+      ]
+    },
+    {
+      "id": "qcm-jedin-ik",
+      "type": "qcm",
+      "l1": "enfant unique",
+      "l2": "jedináčik",
+      "choices_l1": [
+        "connaissance",
+        "clé",
+        "dehors"
+      ],
+      "choices_l2": [
+        "polovica ceny",
+        "päť",
+        "paska"
+      ]
+    },
+    {
+      "id": "blank-m-m-jednu-sestru-a-jedn-ho-brata",
+      "type": "fill-blank",
+      "l1": "J'ai une sœur et un frère.",
+      "l2": "Mám jednu sestru a jedného brata.",
+      "missing_l1": "et",
+      "missing_l2": "a",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "j'ai",
+        "ça",
+        "nous"
+      ],
+      "choices_l2": [
+        "ale",
+        "aj",
+        "áno"
+      ]
+    },
+    {
+      "id": "blank-moji-rodi-ia-b-vaj-v-bratislave",
+      "type": "fill-blank",
+      "l1": "Mes parents habitent à Bratislava.",
+      "l2": "Moji rodičia bývajú v Bratislave.",
+      "missing_l1": "à",
+      "missing_l2": "v",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "sur",
+        "est",
+        "j'ai"
+      ],
+      "choices_l2": [
+        "máte",
+        "moja",
+        "ste"
+      ]
+    },
+    {
+      "id": "blank-som-enat-som-vydat",
+      "type": "fill-blank",
+      "l1": "Je suis marié. / Je suis mariée.",
+      "l2": "Som ženatý. / Som vydatá.",
+      "missing_l1": "Je",
+      "missing_l2": "Som",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "et",
+        "c'est",
+        "heures"
+      ],
+      "choices_l2": [
+        "si",
+        "potom",
+        "deti"
+      ]
+    },
+    {
+      "id": "blank-som-jedin-ik-nem-m-s-rodencov",
+      "type": "fill-blank",
+      "l1": "Je suis enfant unique, je n'ai pas de frères et sœurs.",
+      "l2": "Som jedináčik, nemám súrodencov.",
+      "missing_l1": "je",
+      "missing_l2": "nemám",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "un",
+        "vous",
+        "et"
+      ],
+      "choices_l2": [
+        "koľko",
+        "je",
+        "má"
+      ]
+    },
+    {
+      "id": "listen-m-s-rodencov",
+      "type": "listen",
+      "l1": "Tu as des frères et sœurs ?",
+      "l2": "Máš súrodencov?",
+      "choices_l1": [
+        "Tu prends un goulash ?",
+        "Mes enfants sont petits.",
+        "Ma chambre est petite mais lumineuse."
+      ]
+    },
+    {
+      "id": "listen-m-m-jednu-sestru-a-jedn-ho-brata",
+      "type": "listen",
+      "l1": "J'ai une sœur et un frère.",
+      "l2": "Mám jednu sestru a jedného brata.",
+      "choices_l1": [
+        "Le pont est vieux et beau.",
+        "Nous allons au restaurant.",
+        "Qu'est-ce que tu fais dans la vie ? / Quel est ton métier ?"
+      ]
+    },
+    {
+      "id": "listen-moji-rodi-ia-b-vaj-v-bratislave",
+      "type": "listen",
+      "l1": "Mes parents habitent à Bratislava.",
+      "l2": "Moji rodičia bývajú v Bratislave.",
+      "choices_l1": [
+        "Personne n'était là.",
+        "J'achète des pommes rouges au marché.",
+        "Puis-je venir avec toi ?"
+      ]
+    },
+    {
+      "id": "listen-som-enat-som-vydat",
+      "type": "listen",
+      "l1": "Je suis marié. / Je suis mariée.",
+      "l2": "Som ženatý. / Som vydatá.",
+      "choices_l1": [
+        "Quand est votre anniversaire ?",
+        "D'abord le déjeuner, ensuite le gâteau.",
+        "J'étais fatiguée de déménager. Ma famille me manquait, et il me manquait d'habiter vraiment chez moi, pas juste en visite."
+      ]
+    },
+    {
+      "id": "listen-som-jedin-ik-nem-m-s-rodencov",
+      "type": "listen",
+      "l1": "Je suis enfant unique, je n'ai pas de frères et sœurs.",
+      "l2": "Som jedináčik, nemám súrodencov.",
+      "choices_l1": [
+        "Je préfère marcher (aller à pied).",
+        "L'herbe est verte et mouillée.",
+        "La voiture est devant la maison."
+      ]
+    },
+    {
+      "id": "order-m-m-jednu-sestru-a-jedn-ho-brata",
+      "type": "order",
+      "l1": "J'ai une sœur et un frère.",
+      "l2": "Mám jednu sestru a jedného brata.",
+      "tokens_l1": [
+        "J'ai",
+        "une",
+        "sœur",
+        "et",
+        "un",
+        "frère.",
+        "Je",
+        "suis",
+        "enfant",
+        "unique,",
+        "je",
+        "n'ai",
+        "pas",
+        "de",
+        "frères",
+        "et",
+        "sœurs."
+      ],
+      "tokens_l2": [
+        "Mám",
+        "jednu",
+        "sestru",
+        "a",
+        "jedného",
+        "brata.",
+        "Som",
+        "jedináčik,",
+        "nemám",
+        "súrodencov."
+      ]
+    },
+    {
+      "id": "order-moji-rodi-ia-b-vaj-v-bratislave",
+      "type": "order",
+      "l1": "Mes parents habitent à Bratislava.",
+      "l2": "Moji rodičia bývajú v Bratislave.",
+      "tokens_l1": [
+        "Mes",
+        "parents",
+        "habitent",
+        "à",
+        "Bratislava.",
+        "J'ai",
+        "une",
+        "sœur",
+        "et",
+        "un",
+        "frère."
+      ],
+      "tokens_l2": [
+        "Moji",
+        "rodičia",
+        "bývajú",
+        "v",
+        "Bratislave.",
+        "Mám",
+        "jednu",
+        "sestru",
+        "a",
+        "jedného",
+        "brata."
+      ]
+    },
+    {
+      "id": "order-som-enat-som-vydat",
+      "type": "order",
+      "l1": "Je suis marié. / Je suis mariée.",
+      "l2": "Som ženatý. / Som vydatá.",
+      "tokens_l1": [
+        "Je",
+        "suis",
+        "marié.",
+        "/",
+        "Je",
+        "suis",
+        "mariée.",
+        "Mes",
+        "parents",
+        "habitent",
+        "à",
+        "Bratislava."
+      ],
+      "tokens_l2": [
+        "Som",
+        "ženatý.",
+        "/",
+        "Som",
+        "vydatá.",
+        "Moji",
+        "rodičia",
+        "bývajú",
+        "v",
+        "Bratislave."
+      ]
+    },
+    {
+      "id": "order-som-jedin-ik-nem-m-s-rodencov",
+      "type": "order",
+      "l1": "Je suis enfant unique, je n'ai pas de frères et sœurs.",
+      "l2": "Som jedináčik, nemám súrodencov.",
+      "tokens_l1": [
+        "Je",
+        "suis",
+        "enfant",
+        "unique,",
+        "je",
+        "n'ai",
+        "pas",
+        "de",
+        "frères",
+        "et",
+        "sœurs.",
+        "Je",
+        "suis",
+        "marié.",
+        "/",
+        "Je",
+        "suis",
+        "mariée."
+      ],
+      "tokens_l2": [
+        "Som",
+        "jedináčik,",
+        "nemám",
+        "súrodencov.",
+        "Som",
+        "ženatý.",
+        "/",
+        "Som",
+        "vydatá."
+      ]
+    },
+    {
+      "id": "match-rodina-vocab",
+      "type": "match",
+      "l1": [
+        "famille",
+        "père",
+        "mère",
+        "parents"
+      ],
+      "l2": [
+        "rodina",
+        "otec",
+        "mama",
+        "rodičia"
+      ]
+    },
+    {
+      "id": "match-m-s-rodencov-sentences",
+      "type": "match",
+      "l1": [
+        "Tu as des frères et sœurs ?",
+        "J'ai une sœur et un frère.",
+        "Mes parents habitent à Bratislava.",
+        "Je suis marié. / Je suis mariée."
+      ],
+      "l2": [
+        "Máš súrodencov?",
+        "Mám jednu sestru a jedného brata.",
+        "Moji rodičia bývajú v Bratislave.",
+        "Som ženatý. / Som vydatá."
+      ]
+    }
+  ]
+}

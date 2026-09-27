@@ -1,0 +1,301 @@
+{
+  "id": "vocabulary-medecin",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "🏥 U lekára (Chez le médecin)",
+  "image": null,
+  "content": [
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Vocabulaire de base"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "lekár / lekárka",
+          "médecin"
+        ],
+        [
+          "pacient / pacientka",
+          "patient(e)"
+        ],
+        [
+          "nemocnica",
+          "hôpital"
+        ],
+        [
+          "ambulancia",
+          "cabinet médical"
+        ],
+        [
+          "lieky",
+          "médicaments"
+        ],
+        [
+          "recept",
+          "ordonnance"
+        ],
+        [
+          "choroba",
+          "maladie"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"lieky\" (médicaments) est toujours au pluriel en slovaque, même pour un seul médicament."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Décrire un symptôme"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čo vás trápi?",
+      "speaker": null,
+      "natural": "Qu'est-ce qui ne va pas ? (littéralement : qu'est-ce qui vous tourmente)",
+      "literal": [
+        "čo vás trápi = qu'est-ce qui vous ennuie/tourmente"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Bolí ma hrdlo a mám horúčku.",
+      "speaker": null,
+      "natural": "J'ai mal à la gorge et j'ai de la fièvre.",
+      "literal": [
+        "bolí ma hrdlo = j'ai mal à la gorge · mám horúčku = j'ai de la fièvre"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Necítim sa dobre.",
+      "speaker": null,
+      "natural": "Je ne me sens pas bien.",
+      "literal": [
+        "necítim sa = je ne me sens pas · dobre = bien"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kašlem už tri dni.",
+      "speaker": null,
+      "natural": "Je tousse depuis trois jours.",
+      "literal": [
+        "kašlem = je tousse · už tri dni = déjà depuis trois jours"
+      ],
+      "notes": []
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"už\" (déjà) accompagné d'une durée exprime une action qui continue depuis un moment, comme \"depuis\" en français."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Chez le médecin"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "vyšetrenie",
+          "examen (médical)"
+        ],
+        [
+          "teplomer",
+          "thermomètre"
+        ],
+        [
+          "injekcia",
+          "piqûre"
+        ],
+        [
+          "náplasť",
+          "pansement"
+        ],
+        [
+          "alergia",
+          "allergie"
+        ],
+        [
+          "bolesť",
+          "douleur"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Musíme vás vyšetriť.",
+      "speaker": null,
+      "natural": "Nous devons vous examiner.",
+      "literal": [
+        "musíme = nous devons · vás vyšetriť = vous examiner"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Máte na niečo alergiu?",
+      "speaker": null,
+      "natural": "Avez-vous une allergie à quelque chose ?",
+      "literal": [
+        "máte = avez-vous · na niečo = à quelque chose · alergiu = allergie"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Predpíšem vám nejaké lieky.",
+      "speaker": null,
+      "natural": "Je vais vous prescrire des médicaments.",
+      "literal": [
+        "predpíšem vám = je vais vous prescrire · nejaké lieky = des médicaments"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. À la pharmacie"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "lekáreň",
+          "pharmacie"
+        ],
+        [
+          "lekárnik / lekárnička",
+          "pharmacien / pharmacienne"
+        ],
+        [
+          "tabletka",
+          "comprimé"
+        ],
+        [
+          "sirup",
+          "sirop"
+        ],
+        [
+          "masť",
+          "pommade"
+        ],
+        [
+          "vitamín",
+          "vitamine"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám recept od lekára.",
+      "speaker": null,
+      "natural": "J'ai une ordonnance du médecin.",
+      "literal": [
+        "mám recept = j'ai une ordonnance · od lekára = du médecin"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Petit vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "zdravý / zdravá",
+          "en bonne santé"
+        ],
+        [
+          "chorý / chorá",
+          "malade"
+        ],
+        [
+          "zdravie",
+          "santé"
+        ],
+        [
+          "poistenie",
+          "assurance"
+        ],
+        [
+          "pohotovosť",
+          "urgences"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Musím ísť na pohotovosť.",
+      "speaker": null,
+      "natural": "Je dois aller aux urgences.",
+      "literal": [
+        "musím ísť = je dois aller · na pohotovosť = aux urgences"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚠️ Pièges pour les francophones"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "\"lieky\" (médicaments) est toujours au **pluriel**, même pour un seul comprimé ou sirop.",
+        "\"bolí ma\" + partie du corps est la structure standard pour dire qu'on a mal quelque part : [[bolí ma hrdlo]] (gorge), [[bolí ma hlava]] (tête) — voir aussi la fiche sur le corps.",
+        "\"zdravý/chorý\" s'accordent en genre comme les autres adjectifs : [[zdravý]] (masculin) vs [[zdravá]] (féminin)."
+      ]
+    }
+  ]
+}

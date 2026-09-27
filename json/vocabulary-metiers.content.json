@@ -1,0 +1,283 @@
+{
+  "id": "vocabulary-metiers",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "💼 Povolania (Les métiers)",
+  "image": null,
+  "content": [
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Métiers courants"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "učiteľ / učiteľka",
+          "enseignant / enseignante"
+        ],
+        [
+          "lekár / lekárka",
+          "médecin"
+        ],
+        [
+          "kuchár / kuchárka",
+          "cuisinier / cuisinière"
+        ],
+        [
+          "predavač / predavačka",
+          "vendeur / vendeuse"
+        ],
+        [
+          "policajt / policajtka",
+          "policier / policière"
+        ],
+        [
+          "hasič",
+          "pompier"
+        ],
+        [
+          "vodič",
+          "conducteur"
+        ],
+        [
+          "účtovník / účtovníčka",
+          "comptable"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "+ Beaucoup de métiers ont une forme masculine et une forme féminine bien distinctes, avec un suffixe comme \"-ka\" pour le féminin : učiteľ → učiteľka."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Métiers techniques et créatifs"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "inžinier",
+          "ingénieur"
+        ],
+        [
+          "programátor / programátorka",
+          "informaticien / informaticienne"
+        ],
+        [
+          "elektrikár",
+          "électricien"
+        ],
+        [
+          "murár",
+          "maçon"
+        ],
+        [
+          "maliar",
+          "peintre"
+        ],
+        [
+          "spisovateľ / spisovateľka",
+          "écrivain / écrivaine"
+        ],
+        [
+          "hudobník / hudobníčka",
+          "musicien / musicienne"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Parler de son travail"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čím pracuješ? / Aké je tvoje povolanie?",
+      "speaker": null,
+      "natural": "Qu'est-ce que tu fais dans la vie ? / Quel est ton métier ?",
+      "literal": [
+        "čím pracuješ = par quoi tu travailles (littéralement) · aké je tvoje povolanie = quel est ton métier"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Som učiteľka na základnej škole.",
+      "speaker": null,
+      "natural": "Je suis enseignante à l'école primaire.",
+      "literal": [
+        "som = je suis · učiteľka = enseignante · na základnej škole = à l'école primaire"
+      ],
+      "notes": []
+    },
+    {
+      "type": "paragraph",
+      "text": "+ La question \"Čím pracuješ?\" utilise littéralement \"par quoi\", une construction différente du français \"que fais-tu\"."
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Pracujem ako programátor.",
+      "speaker": null,
+      "natural": "Je travaille comme informaticien.",
+      "literal": [
+        "pracujem = je travaille · ako = comme, en tant que · programátor = informaticien"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kde pracuješ?",
+      "speaker": null,
+      "natural": "Où travailles-tu ?",
+      "literal": [
+        "kde = où · pracuješ = tu travailles"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Le lieu de travail"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "práca",
+          "travail"
+        ],
+        [
+          "firma",
+          "entreprise"
+        ],
+        [
+          "kancelária",
+          "bureau"
+        ],
+        [
+          "dielňa",
+          "atelier"
+        ],
+        [
+          "nemocnica",
+          "hôpital"
+        ],
+        [
+          "škola",
+          "école"
+        ],
+        [
+          "obchod",
+          "magasin"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Pracujem vo firme v centre mesta.",
+      "speaker": null,
+      "natural": "Je travaille dans une entreprise en centre-ville.",
+      "literal": [
+        "pracujem = je travaille · vo firme = dans une entreprise · v centre mesta = en centre-ville"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Petit vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "šéf / šéfka",
+          "chef, patron / patronne"
+        ],
+        [
+          "kolega / kolegyňa",
+          "collègue"
+        ],
+        [
+          "plat",
+          "salaire"
+        ],
+        [
+          "dovolenka",
+          "congé"
+        ],
+        [
+          "pracovná zmena",
+          "poste (horaire de travail)"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môj šéf je veľmi milý.",
+      "speaker": null,
+      "natural": "Mon patron est très gentil.",
+      "literal": [
+        "môj šéf = mon patron · veľmi milý = très gentil"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚠️ Pièges pour les francophones"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Les métiers ont souvent deux formes distinctes (masculin/féminin), pas juste un \"-e\" final comme en français : [[učiteľ]] vs [[učiteľka]].",
+        "\"Čím pracuješ?\" est la façon idiomatique de demander le métier de quelqu'un, littéralement \"par quoi travailles-tu\", à ne pas traduire mot à mot.",
+        "\"škola\" (école) et \"nemocnica\" (hôpital) désignent aussi bien le lieu que l'idée de \"être scolarisé/hospitalisé\" dans certaines expressions."
+      ]
+    }
+  ]
+}

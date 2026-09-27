@@ -1,0 +1,423 @@
+{
+  "id": "series-pocasie-predpoved-pocasia",
+  "category": "series",
+  "subgroup": "pocasie",
+  "subgroup_label": "Pocasie",
+  "title": "Série Počasie (4/5) — Predpoveď počasia",
+  "image": {
+    "src": "img/pocasie_04_hiking_trail.jpg",
+    "caption": "Randonnée dans les Hautes Tatras — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Parler de la météo à venir, et adapter ses projets. On combine ici le futur simple avec **bude** et les conditions qui changent les plans."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "predpoveď",
+          "la prévision"
+        ],
+        [
+          "zajtra bude",
+          "demain il fera / il y aura"
+        ],
+        [
+          "slnečno",
+          "ensoleillé"
+        ],
+        [
+          "oblačno",
+          "nuageux"
+        ],
+        [
+          "daždivo",
+          "pluvieux"
+        ],
+        [
+          "meniť",
+          "changer"
+        ],
+        [
+          "plán",
+          "le plan, le projet"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bude + adverbe : le futur météo"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "Bude slnečno.",
+          "Il fera beau (ensoleillé)."
+        ],
+        [
+          "Bude oblačno.",
+          "Il fera nuageux."
+        ],
+        [
+          "Bude daždivo.",
+          "Il fera pluvieux."
+        ],
+        [
+          "Bude pršať.",
+          "Il va pleuvoir."
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "*Bude* est le futur de *byť* à la troisième personne : il fonctionne exactement comme *je* au présent, mais tourné vers demain."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ak + condition"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "Ak bude pršať, zostaneme doma.",
+          "S'il pleut, nous resterons à la maison."
+        ],
+        [
+          "Ak bude slnečno, pôjdeme von.",
+          "S'il fait beau, nous sortirons."
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "**Ak** introduit une condition, exactement comme « si » en français."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Aká je predpoveď na zajtra?",
+      "speaker": null,
+      "natural": "Quelles sont les prévisions pour demain ?",
+      "literal": [
+        "Aká je = quelle est",
+        "predpoveď = la prévision",
+        "na zajtra = pour demain"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Zajtra bude slnečno.",
+      "speaker": null,
+      "natural": "Demain il fera beau.",
+      "literal": [
+        "Zajtra = demain",
+        "bude slnečno = il fera beau"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Poobede bude oblačno.",
+      "speaker": null,
+      "natural": "L'après-midi il fera nuageux.",
+      "literal": [
+        "Poobede = l'après-midi",
+        "bude oblačno = il fera nuageux"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Večer bude pršať.",
+      "speaker": null,
+      "natural": "Le soir il va pleuvoir.",
+      "literal": [
+        "Večer = le soir",
+        "bude pršať = il va pleuvoir"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ak bude pršať, zostaneme doma.",
+      "speaker": null,
+      "natural": "S'il pleut, nous resterons à la maison.",
+      "literal": [
+        "Ak = si",
+        "bude pršať = il pleut",
+        "zostaneme doma = nous resterons à la maison"
+      ],
+      "notes": [
+        "« zostať » veut dire rester. Retiens la forme du futur pour l'instant."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ak bude slnečno, pôjdeme do parku.",
+      "speaker": null,
+      "natural": "S'il fait beau, nous irons au parc.",
+      "literal": [
+        "Ak = si",
+        "bude slnečno = il fait beau",
+        "pôjdeme = nous irons",
+        "do parku = au parc"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Počasie sa mení každý deň.",
+      "speaker": null,
+      "natural": "Le temps change chaque jour.",
+      "literal": [
+        "Počasie = le temps",
+        "sa mení = change",
+        "každý deň = chaque jour"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Musíme meniť plán, bude búrka.",
+      "speaker": null,
+      "natural": "Nous devons changer de plan, il va y avoir un orage.",
+      "literal": [
+        "Musíme meniť = nous devons changer",
+        "plán = de plan",
+        "bude búrka = il va y avoir un orage"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Zajtra bude zima, musíš nosiť kabát.",
+      "speaker": null,
+      "natural": "Demain il fera froid, tu dois porter un manteau.",
+      "literal": [
+        "Zajtra = demain",
+        "bude zima = il fera froid",
+        "musíš nosiť = tu dois porter",
+        "kabát = un manteau"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ak bude teplo, nebudem nosiť sveter.",
+      "speaker": null,
+      "natural": "S'il fait chaud, je ne porterai pas de pull.",
+      "literal": [
+        "Ak = si",
+        "bude teplo = il fait chaud",
+        "nebudem nosiť = je ne porterai pas",
+        "sveter = de pull"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na jeseň je predpoveď často daždivá.",
+      "speaker": null,
+      "natural": "En automne les prévisions sont souvent pluvieuses.",
+      "literal": [
+        "Na jeseň = en automne",
+        "je predpoveď = les prévisions sont",
+        "často = souvent",
+        "daždivá = pluvieuses"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**La prévision se consulte avant tout, y compris en montagne.** Un randonneur sérieux vérifie systématiquement la [[predpoveď počasia]] avant de partir dans les Tatras, où le temps peut basculer très vite en altitude."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le SHMÚ fait autorité.** L'institut hydrométéorologique national publie des alertes météo suivies de près, en particulier en cas d'orage violent ou de fortes chutes de neige qui peuvent bloquer des routes de montagne entières."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Changer de plan à cause de la météo n'a rien de honteux.** Reporter une sortie, une randonnée ou un barbecue parce que la prévision a changé est parfaitement normal et ne surprend jamais un Slovaque, habitué aux caprices du climat continental."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "zostať",
+          "rester"
+        ],
+        [
+          "vonku",
+          "dehors"
+        ],
+        [
+          "vnútri",
+          "à l'intérieur"
+        ],
+        [
+          "výlet",
+          "l'excursion"
+        ],
+        [
+          "turistika",
+          "la randonnée"
+        ],
+        [
+          "upozornenie",
+          "l'alerte, l'avertissement"
+        ],
+        [
+          "istota",
+          "la certitude"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Zostaneme vnútri, vonku prší.",
+      "speaker": null,
+      "natural": "Nous resterons à l'intérieur, dehors il pleut.",
+      "literal": [
+        "Zostaneme = nous resterons",
+        "vnútri = à l'intérieur",
+        "vonku = dehors",
+        "prší = il pleut"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Plánujeme výlet, ale počasie nie je isté.",
+      "speaker": null,
+      "natural": "Nous planifions une excursion, mais le temps n'est pas sûr.",
+      "literal": [
+        "Plánujeme = nous planifions",
+        "výlet = une excursion",
+        "ale = mais",
+        "počasie = le temps",
+        "nie je isté = n'est pas sûr"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je upozornenie na búrku.",
+      "speaker": null,
+      "natural": "Il y a une alerte orage.",
+      "literal": [
+        "Je = il y a",
+        "upozornenie = une alerte",
+        "na búrku = orage"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Turistika v horách je krásna, ak je slnečno.",
+      "speaker": null,
+      "natural": "La randonnée en montagne est magnifique, s'il fait beau.",
+      "literal": [
+        "Turistika v horách = la randonnée en montagne",
+        "je = est",
+        "krásna = magnifique",
+        "ak je slnečno = s'il fait beau"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nemám istotu, ale asi bude pekne.",
+      "speaker": null,
+      "natural": "Je n'en suis pas sûr, mais il fera sans doute beau.",
+      "literal": [
+        "Nemám istotu = je n'en suis pas sûr",
+        "ale = mais",
+        "asi = sans doute",
+        "bude pekne = il fera beau"
+      ],
+      "notes": []
+    }
+  ]
+}

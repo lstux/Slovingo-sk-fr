@@ -1,0 +1,819 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-tri-ko",
+      "type": "qcm",
+      "l1": "t-shirt",
+      "l2": "tričko",
+      "choices_l1": [
+        "le printemps",
+        "la taille",
+        "l'hôpital"
+      ],
+      "choices_l2": [
+        "most",
+        "osud",
+        "Európska únia"
+      ]
+    },
+    {
+      "id": "qcm-ko-e-a",
+      "type": "qcm",
+      "l1": "chemise",
+      "l2": "košeľa",
+      "choices_l1": [
+        "la minute",
+        "manger",
+        "corneille"
+      ],
+      "choices_l2": [
+        "víťazstvo",
+        "šesťdesiat",
+        "smútok"
+      ]
+    },
+    {
+      "id": "qcm-sveter",
+      "type": "qcm",
+      "l1": "pull",
+      "l2": "sveter",
+      "choices_l1": [
+        "le thé",
+        "chaud",
+        "comprimé"
+      ],
+      "choices_l2": [
+        "pracovať",
+        "ráno",
+        "ceruzka"
+      ]
+    },
+    {
+      "id": "qcm-bunda",
+      "type": "qcm",
+      "l1": "veste (blouson)",
+      "l2": "bunda",
+      "choices_l1": [
+        "ami",
+        "la robe",
+        "méchant"
+      ],
+      "choices_l2": [
+        "dedina",
+        "garáž",
+        "Robím kávu."
+      ]
+    },
+    {
+      "id": "qcm-kab-t",
+      "type": "qcm",
+      "l1": "manteau",
+      "l2": "kabát",
+      "choices_l1": [
+        "temps libre",
+        "combien",
+        "gratuit"
+      ],
+      "choices_l2": [
+        "žltá",
+        "parfum",
+        "Mám čas."
+      ]
+    },
+    {
+      "id": "qcm-aty",
+      "type": "qcm",
+      "l1": "robe",
+      "l2": "šaty",
+      "choices_l1": [
+        "fromage",
+        "oreille",
+        "prêt"
+      ],
+      "choices_l2": [
+        "malá sestra",
+        "nahnevaný",
+        "obliecť si"
+      ]
+    },
+    {
+      "id": "qcm-nohavice",
+      "type": "qcm",
+      "l1": "pantalon",
+      "l2": "nohavice",
+      "choices_l1": [
+        "compte (bancaire)",
+        "le vent",
+        "acheter"
+      ],
+      "choices_l2": [
+        "príchod",
+        "Nemám hlad.",
+        "účet"
+      ]
+    },
+    {
+      "id": "qcm-d-nsy",
+      "type": "qcm",
+      "l1": "jean",
+      "l2": "džínsy",
+      "choices_l1": [
+        "temps libre",
+        "chaud",
+        "ouvert"
+      ],
+      "choices_l2": [
+        "úprimný",
+        "prehra",
+        "sedem"
+      ]
+    },
+    {
+      "id": "qcm-suk-a",
+      "type": "qcm",
+      "l1": "jupe",
+      "l2": "sukňa",
+      "choices_l1": [
+        "5,99 €",
+        "0",
+        "cheval"
+      ],
+      "choices_l2": [
+        "ja mám",
+        "hasič",
+        "známka"
+      ]
+    },
+    {
+      "id": "qcm-kra-asy",
+      "type": "qcm",
+      "l1": "short",
+      "l2": "kraťasy",
+      "choices_l1": [
+        "la famille",
+        "rencontre",
+        "compte (bancaire)"
+      ],
+      "choices_l2": [
+        "koľko",
+        "letisko",
+        "lyžica"
+      ]
+    },
+    {
+      "id": "qcm-pono-ky",
+      "type": "qcm",
+      "l1": "chaussettes",
+      "l2": "ponožky",
+      "choices_l1": [
+        "dehors",
+        "colère",
+        "piquant"
+      ],
+      "choices_l2": [
+        "budík",
+        "zvyk",
+        "výhľad"
+      ]
+    },
+    {
+      "id": "qcm-top-nky",
+      "type": "qcm",
+      "l1": "chaussures",
+      "l2": "topánky",
+      "choices_l1": [
+        "le vendeur",
+        "classe",
+        "portefeuille"
+      ],
+      "choices_l2": [
+        "Veľký piatok",
+        "kniha",
+        "odmena"
+      ]
+    },
+    {
+      "id": "qcm-tenisky",
+      "type": "qcm",
+      "l1": "baskets",
+      "l2": "tenisky",
+      "choices_l1": [
+        "calme, paisible",
+        "petit(e)",
+        "quinzième"
+      ],
+      "choices_l2": [
+        "drahý",
+        "tri",
+        "zviera"
+      ]
+    },
+    {
+      "id": "qcm-klob-k",
+      "type": "qcm",
+      "l1": "chapeau",
+      "l2": "klobúk",
+      "choices_l1": [
+        "corneille",
+        "village",
+        "mauvais(e)"
+      ],
+      "choices_l2": [
+        "guláš",
+        "siedmy",
+        "päťtisíc"
+      ]
+    },
+    {
+      "id": "qcm-l",
+      "type": "qcm",
+      "l1": "écharpe",
+      "l2": "šál",
+      "choices_l1": [
+        "la rue",
+        "quinzième",
+        "trouver"
+      ],
+      "choices_l2": [
+        "jasno",
+        "doľava",
+        "zľava štvrtinou"
+      ]
+    },
+    {
+      "id": "qcm-rukavice",
+      "type": "qcm",
+      "l1": "gants",
+      "l2": "rukavice",
+      "choices_l1": [
+        "ordinateur",
+        "incolore",
+        "gratuit"
+      ],
+      "choices_l2": [
+        "vlasy",
+        "ostrov",
+        "strýko"
+      ]
+    },
+    {
+      "id": "qcm-opasok",
+      "type": "qcm",
+      "l1": "ceinture",
+      "l2": "opasok",
+      "choices_l1": [
+        "le couloir",
+        "tu cherches",
+        "la voiture"
+      ],
+      "choices_l2": [
+        "ja pracujem",
+        "motýľ",
+        "päťtisíc"
+      ]
+    },
+    {
+      "id": "qcm-okuliare",
+      "type": "qcm",
+      "l1": "lunettes",
+      "l2": "okuliare",
+      "choices_l1": [
+        "anglais",
+        "les bottes",
+        "randonnée"
+      ],
+      "choices_l2": [
+        "ticho",
+        "odpovedať",
+        "ambulancia"
+      ]
+    },
+    {
+      "id": "qcm-ta-ka",
+      "type": "qcm",
+      "l1": "sac",
+      "l2": "taška",
+      "choices_l1": [
+        "3",
+        "cinq euros",
+        "trois euros"
+      ],
+      "choices_l2": [
+        "tradícia",
+        "tretí",
+        "domáca úloha"
+      ]
+    },
+    {
+      "id": "qcm-ve-kos",
+      "type": "qcm",
+      "l1": "taille",
+      "l2": "veľkosť",
+      "choices_l1": [
+        "demander",
+        "17",
+        "satisfait(e), content(e)"
+      ],
+      "choices_l2": [
+        "môcť",
+        "bocian",
+        "kde"
+      ]
+    },
+    {
+      "id": "qcm-sk-obn-kab-nka",
+      "type": "qcm",
+      "l1": "cabine d'essayage",
+      "l2": "skúšobná kabínka",
+      "choices_l1": [
+        "travail",
+        "l'épicerie",
+        "où (direction)"
+      ],
+      "choices_l2": [
+        "kniha",
+        "Nový rok",
+        "december"
+      ]
+    },
+    {
+      "id": "qcm-pohodln",
+      "type": "qcm",
+      "l1": "confortable",
+      "l2": "pohodlný",
+      "choices_l1": [
+        "teindre, colorer",
+        "cousine",
+        "beaucoup"
+      ],
+      "choices_l2": [
+        "jeseň",
+        "oni pijú",
+        "dvor"
+      ]
+    },
+    {
+      "id": "qcm-m-dny",
+      "type": "qcm",
+      "l1": "à la mode",
+      "l2": "módny",
+      "choices_l1": [
+        "Il fera nuageux.",
+        "eh bien / alors",
+        "Je vais faire un gâteau (et il sera terminé)."
+      ],
+      "choices_l2": [
+        "zviera",
+        "sme",
+        "desiata"
+      ]
+    },
+    {
+      "id": "qcm-lacn",
+      "type": "qcm",
+      "l1": "pas cher",
+      "l2": "lacný",
+      "choices_l1": [
+        "partir",
+        "l'épicerie",
+        "aide"
+      ],
+      "choices_l2": [
+        "matematika",
+        "môj brat",
+        "ryba"
+      ]
+    },
+    {
+      "id": "qcm-drah",
+      "type": "qcm",
+      "l1": "cher",
+      "l2": "drahý",
+      "choices_l1": [
+        "fourchette",
+        "premier",
+        "difficile, exigeant"
+      ],
+      "choices_l2": [
+        "tritisíc",
+        "noc",
+        "tenisky"
+      ]
+    },
+    {
+      "id": "blank-o-m-dnes-oble-en",
+      "type": "fill-blank",
+      "l1": "Qu'est-ce que tu portes aujourd'hui ?",
+      "l2": "Čo máš dnes oblečené?",
+      "missing_l1": "que",
+      "missing_l2": "dnes",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "le",
+        "tu",
+        "j'ai"
+      ],
+      "choices_l2": [
+        "má",
+        "deti",
+        "bude"
+      ]
+    },
+    {
+      "id": "blank-m-m-na-sebe-modr-tri-ko",
+      "type": "fill-blank",
+      "l1": "Je porte un t-shirt bleu.",
+      "l2": "Mám na sebe modré tričko.",
+      "missing_l1": "un",
+      "missing_l2": "na",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "du",
+        "a",
+        "la"
+      ],
+      "choices_l2": [
+        "sme",
+        "nie",
+        "v"
+      ]
+    },
+    {
+      "id": "blank-mus-m-si-obliec-bundu-vonku-je-zima",
+      "type": "fill-blank",
+      "l1": "Je dois mettre ma veste, il fait froid dehors.",
+      "l2": "Musím si obliecť bundu, vonku je zima.",
+      "missing_l1": "il",
+      "missing_l2": "je",
+      "blank_index_l1": 5,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "les",
+        "cette",
+        "je"
+      ],
+      "choices_l2": [
+        "bolo",
+        "na",
+        "čo"
+      ]
+    },
+    {
+      "id": "blank-tieto-top-nky-s-mi-mal",
+      "type": "fill-blank",
+      "l1": "Ces chaussures sont trop petites pour moi.",
+      "l2": "Tieto topánky sú mi malé.",
+      "missing_l1": "sont",
+      "missing_l2": "sú",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "dans",
+        "nous",
+        "fait"
+      ],
+      "choices_l2": [
+        "to",
+        "môj",
+        "nie"
+      ]
+    },
+    {
+      "id": "blank-ak-je-va-a-ve-kos",
+      "type": "fill-blank",
+      "l1": "Quelle est votre taille ?",
+      "l2": "Aká je vaša veľkosť?",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "ça",
+        "c'est",
+        "il"
+      ],
+      "choices_l2": [
+        "to",
+        "chcem",
+        "má"
+      ]
+    },
+    {
+      "id": "blank-t-to-bunda-je-ve-mi-pohodln",
+      "type": "fill-blank",
+      "l1": "Cette veste est très confortable.",
+      "l2": "Táto bunda je veľmi pohodlná.",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "j'ai",
+        "me",
+        "de"
+      ],
+      "choices_l2": [
+        "som",
+        "tam",
+        "bude"
+      ]
+    },
+    {
+      "id": "listen-o-m-dnes-oble-en",
+      "type": "listen",
+      "l1": "Qu'est-ce que tu portes aujourd'hui ?",
+      "l2": "Čo máš dnes oblečené?",
+      "choices_l1": [
+        "Le prêtre a célébré la messe le dimanche de Pâques.",
+        "J'ai beaucoup de travail.",
+        "La couleur est encore mouillée."
+      ]
+    },
+    {
+      "id": "listen-m-m-na-sebe-modr-tri-ko",
+      "type": "listen",
+      "l1": "Je porte un t-shirt bleu.",
+      "l2": "Mám na sebe modré tričko.",
+      "choices_l1": [
+        "C'est moi ! J'avais environ dix ans. Nous étions dans un camp de pionniers.",
+        "Le matin nous avions des jeux, des compétitions entre petites équipes, ou nous allions dans la forêt.",
+        "Goûte la bryndza ! Elle est salée."
+      ]
+    },
+    {
+      "id": "listen-mus-m-si-obliec-bundu-vonku-je-zima",
+      "type": "listen",
+      "l1": "Je dois mettre ma veste, il fait froid dehors.",
+      "l2": "Musím si obliecť bundu, vonku je zima.",
+      "choices_l1": [
+        "Je ressens la fatigue, mais aussi une grande tranquillité.",
+        "Et qu'est-ce qui s'est passé ensuite, après l'Espagne ?",
+        "Je n'ai rien."
+      ]
+    },
+    {
+      "id": "listen-tieto-top-nky-s-mi-mal",
+      "type": "listen",
+      "l1": "Ces chaussures sont trop petites pour moi.",
+      "l2": "Tieto topánky sú mi malé.",
+      "choices_l1": [
+        "Ma chambre est petite mais lumineuse.",
+        "Par où allons-nous ?",
+        "Samedi il devrait faire beau !"
+      ]
+    },
+    {
+      "id": "listen-ak-je-va-a-ve-kos",
+      "type": "listen",
+      "l1": "Quelle est votre taille ?",
+      "l2": "Aká je vaša veľkosť?",
+      "choices_l1": [
+        "Nous avons quatre verres et quatre assiettes.",
+        "Vous payez par carte ou en liquide ?",
+        "Ma sœur travaille à l'hôpital."
+      ]
+    },
+    {
+      "id": "listen-t-to-bunda-je-ve-mi-pohodln",
+      "type": "listen",
+      "l1": "Cette veste est très confortable.",
+      "l2": "Táto bunda je veľmi pohodlná.",
+      "choices_l1": [
+        "L'horloge est au mur.",
+        "Nous n'avons pas de tente, nous dormirons dans le refuge.",
+        "Les toilettes sont dans le couloir."
+      ]
+    },
+    {
+      "id": "order-o-m-dnes-oble-en",
+      "type": "order",
+      "l1": "Qu'est-ce que tu portes aujourd'hui ?",
+      "l2": "Čo máš dnes oblečené?",
+      "tokens_l1": [
+        "Qu'est-ce",
+        "que",
+        "tu",
+        "portes",
+        "aujourd'hui",
+        "?",
+        "Ces",
+        "chaussures",
+        "sont",
+        "trop",
+        "petites",
+        "pour",
+        "moi."
+      ],
+      "tokens_l2": [
+        "Čo",
+        "máš",
+        "dnes",
+        "oblečené?",
+        "Tieto",
+        "topánky",
+        "sú",
+        "mi",
+        "malé."
+      ]
+    },
+    {
+      "id": "order-m-m-na-sebe-modr-tri-ko",
+      "type": "order",
+      "l1": "Je porte un t-shirt bleu.",
+      "l2": "Mám na sebe modré tričko.",
+      "tokens_l1": [
+        "Je",
+        "porte",
+        "un",
+        "t-shirt",
+        "bleu.",
+        "Ces",
+        "chaussures",
+        "sont",
+        "trop",
+        "petites",
+        "pour",
+        "moi."
+      ],
+      "tokens_l2": [
+        "Mám",
+        "na",
+        "sebe",
+        "modré",
+        "tričko.",
+        "Tieto",
+        "topánky",
+        "sú",
+        "mi",
+        "malé."
+      ]
+    },
+    {
+      "id": "order-mus-m-si-obliec-bundu-vonku-je-zima",
+      "type": "order",
+      "l1": "Je dois mettre ma veste, il fait froid dehors.",
+      "l2": "Musím si obliecť bundu, vonku je zima.",
+      "tokens_l1": [
+        "Je",
+        "dois",
+        "mettre",
+        "ma",
+        "veste,",
+        "il",
+        "fait",
+        "froid",
+        "dehors.",
+        "Cette",
+        "veste",
+        "est",
+        "très",
+        "confortable."
+      ],
+      "tokens_l2": [
+        "Musím",
+        "si",
+        "obliecť",
+        "bundu,",
+        "vonku",
+        "je",
+        "zima.",
+        "Táto",
+        "bunda",
+        "je",
+        "veľmi",
+        "pohodlná."
+      ]
+    },
+    {
+      "id": "order-tieto-top-nky-s-mi-mal",
+      "type": "order",
+      "l1": "Ces chaussures sont trop petites pour moi.",
+      "l2": "Tieto topánky sú mi malé.",
+      "tokens_l1": [
+        "Ces",
+        "chaussures",
+        "sont",
+        "trop",
+        "petites",
+        "pour",
+        "moi.",
+        "Je",
+        "porte",
+        "un",
+        "t-shirt",
+        "bleu."
+      ],
+      "tokens_l2": [
+        "Tieto",
+        "topánky",
+        "sú",
+        "mi",
+        "malé.",
+        "Mám",
+        "na",
+        "sebe",
+        "modré",
+        "tričko."
+      ]
+    },
+    {
+      "id": "order-ak-je-va-a-ve-kos",
+      "type": "order",
+      "l1": "Quelle est votre taille ?",
+      "l2": "Aká je vaša veľkosť?",
+      "tokens_l1": [
+        "Quelle",
+        "est",
+        "votre",
+        "taille",
+        "?",
+        "Cette",
+        "veste",
+        "est",
+        "très",
+        "confortable."
+      ],
+      "tokens_l2": [
+        "Aká",
+        "je",
+        "vaša",
+        "veľkosť?",
+        "Táto",
+        "bunda",
+        "je",
+        "veľmi",
+        "pohodlná."
+      ]
+    },
+    {
+      "id": "order-t-to-bunda-je-ve-mi-pohodln",
+      "type": "order",
+      "l1": "Cette veste est très confortable.",
+      "l2": "Táto bunda je veľmi pohodlná.",
+      "tokens_l1": [
+        "Cette",
+        "veste",
+        "est",
+        "très",
+        "confortable.",
+        "Je",
+        "dois",
+        "mettre",
+        "ma",
+        "veste,",
+        "il",
+        "fait",
+        "froid",
+        "dehors."
+      ],
+      "tokens_l2": [
+        "Táto",
+        "bunda",
+        "je",
+        "veľmi",
+        "pohodlná.",
+        "Musím",
+        "si",
+        "obliecť",
+        "bundu,",
+        "vonku",
+        "je",
+        "zima."
+      ]
+    },
+    {
+      "id": "match-tri-ko-vocab",
+      "type": "match",
+      "l1": [
+        "t-shirt",
+        "chemise",
+        "pull",
+        "veste (blouson)"
+      ],
+      "l2": [
+        "tričko",
+        "košeľa",
+        "sveter",
+        "bunda"
+      ]
+    },
+    {
+      "id": "match-o-m-dnes-oble-en-sentences",
+      "type": "match",
+      "l1": [
+        "Qu'est-ce que tu portes aujourd'hui ?",
+        "Je porte un t-shirt bleu.",
+        "Je dois mettre ma veste, il fait froid dehors.",
+        "Ces chaussures sont trop petites pour moi."
+      ],
+      "l2": [
+        "Čo máš dnes oblečené?",
+        "Mám na sebe modré tričko.",
+        "Musím si obliecť bundu, vonku je zima.",
+        "Tieto topánky sú mi malé."
+      ]
+    }
+  ]
+}

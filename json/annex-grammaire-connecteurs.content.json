@@ -1,0 +1,147 @@
+{
+  "id": "annex-grammaire-connecteurs",
+  "category": "annex",
+  "subgroup": "grammaire",
+  "subgroup_label": "Grammaire",
+  "title": "Grammaire - Les connecteurs logiques",
+  "image": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Ces petits mots structurent le discours : ils relient les idées, nuancent une affirmation ou marquent une opposition. Très fréquents à l'oral, ils sont souvent difficiles à traduire par un seul mot français."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire essentiel"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "tak",
+          "donc / alors"
+        ],
+        [
+          "teda",
+          "donc / alors"
+        ],
+        [
+          "veď",
+          "mais (voyons) / bien sûr"
+        ],
+        [
+          "však",
+          "mais / n'est-ce pas"
+        ],
+        [
+          "totiž",
+          "en effet / parce que"
+        ],
+        [
+          "síce",
+          "certes"
+        ],
+        [
+          "ale",
+          "mais"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Exemples"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Tak poďme!",
+      "speaker": null,
+      "natural": "Alors, allons-y !",
+      "literal": [
+        "Tak = alors",
+        "poďme = allons"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nemám čas, teda musím ísť.",
+      "speaker": null,
+      "natural": "Je n'ai pas le temps, donc je dois y aller.",
+      "literal": [
+        "Nemám čas = je n'ai pas le temps",
+        "teda musím ísť = donc je dois aller"
+      ],
+      "notes": [
+        "\"Tak\" et \"teda\" sont proches et souvent interchangeables ; \"teda\" insiste un peu plus sur la conséquence logique."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Veď to vieš!",
+      "speaker": null,
+      "natural": "Mais tu le sais bien !",
+      "literal": [
+        "Veď = mais (voyons) / bien sûr",
+        "to vieš = tu le sais"
+      ],
+      "notes": [
+        "\"Veď\" souligne une évidence, comme \"mais enfin\" ou \"voyons\" en français."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Príde, však?",
+      "speaker": null,
+      "natural": "Il vient, n'est-ce pas ?",
+      "literal": [
+        "Príde = il/elle vient",
+        "však = n'est-ce pas"
+      ],
+      "notes": [
+        "En fin de phrase, \"však\" fonctionne comme une question de confirmation (\"n'est-ce pas ?\"). En début de phrase, il signifie plutôt \"cependant, mais\"."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nemôžem prísť, totiž mám prácu.",
+      "speaker": null,
+      "natural": "Je ne peux pas venir, en effet j'ai du travail.",
+      "literal": [
+        "Nemôžem prísť = je ne peux pas venir",
+        "totiž mám prácu = en effet j'ai du travail"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je síce drahé, ale kvalitné.",
+      "speaker": null,
+      "natural": "C'est certes cher, mais de qualité.",
+      "literal": [
+        "Je síce drahé = c'est certes cher",
+        "ale kvalitné = mais de qualité"
+      ],
+      "notes": [
+        "\"Síce... ale...\" fonctionne comme \"certes... mais...\" pour introduire une concession."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcem ísť, ale nemôžem.",
+      "speaker": null,
+      "natural": "Je veux y aller, mais je ne peux pas.",
+      "literal": [
+        "Chcem ísť = je veux aller",
+        "ale nemôžem = mais je ne peux pas"
+      ],
+      "notes": []
+    }
+  ]
+}

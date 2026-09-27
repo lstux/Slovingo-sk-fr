@@ -1,0 +1,190 @@
+{
+  "id": "introduction-qui-es-tu",
+  "category": "introduction",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "🇸🇰 Introduction — Qui es-tu?",
+  "image": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En slovaque, comme en français, il y a un **tu** (tutoiement) et un **vous** (vouvoiement). C'est important de savoir les distinguer dès le départ, surtout pour bien saluer les gens ! 😊"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "1. Deux façons de dire bonjour"
+    },
+    {
+      "type": "paragraph",
+      "text": "Deux salutations essentielles en slovaque :"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le \"salut\" décontracté"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ahoj!",
+      "speaker": null,
+      "natural": "Salut !",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le \"bonjour\" formel"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dobrý deň!",
+      "speaker": null,
+      "natural": "Bonjour !",
+      "literal": [
+        "Dobrý deň = bon jour"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "2. Faire connaissance"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "L'échange"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dobrý deň! Vitajte! Ja som Andrea.",
+      "speaker": "👩",
+      "natural": "Bonjour ! Bienvenue ! Je m'appelle Andrea.",
+      "literal": [
+        "Ja = moi",
+        "som = je suis"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ako sa voláte?",
+      "speaker": "👩",
+      "natural": "Comment vous appelez-vous ?",
+      "literal": [
+        "Ako sa voláte = comment vous vous appelez (forme de politesse)"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Volám sa [ASK_USER_NAME].",
+      "speaker": "👤",
+      "natural": "Je m'appelle [dis-nous ton prénom].",
+      "literal": [
+        "Volám sa = je m'appelle"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Teší ma, [USER_NAME]! Som rada.",
+      "speaker": "👩",
+      "natural": "Enchantée, [USER_NAME] ! Je suis heureuse !",
+      "literal": [
+        "Teší ma = enchanté(e) (formule de politesse, valable au tutoiement comme au vouvoiement)",
+        "Som rada = je suis heureuse (une femme dirait \"rada\", un homme \"rád\")"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "3. Les formules de politesse essentielles"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dire merci"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ďakujem.",
+      "speaker": null,
+      "natural": "Merci.",
+      "literal": [
+        "Ďakujem = je remercie (c'est la forme principale)"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ďakujem pekne!",
+      "speaker": null,
+      "natural": "Merci beaucoup !",
+      "literal": [
+        "pekne = joliment / bien"
+      ],
+      "notes": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dire au revoir"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dovidenia!",
+      "speaker": null,
+      "natural": "Au revoir !",
+      "literal": [
+        "Dovidenia = jusqu'à ce qu'on se revoie (forme neutre, courante)"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ahoj!",
+      "speaker": null,
+      "natural": "Salut ! (aussi utilisé pour dire au revoir entre proches)",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dire \"excusez-moi\""
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Prepáčte!",
+      "speaker": null,
+      "natural": "Excusez-moi ! (vouvoiement)",
+      "literal": [
+        "Prepáčte = pardonnez"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Prepáč!",
+      "speaker": null,
+      "natural": "Excuse-moi ! (tutoiement)",
+      "literal": [
+        "Prepáč = pardonne"
+      ],
+      "notes": []
+    }
+  ]
+}

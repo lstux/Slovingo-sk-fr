@@ -1,0 +1,292 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-dvadsa",
+      "type": "qcm",
+      "l1": "20",
+      "l2": "dvadsať",
+      "choices_l1": [
+        "tristesse",
+        "la direction",
+        "ouvrir"
+      ],
+      "choices_l2": [
+        "Neupratovali sme.",
+        "vedľa",
+        "oni"
+      ]
+    },
+    {
+      "id": "qcm-tridsa",
+      "type": "qcm",
+      "l1": "30",
+      "l2": "tridsať",
+      "choices_l1": [
+        "la Tchécoslovaquie",
+        "lecture",
+        "bleu (balisage)"
+      ],
+      "choices_l2": [
+        "jedna tretina",
+        "oni",
+        "maliar"
+      ]
+    },
+    {
+      "id": "qcm-tyridsa",
+      "type": "qcm",
+      "l1": "40",
+      "l2": "štyridsať",
+      "choices_l1": [
+        "le tableau",
+        "le lait",
+        "salon"
+      ],
+      "choices_l2": [
+        "dve eurá",
+        "na námestí",
+        "centrum"
+      ]
+    },
+    {
+      "id": "qcm-p-desiat",
+      "type": "qcm",
+      "l1": "50",
+      "l2": "päťdesiat",
+      "choices_l1": [
+        "pommade",
+        "l'oncle",
+        "le meilleur"
+      ],
+      "choices_l2": [
+        "Veľký piatok",
+        "potraviny",
+        "žltý"
+      ]
+    },
+    {
+      "id": "qcm-es-desiat",
+      "type": "qcm",
+      "l1": "60",
+      "l2": "šesťdesiat",
+      "choices_l1": [
+        "la vue",
+        "sec",
+        "horloge"
+      ],
+      "choices_l2": [
+        "sme",
+        "angličtina",
+        "lekárnička"
+      ]
+    },
+    {
+      "id": "qcm-sedemdesiat",
+      "type": "qcm",
+      "l1": "70",
+      "l2": "sedemdesiat",
+      "choices_l1": [
+        "thermomètre",
+        "femme (épouse)",
+        "l'eau minérale"
+      ],
+      "choices_l2": [
+        "stanica",
+        "štrnásty",
+        "jedna desatina"
+      ]
+    },
+    {
+      "id": "qcm-osemdesiat",
+      "type": "qcm",
+      "l1": "80",
+      "l2": "osemdesiat",
+      "choices_l1": [
+        "je bois",
+        "fête, célébration",
+        "l'école"
+      ],
+      "choices_l2": [
+        "chrbát",
+        "vnútri",
+        "dôchodca"
+      ]
+    },
+    {
+      "id": "qcm-dev-desiat",
+      "type": "qcm",
+      "l1": "90",
+      "l2": "deväťdesiat",
+      "choices_l1": [
+        "randonnée",
+        "affamé",
+        "quand"
+      ],
+      "choices_l2": [
+        "osemdesiat",
+        "gauč",
+        "štát"
+      ]
+    },
+    {
+      "id": "qcm-tis-c",
+      "type": "qcm",
+      "l1": "1 000",
+      "l2": "tisíc",
+      "choices_l1": [
+        "le mois",
+        "elles",
+        "degré"
+      ],
+      "choices_l2": [
+        "smútok",
+        "peňaženka",
+        "my jeme"
+      ]
+    },
+    {
+      "id": "qcm-dvetis-c",
+      "type": "qcm",
+      "l1": "2 000",
+      "l2": "dvetisíc",
+      "choices_l1": [
+        "invité",
+        "taxi",
+        "tu peux"
+      ],
+      "choices_l2": [
+        "príchod",
+        "oni boli",
+        "desať"
+      ]
+    },
+    {
+      "id": "qcm-tritis-c",
+      "type": "qcm",
+      "l1": "3 000",
+      "l2": "tritisíc",
+      "choices_l1": [
+        "le courage",
+        "l'argent",
+        "tu arrives"
+      ],
+      "choices_l2": [
+        "v zime",
+        "náplasť",
+        "vietor"
+      ]
+    },
+    {
+      "id": "qcm-p-tis-c",
+      "type": "qcm",
+      "l1": "5 000",
+      "l2": "päťtisíc",
+      "choices_l1": [
+        "manteau",
+        "l'étagère",
+        "viande"
+      ],
+      "choices_l2": [
+        "rodičia",
+        "veľa",
+        "Veľkonočná nedeľa"
+      ]
+    },
+    {
+      "id": "qcm-desa-tis-c",
+      "type": "qcm",
+      "l1": "10 000",
+      "l2": "desaťtisíc",
+      "choices_l1": [
+        "le restaurant",
+        "riz",
+        "la neige"
+      ],
+      "choices_l2": [
+        "ostrov",
+        "telefón",
+        "telo"
+      ]
+    },
+    {
+      "id": "qcm-stotis-c",
+      "type": "qcm",
+      "l1": "100 000",
+      "l2": "stotisíc",
+      "choices_l1": [
+        "3 000",
+        "nous monterons",
+        "fromage"
+      ],
+      "choices_l2": [
+        "Bude oblačno.",
+        "vyšetrenie",
+        "občianstvo"
+      ]
+    },
+    {
+      "id": "qcm-jeden-mili-n",
+      "type": "qcm",
+      "l1": "1 000 000",
+      "l2": "jeden milión",
+      "choices_l1": [
+        "heureux / heureuse",
+        "enseignant / enseignante",
+        "Nous devons avoir un parapluie."
+      ],
+      "choices_l2": [
+        "dvadsiaty",
+        "ja jem",
+        "môj brat"
+      ]
+    },
+    {
+      "id": "qcm-dva-mili-ny",
+      "type": "qcm",
+      "l1": "2 000 000",
+      "l2": "dva milióny",
+      "choices_l1": [
+        "S'il fait beau, nous sortirons.",
+        "Il fera beau (ensoleillé).",
+        "J'ai le sac."
+      ],
+      "choices_l2": [
+        "paska",
+        "náročný",
+        "ľahký"
+      ]
+    },
+    {
+      "id": "qcm-p-mili-nov",
+      "type": "qcm",
+      "l1": "5 000 000",
+      "l2": "päť miliónov",
+      "choices_l1": [
+        "cool / bien (familier)",
+        "S'il pleut, nous resterons à la maison.",
+        "l'agneau (petit, pascal)"
+      ],
+      "choices_l2": [
+        "účet (bankový)",
+        "cibuľové šupky",
+        "kamarát"
+      ]
+    },
+    {
+      "id": "match-dvadsa-vocab",
+      "type": "match",
+      "l1": [
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "l2": [
+        "dvadsať",
+        "tridsať",
+        "štyridsať",
+        "päťdesiat"
+      ]
+    }
+  ]
+}

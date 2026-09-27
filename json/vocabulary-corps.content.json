@@ -1,0 +1,251 @@
+{
+  "id": "vocabulary-corps",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "🧍 Telo (Le corps)",
+  "image": null,
+  "content": [
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. La tête et le visage"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "hlava",
+          "tête"
+        ],
+        [
+          "tvár",
+          "visage"
+        ],
+        [
+          "oko / oči",
+          "œil / yeux"
+        ],
+        [
+          "ucho / uši",
+          "oreille / oreilles"
+        ],
+        [
+          "nos",
+          "nez"
+        ],
+        [
+          "ústa",
+          "bouche"
+        ],
+        [
+          "zub / zuby",
+          "dent / dents"
+        ],
+        [
+          "jazyk",
+          "langue"
+        ],
+        [
+          "vlasy",
+          "cheveux"
+        ],
+        [
+          "krk",
+          "cou"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"oko\" et \"ucho\" sont des mots neutres au singulier mais leur pluriel (oči, uši) suit une déclinaison irrégulière, comme en français \"œil / yeux\"."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Le buste et les membres"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "rameno / plece",
+          "épaule"
+        ],
+        [
+          "ruka",
+          "bras / main"
+        ],
+        [
+          "lakeť",
+          "coude"
+        ],
+        [
+          "prst",
+          "doigt"
+        ],
+        [
+          "noha",
+          "jambe / pied"
+        ],
+        [
+          "koleno",
+          "genou"
+        ],
+        [
+          "chrbát",
+          "dos"
+        ],
+        [
+          "brucho",
+          "ventre"
+        ],
+        [
+          "hruď",
+          "poitrine"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"ruka\" veut dire à la fois \"bras\" et \"main\", \"noha\" à la fois \"jambe\" et \"pied\" : le slovaque ne distingue pas ces parties comme le français."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Parler de son corps"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Bolí ma hlava.",
+      "speaker": null,
+      "natural": "J'ai mal à la tête.",
+      "literal": [
+        "bolí ma = ça me fait mal · hlava = tête"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Bolia ma nohy.",
+      "speaker": null,
+      "natural": "J'ai mal aux jambes.",
+      "literal": [
+        "bolia ma = ça me fait mal (pluriel) · nohy = jambes"
+      ],
+      "notes": []
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"bolí\" au singulier, \"bolia\" au pluriel : le verbe s'accorde avec la partie du corps qui fait mal, pas avec la personne."
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám dlhé vlasy.",
+      "speaker": null,
+      "natural": "J'ai les cheveux longs.",
+      "literal": [
+        "mám = j'ai · dlhé = longs · vlasy = cheveux"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Máš modré oči.",
+      "speaker": null,
+      "natural": "Tu as les yeux bleus.",
+      "literal": [
+        "máš = tu as · modré = bleus · oči = yeux"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Petit vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "telo",
+          "corps"
+        ],
+        [
+          "koža",
+          "peau"
+        ],
+        [
+          "srdce",
+          "cœur"
+        ],
+        [
+          "kosť",
+          "os"
+        ],
+        [
+          "sval",
+          "muscle"
+        ],
+        [
+          "pokožka",
+          "épiderme"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám rýchle srdce.",
+      "speaker": null,
+      "natural": "Mon cœur bat vite.",
+      "literal": [
+        "mám = j'ai · rýchle = rapide · srdce = cœur"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚠️ Pièges pour les francophones"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "\"ruka\" = bras ET main, \"noha\" = jambe ET pied : pas de mot séparé comme en français.",
+        "Le verbe \"bolieť\" (avoir mal) s'accorde avec la partie du corps : [[bolí]] (singulier) vs [[bolia]] (pluriel), et non avec la personne qui a mal.",
+        "Les pluriels de \"oko\" et \"ucho\" (oči, uši) sont irréguliers, à mémoriser à part."
+      ]
+    }
+  ]
+}

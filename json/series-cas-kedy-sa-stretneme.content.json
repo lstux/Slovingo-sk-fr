@@ -1,0 +1,329 @@
+{
+  "id": "series-cas-kedy-sa-stretneme",
+  "category": "series",
+  "subgroup": "cas",
+  "subgroup_label": "Cas",
+  "title": "Série Čas (5/5) — Kedy sa stretneme?",
+  "image": {
+    "src": "img/cas_05_station_interior.jpg",
+    "caption": "Intérieur de la gare principale de Košice — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Andrea, Eric et Marek essaient de trouver un créneau commun. Tout le vocabulaire de la série y passe. Aucun mot nouveau, sauf ceux signalés dans les remarques."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les personnages"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "👩 Andrea, qui organise",
+        "👦 Eric, le Français",
+        "👨 Marek, collègue d'Andrea"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Eric et Andrea se vouvoient. Andrea et Marek se tutoient."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le dialogue"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Eric, kedy máte čas?",
+      "speaker": "👩",
+      "natural": "Eric, quand avez-vous le temps ?",
+      "literal": [
+        "kedy = quand",
+        "máte = avez-vous",
+        "čas = le temps"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V pondelok poobede.",
+      "speaker": "👦",
+      "natural": "Lundi après-midi.",
+      "literal": [
+        "V pondelok = lundi",
+        "poobede = l'après-midi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Marek, si voľný v pondelok?",
+      "speaker": "👩",
+      "natural": "Marek, tu es libre lundi ?",
+      "literal": [
+        "si = tu es",
+        "voľný = libre",
+        "v pondelok = lundi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nie, v pondelok pracujem do siedmej.",
+      "speaker": "👨",
+      "natural": "Non, lundi je travaille jusqu'à sept heures.",
+      "literal": [
+        "Nie = non",
+        "v pondelok = lundi",
+        "pracujem = je travaille",
+        "do siedmej = jusqu'à sept heures"
+      ],
+      "notes": [
+        "« do » veut dire jusqu'à, et « pracovať » travailler."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "A v stredu?",
+      "speaker": "👩",
+      "natural": "Et mercredi ?",
+      "literal": [
+        "A = et",
+        "v stredu = mercredi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V stredu áno. Ale nie skoro.",
+      "speaker": "👨",
+      "natural": "Mercredi oui. Mais pas tôt.",
+      "literal": [
+        "V stredu = mercredi",
+        "áno = oui",
+        "Ale = mais",
+        "nie = pas",
+        "skoro = tôt"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "O koľkej?",
+      "speaker": "👦",
+      "natural": "À quelle heure ?",
+      "literal": [
+        "O koľkej = à quelle heure"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Asi o pol siedmej večer.",
+      "speaker": "👨",
+      "natural": "Vers six heures et demie du soir.",
+      "literal": [
+        "Asi = environ",
+        "o pol siedmej = à six heures et demie",
+        "večer = du soir"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dobre. Stretneme sa v stredu o pol siedmej.",
+      "speaker": "👩",
+      "natural": "Bien. On se retrouve mercredi à six heures et demie.",
+      "literal": [
+        "Dobre = bien",
+        "Stretneme sa = nous nous retrouvons",
+        "v stredu = mercredi",
+        "o pol siedmej = à six heures et demie"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Pol siedmej, to je šesť tridsať?",
+      "speaker": "👦",
+      "natural": "Six heures et demie, c'est six heures trente ?",
+      "literal": [
+        "Pol siedmej = six heures et demie",
+        "to je = c'est",
+        "šesť = six",
+        "tridsať = trente"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Áno, presne. Nie sedem tridsať!",
+      "speaker": "👩",
+      "natural": "Oui, exactement. Pas sept heures trente !",
+      "literal": [
+        "Áno = oui",
+        "presne = exactement",
+        "Nie = pas",
+        "sedem = sept",
+        "tridsať = trente"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dobre. Kde čakáte?",
+      "speaker": "👦",
+      "natural": "Bien. Où attendez-vous ?",
+      "literal": [
+        "Kde = où",
+        "čakáte = attendez-vous"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Na stanici. Prídem načas.",
+      "speaker": "👩",
+      "natural": "À la gare. J'arrive à l'heure.",
+      "literal": [
+        "Na stanici = à la gare",
+        "Prídem = j'arrive",
+        "načas = à l'heure"
+      ],
+      "notes": [
+        "« stanica » est la gare."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ja asi budem meškať. Autobus vždy mešká.",
+      "speaker": "👨",
+      "natural": "Moi je serai sans doute en retard. Le bus est toujours en retard.",
+      "literal": [
+        "Ja = moi",
+        "asi = sans doute",
+        "budem meškať = je serai en retard",
+        "Autobus = le bus",
+        "vždy = toujours",
+        "mešká = est en retard"
+      ],
+      "notes": [
+        "« budem » est le futur de byť : budem, budeš, bude. Retiens la formule entière pour l'instant."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Tak príď skoro!",
+      "speaker": "👩",
+      "natural": "Alors viens tôt !",
+      "literal": [
+        "Tak = alors",
+        "príď = viens",
+        "skoro = tôt"
+      ],
+      "notes": [
+        "« príď » est l'impératif de prísť."
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Confirmer la veille est la norme.** Un rendez-vous fixé une semaine à l'avance se reconfirme par message la veille ou le matin même. Ce n'est pas de la méfiance, c'est l'usage."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Pol siedmej reste le piège numéro un.** Six heures trente, pas sept heures trente. Dans le doute, demander [[To je šesť tridsať?]] n'a rien d'embarrassant : beaucoup d'étrangers posent la question, et personne ne s'en formalise."
+    },
+    {
+      "type": "paragraph",
+      "text": "**La gare comme point de repère.** [[Hlavná stanica]], la gare principale de Košice, sert de point de ralliement autant que de gare. C'est aussi le nœud d'où partent les bus et les tramways vers le reste de la ville."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kedy máš stretnutie?",
+      "speaker": null,
+      "natural": "Quand as-tu ton rendez-vous ?",
+      "literal": [
+        "Kedy = quand",
+        "máš = as-tu",
+        "stretnutie = rendez-vous"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Vo štvrtok ráno idem skoro.",
+      "speaker": null,
+      "natural": "Jeudi matin j'y vais tôt.",
+      "literal": [
+        "Vo štvrtok = jeudi",
+        "ráno = matin",
+        "idem = j'y vais",
+        "skoro = tôt"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čakám už dvadsať minút.",
+      "speaker": null,
+      "natural": "J'attends déjà depuis vingt minutes.",
+      "literal": [
+        "Čakám = j'attends",
+        "už = déjà",
+        "dvadsať = vingt",
+        "minút = minutes"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V nedeľu nikdy nevstávam skoro.",
+      "speaker": null,
+      "natural": "Le dimanche je ne me lève jamais tôt.",
+      "literal": [
+        "V nedeľu = le dimanche",
+        "nikdy = jamais",
+        "nevstávam = je ne me lève pas",
+        "skoro = tôt"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Prídem o trištvrte na osem.",
+      "speaker": null,
+      "natural": "J'arrive à huit heures moins le quart.",
+      "literal": [
+        "Prídem = j'arrive",
+        "o trištvrte na osem = à huit heures moins le quart"
+      ],
+      "notes": []
+    }
+  ]
+}

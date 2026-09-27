@@ -1,0 +1,485 @@
+{
+  "id": "series-cas-extra",
+  "category": "series",
+  "subgroup": "cas",
+  "subgroup_label": "Cas",
+  "title": "Série Čas (extra) — Všetko dokopy",
+  "image": {
+    "src": "img/cas_06_station_night.jpg",
+    "caption": "La gare de Košice le soir — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Aucun mot nouveau. Tout le vocabulaire de la série est rassemblé, puis recombiné dans des phrases inédites."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tout le vocabulaire de la série"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "hodina",
+          "l'heure"
+        ],
+        [
+          "minúta",
+          "la minute"
+        ],
+        [
+          "čas",
+          "le temps"
+        ],
+        [
+          "ráno",
+          "le matin"
+        ],
+        [
+          "poobede",
+          "l'après-midi"
+        ],
+        [
+          "večer",
+          "le soir"
+        ],
+        [
+          "noc",
+          "la nuit"
+        ],
+        [
+          "pol",
+          "la demie"
+        ],
+        [
+          "štvrť",
+          "le quart"
+        ],
+        [
+          "trištvrte",
+          "les trois quarts"
+        ],
+        [
+          "pondelok",
+          "lundi"
+        ],
+        [
+          "utorok",
+          "mardi"
+        ],
+        [
+          "streda",
+          "mercredi"
+        ],
+        [
+          "štvrtok",
+          "jeudi"
+        ],
+        [
+          "piatok",
+          "vendredi"
+        ],
+        [
+          "sobota",
+          "samedi"
+        ],
+        [
+          "nedeľa",
+          "dimanche"
+        ],
+        [
+          "týždeň",
+          "la semaine"
+        ],
+        [
+          "víkend",
+          "le week-end"
+        ],
+        [
+          "mesiac",
+          "le mois"
+        ],
+        [
+          "rok",
+          "l'année"
+        ],
+        [
+          "sviatok",
+          "le jour férié"
+        ],
+        [
+          "dátum",
+          "la date"
+        ],
+        [
+          "kalendár",
+          "le calendrier"
+        ],
+        [
+          "dnes",
+          "aujourd'hui"
+        ],
+        [
+          "zajtra",
+          "demain"
+        ],
+        [
+          "včera",
+          "hier"
+        ],
+        [
+          "teraz",
+          "maintenant"
+        ],
+        [
+          "už",
+          "déjà"
+        ],
+        [
+          "ešte",
+          "encore"
+        ],
+        [
+          "vždy",
+          "toujours"
+        ],
+        [
+          "nikdy",
+          "jamais"
+        ],
+        [
+          "často",
+          "souvent"
+        ],
+        [
+          "skoro",
+          "tôt, bientôt"
+        ],
+        [
+          "neskoro",
+          "tard"
+        ],
+        [
+          "dlho",
+          "longtemps"
+        ],
+        [
+          "chvíľa",
+          "un moment"
+        ],
+        [
+          "hneď",
+          "tout de suite"
+        ],
+        [
+          "presne",
+          "précisément"
+        ],
+        [
+          "asi",
+          "environ"
+        ],
+        [
+          "načas",
+          "à l'heure"
+        ],
+        [
+          "voľný",
+          "libre"
+        ],
+        [
+          "kedy",
+          "quand"
+        ],
+        [
+          "ísť",
+          "aller"
+        ],
+        [
+          "prísť",
+          "arriver, venir"
+        ],
+        [
+          "čakať",
+          "attendre"
+        ],
+        [
+          "stretnúť sa",
+          "se retrouver"
+        ],
+        [
+          "meškať",
+          "être en retard"
+        ],
+        [
+          "začínať",
+          "commencer"
+        ],
+        [
+          "stretnutie",
+          "le rendez-vous"
+        ],
+        [
+          "hodinky",
+          "la montre"
+        ],
+        [
+          "budík",
+          "le réveil"
+        ],
+        [
+          "autobus",
+          "le bus"
+        ],
+        [
+          "vlak",
+          "le train"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Zajtra je piatok. Mám voľno.",
+      "speaker": null,
+      "natural": "Demain c'est vendredi. Je suis libre.",
+      "literal": [
+        "Zajtra = demain",
+        "je = c'est",
+        "piatok = vendredi",
+        "Mám voľno = je suis libre"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Budík zvoní o pol šiestej ráno.",
+      "speaker": null,
+      "natural": "Le réveil sonne à cinq heures et demie du matin.",
+      "literal": [
+        "Budík = le réveil",
+        "zvoní = sonne",
+        "o pol šiestej = à cinq heures et demie",
+        "ráno = du matin"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Vlak prichádza o štvrť na jednu.",
+      "speaker": null,
+      "natural": "Le train arrive à midi et quart.",
+      "literal": [
+        "Vlak = le train",
+        "prichádza = arrive",
+        "o štvrť na jednu = à midi et quart"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čakám tu už dlho.",
+      "speaker": null,
+      "natural": "J'attends ici depuis longtemps.",
+      "literal": [
+        "Čakám = j'attends",
+        "tu = ici",
+        "už = déjà",
+        "dlho = longtemps"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V utorok často meškám.",
+      "speaker": null,
+      "natural": "Le mardi je suis souvent en retard.",
+      "literal": [
+        "V utorok = le mardi",
+        "často = souvent",
+        "meškám = je suis en retard"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kedy začínaš? O ôsmej?",
+      "speaker": null,
+      "natural": "Quand commences-tu ? À huit heures ?",
+      "literal": [
+        "Kedy = quand",
+        "začínaš = commences-tu",
+        "O ôsmej = à huit heures"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Cez víkend nikdy nevstávam skoro.",
+      "speaker": null,
+      "natural": "Le week-end je ne me lève jamais tôt.",
+      "literal": [
+        "Cez víkend = le week-end",
+        "nikdy = jamais",
+        "nevstávam = je ne me lève pas",
+        "skoro = tôt"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Idem hneď. Počkaj chvíľu.",
+      "speaker": null,
+      "natural": "J'y vais tout de suite. Attends un moment.",
+      "literal": [
+        "Idem = j'y vais",
+        "hneď = tout de suite",
+        "Počkaj = attends",
+        "chvíľu = un moment"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám stretnutie vo štvrtok poobede.",
+      "speaker": null,
+      "natural": "J'ai un rendez-vous jeudi après-midi.",
+      "literal": [
+        "Mám = j'ai",
+        "stretnutie = un rendez-vous",
+        "vo štvrtok = jeudi",
+        "poobede = l'après-midi"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moje hodinky meškajú päť minút.",
+      "speaker": null,
+      "natural": "Ma montre retarde de cinq minutes.",
+      "literal": [
+        "Moje = ma",
+        "hodinky = montre",
+        "meškajú = retardent",
+        "päť = cinq",
+        "minút = minutes"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Včera bolo neskoro. Dnes prídem načas.",
+      "speaker": null,
+      "natural": "Hier c'était tard. Aujourd'hui j'arrive à l'heure.",
+      "literal": [
+        "Včera = hier",
+        "bolo = c'était",
+        "neskoro = tard",
+        "Dnes = aujourd'hui",
+        "prídem = j'arrive",
+        "načas = à l'heure"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Stretneme sa v sobotu o trištvrte na päť.",
+      "speaker": null,
+      "natural": "On se retrouve samedi à cinq heures moins le quart.",
+      "literal": [
+        "Stretneme sa = nous nous retrouvons",
+        "v sobotu = samedi",
+        "o trištvrte na päť = à cinq heures moins le quart"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Autobus ide o šiestej, vlak o siedmej.",
+      "speaker": null,
+      "natural": "Le bus part à six heures, le train à sept heures.",
+      "literal": [
+        "Autobus = le bus",
+        "ide = part",
+        "o šiestej = à six heures",
+        "vlak = le train",
+        "o siedmej = à sept heures"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Rok má dvanásť mesiacov a päťdesiatdva týždňov.",
+      "speaker": null,
+      "natural": "L'année a douze mois et cinquante-deux semaines.",
+      "literal": [
+        "Rok = l'année",
+        "má = a",
+        "dvanásť = douze",
+        "mesiacov = mois",
+        "a = et",
+        "päťdesiatdva = cinquante-deux",
+        "týždňov = semaines"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V nedeľu je sviatok. Nepracujem.",
+      "speaker": null,
+      "natural": "Dimanche c'est un jour férié. Je ne travaille pas.",
+      "literal": [
+        "V nedeľu = dimanche",
+        "je = c'est",
+        "sviatok = un jour férié",
+        "Nepracujem = je ne travaille pas"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Aký je dnes dátum? Pozri kalendár.",
+      "speaker": null,
+      "natural": "Quelle est la date aujourd'hui ? Regarde le calendrier.",
+      "literal": [
+        "Aký = quelle",
+        "je = est",
+        "dnes = aujourd'hui",
+        "dátum = la date",
+        "Pozri = regarde",
+        "kalendár = le calendrier"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je presne desať hodín.",
+      "speaker": null,
+      "natural": "Il est exactement dix heures.",
+      "literal": [
+        "Je = il est",
+        "presne = exactement",
+        "desať = dix",
+        "hodín = heures"
+      ],
+      "notes": []
+    }
+  ]
+}

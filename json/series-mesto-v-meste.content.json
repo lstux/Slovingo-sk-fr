@@ -1,0 +1,383 @@
+{
+  "id": "series-mesto-v-meste",
+  "category": "series",
+  "subgroup": "mesto",
+  "subgroup_label": "Mesto",
+  "title": "Série Mesto (1/5) — V meste",
+  "image": {
+    "src": "img/mesto_01_st_elisabeth_cathedral.jpg",
+    "caption": "La cathédrale Sainte-Élisabeth, au centre de la rue Hlavná à Košice — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Les lieux qu'on croise en ville. La préposition **na** revient beaucoup ici, pour les endroits ouverts et les institutions."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "mesto",
+          "la ville"
+        ],
+        [
+          "námestie",
+          "la place"
+        ],
+        [
+          "ulica",
+          "la rue"
+        ],
+        [
+          "most",
+          "le pont"
+        ],
+        [
+          "park",
+          "le parc"
+        ],
+        [
+          "kostol",
+          "l'église"
+        ],
+        [
+          "divadlo",
+          "le théâtre"
+        ],
+        [
+          "múzeum",
+          "le musée"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Na pour les lieux ouverts et institutions"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "na námestí",
+          "sur la place"
+        ],
+        [
+          "na ulici",
+          "dans la rue"
+        ],
+        [
+          "na moste",
+          "sur le pont"
+        ],
+        [
+          "na pošte",
+          "à la poste"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "V pour les lieux fermés"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "v parku",
+          "dans le parc"
+        ],
+        [
+          "v kostole",
+          "dans l'église"
+        ],
+        [
+          "v divadle",
+          "au théâtre"
+        ],
+        [
+          "v múzeu",
+          "au musée"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinction n'est pas parfaitement logique — *park* prend *v* bien qu'il soit en plein air — mais elle se retient vite avec l'usage."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Som na námestí.",
+      "speaker": null,
+      "natural": "Je suis sur la place.",
+      "literal": [
+        "Som = je suis",
+        "na námestí = sur la place"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ulica je dlhá.",
+      "speaker": null,
+      "natural": "La rue est longue.",
+      "literal": [
+        "Ulica = la rue",
+        "je = est",
+        "dlhá = longue"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Most je starý a pekný.",
+      "speaker": null,
+      "natural": "Le pont est vieux et beau.",
+      "literal": [
+        "Most = le pont",
+        "je = est",
+        "starý = vieux",
+        "a = et",
+        "pekný = beau"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Deti sú v parku.",
+      "speaker": null,
+      "natural": "Les enfants sont dans le parc.",
+      "literal": [
+        "Deti = les enfants",
+        "sú = sont",
+        "v parku = dans le parc"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kostol je na námestí.",
+      "speaker": null,
+      "natural": "L'église est sur la place.",
+      "literal": [
+        "Kostol = l'église",
+        "je = est",
+        "na námestí = sur la place"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ideme do divadla.",
+      "speaker": null,
+      "natural": "Nous allons au théâtre.",
+      "literal": [
+        "Ideme = nous allons",
+        "do divadla = au théâtre"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Múzeum je zatvorené.",
+      "speaker": null,
+      "natural": "Le musée est fermé.",
+      "literal": [
+        "Múzeum = le musée",
+        "je = est",
+        "zatvorené = fermé"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kde je pošta?",
+      "speaker": null,
+      "natural": "Où est la poste ?",
+      "literal": [
+        "Kde = où",
+        "je = est",
+        "pošta = la poste"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**La fontaine chante, littéralement.** Sur la rue Hlavná, la [[Spievajúca fontána]] (fontaine chantante) diffuse de la musique et s'illumine le soir : un rendez-vous classique en sortant du théâtre ou d'un café voisin."
+    },
+    {
+      "type": "paragraph",
+      "text": "**La place principale change de nom l'hiver.** [[Hlavná ulica]] accueille les marchés de Noël dès fin novembre, et devient le cœur battant de la ville jusqu'au 6 janvier, avec vin chaud et échoppes en bois."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Múzeum et divadlo se déclinent au pluriel de spécialité.** Une même ville compte souvent plusieurs musées et théâtres thématiques : un [[múzeum]] d'histoire, un autre de design, un théâtre national et un théâtre de marionnettes, très prisé des familles."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "pošta",
+          "la poste"
+        ],
+        [
+          "banka",
+          "la banque"
+        ],
+        [
+          "knižnica",
+          "la bibliothèque"
+        ],
+        [
+          "nemocnica",
+          "l'hôpital"
+        ],
+        [
+          "radnica",
+          "la mairie"
+        ],
+        [
+          "fontána",
+          "la fontaine"
+        ],
+        [
+          "socha",
+          "la statue"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Banka je vedľa pošty.",
+      "speaker": null,
+      "natural": "La banque est à côté de la poste.",
+      "literal": [
+        "Banka = la banque",
+        "je = est",
+        "vedľa = à côté de",
+        "pošty = la poste"
+      ],
+      "notes": [
+        "« vedľa » veut dire à côté de."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Knižnica je v centre mesta.",
+      "speaker": null,
+      "natural": "La bibliothèque est dans le centre-ville.",
+      "literal": [
+        "Knižnica = la bibliothèque",
+        "je = est",
+        "v centre mesta = dans le centre-ville"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Radnica je stará.",
+      "speaker": null,
+      "natural": "La mairie est ancienne.",
+      "literal": [
+        "Radnica = la mairie",
+        "je = est",
+        "stará = ancienne"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Fontána je na námestí.",
+      "speaker": null,
+      "natural": "La fontaine est sur la place.",
+      "literal": [
+        "Fontána = la fontaine",
+        "je = est",
+        "na námestí = sur la place"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Socha je pri kostole.",
+      "speaker": null,
+      "natural": "La statue est près de l'église.",
+      "literal": [
+        "Socha = la statue",
+        "je = est",
+        "pri = près de",
+        "kostole = l'église"
+      ],
+      "notes": []
+    }
+  ]
+}

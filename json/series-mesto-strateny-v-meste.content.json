@@ -1,0 +1,308 @@
+{
+  "id": "series-mesto-strateny-v-meste",
+  "category": "series",
+  "subgroup": "mesto",
+  "subgroup_label": "Mesto",
+  "title": "Série Mesto (5/5) — Stratený v meste",
+  "image": {
+    "src": "img/mesto_05_hlavna_street.jpg",
+    "caption": "La rue Hlavná à Košice, près du théâtre — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Eric a raté son arrêt et cherche son chemin. Il croise Marek par hasard. Tout le vocabulaire de la série y passe. Aucun mot nouveau, sauf ceux signalés dans les remarques."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les personnages"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "👦 Eric, perdu dans la ville",
+        "👨 Marek, croisé par hasard"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Eric et Marek se tutoient déjà, comme dans la série Čas."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le dialogue"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Marek! Som stratený.",
+      "speaker": "👦",
+      "natural": "Marek ! Je suis perdu.",
+      "literal": [
+        "Marek = Marek",
+        "Som = je suis",
+        "stratený = perdu"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čo hľadáš?",
+      "speaker": "👨",
+      "natural": "Que cherches-tu ?",
+      "literal": [
+        "Čo = quoi",
+        "hľadáš = cherches-tu"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Hľadám múzeum. Vystúpil som na zlej zastávke.",
+      "speaker": "👦",
+      "natural": "Je cherche le musée. Je suis descendu au mauvais arrêt.",
+      "literal": [
+        "Hľadám = je cherche",
+        "múzeum = le musée",
+        "Vystúpil som = je suis descendu",
+        "na zlej zastávke = au mauvais arrêt"
+      ],
+      "notes": [
+        "« vystúpiť » veut dire descendre (d'un véhicule). Retiens la forme du passé telle quelle."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Aha. Choď rovno a potom vľavo.",
+      "speaker": "👨",
+      "natural": "Ah. Va tout droit puis à gauche.",
+      "literal": [
+        "Aha = ah",
+        "Choď rovno = va tout droit",
+        "a potom = et ensuite",
+        "vľavo = à gauche"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Rovno a vľavo. A potom?",
+      "speaker": "👦",
+      "natural": "Tout droit et à gauche. Et ensuite ?",
+      "literal": [
+        "Rovno = tout droit",
+        "a vľavo = et à gauche",
+        "A potom = et ensuite"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Uvidíš kostol. Múzeum je za rohom, vedľa kostola.",
+      "speaker": "👨",
+      "natural": "Tu verras une église. Le musée est après le coin, à côté de l'église.",
+      "literal": [
+        "Uvidíš = tu verras",
+        "kostol = une église",
+        "Múzeum = le musée",
+        "je = est",
+        "za rohom = après le coin",
+        "vedľa kostola = à côté de l'église"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je to ďaleko pešo?",
+      "speaker": "👦",
+      "natural": "C'est loin à pied ?",
+      "literal": [
+        "Je to = c'est",
+        "ďaleko = loin",
+        "pešo = à pied"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nie, len desať minút. Alebo choď električkou.",
+      "speaker": "👨",
+      "natural": "Non, seulement dix minutes. Ou prends le tram.",
+      "literal": [
+        "Nie = non",
+        "len = seulement",
+        "desať minút = dix minutes",
+        "Alebo = ou",
+        "choď = prends, va",
+        "električkou = en tram"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Pôjdem pešo. Chcem vidieť mesto.",
+      "speaker": "👦",
+      "natural": "J'irai à pied. Je veux voir la ville.",
+      "literal": [
+        "Pôjdem = j'irai",
+        "pešo = à pied",
+        "Chcem = je veux",
+        "vidieť = voir",
+        "mesto = la ville"
+      ],
+      "notes": [
+        "« pôjdem » est le futur de ísť : pôjdem, pôjdeš, pôjde."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dobrý nápad! Na námestí je pekná kaviareň.",
+      "speaker": "👨",
+      "natural": "Bonne idée ! Sur la place il y a un joli café.",
+      "literal": [
+        "Dobrý nápad = bonne idée",
+        "Na námestí = sur la place",
+        "je = il y a",
+        "pekná kaviareň = un joli café"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Stretneme sa tam neskôr?",
+      "speaker": "👦",
+      "natural": "On se retrouve là-bas plus tard ?",
+      "literal": [
+        "Stretneme sa = nous nous retrouvons",
+        "tam = là-bas",
+        "neskôr = plus tard"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Áno! O piatej, pred kostolom.",
+      "speaker": "👨",
+      "natural": "Oui ! À cinq heures, devant l'église.",
+      "literal": [
+        "Áno = oui",
+        "O piatej = à cinq heures",
+        "pred kostolom = devant l'église"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dobre. Ďakujem za pomoc!",
+      "speaker": "👦",
+      "natural": "D'accord. Merci pour l'aide !",
+      "literal": [
+        "Dobre = d'accord",
+        "Ďakujem za pomoc = merci pour l'aide"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nemáš za čo. Dovidenia!",
+      "speaker": "👨",
+      "natural": "De rien. À bientôt !",
+      "literal": [
+        "Nemáš za čo = de rien",
+        "Dovidenia = à bientôt, au revoir"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Se perdre à Košice est presque difficile.** Le centre historique tient presque tout entier sur une seule et même rue, [[Hlavná]], longue d'environ un kilomètre avec la cathédrale en son centre : il suffit de la suivre dans un sens ou dans l'autre pour retrouver son chemin."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Vystúpiť et nastúpiť, les verbes du bus.** [[Nastúpiť]] veut dire monter, [[vystúpiť]] descendre. Les annonces sonores dans les transports utilisent ces deux verbes en boucle, une bonne façon de les mémoriser sans effort."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Nemáš za čo, la réponse au merci.** Plus décontracté que *prosím* dans ce contexte précis, il s'utilise surtout entre amis et connaissances pour répondre à un remerciement."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Choď rovno, potom vpravo pri banke.",
+      "speaker": null,
+      "natural": "Va tout droit, puis à droite près de la banque.",
+      "literal": [
+        "Choď rovno = va tout droit",
+        "potom = puis",
+        "vpravo = à droite",
+        "pri banke = près de la banque"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chodím do práce pešo, ale dnes idem autobusom.",
+      "speaker": null,
+      "natural": "Je vais au travail à pied, mais aujourd'hui j'y vais en bus.",
+      "literal": [
+        "Chodím = je vais (d'habitude)",
+        "do práce = au travail",
+        "pešo = à pied",
+        "ale = mais",
+        "dnes = aujourd'hui",
+        "idem = j'y vais",
+        "autobusom = en bus"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Vidíš tú fontánu na námestí?",
+      "speaker": null,
+      "natural": "Tu vois cette fontaine sur la place ?",
+      "literal": [
+        "Vidíš = tu vois",
+        "tú fontánu = cette fontaine",
+        "na námestí = sur la place"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kaviareň je zaujímavá a blízko zastávky.",
+      "speaker": null,
+      "natural": "Le café est intéressant et proche de l'arrêt.",
+      "literal": [
+        "Kaviareň = le café",
+        "je = est",
+        "zaujímavá = intéressante",
+        "a = et",
+        "blízko zastávky = proche de l'arrêt"
+      ],
+      "notes": []
+    }
+  ]
+}

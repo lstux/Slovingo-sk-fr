@@ -1,0 +1,2963 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-astn",
+      "type": "qcm",
+      "l1": "heureux",
+      "l2": "šťastný",
+      "choices_l1": [
+        "fermé",
+        "short",
+        "J'ai soif."
+      ],
+      "choices_l2": [
+        "pripravili",
+        "však",
+        "24.-26. december"
+      ]
+    },
+    {
+      "id": "qcm-smutn",
+      "type": "qcm",
+      "l1": "triste",
+      "l2": "smutný",
+      "choices_l1": [
+        "l'étagère",
+        "le tram",
+        "taille"
+      ],
+      "choices_l2": [
+        "máš",
+        "osud",
+        "kamzík"
+      ]
+    },
+    {
+      "id": "qcm-nahnevan",
+      "type": "qcm",
+      "l1": "en colère",
+      "l2": "nahnevaný",
+      "choices_l1": [
+        "être assis",
+        "carotte",
+        "la boucherie"
+      ],
+      "choices_l2": [
+        "prst",
+        "5. júl",
+        "turistické topánky"
+      ]
+    },
+    {
+      "id": "qcm-pokojn",
+      "type": "qcm",
+      "l1": "calme",
+      "l2": "pokojný",
+      "choices_l1": [
+        "manger",
+        "la peur",
+        "bouleau"
+      ],
+      "choices_l2": [
+        "socha",
+        "už",
+        "sviečka"
+      ]
+    },
+    {
+      "id": "qcm-unaven",
+      "type": "qcm",
+      "l1": "fatigué",
+      "l2": "unavený",
+      "choices_l1": [
+        "rendre visite",
+        "le parfum",
+        "l'an, l'année"
+      ],
+      "choices_l2": [
+        "oni chcú",
+        "dovolenka",
+        "otvárať"
+      ]
+    },
+    {
+      "id": "qcm-vesel",
+      "type": "qcm",
+      "l1": "joyeux",
+      "l2": "veselý",
+      "choices_l1": [
+        "citron",
+        "boire",
+        "le cinéma"
+      ],
+      "choices_l2": [
+        "často",
+        "pondelok",
+        "brucho"
+      ]
+    },
+    {
+      "id": "qcm-dobr",
+      "type": "qcm",
+      "l1": "gentil, bon",
+      "l2": "dobrý",
+      "choices_l1": [
+        "la frontière",
+        "ensuite",
+        "neige"
+      ],
+      "choices_l2": [
+        "raňajky",
+        "otec",
+        "turistika"
+      ]
+    },
+    {
+      "id": "qcm-zl",
+      "type": "qcm",
+      "l1": "méchant",
+      "l2": "zlý",
+      "choices_l1": [
+        "le rendez-vous",
+        "salon",
+        "randonnée"
+      ],
+      "choices_l2": [
+        "slza",
+        "predpoveď",
+        "učiteľka"
+      ]
+    },
+    {
+      "id": "qcm-m-dry",
+      "type": "qcm",
+      "l1": "intelligent",
+      "l2": "múdry",
+      "choices_l1": [
+        "vacances (scolaires)",
+        "J'ai faim.",
+        "graine"
+      ],
+      "choices_l2": [
+        "upiecť",
+        "je",
+        "zadarmo"
+      ]
+    },
+    {
+      "id": "qcm-hl-py",
+      "type": "qcm",
+      "l1": "stupide",
+      "l2": "hlúpy",
+      "choices_l1": [
+        "le festival",
+        "l'étranger",
+        "la pomme"
+      ],
+      "choices_l2": [
+        "hosť",
+        "veľkosť",
+        "zdobili ste"
+      ]
+    },
+    {
+      "id": "qcm-odv-ny",
+      "type": "qcm",
+      "l1": "courageux",
+      "l2": "odvážny",
+      "choices_l1": [
+        "chaise",
+        "cahier",
+        "lundi"
+      ],
+      "choices_l2": [
+        "banka",
+        "pracovať",
+        "o siedmej"
+      ]
+    },
+    {
+      "id": "qcm-plach",
+      "type": "qcm",
+      "l1": "timide",
+      "l2": "plachý",
+      "choices_l1": [
+        "5 000",
+        "ingénieur",
+        "vingtième"
+      ],
+      "choices_l2": [
+        "rastlina",
+        "vozík",
+        "roh"
+      ]
+    },
+    {
+      "id": "qcm-siln",
+      "type": "qcm",
+      "l1": "fort",
+      "l2": "silný",
+      "choices_l1": [
+        "printemps",
+        "en ville",
+        "toujours"
+      ],
+      "choices_l2": [
+        "leto",
+        "strach",
+        "zelený"
+      ]
+    },
+    {
+      "id": "qcm-slab",
+      "type": "qcm",
+      "l1": "faible",
+      "l2": "slabý",
+      "choices_l1": [
+        "les chaussettes",
+        "magasin",
+        "vous faites"
+      ],
+      "choices_l2": [
+        "ne- (préfixe)",
+        "Mám hlad.",
+        "štandard"
+      ]
+    },
+    {
+      "id": "qcm-mil",
+      "type": "qcm",
+      "l1": "sympathique",
+      "l2": "milý",
+      "choices_l1": [
+        "grand-père",
+        "le silence",
+        "la maman"
+      ],
+      "choices_l2": [
+        "koreň",
+        "Sneží.",
+        "vlk"
+      ]
+    },
+    {
+      "id": "qcm-trpezliv",
+      "type": "qcm",
+      "l1": "patient",
+      "l2": "trpezlivý",
+      "choices_l1": [
+        "montre",
+        "brûlant",
+        "entendre"
+      ],
+      "choices_l2": [
+        "jedna osmina",
+        "ryba",
+        "cestovať"
+      ]
+    },
+    {
+      "id": "qcm-netrpezliv",
+      "type": "qcm",
+      "l1": "impatient",
+      "l2": "netrpezlivý",
+      "choices_l1": [
+        "champignon",
+        "coq",
+        "joyeux"
+      ],
+      "choices_l2": [
+        "my chodíme",
+        "Československo",
+        "stretnúť"
+      ]
+    },
+    {
+      "id": "qcm-primn",
+      "type": "qcm",
+      "l1": "honnête",
+      "l2": "úprimný",
+      "choices_l1": [
+        "ce mois",
+        "papillon",
+        "aéroport"
+      ],
+      "choices_l2": [
+        "zvoniť",
+        "čítanie",
+        "Som Francúz."
+      ]
+    },
+    {
+      "id": "qcm-priate-sk",
+      "type": "qcm",
+      "l1": "amical",
+      "l2": "priateľský",
+      "choices_l1": [
+        "écharpe",
+        "le destin",
+        "le pont"
+      ],
+      "choices_l2": [
+        "mráz",
+        "jeseň",
+        "kľúč"
+      ]
+    },
+    {
+      "id": "qcm-nerv-zny",
+      "type": "qcm",
+      "l1": "nerveux",
+      "l2": "nervózny",
+      "choices_l1": [
+        "la montre",
+        "chien",
+        "la révolution"
+      ],
+      "choices_l2": [
+        "odpovedať",
+        "pol hodiny",
+        "maliar"
+      ]
+    },
+    {
+      "id": "qcm-rodina",
+      "type": "qcm",
+      "l1": "famille",
+      "l2": "rodina",
+      "choices_l1": [
+        "hérisson",
+        "moins",
+        "électricien"
+      ],
+      "choices_l2": [
+        "vnučka",
+        "budúci rok",
+        "štvrť"
+      ]
+    },
+    {
+      "id": "qcm-otec",
+      "type": "qcm",
+      "l1": "père",
+      "l2": "otec",
+      "choices_l1": [
+        "trentième",
+        "restaurant",
+        "le programme"
+      ],
+      "choices_l2": [
+        "ty ješ",
+        "fanúšik",
+        "ty piješ"
+      ]
+    },
+    {
+      "id": "qcm-mama",
+      "type": "qcm",
+      "l1": "mère",
+      "l2": "mama",
+      "choices_l1": [
+        "bénir",
+        "fruits",
+        "la température"
+      ],
+      "choices_l2": [
+        "klobúk",
+        "list",
+        "ísť"
+      ]
+    },
+    {
+      "id": "qcm-brat",
+      "type": "qcm",
+      "l1": "frère",
+      "l2": "brat",
+      "choices_l1": [
+        "la kofola",
+        "septembre",
+        "la promotion"
+      ],
+      "choices_l2": [
+        "cent",
+        "dom",
+        "ovocie"
+      ]
+    },
+    {
+      "id": "qcm-sestra",
+      "type": "qcm",
+      "l1": "sœur",
+      "l2": "sestra",
+      "choices_l1": [
+        "livre",
+        "oignon",
+        "économiser"
+      ],
+      "choices_l2": [
+        "meno",
+        "jazero",
+        "chutiť"
+      ]
+    },
+    {
+      "id": "qcm-syn",
+      "type": "qcm",
+      "l1": "fils",
+      "l2": "syn",
+      "choices_l1": [
+        "rose",
+        "poire",
+        "amour"
+      ],
+      "choices_l2": [
+        "tenis",
+        "Musím ísť.",
+        "sťahovanie"
+      ]
+    },
+    {
+      "id": "qcm-dc-ra",
+      "type": "qcm",
+      "l1": "fille",
+      "l2": "dcéra",
+      "choices_l1": [
+        "probablement",
+        "paiement",
+        "le sac"
+      ],
+      "choices_l2": [
+        "bunda",
+        "naspäť",
+        "odísť"
+      ]
+    },
+    {
+      "id": "qcm-die-a",
+      "type": "qcm",
+      "l1": "enfant",
+      "l2": "dieťa",
+      "choices_l1": [
+        "le nuage",
+        "tête",
+        "hiver"
+      ],
+      "choices_l2": [
+        "jedlo",
+        "prechádzať sa",
+        "srdce"
+      ]
+    },
+    {
+      "id": "qcm-priate",
+      "type": "qcm",
+      "l1": "ami",
+      "l2": "priateľ",
+      "choices_l1": [
+        "jeu",
+        "la réservation",
+        "mauvais"
+      ],
+      "choices_l2": [
+        "5. júl",
+        "koncert",
+        "január"
+      ]
+    },
+    {
+      "id": "qcm-priate-ka",
+      "type": "qcm",
+      "l1": "amie / petite amie",
+      "l2": "priateľka",
+      "choices_l1": [
+        "Jour de l'An",
+        "clair / évidemment",
+        "Je voudrais un thé. (femme)"
+      ],
+      "choices_l2": [
+        "cestoviny",
+        "sivý",
+        "3,14"
+      ]
+    },
+    {
+      "id": "qcm-man-el",
+      "type": "qcm",
+      "l1": "mari",
+      "l2": "manžel",
+      "choices_l1": [
+        "victoire",
+        "un peu",
+        "banlieue"
+      ],
+      "choices_l2": [
+        "oni boli",
+        "včera",
+        "predavač"
+      ]
+    },
+    {
+      "id": "qcm-man-elka",
+      "type": "qcm",
+      "l1": "épouse",
+      "l2": "manželka",
+      "choices_l1": [
+        "thé",
+        "rivière",
+        "tu vas"
+      ],
+      "choices_l2": [
+        "červené auto",
+        "líška",
+        "deka"
+      ]
+    },
+    {
+      "id": "qcm-sused",
+      "type": "qcm",
+      "l1": "voisin",
+      "l2": "sused",
+      "choices_l1": [
+        "10",
+        "se reposer",
+        "le soleil"
+      ],
+      "choices_l2": [
+        "tráva",
+        "šoférovať",
+        "vy môžete"
+      ]
+    },
+    {
+      "id": "qcm-kolega",
+      "type": "qcm",
+      "l1": "collègue",
+      "l2": "kolega",
+      "choices_l1": [
+        "la professeure",
+        "nulle part",
+        "les enfants"
+      ],
+      "choices_l2": [
+        "štandard",
+        "strýko",
+        "minca"
+      ]
+    },
+    {
+      "id": "qcm-zn-my",
+      "type": "qcm",
+      "l1": "connaissance",
+      "l2": "známy",
+      "choices_l1": [
+        "ceinture",
+        "éducation physique",
+        "le repos"
+      ],
+      "choices_l2": [
+        "reštaurácia",
+        "trh",
+        "ľad"
+      ]
+    },
+    {
+      "id": "qcm-l-ska",
+      "type": "qcm",
+      "l1": "amour",
+      "l2": "láska",
+      "choices_l1": [
+        "le soleil",
+        "épaule",
+        "amical"
+      ],
+      "choices_l2": [
+        "rukavice",
+        "pošta",
+        "šesťdesiat"
+      ]
+    },
+    {
+      "id": "qcm-pomoc",
+      "type": "qcm",
+      "l1": "aide",
+      "l2": "pomoc",
+      "choices_l1": [
+        "un peu",
+        "ensuite",
+        "jaune"
+      ],
+      "choices_l2": [
+        "dejepis",
+        "hnedý",
+        "strieborný"
+      ]
+    },
+    {
+      "id": "qcm-stretnutie",
+      "type": "qcm",
+      "l1": "rencontre",
+      "l2": "stretnutie",
+      "choices_l1": [
+        "oncle",
+        "achat",
+        "le cinéma"
+      ],
+      "choices_l2": [
+        "chvost",
+        "ideme",
+        "cesta"
+      ]
+    },
+    {
+      "id": "qcm-hos",
+      "type": "qcm",
+      "l1": "invité",
+      "l2": "hosť",
+      "choices_l1": [
+        "ingénieur",
+        "les Slovaques",
+        "prudemment"
+      ],
+      "choices_l2": [
+        "trpezlivý",
+        "tabuľa",
+        "maslo"
+      ]
+    },
+    {
+      "id": "qcm-p-r",
+      "type": "qcm",
+      "l1": "couple",
+      "l2": "pár",
+      "choices_l1": [
+        "nous habitons",
+        "rester",
+        "raisin"
+      ],
+      "choices_l2": [
+        "oni boli",
+        "jazero",
+        "zastávka"
+      ]
+    },
+    {
+      "id": "qcm-hlava",
+      "type": "qcm",
+      "l1": "tête",
+      "l2": "hlava",
+      "choices_l1": [
+        "vent",
+        "fermer",
+        "l'arrêt"
+      ],
+      "choices_l2": [
+        "demonštrácia",
+        "netrpezlivý",
+        "chlieb"
+      ]
+    },
+    {
+      "id": "qcm-tv-r",
+      "type": "qcm",
+      "l1": "visage",
+      "l2": "tvár",
+      "choices_l1": [
+        "restaurant",
+        "la chaise",
+        "cabine d'essayage"
+      ],
+      "choices_l2": [
+        "referendum",
+        "koláč",
+        "29. august"
+      ]
+    },
+    {
+      "id": "qcm-oko",
+      "type": "qcm",
+      "l1": "œil",
+      "l2": "oko",
+      "choices_l1": [
+        "rouge (balisage)",
+        "rassasié",
+        "lièvre"
+      ],
+      "choices_l2": [
+        "cestovať",
+        "milý",
+        "dve eurá"
+      ]
+    },
+    {
+      "id": "qcm-nos",
+      "type": "qcm",
+      "l1": "nez",
+      "l2": "nos",
+      "choices_l1": [
+        "dormir",
+        "quatrième",
+        "vieux"
+      ],
+      "choices_l2": [
+        "oddiel",
+        "pokladňa",
+        "ruža"
+      ]
+    },
+    {
+      "id": "qcm-sta",
+      "type": "qcm",
+      "l1": "bouche",
+      "l2": "ústa",
+      "choices_l1": [
+        "quatre euros",
+        "le téléphone",
+        "ours"
+      ],
+      "choices_l2": [
+        "Bude pršať.",
+        "múdry",
+        "aha"
+      ]
+    },
+    {
+      "id": "qcm-ucho",
+      "type": "qcm",
+      "l1": "oreille",
+      "l2": "ucho",
+      "choices_l1": [
+        "l'alerte",
+        "changer",
+        "distributeur automatique"
+      ],
+      "choices_l2": [
+        "vták",
+        "nedeľa",
+        "oni boli"
+      ]
+    },
+    {
+      "id": "qcm-ruka",
+      "type": "qcm",
+      "l1": "main / bras",
+      "l2": "ruka",
+      "choices_l1": [
+        "demain il fera / il y aura",
+        "Allez tout droit !",
+        "nerveux / nerveuse"
+      ],
+      "choices_l2": [
+        "elektrikár",
+        "syn",
+        "jeseň"
+      ]
+    },
+    {
+      "id": "qcm-prst",
+      "type": "qcm",
+      "l1": "doigt",
+      "l2": "prst",
+      "choices_l1": [
+        "la saison",
+        "le médecin",
+        "cerf"
+      ],
+      "choices_l2": [
+        "modrá",
+        "robíš",
+        "kľúč"
+      ]
+    },
+    {
+      "id": "qcm-noha",
+      "type": "qcm",
+      "l1": "jambe / pied",
+      "l2": "noha",
+      "choices_l1": [
+        "demain il fera / il y aura",
+        "les trois quarts",
+        "je ne cuisine pas"
+      ],
+      "choices_l2": [
+        "bugel",
+        "úsmev",
+        "polievka"
+      ]
+    },
+    {
+      "id": "qcm-srdce",
+      "type": "qcm",
+      "l1": "cœur",
+      "l2": "srdce",
+      "choices_l1": [
+        "probablement",
+        "piqûre",
+        "départ"
+      ],
+      "choices_l2": [
+        "ja hľadám",
+        "pôst",
+        "tréning"
+      ]
+    },
+    {
+      "id": "qcm-tri-ko",
+      "type": "qcm",
+      "l1": "t-shirt",
+      "l2": "tričko",
+      "choices_l1": [
+        "le brouillard",
+        "janvier",
+        "ascenseur"
+      ],
+      "choices_l2": [
+        "víkend",
+        "zviera",
+        "vstup"
+      ]
+    },
+    {
+      "id": "qcm-ko-e-a",
+      "type": "qcm",
+      "l1": "chemise",
+      "l2": "košeľa",
+      "choices_l1": [
+        "université",
+        "musique",
+        "l'Union européenne"
+      ],
+      "choices_l2": [
+        "obed",
+        "záhrada",
+        "Fúka vietor."
+      ]
+    },
+    {
+      "id": "qcm-nohavice",
+      "type": "qcm",
+      "l1": "pantalon",
+      "l2": "nohavice",
+      "choices_l1": [
+        "peau, épluchure",
+        "va",
+        "plante"
+      ],
+      "choices_l2": [
+        "Československo",
+        "korbáč",
+        "predpoveď počasia"
+      ]
+    },
+    {
+      "id": "qcm-aty",
+      "type": "qcm",
+      "l1": "robe",
+      "l2": "šaty",
+      "choices_l1": [
+        "distributeur automatique",
+        "table",
+        "le rassemblement"
+      ],
+      "choices_l2": [
+        "karta",
+        "dúha",
+        "poobede"
+      ]
+    },
+    {
+      "id": "qcm-suk-a",
+      "type": "qcm",
+      "l1": "jupe",
+      "l2": "sukňa",
+      "choices_l1": [
+        "30",
+        "courageux",
+        "la vue"
+      ],
+      "choices_l2": [
+        "vedľa",
+        "oproti",
+        "pýtať sa"
+      ]
+    },
+    {
+      "id": "qcm-bunda",
+      "type": "qcm",
+      "l1": "veste",
+      "l2": "bunda",
+      "choices_l1": [
+        "doigt",
+        "chevreuil",
+        "mer"
+      ],
+      "choices_l2": [
+        "jazyková bariéra",
+        "jedno euro",
+        "chrbát"
+      ]
+    },
+    {
+      "id": "qcm-kab-t",
+      "type": "qcm",
+      "l1": "manteau",
+      "l2": "kabát",
+      "choices_l1": [
+        "cuisine (activité)",
+        "précisément",
+        "la chanson"
+      ],
+      "choices_l2": [
+        "o prvej",
+        "pomaranč",
+        "ty piješ"
+      ]
+    },
+    {
+      "id": "qcm-top-nky",
+      "type": "qcm",
+      "l1": "chaussures",
+      "l2": "topánky",
+      "choices_l1": [
+        "parc",
+        "fêter, célébrer",
+        "caisse"
+      ],
+      "choices_l2": [
+        "naspäť",
+        "teraz",
+        "balkón"
+      ]
+    },
+    {
+      "id": "qcm-pono-ky",
+      "type": "qcm",
+      "l1": "chaussettes",
+      "l2": "ponožky",
+      "choices_l1": [
+        "café",
+        "gel",
+        "premier"
+      ],
+      "choices_l2": [
+        "štrnásť",
+        "vždy",
+        "v divadle"
+      ]
+    },
+    {
+      "id": "qcm-iapka",
+      "type": "qcm",
+      "l1": "bonnet / casquette",
+      "l2": "čiapka",
+      "choices_l1": [
+        "Fête de Cyrille et Méthode",
+        "l'animateur, le chef",
+        "le balisage, la marque"
+      ],
+      "choices_l2": [
+        "syrová nátierka",
+        "kabát",
+        "kam"
+      ]
+    },
+    {
+      "id": "qcm-chlieb",
+      "type": "qcm",
+      "l1": "pain",
+      "l2": "chlieb",
+      "choices_l1": [
+        "fan, supporter",
+        "chanson",
+        "calme"
+      ],
+      "choices_l2": [
+        "odmena",
+        "otec",
+        "slnečnica"
+      ]
+    },
+    {
+      "id": "qcm-maslo",
+      "type": "qcm",
+      "l1": "beurre",
+      "l2": "maslo",
+      "choices_l1": [
+        "réduction",
+        "épiderme",
+        "0,5%"
+      ],
+      "choices_l2": [
+        "pondelok",
+        "zošit",
+        "police"
+      ]
+    },
+    {
+      "id": "qcm-syr",
+      "type": "qcm",
+      "l1": "fromage",
+      "l2": "syr",
+      "choices_l1": [
+        "avion",
+        "la bière",
+        "à droite"
+      ],
+      "choices_l2": [
+        "zem",
+        "čierne nohavice",
+        "o druhej"
+      ]
+    },
+    {
+      "id": "qcm-vajce",
+      "type": "qcm",
+      "l1": "œuf",
+      "l2": "vajce",
+      "choices_l1": [
+        "vallée",
+        "le distributeur",
+        "vous voulez"
+      ],
+      "choices_l2": [
+        "víkend",
+        "plný",
+        "les"
+      ]
+    },
+    {
+      "id": "qcm-m-so",
+      "type": "qcm",
+      "l1": "viande",
+      "l2": "mäso",
+      "choices_l1": [
+        "chaque",
+        "jupe",
+        "la semaine"
+      ],
+      "choices_l2": [
+        "záhrada",
+        "hodiny",
+        "máj"
+      ]
+    },
+    {
+      "id": "qcm-ryba",
+      "type": "qcm",
+      "l1": "poisson",
+      "l2": "ryba",
+      "choices_l1": [
+        "boire",
+        "30",
+        "la récompense"
+      ],
+      "choices_l2": [
+        "večera",
+        "pohoda",
+        "Mám chren."
+      ]
+    },
+    {
+      "id": "qcm-zelenina",
+      "type": "qcm",
+      "l1": "légumes",
+      "l2": "zelenina",
+      "choices_l1": [
+        "3 000",
+        "la cave",
+        "le soir"
+      ],
+      "choices_l2": [
+        "február",
+        "omša",
+        "zvon"
+      ]
+    },
+    {
+      "id": "qcm-ovocie",
+      "type": "qcm",
+      "l1": "fruits",
+      "l2": "ovocie",
+      "choices_l1": [
+        "avion",
+        "cuisine (activité)",
+        "lac"
+      ],
+      "choices_l2": [
+        "slza",
+        "alergia",
+        "na stoličke"
+      ]
+    },
+    {
+      "id": "qcm-jablko",
+      "type": "qcm",
+      "l1": "pomme",
+      "l2": "jablko",
+      "choices_l1": [
+        "j'ai",
+        "ennuyeux",
+        "étagère"
+      ],
+      "choices_l2": [
+        "skúsiť",
+        "prísť",
+        "štrnásť"
+      ]
+    },
+    {
+      "id": "qcm-zemiak",
+      "type": "qcm",
+      "l1": "pomme de terre",
+      "l2": "zemiak",
+      "choices_l1": [
+        "la petite équipe (au sein d'un oddiel)",
+        "Il fera pluvieux.",
+        "J'ai fait un gâteau."
+      ],
+      "choices_l2": [
+        "pripraviť",
+        "domáca úloha",
+        "len"
+      ]
+    },
+    {
+      "id": "qcm-polievka",
+      "type": "qcm",
+      "l1": "soupe",
+      "l2": "polievka",
+      "choices_l1": [
+        "je fais",
+        "le café",
+        "la coutume"
+      ],
+      "choices_l2": [
+        "možno",
+        "oni jedia",
+        "cent"
+      ]
+    },
+    {
+      "id": "qcm-voda",
+      "type": "qcm",
+      "l1": "eau",
+      "l2": "voda",
+      "choices_l1": [
+        "petit(e)",
+        "la porte",
+        "8"
+      ],
+      "choices_l2": [
+        "pár",
+        "fakt",
+        "farbiť"
+      ]
+    },
+    {
+      "id": "qcm-k-va",
+      "type": "qcm",
+      "l1": "café",
+      "l2": "káva",
+      "choices_l1": [
+        "le référendum",
+        "le sac",
+        "cheval"
+      ],
+      "choices_l2": [
+        "plávanie",
+        "deväťdesiat",
+        "Je teplo."
+      ]
+    },
+    {
+      "id": "qcm-aj",
+      "type": "qcm",
+      "l1": "thé",
+      "l2": "čaj",
+      "choices_l1": [
+        "le distributeur",
+        "la faim",
+        "la caisse"
+      ],
+      "choices_l2": [
+        "veľký",
+        "srdce",
+        "sľub"
+      ]
+    },
+    {
+      "id": "qcm-cukor",
+      "type": "qcm",
+      "l1": "sucre",
+      "l2": "cukor",
+      "choices_l1": [
+        "deux euros",
+        "près",
+        "tu dois"
+      ],
+      "choices_l2": [
+        "čítanie",
+        "langoše",
+        "nula"
+      ]
+    },
+    {
+      "id": "qcm-so",
+      "type": "qcm",
+      "l1": "sel",
+      "l2": "soľ",
+      "choices_l1": [
+        "loyer",
+        "étoile",
+        "certes"
+      ],
+      "choices_l2": [
+        "metro",
+        "asi",
+        "zajtra"
+      ]
+    },
+    {
+      "id": "qcm-tanier",
+      "type": "qcm",
+      "l1": "assiette",
+      "l2": "tanier",
+      "choices_l1": [
+        "l'été",
+        "19",
+        "je veux"
+      ],
+      "choices_l2": [
+        "drahý",
+        "pas",
+        "cudzina"
+      ]
+    },
+    {
+      "id": "qcm-poh-r",
+      "type": "qcm",
+      "l1": "verre",
+      "l2": "pohár",
+      "choices_l1": [
+        "la cour",
+        "pommade",
+        "cinq ans"
+      ],
+      "choices_l2": [
+        "dve eurá",
+        "šatka",
+        "maliar"
+      ]
+    },
+    {
+      "id": "qcm-ly-ica",
+      "type": "qcm",
+      "l1": "cuillère",
+      "l2": "lyžica",
+      "choices_l1": [
+        "fruits",
+        "nous devons",
+        "arbre fruitier"
+      ],
+      "choices_l2": [
+        "šunka",
+        "jedna tretina",
+        "noha"
+      ]
+    },
+    {
+      "id": "qcm-n",
+      "type": "qcm",
+      "l1": "couteau",
+      "l2": "nôž",
+      "choices_l1": [
+        "chanson",
+        "le garage",
+        "le festival"
+      ],
+      "choices_l2": [
+        "trpezlivý",
+        "Kvetná nedeľa",
+        "turistika"
+      ]
+    },
+    {
+      "id": "qcm-dom",
+      "type": "qcm",
+      "l1": "maison",
+      "l2": "dom",
+      "choices_l1": [
+        "la mairie",
+        "la minute",
+        "tu habites"
+      ],
+      "choices_l2": [
+        "sľub",
+        "ony",
+        "jeho"
+      ]
+    },
+    {
+      "id": "qcm-byt",
+      "type": "qcm",
+      "l1": "appartement",
+      "l2": "byt",
+      "choices_l1": [
+        "larme",
+        "dix euros",
+        "mer"
+      ],
+      "choices_l2": [
+        "štyridsať",
+        "zvyk",
+        "netrpezlivý"
+      ]
+    },
+    {
+      "id": "qcm-budova",
+      "type": "qcm",
+      "l1": "bâtiment",
+      "l2": "budova",
+      "choices_l1": [
+        "l'an, l'année",
+        "cuisiner",
+        "peintre"
+      ],
+      "choices_l2": [
+        "spiatočný lístok",
+        "vlk",
+        "firma"
+      ]
+    },
+    {
+      "id": "qcm-kola",
+      "type": "qcm",
+      "l1": "école",
+      "l2": "škola",
+      "choices_l1": [
+        "l'année prochaine",
+        "thé",
+        "l'étranger"
+      ],
+      "choices_l2": [
+        "izba, kuchyňa",
+        "zastávka",
+        "päť"
+      ]
+    },
+    {
+      "id": "qcm-nemocnica",
+      "type": "qcm",
+      "l1": "hôpital",
+      "l2": "nemocnica",
+      "choices_l1": [
+        "d'où",
+        "examen",
+        "herbe"
+      ],
+      "choices_l2": [
+        "hviezdy",
+        "hranica",
+        "Je horúco."
+      ]
+    },
+    {
+      "id": "qcm-lek-re",
+      "type": "qcm",
+      "l1": "pharmacie",
+      "l2": "lekáreň",
+      "choices_l1": [
+        "loin",
+        "intelligent",
+        "nous"
+      ],
+      "choices_l2": [
+        "čítať",
+        "pole",
+        "výpredaj"
+      ]
+    },
+    {
+      "id": "qcm-obchod",
+      "type": "qcm",
+      "l1": "magasin",
+      "l2": "obchod",
+      "choices_l1": [
+        "ja",
+        "ennuyé(e)",
+        "le pinceau"
+      ],
+      "choices_l2": [
+        "premávka",
+        "kačka",
+        "štipľavý"
+      ]
+    },
+    {
+      "id": "qcm-re-taur-cia",
+      "type": "qcm",
+      "l1": "restaurant",
+      "l2": "reštaurácia",
+      "choices_l1": [
+        "entendre",
+        "coûter",
+        "jour"
+      ],
+      "choices_l2": [
+        "darček",
+        "ty piješ",
+        "minulý rok"
+      ]
+    },
+    {
+      "id": "qcm-hotel",
+      "type": "qcm",
+      "l1": "hôtel",
+      "l2": "hotel",
+      "choices_l1": [
+        "le clairon",
+        "14",
+        "cinéma"
+      ],
+      "choices_l2": [
+        "samostatnosť",
+        "príroda",
+        "zemiak"
+      ]
+    },
+    {
+      "id": "qcm-stanica",
+      "type": "qcm",
+      "l1": "gare",
+      "l2": "stanica",
+      "choices_l1": [
+        "les chaussons",
+        "ce mois",
+        "les soldes"
+      ],
+      "choices_l2": [
+        "pôst",
+        "záhradkárčenie",
+        "chceme"
+      ]
+    },
+    {
+      "id": "qcm-letisko",
+      "type": "qcm",
+      "l1": "aéroport",
+      "l2": "letisko",
+      "choices_l1": [
+        "bibliothèque",
+        "le téléphone",
+        "l'eau"
+      ],
+      "choices_l2": [
+        "Vianoce",
+        "ulica",
+        "rastlina"
+      ]
+    },
+    {
+      "id": "qcm-banka",
+      "type": "qcm",
+      "l1": "banque",
+      "l2": "banka",
+      "choices_l1": [
+        "arbre fruitier",
+        "assiette",
+        "la cave"
+      ],
+      "choices_l2": [
+        "fakt",
+        "jeho",
+        "motorka"
+      ]
+    },
+    {
+      "id": "qcm-po-ta",
+      "type": "qcm",
+      "l1": "poste",
+      "l2": "pošta",
+      "choices_l1": [
+        "montre",
+        "en été",
+        "veste"
+      ],
+      "choices_l2": [
+        "vždy",
+        "štipľavý",
+        "myslieť si"
+      ]
+    },
+    {
+      "id": "qcm-kostol",
+      "type": "qcm",
+      "l1": "église",
+      "l2": "kostol",
+      "choices_l1": [
+        "mari",
+        "préparer",
+        "départ"
+      ],
+      "choices_l2": [
+        "vrana",
+        "láska",
+        "fajn"
+      ]
+    },
+    {
+      "id": "qcm-m-zeum",
+      "type": "qcm",
+      "l1": "musée",
+      "l2": "múzeum",
+      "choices_l1": [
+        "le goulash",
+        "météo",
+        "comprimé"
+      ],
+      "choices_l2": [
+        "cesnak",
+        "vedieť",
+        "1. január"
+      ]
+    },
+    {
+      "id": "qcm-park",
+      "type": "qcm",
+      "l1": "parc",
+      "l2": "park",
+      "choices_l1": [
+        "billet aller-retour",
+        "jardinage",
+        "invité"
+      ],
+      "choices_l2": [
+        "pokožka",
+        "koľko",
+        "tridsať"
+      ]
+    },
+    {
+      "id": "qcm-n-mestie",
+      "type": "qcm",
+      "l1": "place",
+      "l2": "námestie",
+      "choices_l1": [
+        "parents",
+        "la tente",
+        "ici"
+      ],
+      "choices_l2": [
+        "jún",
+        "možno",
+        "Mám hlad."
+      ]
+    },
+    {
+      "id": "qcm-kancel-ria",
+      "type": "qcm",
+      "l1": "bureau",
+      "l2": "kancelária",
+      "choices_l1": [
+        "marron",
+        "un moment",
+        "un peu"
+      ],
+      "choices_l2": [
+        "susedka",
+        "Svieti slnko.",
+        "posteľ"
+      ]
+    },
+    {
+      "id": "qcm-toaleta",
+      "type": "qcm",
+      "l1": "toilettes",
+      "l2": "toaleta",
+      "choices_l1": [
+        "18",
+        "la coutume",
+        "25,80 €"
+      ],
+      "choices_l2": [
+        "inžinier",
+        "ostrov",
+        "rukavice"
+      ]
+    },
+    {
+      "id": "qcm-v-ah",
+      "type": "qcm",
+      "l1": "ascenseur",
+      "l2": "výťah",
+      "choices_l1": [
+        "je cherche",
+        "teindre, colorer",
+        "15"
+      ],
+      "choices_l2": [
+        "more",
+        "január",
+        "totiž"
+      ]
+    },
+    {
+      "id": "blank-dnes-som-ve-mi-astn",
+      "type": "fill-blank",
+      "l1": "Aujourd'hui, je suis très heureux.",
+      "l2": "Dnes som veľmi šťastný.",
+      "missing_l1": "je",
+      "missing_l2": "som",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "de",
+        "heures",
+        "fait"
+      ],
+      "choices_l2": [
+        "ako",
+        "chcem",
+        "ešte"
+      ]
+    },
+    {
+      "id": "blank-pre-o-si-smutn",
+      "type": "fill-blank",
+      "l1": "Pourquoi es-tu triste ?",
+      "l2": "Prečo si smutný?",
+      "missing_l1": "es-tu",
+      "missing_l2": "si",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "plus",
+        "il",
+        "tu"
+      ],
+      "choices_l2": [
+        "bolo",
+        "potom",
+        "a"
+      ]
+    },
+    {
+      "id": "blank-som-trochu-unaven",
+      "type": "fill-blank",
+      "l1": "Je suis un peu fatigué.",
+      "l2": "Som trochu unavený.",
+      "missing_l1": "un",
+      "missing_l2": "trochu",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "plus",
+        "veux",
+        "ça"
+      ],
+      "choices_l2": [
+        "sa",
+        "koľko",
+        "kde"
+      ]
+    },
+    {
+      "id": "blank-je-ve-mi-mil",
+      "type": "fill-blank",
+      "l1": "Elle est très gentille.",
+      "l2": "Je veľmi milá.",
+      "missing_l1": "est",
+      "missing_l2": "veľmi",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "y",
+        "de",
+        "et"
+      ],
+      "choices_l2": [
+        "deň",
+        "v",
+        "sme"
+      ]
+    },
+    {
+      "id": "blank-toto-je-moja-rodina",
+      "type": "fill-blank",
+      "l1": "Voici ma famille.",
+      "l2": "Toto je moja rodina.",
+      "missing_l1": "ma",
+      "missing_l2": "je",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "mais",
+        "veux",
+        "j'ai"
+      ],
+      "choices_l2": [
+        "o",
+        "čo",
+        "áno"
+      ]
+    },
+    {
+      "id": "blank-m-m-dobr-ho-priate-a",
+      "type": "fill-blank",
+      "l1": "J'ai un bon ami.",
+      "l2": "Mám dobrého priateľa.",
+      "missing_l1": "un",
+      "missing_l2": "dobrého",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "heures",
+        "sont",
+        "me"
+      ],
+      "choices_l2": [
+        "deti",
+        "je",
+        "bude"
+      ]
+    },
+    {
+      "id": "blank-moja-sestra-b-va-v-bratislave",
+      "type": "fill-blank",
+      "l1": "Ma sœur habite à Bratislava.",
+      "l2": "Moja sestra býva v Bratislave.",
+      "missing_l1": "à",
+      "missing_l2": "v",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "du",
+        "c'est",
+        "ne"
+      ],
+      "choices_l2": [
+        "do",
+        "deň",
+        "som"
+      ]
+    },
+    {
+      "id": "blank-radi-pom-hame-priate-om",
+      "type": "fill-blank",
+      "l1": "Nous aidons volontiers nos amis.",
+      "l2": "Radi pomáhame priateľom.",
+      "missing_l1": "amis",
+      "missing_l2": "pomáhame",
+      "blank_index_l1": 4,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "les",
+        "que",
+        "mon"
+      ],
+      "choices_l2": [
+        "deti",
+        "sa",
+        "idem"
+      ]
+    },
+    {
+      "id": "blank-akujem-za-pomoc",
+      "type": "fill-blank",
+      "l1": "Merci pour ton aide.",
+      "l2": "Ďakujem za pomoc.",
+      "missing_l1": "pour",
+      "missing_l2": "za",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "et",
+        "au",
+        "sur"
+      ],
+      "choices_l2": [
+        "bude",
+        "aj",
+        "ako"
+      ]
+    },
+    {
+      "id": "blank-bol-ma-hlava",
+      "type": "fill-blank",
+      "l1": "J'ai mal à la tête.",
+      "l2": "Bolí ma hlava.",
+      "missing_l1": "la",
+      "missing_l2": "ma",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "à",
+        "ça",
+        "je"
+      ],
+      "choices_l2": [
+        "ale",
+        "sme",
+        "mi"
+      ]
+    },
+    {
+      "id": "blank-m-m-nov-top-nky",
+      "type": "fill-blank",
+      "l1": "J'ai de nouvelles chaussures.",
+      "l2": "Mám nové topánky.",
+      "missing_l1": "de",
+      "missing_l2": "topánky",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "une",
+        "sur",
+        "pas"
+      ],
+      "choices_l2": [
+        "kde",
+        "mi",
+        "to"
+      ]
+    },
+    {
+      "id": "blank-kde-je-moja-bunda",
+      "type": "fill-blank",
+      "l1": "Où est ma veste ?",
+      "l2": "Kde je moja bunda?",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "plus",
+        "un",
+        "fait"
+      ],
+      "choices_l2": [
+        "chcem",
+        "ste",
+        "ale"
+      ]
+    },
+    {
+      "id": "blank-m-modr-o-i",
+      "type": "fill-blank",
+      "l1": "Il / Elle a les yeux bleus.",
+      "l2": "Má modré oči.",
+      "missing_l1": "les",
+      "missing_l2": "modré",
+      "blank_index_l1": 4,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "de",
+        "ça",
+        "ne"
+      ],
+      "choices_l2": [
+        "ste",
+        "ako",
+        "môj"
+      ]
+    },
+    {
+      "id": "blank-oble-si-kab-t",
+      "type": "fill-blank",
+      "l1": "Mets ton manteau.",
+      "l2": "Obleč si kabát.",
+      "missing_l1": "ton",
+      "missing_l2": "si",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "la",
+        "sur",
+        "il"
+      ],
+      "choices_l2": [
+        "veľmi",
+        "sme",
+        "áno"
+      ]
+    },
+    {
+      "id": "blank-d-m-si-k-vu",
+      "type": "fill-blank",
+      "l1": "Je vais prendre un café.",
+      "l2": "Dám si kávu.",
+      "missing_l1": "un",
+      "missing_l2": "si",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "y",
+        "j'ai",
+        "la"
+      ],
+      "choices_l2": [
+        "sme",
+        "mi",
+        "aj"
+      ]
+    },
+    {
+      "id": "blank-chcem-poh-r-vody",
+      "type": "fill-blank",
+      "l1": "Je voudrais un verre d'eau.",
+      "l2": "Chcem pohár vody.",
+      "missing_l1": "un",
+      "missing_l2": "vody",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "en",
+        "fait",
+        "cette"
+      ],
+      "choices_l2": [
+        "ísť",
+        "sme",
+        "mám"
+      ]
+    },
+    {
+      "id": "blank-polievka-je-ve-mi-dobr",
+      "type": "fill-blank",
+      "l1": "La soupe est très bonne.",
+      "l2": "Polievka je veľmi dobrá.",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "une",
+        "sur",
+        "heures"
+      ],
+      "choices_l2": [
+        "o",
+        "deti",
+        "ale"
+      ]
+    },
+    {
+      "id": "blank-je-r-d-ovocie",
+      "type": "fill-blank",
+      "l1": "Aimes-tu les fruits ?",
+      "l2": "Ješ rád ovocie?",
+      "missing_l1": "les",
+      "missing_l2": "rád",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "à",
+        "nous",
+        "vous"
+      ],
+      "choices_l2": [
+        "si",
+        "mám",
+        "deti"
+      ]
+    },
+    {
+      "id": "blank-kde-je-ly-ica",
+      "type": "fill-blank",
+      "l1": "Où est la cuillère ?",
+      "l2": "Kde je lyžica?",
+      "missing_l1": "la",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "sur",
+        "nous",
+        "le"
+      ],
+      "choices_l2": [
+        "máte",
+        "ísť",
+        "veľmi"
+      ]
+    },
+    {
+      "id": "blank-kde-je-stanica",
+      "type": "fill-blank",
+      "l1": "Où est la gare ?",
+      "l2": "Kde je stanica?",
+      "missing_l1": "la",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "tu",
+        "au",
+        "les"
+      ],
+      "choices_l2": [
+        "sa",
+        "aj",
+        "to"
+      ]
+    },
+    {
+      "id": "blank-ideme-do-re-taur-cie",
+      "type": "fill-blank",
+      "l1": "Nous allons au restaurant.",
+      "l2": "Ideme do reštaurácie.",
+      "missing_l1": "au",
+      "missing_l2": "do",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "nous",
+        "suis",
+        "a"
+      ],
+      "choices_l2": [
+        "v",
+        "dnes",
+        "máte"
+      ]
+    },
+    {
+      "id": "blank-hotel-je-bl-zko-centra",
+      "type": "fill-blank",
+      "l1": "L'hôtel est près du centre.",
+      "l2": "Hotel je blízko centra.",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "nous",
+        "de",
+        "dans"
+      ],
+      "choices_l2": [
+        "sú",
+        "si",
+        "a"
+      ]
+    },
+    {
+      "id": "blank-b-vam-v-byte",
+      "type": "fill-blank",
+      "l1": "J'habite dans un appartement.",
+      "l2": "Bývam v byte.",
+      "missing_l1": "un",
+      "missing_l2": "v",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "est",
+        "mon",
+        "vous"
+      ],
+      "choices_l2": [
+        "deň",
+        "mám",
+        "aj"
+      ]
+    },
+    {
+      "id": "listen-dnes-som-ve-mi-astn",
+      "type": "listen",
+      "l1": "Aujourd'hui, je suis très heureux.",
+      "l2": "Dnes som veľmi šťastný.",
+      "choices_l1": [
+        "Le cinéma est à côté du pont, en face de l'hôpital.",
+        "S'il pleut, nous resterons à la maison.",
+        "J'ai un vélo, mais aujourd'hui j'y vais en voiture."
+      ]
+    },
+    {
+      "id": "listen-pre-o-si-smutn",
+      "type": "listen",
+      "l1": "Pourquoi es-tu triste ?",
+      "l2": "Prečo si smutný?",
+      "choices_l1": [
+        "La banque est à côté du musée, après le coin.",
+        "Oui, vous avez raison. C'est sans doute l'histoire la plus personnelle de toutes.",
+        "Cet été a été plus chaud que le précédent."
+      ]
+    },
+    {
+      "id": "listen-som-trochu-unaven",
+      "type": "listen",
+      "l1": "Je suis un peu fatigué.",
+      "l2": "Som trochu unavený.",
+      "choices_l1": [
+        "Les enfants sont dans la cour.",
+        "Nous avons apporté le panier à l'église pour la bénédiction.",
+        "Papa mange de la viande."
+      ]
+    },
+    {
+      "id": "listen-je-ve-mi-mil",
+      "type": "listen",
+      "l1": "Elle est très gentille.",
+      "l2": "Je veľmi milá.",
+      "choices_l1": [
+        "Les transports en commun sont bons à Bratislava.",
+        "L'église est sur la place.",
+        "Bonne idée ! Sur la place il y a un joli café."
+      ]
+    },
+    {
+      "id": "listen-bu-pokojn",
+      "type": "listen",
+      "l1": "Sois calme.",
+      "l2": "Buď pokojný.",
+      "choices_l1": [
+        "Non, merci.",
+        "Très bien.",
+        "Merci."
+      ]
+    },
+    {
+      "id": "listen-toto-je-moja-rodina",
+      "type": "listen",
+      "l1": "Voici ma famille.",
+      "l2": "Toto je moja rodina.",
+      "choices_l1": [
+        "J'ai un chien et un chat.",
+        "Mais j'ai vu comment l'atmosphère changeait. Soudain c'était normal de rêver d'un travail à l'étranger.",
+        "Ma grand-mère s'appelle Zuzana."
+      ]
+    },
+    {
+      "id": "listen-m-m-dobr-ho-priate-a",
+      "type": "listen",
+      "l1": "J'ai un bon ami.",
+      "l2": "Mám dobrého priateľa.",
+      "choices_l1": [
+        "Ils m'ont arrosé d'eau.",
+        "Différemment. Certains étaient pour l'indépendance, d'autres étaient complètement contre.",
+        "Quand part le train ?"
+      ]
+    },
+    {
+      "id": "listen-moja-sestra-b-va-v-bratislave",
+      "type": "listen",
+      "l1": "Ma sœur habite à Bratislava.",
+      "l2": "Moja sestra býva v Bratislave.",
+      "choices_l1": [
+        "Ce fruit n'est pas encore mûr.",
+        "On parle du film.",
+        "L'enfant dort dans la chambre."
+      ]
+    },
+    {
+      "id": "listen-radi-pom-hame-priate-om",
+      "type": "listen",
+      "l1": "Nous aidons volontiers nos amis.",
+      "l2": "Radi pomáhame priateľom.",
+      "choices_l1": [
+        "Je travaille dans le commerce.",
+        "Vendredi c'est un jour férié.",
+        "Nous devons suivre les balisages attentivement."
+      ]
+    },
+    {
+      "id": "listen-akujem-za-pomoc",
+      "type": "listen",
+      "l1": "Merci pour ton aide.",
+      "l2": "Ďakujem za pomoc.",
+      "choices_l1": [
+        "Je n'ai pas la force d'aller plus loin.",
+        "Et vous êtes rentrée à la maison sans problème ?",
+        "Le lait est froid."
+      ]
+    },
+    {
+      "id": "listen-bol-ma-hlava",
+      "type": "listen",
+      "l1": "J'ai mal à la tête.",
+      "l2": "Bolí ma hlava.",
+      "choices_l1": [
+        "Marek, tu es libre lundi ?",
+        "Le café est brûlant.",
+        "Exactement. Les deux choses à la fois. Allons-y dans l'ordre."
+      ]
+    },
+    {
+      "id": "listen-m-m-nov-top-nky",
+      "type": "listen",
+      "l1": "J'ai de nouvelles chaussures.",
+      "l2": "Mám nové topánky.",
+      "choices_l1": [
+        "Notre chalet est loin.",
+        "Je veux un sac rouge.",
+        "Ces chaussures sont confortables."
+      ]
+    },
+    {
+      "id": "listen-kde-je-moja-bunda",
+      "type": "listen",
+      "l1": "Où est ma veste ?",
+      "l2": "Kde je moja bunda?",
+      "choices_l1": [
+        "Ça coûte trois euros.",
+        "Puis-je goûter ?",
+        "Mais on devait aller randonner !"
+      ]
+    },
+    {
+      "id": "listen-m-modr-o-i",
+      "type": "listen",
+      "l1": "Il / Elle a les yeux bleus.",
+      "l2": "Má modré oči.",
+      "choices_l1": [
+        "Le poteau indicateur montre l'itinéraire vers le lac.",
+        "Quelle heure est-il ?",
+        "Je n'ai pas de frère. J'ai une sœur."
+      ]
+    },
+    {
+      "id": "listen-oble-si-kab-t",
+      "type": "listen",
+      "l1": "Mets ton manteau.",
+      "l2": "Obleč si kabát.",
+      "choices_l1": [
+        "Au zoo nous avons vu des éléphants et des girafes.",
+        "Ces chaussures sont trop petites pour moi.",
+        "Oui, une tante à Brno. Soudain c'était un voyage à l'étranger, même si on se sentait tout aussi proches."
+      ]
+    },
+    {
+      "id": "listen-d-m-si-k-vu",
+      "type": "listen",
+      "l1": "Je vais prendre un café.",
+      "l2": "Dám si kávu.",
+      "choices_l1": [
+        "Et vous, vous n'êtes pas partie à l'époque ?",
+        "En hiver je porte une écharpe et des gants.",
+        "Nous mangeons des fruits et des légumes."
+      ]
+    },
+    {
+      "id": "listen-chcem-poh-r-vody",
+      "type": "listen",
+      "l1": "Je voudrais un verre d'eau.",
+      "l2": "Chcem pohár vody.",
+      "choices_l1": [
+        "Je travaille dans la santé.",
+        "Le soir je n'ai jamais le temps.",
+        "Le rocher est raide, allez prudemment et lentement."
+      ]
+    },
+    {
+      "id": "listen-polievka-je-ve-mi-dobr",
+      "type": "listen",
+      "l1": "La soupe est très bonne.",
+      "l2": "Polievka je veľmi dobrá.",
+      "choices_l1": [
+        "Comment est-ce ?",
+        "Joyeux anniversaire ! (littéralement : tout le meilleur pour ton anniversaire)",
+        "Le parcours est difficile, mais la vue depuis le sommet en vaut la peine."
+      ]
+    },
+    {
+      "id": "listen-je-r-d-ovocie",
+      "type": "listen",
+      "l1": "Aimes-tu les fruits ?",
+      "l2": "Ješ rád ovocie?",
+      "choices_l1": [
+        "La semaine a sept jours.",
+        "Oui, c'est notre tradition. Mais faites-le doucement !",
+        "Les deux choses. D'abord la télé, ensuite moi aussi sur la place."
+      ]
+    },
+    {
+      "id": "listen-kde-je-ly-ica",
+      "type": "listen",
+      "l1": "Où est la cuillère ?",
+      "l2": "Kde je lyžica?",
+      "choices_l1": [
+        "Il fait chaud et le soleil brille.",
+        "Vous avez une belle famille.",
+        "Peut-être que le chez-soi c'est justement ça — un lieu qui change avec vous."
+      ]
+    },
+    {
+      "id": "listen-kde-je-stanica",
+      "type": "listen",
+      "l1": "Où est la gare ?",
+      "l2": "Kde je stanica?",
+      "choices_l1": [
+        "J'arrive à cinq heures.",
+        "Aujourd'hui il fait beau.",
+        "La bibliothèque est dans le centre-ville."
+      ]
+    },
+    {
+      "id": "listen-ideme-do-re-taur-cie",
+      "type": "listen",
+      "l1": "Nous allons au restaurant.",
+      "l2": "Ideme do reštaurácie.",
+      "choices_l1": [
+        "Il fait chaud et le soleil brille.",
+        "La vallée est magnifique.",
+        "Pendant mon temps libre j'aime lire."
+      ]
+    },
+    {
+      "id": "listen-hotel-je-bl-zko-centra",
+      "type": "listen",
+      "l1": "L'hôtel est près du centre.",
+      "l2": "Hotel je blízko centra.",
+      "choices_l1": [
+        "Cette tradition est ancienne, mais les jeunes la changent.",
+        "Ma sœur habite à Bratislava.",
+        "Qu'est-ce que tu fais dans la vie ? / Quel est ton métier ?"
+      ]
+    },
+    {
+      "id": "listen-h-ad-m-lek-re",
+      "type": "listen",
+      "l1": "Je cherche une pharmacie.",
+      "l2": "Hľadám lekáreň.",
+      "choices_l1": [
+        "En montagne l'air est pur et le silence magnifique.",
+        "Cette coutume change chaque année.",
+        "Exactement. Le 1er mai. Je me souviens très bien de ce jour-là."
+      ]
+    },
+    {
+      "id": "listen-b-vam-v-byte",
+      "type": "listen",
+      "l1": "J'habite dans un appartement.",
+      "l2": "Bývam v byte.",
+      "choices_l1": [
+        "Non, seulement dix minutes. Ou prends le tram.",
+        "Maman cuisine dans la cuisine.",
+        "Ma maman est dans la cuisine."
+      ]
+    },
+    {
+      "id": "order-dnes-som-ve-mi-astn",
+      "type": "order",
+      "l1": "Aujourd'hui, je suis très heureux.",
+      "l2": "Dnes som veľmi šťastný.",
+      "tokens_l1": [
+        "Aujourd'hui,",
+        "je",
+        "suis",
+        "très",
+        "heureux.",
+        "J'ai",
+        "un",
+        "bon",
+        "ami."
+      ],
+      "tokens_l2": [
+        "Dnes",
+        "som",
+        "veľmi",
+        "šťastný.",
+        "Mám",
+        "dobrého",
+        "priateľa."
+      ]
+    },
+    {
+      "id": "order-pre-o-si-smutn",
+      "type": "order",
+      "l1": "Pourquoi es-tu triste ?",
+      "l2": "Prečo si smutný?",
+      "tokens_l1": [
+        "Pourquoi",
+        "es-tu",
+        "triste",
+        "?",
+        "Aujourd'hui,",
+        "je",
+        "suis",
+        "très",
+        "heureux."
+      ],
+      "tokens_l2": [
+        "Prečo",
+        "si",
+        "smutný?",
+        "Dnes",
+        "som",
+        "veľmi",
+        "šťastný."
+      ]
+    },
+    {
+      "id": "order-som-trochu-unaven",
+      "type": "order",
+      "l1": "Je suis un peu fatigué.",
+      "l2": "Som trochu unavený.",
+      "tokens_l1": [
+        "Je",
+        "suis",
+        "un",
+        "peu",
+        "fatigué.",
+        "La",
+        "soupe",
+        "est",
+        "très",
+        "bonne."
+      ],
+      "tokens_l2": [
+        "Som",
+        "trochu",
+        "unavený.",
+        "Polievka",
+        "je",
+        "veľmi",
+        "dobrá."
+      ]
+    },
+    {
+      "id": "order-je-ve-mi-mil",
+      "type": "order",
+      "l1": "Elle est très gentille.",
+      "l2": "Je veľmi milá.",
+      "tokens_l1": [
+        "Elle",
+        "est",
+        "très",
+        "gentille.",
+        "J'ai",
+        "un",
+        "bon",
+        "ami."
+      ],
+      "tokens_l2": [
+        "Je",
+        "veľmi",
+        "milá.",
+        "Mám",
+        "dobrého",
+        "priateľa."
+      ]
+    },
+    {
+      "id": "order-toto-je-moja-rodina",
+      "type": "order",
+      "l1": "Voici ma famille.",
+      "l2": "Toto je moja rodina.",
+      "tokens_l1": [
+        "Voici",
+        "ma",
+        "famille.",
+        "Nous",
+        "allons",
+        "au",
+        "restaurant."
+      ],
+      "tokens_l2": [
+        "Toto",
+        "je",
+        "moja",
+        "rodina.",
+        "Ideme",
+        "do",
+        "reštaurácie."
+      ]
+    },
+    {
+      "id": "order-m-m-dobr-ho-priate-a",
+      "type": "order",
+      "l1": "J'ai un bon ami.",
+      "l2": "Mám dobrého priateľa.",
+      "tokens_l1": [
+        "J'ai",
+        "un",
+        "bon",
+        "ami.",
+        "Je",
+        "suis",
+        "un",
+        "peu",
+        "fatigué."
+      ],
+      "tokens_l2": [
+        "Mám",
+        "dobrého",
+        "priateľa.",
+        "Som",
+        "trochu",
+        "unavený."
+      ]
+    },
+    {
+      "id": "order-moja-sestra-b-va-v-bratislave",
+      "type": "order",
+      "l1": "Ma sœur habite à Bratislava.",
+      "l2": "Moja sestra býva v Bratislave.",
+      "tokens_l1": [
+        "Ma",
+        "sœur",
+        "habite",
+        "à",
+        "Bratislava.",
+        "Mets",
+        "ton",
+        "manteau."
+      ],
+      "tokens_l2": [
+        "Moja",
+        "sestra",
+        "býva",
+        "v",
+        "Bratislave.",
+        "Obleč",
+        "si",
+        "kabát."
+      ]
+    },
+    {
+      "id": "order-radi-pom-hame-priate-om",
+      "type": "order",
+      "l1": "Nous aidons volontiers nos amis.",
+      "l2": "Radi pomáhame priateľom.",
+      "tokens_l1": [
+        "Nous",
+        "aidons",
+        "volontiers",
+        "nos",
+        "amis.",
+        "Je",
+        "suis",
+        "un",
+        "peu",
+        "fatigué."
+      ],
+      "tokens_l2": [
+        "Radi",
+        "pomáhame",
+        "priateľom.",
+        "Som",
+        "trochu",
+        "unavený."
+      ]
+    },
+    {
+      "id": "order-akujem-za-pomoc",
+      "type": "order",
+      "l1": "Merci pour ton aide.",
+      "l2": "Ďakujem za pomoc.",
+      "tokens_l1": [
+        "Merci",
+        "pour",
+        "ton",
+        "aide.",
+        "Ma",
+        "sœur",
+        "habite",
+        "à",
+        "Bratislava."
+      ],
+      "tokens_l2": [
+        "Ďakujem",
+        "za",
+        "pomoc.",
+        "Moja",
+        "sestra",
+        "býva",
+        "v",
+        "Bratislave."
+      ]
+    },
+    {
+      "id": "order-bol-ma-hlava",
+      "type": "order",
+      "l1": "J'ai mal à la tête.",
+      "l2": "Bolí ma hlava.",
+      "tokens_l1": [
+        "J'ai",
+        "mal",
+        "à",
+        "la",
+        "tête.",
+        "L'hôtel",
+        "est",
+        "près",
+        "du",
+        "centre."
+      ],
+      "tokens_l2": [
+        "Bolí",
+        "ma",
+        "hlava.",
+        "Hotel",
+        "je",
+        "blízko",
+        "centra."
+      ]
+    },
+    {
+      "id": "order-m-m-nov-top-nky",
+      "type": "order",
+      "l1": "J'ai de nouvelles chaussures.",
+      "l2": "Mám nové topánky.",
+      "tokens_l1": [
+        "J'ai",
+        "de",
+        "nouvelles",
+        "chaussures.",
+        "Voici",
+        "ma",
+        "famille."
+      ],
+      "tokens_l2": [
+        "Mám",
+        "nové",
+        "topánky.",
+        "Toto",
+        "je",
+        "moja",
+        "rodina."
+      ]
+    },
+    {
+      "id": "order-kde-je-moja-bunda",
+      "type": "order",
+      "l1": "Où est ma veste ?",
+      "l2": "Kde je moja bunda?",
+      "tokens_l1": [
+        "Où",
+        "est",
+        "ma",
+        "veste",
+        "?",
+        "Je",
+        "vais",
+        "prendre",
+        "un",
+        "café."
+      ],
+      "tokens_l2": [
+        "Kde",
+        "je",
+        "moja",
+        "bunda?",
+        "Dám",
+        "si",
+        "kávu."
+      ]
+    },
+    {
+      "id": "order-m-modr-o-i",
+      "type": "order",
+      "l1": "Il / Elle a les yeux bleus.",
+      "l2": "Má modré oči.",
+      "tokens_l1": [
+        "Il",
+        "/",
+        "Elle",
+        "a",
+        "les",
+        "yeux",
+        "bleus.",
+        "J'habite",
+        "dans",
+        "un",
+        "appartement."
+      ],
+      "tokens_l2": [
+        "Má",
+        "modré",
+        "oči.",
+        "Bývam",
+        "v",
+        "byte."
+      ]
+    },
+    {
+      "id": "order-oble-si-kab-t",
+      "type": "order",
+      "l1": "Mets ton manteau.",
+      "l2": "Obleč si kabát.",
+      "tokens_l1": [
+        "Mets",
+        "ton",
+        "manteau.",
+        "J'ai",
+        "de",
+        "nouvelles",
+        "chaussures."
+      ],
+      "tokens_l2": [
+        "Obleč",
+        "si",
+        "kabát.",
+        "Mám",
+        "nové",
+        "topánky."
+      ]
+    },
+    {
+      "id": "order-d-m-si-k-vu",
+      "type": "order",
+      "l1": "Je vais prendre un café.",
+      "l2": "Dám si kávu.",
+      "tokens_l1": [
+        "Je",
+        "vais",
+        "prendre",
+        "un",
+        "café.",
+        "L'hôtel",
+        "est",
+        "près",
+        "du",
+        "centre."
+      ],
+      "tokens_l2": [
+        "Dám",
+        "si",
+        "kávu.",
+        "Hotel",
+        "je",
+        "blízko",
+        "centra."
+      ]
+    },
+    {
+      "id": "order-chcem-poh-r-vody",
+      "type": "order",
+      "l1": "Je voudrais un verre d'eau.",
+      "l2": "Chcem pohár vody.",
+      "tokens_l1": [
+        "Je",
+        "voudrais",
+        "un",
+        "verre",
+        "d'eau.",
+        "La",
+        "soupe",
+        "est",
+        "très",
+        "bonne."
+      ],
+      "tokens_l2": [
+        "Chcem",
+        "pohár",
+        "vody.",
+        "Polievka",
+        "je",
+        "veľmi",
+        "dobrá."
+      ]
+    },
+    {
+      "id": "order-polievka-je-ve-mi-dobr",
+      "type": "order",
+      "l1": "La soupe est très bonne.",
+      "l2": "Polievka je veľmi dobrá.",
+      "tokens_l1": [
+        "La",
+        "soupe",
+        "est",
+        "très",
+        "bonne.",
+        "Elle",
+        "est",
+        "très",
+        "gentille."
+      ],
+      "tokens_l2": [
+        "Polievka",
+        "je",
+        "veľmi",
+        "dobrá.",
+        "Je",
+        "veľmi",
+        "milá."
+      ]
+    },
+    {
+      "id": "order-je-r-d-ovocie",
+      "type": "order",
+      "l1": "Aimes-tu les fruits ?",
+      "l2": "Ješ rád ovocie?",
+      "tokens_l1": [
+        "Aimes-tu",
+        "les",
+        "fruits",
+        "?",
+        "Je",
+        "suis",
+        "un",
+        "peu",
+        "fatigué."
+      ],
+      "tokens_l2": [
+        "Ješ",
+        "rád",
+        "ovocie?",
+        "Som",
+        "trochu",
+        "unavený."
+      ]
+    },
+    {
+      "id": "order-kde-je-ly-ica",
+      "type": "order",
+      "l1": "Où est la cuillère ?",
+      "l2": "Kde je lyžica?",
+      "tokens_l1": [
+        "Où",
+        "est",
+        "la",
+        "cuillère",
+        "?",
+        "Il",
+        "/",
+        "Elle",
+        "a",
+        "les",
+        "yeux",
+        "bleus."
+      ],
+      "tokens_l2": [
+        "Kde",
+        "je",
+        "lyžica?",
+        "Má",
+        "modré",
+        "oči."
+      ]
+    },
+    {
+      "id": "order-kde-je-stanica",
+      "type": "order",
+      "l1": "Où est la gare ?",
+      "l2": "Kde je stanica?",
+      "tokens_l1": [
+        "Où",
+        "est",
+        "la",
+        "gare",
+        "?",
+        "Nous",
+        "aidons",
+        "volontiers",
+        "nos",
+        "amis."
+      ],
+      "tokens_l2": [
+        "Kde",
+        "je",
+        "stanica?",
+        "Radi",
+        "pomáhame",
+        "priateľom."
+      ]
+    },
+    {
+      "id": "order-ideme-do-re-taur-cie",
+      "type": "order",
+      "l1": "Nous allons au restaurant.",
+      "l2": "Ideme do reštaurácie.",
+      "tokens_l1": [
+        "Nous",
+        "allons",
+        "au",
+        "restaurant.",
+        "J'ai",
+        "un",
+        "bon",
+        "ami."
+      ],
+      "tokens_l2": [
+        "Ideme",
+        "do",
+        "reštaurácie.",
+        "Mám",
+        "dobrého",
+        "priateľa."
+      ]
+    },
+    {
+      "id": "order-hotel-je-bl-zko-centra",
+      "type": "order",
+      "l1": "L'hôtel est près du centre.",
+      "l2": "Hotel je blízko centra.",
+      "tokens_l1": [
+        "L'hôtel",
+        "est",
+        "près",
+        "du",
+        "centre.",
+        "Aimes-tu",
+        "les",
+        "fruits",
+        "?"
+      ],
+      "tokens_l2": [
+        "Hotel",
+        "je",
+        "blízko",
+        "centra.",
+        "Ješ",
+        "rád",
+        "ovocie?"
+      ]
+    },
+    {
+      "id": "order-b-vam-v-byte",
+      "type": "order",
+      "l1": "J'habite dans un appartement.",
+      "l2": "Bývam v byte.",
+      "tokens_l1": [
+        "J'habite",
+        "dans",
+        "un",
+        "appartement.",
+        "Aimes-tu",
+        "les",
+        "fruits",
+        "?"
+      ],
+      "tokens_l2": [
+        "Bývam",
+        "v",
+        "byte.",
+        "Ješ",
+        "rád",
+        "ovocie?"
+      ]
+    },
+    {
+      "id": "match-astn-vocab",
+      "type": "match",
+      "l1": [
+        "heureux",
+        "triste",
+        "en colère",
+        "calme"
+      ],
+      "l2": [
+        "šťastný",
+        "smutný",
+        "nahnevaný",
+        "pokojný"
+      ]
+    },
+    {
+      "id": "match-dnes-som-ve-mi-astn-sentences",
+      "type": "match",
+      "l1": [
+        "Aujourd'hui, je suis très heureux.",
+        "Pourquoi es-tu triste ?",
+        "Je suis un peu fatigué.",
+        "Elle est très gentille."
+      ],
+      "l2": [
+        "Dnes som veľmi šťastný.",
+        "Prečo si smutný?",
+        "Som trochu unavený.",
+        "Je veľmi milá."
+      ]
+    }
+  ]
+}

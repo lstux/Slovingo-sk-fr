@@ -1,0 +1,228 @@
+{
+  "id": "vocabulary-nombres-ordinaux",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "🔢 Radové číslovky (Nombres ordinaux)",
+  "image": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Les nombres ordinaux servent à indiquer un ordre :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "premier",
+        "deuxième",
+        "troisième...",
+        "Ils correspondent à \"le ...ième\" en français."
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Les principaux nombres ordinaux"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "premier",
+          "[[prvý]]"
+        ],
+        [
+          "deuxième",
+          "[[druhý]]"
+        ],
+        [
+          "troisième",
+          "[[tretí]]"
+        ],
+        [
+          "quatrième",
+          "[[štvrtý]]"
+        ],
+        [
+          "cinquième",
+          "[[piaty]]"
+        ],
+        [
+          "sixième",
+          "[[šiesty]]"
+        ],
+        [
+          "septième",
+          "[[siedmy]]"
+        ],
+        [
+          "huitième",
+          "[[ôsmy]]"
+        ],
+        [
+          "neuvième",
+          "[[deviaty]]"
+        ],
+        [
+          "dixième",
+          "[[desiaty]]"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. À partir de 11"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Slovaque"
+      ],
+      "rows": [
+        [
+          "onzième",
+          "[[jedenásty]]"
+        ],
+        [
+          "douzième",
+          "[[dvanásty]]"
+        ],
+        [
+          "treizième",
+          "[[trinásty]]"
+        ],
+        [
+          "quatorzième",
+          "[[štrnásty]]"
+        ],
+        [
+          "quinzième",
+          "[[pätnásty]]"
+        ],
+        [
+          "vingtième",
+          "[[dvadsiaty]]"
+        ],
+        [
+          "trentième",
+          "[[tridsiaty]]"
+        ],
+        [
+          "centième",
+          "[[stý]]"
+        ]
+      ],
+      "speakable_column": 1
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Exemples"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "[[prvý deň]]",
+      "speaker": null,
+      "natural": "premier jour",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "[[druhý mesiac]]",
+      "speaker": null,
+      "natural": "deuxième mois",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "[[tretí rok]]",
+      "speaker": null,
+      "natural": "troisième année",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Ordinal ou cardinal ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ Ne pas confondre :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "[[tri]] = trois",
+        "[[tretí]] = troisième"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "[[šesť]] = six",
+        "[[šiesty]] = sixième"
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Pour les dates"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les dates utilisent les nombres ordinaux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exemples :"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "[[šiesteho augusta]]",
+      "speaker": null,
+      "natural": "le six août",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "[[prvého januára]]",
+      "speaker": null,
+      "natural": "le premier janvier",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(On verra le fonctionnement complet dans le mémo \"Dates\".)"
+    }
+  ]
+}

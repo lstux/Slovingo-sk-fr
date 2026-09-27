@@ -1,0 +1,494 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-nie",
+      "type": "qcm",
+      "l1": "non",
+      "l2": "nie",
+      "choices_l1": [
+        "80",
+        "le dîner",
+        "la fenêtre"
+      ],
+      "choices_l2": [
+        "breza",
+        "parkovisko",
+        "káva"
+      ]
+    },
+    {
+      "id": "qcm-ne-pr-fixe",
+      "type": "qcm",
+      "l1": "ne... pas",
+      "l2": "ne- (préfixe)",
+      "choices_l1": [
+        "ce mois",
+        "vy",
+        "éducation physique"
+      ],
+      "choices_l2": [
+        "hneď",
+        "veverica",
+        "vy prídete"
+      ]
+    },
+    {
+      "id": "qcm-ni",
+      "type": "qcm",
+      "l1": "rien",
+      "l2": "nič",
+      "choices_l1": [
+        "le cinéma",
+        "l'eau minérale",
+        "travailler"
+      ],
+      "choices_l2": [
+        "spať",
+        "hovorím",
+        "štipľavý"
+      ]
+    },
+    {
+      "id": "qcm-nikto",
+      "type": "qcm",
+      "l1": "personne",
+      "l2": "nikto",
+      "choices_l1": [
+        "le miroir",
+        "tu veux",
+        "nous cherchons"
+      ],
+      "choices_l2": [
+        "pošta",
+        "koľko",
+        "stromček"
+      ]
+    },
+    {
+      "id": "qcm-nikdy",
+      "type": "qcm",
+      "l1": "jamais",
+      "l2": "nikdy",
+      "choices_l1": [
+        "soudainement",
+        "salé",
+        "l'alerte"
+      ],
+      "choices_l2": [
+        "môcť",
+        "stretnúť sa",
+        "varenie"
+      ]
+    },
+    {
+      "id": "qcm-nikde",
+      "type": "qcm",
+      "l1": "nulle part",
+      "l2": "nikde",
+      "choices_l1": [
+        "foncé",
+        "restaurant",
+        "salon"
+      ],
+      "choices_l2": [
+        "vnuk",
+        "veľa",
+        "baránok"
+      ]
+    },
+    {
+      "id": "qcm-iadny-iadna-iadne",
+      "type": "qcm",
+      "l1": "aucun",
+      "l2": "žiadny / žiadna / žiadne",
+      "choices_l1": [
+        "longtemps",
+        "petit",
+        "tu arrives"
+      ],
+      "choices_l2": [
+        "lenivý / lenivá",
+        "Je desať hodín.",
+        "Na Bielu sobotu sme piekli."
+      ]
+    },
+    {
+      "id": "qcm-ani-ani",
+      "type": "qcm",
+      "l1": "ni... ni",
+      "l2": "ani... ani",
+      "choices_l1": [
+        "le marché",
+        "étudiant(e)",
+        "payer"
+      ],
+      "choices_l2": [
+        "pozvánka",
+        "včera",
+        "horúci"
+      ]
+    },
+    {
+      "id": "blank-nikto-tam-nebol",
+      "type": "fill-blank",
+      "l1": "Personne n'était là.",
+      "l2": "Nikto tam nebol.",
+      "missing_l1": "n'était",
+      "missing_l2": "tam",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "suis",
+        "vous",
+        "cette"
+      ],
+      "choices_l2": [
+        "a",
+        "idem",
+        "sú"
+      ]
+    },
+    {
+      "id": "blank-nikdy-som-tam-nebol",
+      "type": "fill-blank",
+      "l1": "Je n'y suis jamais allé.",
+      "l2": "Nikdy som tam nebol.",
+      "missing_l1": "suis",
+      "missing_l2": "som",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "je",
+        "fait",
+        "dans"
+      ],
+      "choices_l2": [
+        "aj",
+        "sme",
+        "o"
+      ]
+    },
+    {
+      "id": "blank-nikde-ho-nevid-m",
+      "type": "fill-blank",
+      "l1": "Je ne le vois nulle part.",
+      "l2": "Nikde ho nevidím.",
+      "missing_l1": "le",
+      "missing_l2": "ho",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "me",
+        "une",
+        "que"
+      ],
+      "choices_l2": [
+        "dnes",
+        "ste",
+        "bolo"
+      ]
+    },
+    {
+      "id": "blank-nem-m-iadny-as",
+      "type": "fill-blank",
+      "l1": "Je n'ai pas du tout de temps.",
+      "l2": "Nemám žiadny čas.",
+      "missing_l1": "de",
+      "missing_l2": "čas",
+      "blank_index_l1": 5,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "a",
+        "je",
+        "ma"
+      ],
+      "choices_l2": [
+        "mi",
+        "má",
+        "bolo"
+      ]
+    },
+    {
+      "id": "blank-nezn-am-ani-k-vu-ani-aj",
+      "type": "fill-blank",
+      "l1": "Je déteste aussi bien le café que le thé.",
+      "l2": "Neznášam ani kávu, ani čaj.",
+      "missing_l1": "le",
+      "missing_l2": "kávu",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "sont",
+        "dans",
+        "que"
+      ],
+      "choices_l2": [
+        "áno",
+        "si",
+        "ste"
+      ]
+    },
+    {
+      "id": "listen-nie-akujem",
+      "type": "listen",
+      "l1": "Non, merci.",
+      "l2": "Nie, ďakujem.",
+      "choices_l1": [
+        "Salut !",
+        "Lundi après-midi.",
+        "J'habite ici."
+      ]
+    },
+    {
+      "id": "listen-nerozumiem",
+      "type": "listen",
+      "l1": "Je ne comprends pas.",
+      "l2": "Nerozumiem.",
+      "choices_l1": [
+        "Les pommes de terre sont chaudes, mais la viande est froide.",
+        "Excusez-moi / Désolé(e).",
+        "L'eau est chaude. J'en veux de la froide."
+      ]
+    },
+    {
+      "id": "listen-nem-m-ni",
+      "type": "listen",
+      "l1": "Je n'ai rien.",
+      "l2": "Nemám nič.",
+      "choices_l1": [
+        "Le musée est fermé.",
+        "Il y a des feuilles vertes sur l'arbre.",
+        "Qu'est-ce que je dois mettre aujourd'hui ?"
+      ]
+    },
+    {
+      "id": "listen-nikto-tam-nebol",
+      "type": "listen",
+      "l1": "Personne n'était là.",
+      "l2": "Nikto tam nebol.",
+      "choices_l1": [
+        "Je sais nager.",
+        "Le matin j'ai le temps.",
+        "Il est sept heures."
+      ]
+    },
+    {
+      "id": "listen-nikdy-som-tam-nebol",
+      "type": "listen",
+      "l1": "Je n'y suis jamais allé.",
+      "l2": "Nikdy som tam nebol.",
+      "choices_l1": [
+        "Mon oncle a deux enfants.",
+        "Je suis justement en train de cuisiner.",
+        "Ça me fait plaisir. Ce n'est pas seulement l'histoire du pays. C'est aussi ma propre histoire."
+      ]
+    },
+    {
+      "id": "listen-nikde-ho-nevid-m",
+      "type": "listen",
+      "l1": "Je ne le vois nulle part.",
+      "l2": "Nikde ho nevidím.",
+      "choices_l1": [
+        "Nous ne pouvons pas continuer, il y a interdiction d'entrer ici.",
+        "Quelle est la réduction ?",
+        "Au printemps il pleut souvent, alors je porte toujours un parapluie."
+      ]
+    },
+    {
+      "id": "listen-nem-m-iadny-as",
+      "type": "listen",
+      "l1": "Je n'ai pas du tout de temps.",
+      "l2": "Nemám žiadny čas.",
+      "choices_l1": [
+        "Dans un camp similaire, oui, pourquoi pas. Mais sans cette idéologie, bien sûr.",
+        "Ça me fait plaisir. Ce n'est pas seulement l'histoire du pays. C'est aussi ma propre histoire.",
+        "Mercredi oui. Mais pas tôt."
+      ]
+    },
+    {
+      "id": "listen-nezn-am-ani-k-vu-ani-aj",
+      "type": "listen",
+      "l1": "Je déteste aussi bien le café que le thé.",
+      "l2": "Neznášam ani kávu, ani čaj.",
+      "choices_l1": [
+        "Les feux sont rouges.",
+        "Je me lève et je ferme la fenêtre. Il fait froid.",
+        "Je bois du vin, pas de la bière."
+      ]
+    },
+    {
+      "id": "order-nikto-tam-nebol",
+      "type": "order",
+      "l1": "Personne n'était là.",
+      "l2": "Nikto tam nebol.",
+      "tokens_l1": [
+        "Personne",
+        "n'était",
+        "là.",
+        "Je",
+        "ne",
+        "le",
+        "vois",
+        "nulle",
+        "part."
+      ],
+      "tokens_l2": [
+        "Nikto",
+        "tam",
+        "nebol.",
+        "Nikde",
+        "ho",
+        "nevidím."
+      ]
+    },
+    {
+      "id": "order-nikdy-som-tam-nebol",
+      "type": "order",
+      "l1": "Je n'y suis jamais allé.",
+      "l2": "Nikdy som tam nebol.",
+      "tokens_l1": [
+        "Je",
+        "n'y",
+        "suis",
+        "jamais",
+        "allé.",
+        "Je",
+        "déteste",
+        "aussi",
+        "bien",
+        "le",
+        "café",
+        "que",
+        "le",
+        "thé."
+      ],
+      "tokens_l2": [
+        "Nikdy",
+        "som",
+        "tam",
+        "nebol.",
+        "Neznášam",
+        "ani",
+        "kávu,",
+        "ani",
+        "čaj."
+      ]
+    },
+    {
+      "id": "order-nikde-ho-nevid-m",
+      "type": "order",
+      "l1": "Je ne le vois nulle part.",
+      "l2": "Nikde ho nevidím.",
+      "tokens_l1": [
+        "Je",
+        "ne",
+        "le",
+        "vois",
+        "nulle",
+        "part.",
+        "Je",
+        "n'y",
+        "suis",
+        "jamais",
+        "allé."
+      ],
+      "tokens_l2": [
+        "Nikde",
+        "ho",
+        "nevidím.",
+        "Nikdy",
+        "som",
+        "tam",
+        "nebol."
+      ]
+    },
+    {
+      "id": "order-nem-m-iadny-as",
+      "type": "order",
+      "l1": "Je n'ai pas du tout de temps.",
+      "l2": "Nemám žiadny čas.",
+      "tokens_l1": [
+        "Je",
+        "n'ai",
+        "pas",
+        "du",
+        "tout",
+        "de",
+        "temps.",
+        "Personne",
+        "n'était",
+        "là."
+      ],
+      "tokens_l2": [
+        "Nemám",
+        "žiadny",
+        "čas.",
+        "Nikto",
+        "tam",
+        "nebol."
+      ]
+    },
+    {
+      "id": "order-nezn-am-ani-k-vu-ani-aj",
+      "type": "order",
+      "l1": "Je déteste aussi bien le café que le thé.",
+      "l2": "Neznášam ani kávu, ani čaj.",
+      "tokens_l1": [
+        "Je",
+        "déteste",
+        "aussi",
+        "bien",
+        "le",
+        "café",
+        "que",
+        "le",
+        "thé.",
+        "Personne",
+        "n'était",
+        "là."
+      ],
+      "tokens_l2": [
+        "Neznášam",
+        "ani",
+        "kávu,",
+        "ani",
+        "čaj.",
+        "Nikto",
+        "tam",
+        "nebol."
+      ]
+    },
+    {
+      "id": "match-nie-vocab",
+      "type": "match",
+      "l1": [
+        "non",
+        "ne... pas",
+        "rien",
+        "personne"
+      ],
+      "l2": [
+        "nie",
+        "ne- (préfixe)",
+        "nič",
+        "nikto"
+      ]
+    },
+    {
+      "id": "match-nie-akujem-sentences",
+      "type": "match",
+      "l1": [
+        "Non, merci.",
+        "Je ne comprends pas.",
+        "Je n'ai rien.",
+        "Personne n'était là."
+      ],
+      "l2": [
+        "Nie, ďakujem.",
+        "Nerozumiem.",
+        "Nemám nič.",
+        "Nikto tam nebol."
+      ]
+    }
+  ]
+}

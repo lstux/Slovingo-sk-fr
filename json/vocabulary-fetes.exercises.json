@@ -1,0 +1,883 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-narodeniny",
+      "type": "qcm",
+      "l1": "anniversaire",
+      "l2": "narodeniny",
+      "choices_l1": [
+        "l'alerte",
+        "feu",
+        "tu peux"
+      ],
+      "choices_l2": [
+        "na ulici",
+        "úspory",
+        "štvrť hodiny"
+      ]
+    },
+    {
+      "id": "qcm-vianoce",
+      "type": "qcm",
+      "l1": "Noël",
+      "l2": "Vianoce",
+      "choices_l1": [
+        "balcon",
+        "café",
+        "petit-fils"
+      ],
+      "choices_l2": [
+        "chladnička",
+        "veverica",
+        "hovoriť"
+      ]
+    },
+    {
+      "id": "qcm-ve-k-noc",
+      "type": "qcm",
+      "l1": "Pâques",
+      "l2": "Veľká noc",
+      "choices_l1": [
+        "l'épouse",
+        "les gants",
+        "cahier"
+      ],
+      "choices_l2": [
+        "Mám hlad.",
+        "včela",
+        "bolesť"
+      ]
+    },
+    {
+      "id": "qcm-nov-rok",
+      "type": "qcm",
+      "l1": "Nouvel An",
+      "l2": "Nový rok",
+      "choices_l1": [
+        "marché",
+        "arbre",
+        "œil"
+      ],
+      "choices_l2": [
+        "hovoríš",
+        "stesknutie",
+        "rozumieť"
+      ]
+    },
+    {
+      "id": "qcm-meniny",
+      "type": "qcm",
+      "l1": "fête (du prénom)",
+      "l2": "meniny",
+      "choices_l1": [
+        "les halušky sont bonnes",
+        "Je cherche le livre.",
+        "J'écris une lettre."
+      ],
+      "choices_l2": [
+        "list",
+        "štyri",
+        "tento mesiac"
+      ]
+    },
+    {
+      "id": "qcm-svadba",
+      "type": "qcm",
+      "l1": "mariage",
+      "l2": "svadba",
+      "choices_l1": [
+        "le petit-déjeuner",
+        "feu",
+        "la canicule"
+      ],
+      "choices_l2": [
+        "plachý",
+        "námestie",
+        "predpoveď počasia"
+      ]
+    },
+    {
+      "id": "qcm-oslava",
+      "type": "qcm",
+      "l1": "fête, célébration",
+      "l2": "oslava",
+      "choices_l1": [
+        "la liberté",
+        "note (scolaire)",
+        "rassasié"
+      ],
+      "choices_l2": [
+        "aha",
+        "prísť",
+        "budúci rok"
+      ]
+    },
+    {
+      "id": "qcm-pozv-nka",
+      "type": "qcm",
+      "l1": "invitation",
+      "l2": "pozvánka",
+      "choices_l1": [
+        "maladie",
+        "travailler",
+        "vous allez"
+      ],
+      "choices_l2": [
+        "firma",
+        "predpoveď počasia",
+        "hostia"
+      ]
+    },
+    {
+      "id": "qcm-dar-ek",
+      "type": "qcm",
+      "l1": "cadeau",
+      "l2": "darček",
+      "choices_l1": [
+        "pont",
+        "les bâtons",
+        "à l'intérieur"
+      ],
+      "choices_l2": [
+        "šál",
+        "júl",
+        "pivo"
+      ]
+    },
+    {
+      "id": "qcm-torta",
+      "type": "qcm",
+      "l1": "gâteau",
+      "l2": "torta",
+      "choices_l1": [
+        "0",
+        "l'interdiction",
+        "la décision"
+      ],
+      "choices_l2": [
+        "sval",
+        "sloboda",
+        "veľa"
+      ]
+    },
+    {
+      "id": "qcm-svie-ka",
+      "type": "qcm",
+      "l1": "bougie",
+      "l2": "sviečka",
+      "choices_l1": [
+        "les toilettes",
+        "le pull",
+        "juin"
+      ],
+      "choices_l2": [
+        "výhľad",
+        "síce",
+        "chcieť"
+      ]
+    },
+    {
+      "id": "qcm-hostia",
+      "type": "qcm",
+      "l1": "invités",
+      "l2": "hostia",
+      "choices_l1": [
+        "cave",
+        "le week-end",
+        "l'Union européenne"
+      ],
+      "choices_l2": [
+        "šupka",
+        "desaťtisíc",
+        "štyridsať"
+      ]
+    },
+    {
+      "id": "qcm-oslavova",
+      "type": "qcm",
+      "l1": "fêter, célébrer",
+      "l2": "oslavovať",
+      "choices_l1": [
+        "le rocher",
+        "le rassemblement",
+        "pire"
+      ],
+      "choices_l2": [
+        "papier",
+        "dovolenka",
+        "ideš"
+      ]
+    },
+    {
+      "id": "qcm-1-janu-r",
+      "type": "qcm",
+      "l1": "Jour de l'An",
+      "l2": "1. január",
+      "choices_l1": [
+        "leur / leurs",
+        "Je prends un goulash.",
+        "ils / elles mangent"
+      ],
+      "choices_l2": [
+        "ja prídem",
+        "lístok",
+        "24.-26. december"
+      ]
+    },
+    {
+      "id": "qcm-ve-k-noc",
+      "type": "qcm",
+      "l1": "Pâques (date variable)",
+      "l2": "Veľká noc",
+      "choices_l1": [
+        "Il est une heure.",
+        "le lait est bon (neutre)",
+        "emploi du temps"
+      ],
+      "choices_l2": [
+        "plávanie",
+        "predavač",
+        "plný"
+      ]
+    },
+    {
+      "id": "qcm-1-m-j",
+      "type": "qcm",
+      "l1": "Fête du travail",
+      "l2": "1. máj",
+      "choices_l1": [
+        "le pain est bon (masculin)",
+        "il / elle boit",
+        "le sac de couchage"
+      ],
+      "choices_l2": [
+        "smädný",
+        "v skrini",
+        "voľný"
+      ]
+    },
+    {
+      "id": "qcm-5-j-l",
+      "type": "qcm",
+      "l1": "Fête de Cyrille et Méthode",
+      "l2": "5. júl",
+      "choices_l1": [
+        "Je suis Éric.",
+        "J'ai le temps.",
+        "C'est plus facile."
+      ],
+      "choices_l2": [
+        "vonku",
+        "v noci",
+        "slnečnica"
+      ]
+    },
+    {
+      "id": "qcm-29-august",
+      "type": "qcm",
+      "l1": "Anniversaire du soulèvement national slovaque",
+      "l2": "29. august",
+      "choices_l1": [
+        "Je vais faire un gâteau (et il sera terminé).",
+        "il / elle arrive",
+        "cinq heures et demie"
+      ],
+      "choices_l2": [
+        "kúpiť",
+        "päť",
+        "vy pijete"
+      ]
+    },
+    {
+      "id": "qcm-1-september",
+      "type": "qcm",
+      "l1": "Jour de la Constitution",
+      "l2": "1. september",
+      "choices_l1": [
+        "en effet / parce que",
+        "notre / nos",
+        "vous avez décoré"
+      ],
+      "choices_l2": [
+        "hranica",
+        "máš",
+        "ďaleko"
+      ]
+    },
+    {
+      "id": "qcm-24-26-december",
+      "type": "qcm",
+      "l1": "Noël",
+      "l2": "24.-26. december",
+      "choices_l1": [
+        "chaussures",
+        "l'école",
+        "nature"
+      ],
+      "choices_l2": [
+        "skúsiť",
+        "maliar",
+        "ide"
+      ]
+    },
+    {
+      "id": "qcm-trad-cia",
+      "type": "qcm",
+      "l1": "tradition",
+      "l2": "tradícia",
+      "choices_l1": [
+        "à droite",
+        "menu, carte",
+        "tard"
+      ],
+      "choices_l2": [
+        "zdravie",
+        "Veľký piatok",
+        "hotovosť"
+      ]
+    },
+    {
+      "id": "qcm-zvyk",
+      "type": "qcm",
+      "l1": "coutume",
+      "l2": "zvyk",
+      "choices_l1": [
+        "la couverture",
+        "larme",
+        "congé"
+      ],
+      "choices_l2": [
+        "ako",
+        "v stredu",
+        "šibať"
+      ]
+    },
+    {
+      "id": "qcm-strom-ek",
+      "type": "qcm",
+      "l1": "sapin (de Noël)",
+      "l2": "stromček",
+      "choices_l1": [
+        "il / elle cherche",
+        "le refuge, le chalet",
+        "bien / d'accord"
+      ],
+      "choices_l2": [
+        "divadlo",
+        "vpravo",
+        "december"
+      ]
+    },
+    {
+      "id": "qcm-oh-ostroj",
+      "type": "qcm",
+      "l1": "feu d'artifice",
+      "l2": "ohňostroj",
+      "choices_l1": [
+        "entraînement",
+        "la révolution",
+        "le chamois"
+      ],
+      "choices_l2": [
+        "jesť",
+        "okuliare",
+        "poludnie"
+      ]
+    },
+    {
+      "id": "qcm-pesni-ka",
+      "type": "qcm",
+      "l1": "chanson",
+      "l2": "pesnička",
+      "choices_l1": [
+        "doré",
+        "penser",
+        "enfant"
+      ],
+      "choices_l2": [
+        "dva roky",
+        "marec",
+        "farma"
+      ]
+    },
+    {
+      "id": "blank-v-etko-najlep-ie-k-narodenin-m",
+      "type": "fill-blank",
+      "l1": "Joyeux anniversaire ! (littéralement : tout le meilleur pour ton anniversaire)",
+      "l2": "Všetko najlepšie k narodeninám!",
+      "missing_l1": "le",
+      "missing_l2": "k",
+      "blank_index_l1": 6,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "sont",
+        "mais",
+        "est"
+      ],
+      "choices_l2": [
+        "sú",
+        "koľko",
+        "v"
+      ]
+    },
+    {
+      "id": "blank-vesel-vianoce-a-astn-nov-rok",
+      "type": "fill-blank",
+      "l1": "Joyeux Noël et bonne année !",
+      "l2": "Veselé Vianoce a šťastný nový rok!",
+      "missing_l1": "et",
+      "missing_l2": "a",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "a",
+        "les",
+        "heures"
+      ],
+      "choices_l2": [
+        "deň",
+        "aj",
+        "idem"
+      ]
+    },
+    {
+      "id": "blank-blaho-el-m-k-svadbe",
+      "type": "fill-blank",
+      "l1": "Félicitations pour votre mariage !",
+      "l2": "Blahoželám k svadbe!",
+      "missing_l1": "pour",
+      "missing_l2": "k",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "un",
+        "tu",
+        "mais"
+      ],
+      "choices_l2": [
+        "mám",
+        "moja",
+        "sú"
+      ]
+    },
+    {
+      "id": "blank-prajem-ti-pekn-meniny",
+      "type": "fill-blank",
+      "l1": "Je te souhaite une bonne fête (de prénom) !",
+      "l2": "Prajem ti pekné meniny!",
+      "missing_l1": "de",
+      "missing_l2": "pekné",
+      "blank_index_l1": 6,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "au",
+        "du",
+        "fait"
+      ],
+      "choices_l2": [
+        "do",
+        "si",
+        "o"
+      ]
+    },
+    {
+      "id": "blank-poz-vam-a-na-moje-narodeninov-oslavy",
+      "type": "fill-blank",
+      "l1": "Je t'invite à ma fête d'anniversaire.",
+      "l2": "Pozývam ťa na moje narodeninové oslavy.",
+      "missing_l1": "à",
+      "missing_l2": "na",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "heures",
+        "j'ai",
+        "a"
+      ],
+      "choices_l2": [
+        "sú",
+        "môj",
+        "idem"
+      ]
+    },
+    {
+      "id": "blank-k-pil-som-ti-mal-dar-ek",
+      "type": "fill-blank",
+      "l1": "Je t'ai acheté un petit cadeau.",
+      "l2": "Kúpil som ti malý darček.",
+      "missing_l1": "un",
+      "missing_l2": "som",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "au",
+        "a",
+        "du"
+      ],
+      "choices_l2": [
+        "o",
+        "veľmi",
+        "si"
+      ]
+    },
+    {
+      "id": "blank-na-vianoce-zdob-me-strom-ek",
+      "type": "fill-blank",
+      "l1": "À Noël nous décorons le sapin.",
+      "l2": "Na Vianoce zdobíme stromček.",
+      "missing_l1": "le",
+      "missing_l2": "Vianoce",
+      "blank_index_l1": 4,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "je",
+        "ma",
+        "il"
+      ],
+      "choices_l2": [
+        "má",
+        "som",
+        "ešte"
+      ]
+    },
+    {
+      "id": "listen-v-etko-najlep-ie-k-narodenin-m",
+      "type": "listen",
+      "l1": "Joyeux anniversaire ! (littéralement : tout le meilleur pour ton anniversaire)",
+      "l2": "Všetko najlepšie k narodeninám!",
+      "choices_l1": [
+        "Oui, mais mon cœur battait très vite. J'avais peur que mes parents me voient aux infos.",
+        "Aujourd'hui, le soleil brille.",
+        "Je joue au tennis chaque week-end."
+      ]
+    },
+    {
+      "id": "listen-vesel-vianoce-a-astn-nov-rok",
+      "type": "listen",
+      "l1": "Joyeux Noël et bonne année !",
+      "l2": "Veselé Vianoce a šťastný nový rok!",
+      "choices_l1": [
+        "Peut-être que le chez-soi c'est justement ça — un lieu qui change avec vous.",
+        "Nous voyageons en voiture.",
+        "La vue depuis le sommet est magnifique."
+      ]
+    },
+    {
+      "id": "listen-blaho-el-m-k-svadbe",
+      "type": "listen",
+      "l1": "Félicitations pour votre mariage !",
+      "l2": "Blahoželám k svadbe!",
+      "choices_l1": [
+        "En hiver il neige souvent.",
+        "J'ai les yeux verts.",
+        "Le parcours est difficile, mais la vue depuis le sommet en vaut la peine."
+      ]
+    },
+    {
+      "id": "listen-prajem-ti-pekn-meniny",
+      "type": "listen",
+      "l1": "Je te souhaite une bonne fête (de prénom) !",
+      "l2": "Prajem ti pekné meniny!",
+      "choices_l1": [
+        "Je n'ai pas de frère, mais j'ai deux sœurs.",
+        "De l'eau, s'il vous plaît. J'ai soif.",
+        "L'avion est en train d'atterrir."
+      ]
+    },
+    {
+      "id": "listen-poz-vam-a-na-moje-narodeninov-oslavy",
+      "type": "listen",
+      "l1": "Je t'invite à ma fête d'anniversaire.",
+      "l2": "Pozývam ťa na moje narodeninové oslavy.",
+      "choices_l1": [
+        "Que fais-tu, Andrea ?",
+        "Dans quelle classe es-tu ?",
+        "Je lave l'assiette."
+      ]
+    },
+    {
+      "id": "listen-k-pil-som-ti-mal-dar-ek",
+      "type": "listen",
+      "l1": "Je t'ai acheté un petit cadeau.",
+      "l2": "Kúpil som ti malý darček.",
+      "choices_l1": [
+        "Il fait froid dehors.",
+        "Maintenant, je dois y aller.",
+        "En hiver il fait froid, alors je porte des gants et une écharpe."
+      ]
+    },
+    {
+      "id": "listen-na-vianoce-zdob-me-strom-ek",
+      "type": "listen",
+      "l1": "À Noël nous décorons le sapin.",
+      "l2": "Na Vianoce zdobíme stromček.",
+      "choices_l1": [
+        "Tu vas à l'épicerie ?",
+        "Nous avons quatre pièces.",
+        "Nous avons un examen de mathématiques aujourd'hui."
+      ]
+    },
+    {
+      "id": "order-v-etko-najlep-ie-k-narodenin-m",
+      "type": "order",
+      "l1": "Joyeux anniversaire ! (littéralement : tout le meilleur pour ton anniversaire)",
+      "l2": "Všetko najlepšie k narodeninám!",
+      "tokens_l1": [
+        "Joyeux",
+        "anniversaire",
+        "!",
+        "(littéralement",
+        ":",
+        "tout",
+        "le",
+        "meilleur",
+        "pour",
+        "ton",
+        "anniversaire)",
+        "Je",
+        "te",
+        "souhaite",
+        "une",
+        "bonne",
+        "fête",
+        "(de",
+        "prénom)",
+        "!"
+      ],
+      "tokens_l2": [
+        "Všetko",
+        "najlepšie",
+        "k",
+        "narodeninám!",
+        "Prajem",
+        "ti",
+        "pekné",
+        "meniny!"
+      ]
+    },
+    {
+      "id": "order-vesel-vianoce-a-astn-nov-rok",
+      "type": "order",
+      "l1": "Joyeux Noël et bonne année !",
+      "l2": "Veselé Vianoce a šťastný nový rok!",
+      "tokens_l1": [
+        "Joyeux",
+        "Noël",
+        "et",
+        "bonne",
+        "année",
+        "!",
+        "Félicitations",
+        "pour",
+        "votre",
+        "mariage",
+        "!"
+      ],
+      "tokens_l2": [
+        "Veselé",
+        "Vianoce",
+        "a",
+        "šťastný",
+        "nový",
+        "rok!",
+        "Blahoželám",
+        "k",
+        "svadbe!"
+      ]
+    },
+    {
+      "id": "order-blaho-el-m-k-svadbe",
+      "type": "order",
+      "l1": "Félicitations pour votre mariage !",
+      "l2": "Blahoželám k svadbe!",
+      "tokens_l1": [
+        "Félicitations",
+        "pour",
+        "votre",
+        "mariage",
+        "!",
+        "Joyeux",
+        "Noël",
+        "et",
+        "bonne",
+        "année",
+        "!"
+      ],
+      "tokens_l2": [
+        "Blahoželám",
+        "k",
+        "svadbe!",
+        "Veselé",
+        "Vianoce",
+        "a",
+        "šťastný",
+        "nový",
+        "rok!"
+      ]
+    },
+    {
+      "id": "order-prajem-ti-pekn-meniny",
+      "type": "order",
+      "l1": "Je te souhaite une bonne fête (de prénom) !",
+      "l2": "Prajem ti pekné meniny!",
+      "tokens_l1": [
+        "Je",
+        "te",
+        "souhaite",
+        "une",
+        "bonne",
+        "fête",
+        "(de",
+        "prénom)",
+        "!",
+        "Joyeux",
+        "anniversaire",
+        "!",
+        "(littéralement",
+        ":",
+        "tout",
+        "le",
+        "meilleur",
+        "pour",
+        "ton",
+        "anniversaire)"
+      ],
+      "tokens_l2": [
+        "Prajem",
+        "ti",
+        "pekné",
+        "meniny!",
+        "Všetko",
+        "najlepšie",
+        "k",
+        "narodeninám!"
+      ]
+    },
+    {
+      "id": "order-poz-vam-a-na-moje-narodeninov-oslavy",
+      "type": "order",
+      "l1": "Je t'invite à ma fête d'anniversaire.",
+      "l2": "Pozývam ťa na moje narodeninové oslavy.",
+      "tokens_l1": [
+        "Je",
+        "t'invite",
+        "à",
+        "ma",
+        "fête",
+        "d'anniversaire.",
+        "À",
+        "Noël",
+        "nous",
+        "décorons",
+        "le",
+        "sapin."
+      ],
+      "tokens_l2": [
+        "Pozývam",
+        "ťa",
+        "na",
+        "moje",
+        "narodeninové",
+        "oslavy.",
+        "Na",
+        "Vianoce",
+        "zdobíme",
+        "stromček."
+      ]
+    },
+    {
+      "id": "order-k-pil-som-ti-mal-dar-ek",
+      "type": "order",
+      "l1": "Je t'ai acheté un petit cadeau.",
+      "l2": "Kúpil som ti malý darček.",
+      "tokens_l1": [
+        "Je",
+        "t'ai",
+        "acheté",
+        "un",
+        "petit",
+        "cadeau.",
+        "Je",
+        "te",
+        "souhaite",
+        "une",
+        "bonne",
+        "fête",
+        "(de",
+        "prénom)",
+        "!"
+      ],
+      "tokens_l2": [
+        "Kúpil",
+        "som",
+        "ti",
+        "malý",
+        "darček.",
+        "Prajem",
+        "ti",
+        "pekné",
+        "meniny!"
+      ]
+    },
+    {
+      "id": "order-na-vianoce-zdob-me-strom-ek",
+      "type": "order",
+      "l1": "À Noël nous décorons le sapin.",
+      "l2": "Na Vianoce zdobíme stromček.",
+      "tokens_l1": [
+        "À",
+        "Noël",
+        "nous",
+        "décorons",
+        "le",
+        "sapin.",
+        "Félicitations",
+        "pour",
+        "votre",
+        "mariage",
+        "!"
+      ],
+      "tokens_l2": [
+        "Na",
+        "Vianoce",
+        "zdobíme",
+        "stromček.",
+        "Blahoželám",
+        "k",
+        "svadbe!"
+      ]
+    },
+    {
+      "id": "match-narodeniny-vocab",
+      "type": "match",
+      "l1": [
+        "anniversaire",
+        "Noël",
+        "Pâques",
+        "Nouvel An"
+      ],
+      "l2": [
+        "narodeniny",
+        "Vianoce",
+        "Veľká noc",
+        "Nový rok"
+      ]
+    },
+    {
+      "id": "match-v-etko-najlep-ie-k-narodenin-m-sentences",
+      "type": "match",
+      "l1": [
+        "Joyeux anniversaire ! (littéralement : tout le meilleur pour ton anniversaire)",
+        "Joyeux Noël et bonne année !",
+        "Félicitations pour votre mariage !",
+        "Je te souhaite une bonne fête (de prénom) !"
+      ],
+      "l2": [
+        "Všetko najlepšie k narodeninám!",
+        "Veselé Vianoce a šťastný nový rok!",
+        "Blahoželám k svadbe!",
+        "Prajem ti pekné meniny!"
+      ]
+    }
+  ]
+}

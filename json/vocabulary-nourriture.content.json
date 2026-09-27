@@ -1,0 +1,339 @@
+{
+  "id": "vocabulary-nourriture",
+  "category": "vocabulary",
+  "subgroup": null,
+  "subgroup_label": "",
+  "title": "🍽️ Jedlo (La nourriture)",
+  "image": null,
+  "content": [
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Les repas de la journée"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "raňajky",
+          "petit-déjeuner"
+        ],
+        [
+          "obed",
+          "déjeuner"
+        ],
+        [
+          "večera",
+          "dîner"
+        ],
+        [
+          "desiata",
+          "collation du matin"
+        ],
+        [
+          "olovrant",
+          "goûter"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "+ \"raňajky\" est toujours au pluriel en slovaque, même pour parler d'un seul petit-déjeuner."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Aliments de base"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "chlieb",
+          "pain"
+        ],
+        [
+          "maslo",
+          "beurre"
+        ],
+        [
+          "syr",
+          "fromage"
+        ],
+        [
+          "vajce",
+          "œuf"
+        ],
+        [
+          "mäso",
+          "viande"
+        ],
+        [
+          "ryža",
+          "riz"
+        ],
+        [
+          "cestoviny",
+          "pâtes"
+        ],
+        [
+          "polievka",
+          "soupe"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Boissons"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "voda",
+          "eau"
+        ],
+        [
+          "káva",
+          "café"
+        ],
+        [
+          "čaj",
+          "thé"
+        ],
+        [
+          "mlieko",
+          "lait"
+        ],
+        [
+          "džús",
+          "jus (de fruit)"
+        ],
+        [
+          "víno",
+          "vin"
+        ],
+        [
+          "pivo",
+          "bière"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Au restaurant ou à table"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Čo si dáš na jedenie?",
+      "speaker": null,
+      "natural": "Qu'est-ce que tu prends à manger ?",
+      "literal": [
+        "čo = quoi · si dáš = tu (te) prends · na jedenie = à manger"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dám si polievku a potom mäso s ryžou.",
+      "speaker": null,
+      "natural": "Je vais prendre une soupe puis de la viande avec du riz.",
+      "literal": [
+        "dám si = je vais prendre · polievku = soupe · potom = ensuite · mäso s ryžou = viande avec du riz"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám hlad.",
+      "speaker": null,
+      "natural": "J'ai faim.",
+      "literal": [
+        "mám = j'ai · hlad = faim"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám smäd, dáš si so mnou pohár vody?",
+      "speaker": null,
+      "natural": "J'ai soif, tu prends un verre d'eau avec moi ?",
+      "literal": [
+        "mám smäd = j'ai soif · pohár vody = verre d'eau"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dobrú chuť!",
+      "speaker": null,
+      "natural": "Bon appétit !",
+      "literal": [],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Goûts et qualités"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "sladký / sladká",
+          "sucré(e)"
+        ],
+        [
+          "slaný / slaná",
+          "salé(e)"
+        ],
+        [
+          "kyslý / kyslá",
+          "acide"
+        ],
+        [
+          "horký / horká",
+          "amer / amère"
+        ],
+        [
+          "chutný / chutná",
+          "savoureux / savoureuse"
+        ],
+        [
+          "čerstvý / čerstvá",
+          "frais / fraîche"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Táto polievka je veľmi chutná.",
+      "speaker": null,
+      "natural": "Cette soupe est très savoureuse.",
+      "literal": [
+        "táto = cette · polievka = soupe · veľmi = très · chutná = savoureuse"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je to trochu príliš slané.",
+      "speaker": null,
+      "natural": "C'est un peu trop salé.",
+      "literal": [
+        "je to = c'est · trochu príliš = un peu trop · slané = salé"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. Petit vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovenčina",
+        "Français"
+      ],
+      "rows": [
+        [
+          "reštaurácia",
+          "restaurant"
+        ],
+        [
+          "jedálny lístok",
+          "menu, carte"
+        ],
+        [
+          "účet",
+          "addition"
+        ],
+        [
+          "vidlička",
+          "fourchette"
+        ],
+        [
+          "nôž",
+          "couteau"
+        ],
+        [
+          "lyžica",
+          "cuillère"
+        ],
+        [
+          "tanier",
+          "assiette"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môžem poprosiť účet?",
+      "speaker": null,
+      "natural": "Je peux avoir l'addition, s'il vous plaît ?",
+      "literal": [
+        "môžem poprosiť = puis-je demander · účet = addition"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚠️ Pièges pour les francophones"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "\"raňajky\" (petit-déjeuner) est toujours au pluriel, comme \"des vacances\" en français.",
+        "\"mám hlad\" (j'ai faim) et \"mám smäd\" (j'ai soif) utilisent \"mať\" (avoir), comme en français — pas de piège ici, contrairement à d'autres langues slaves.",
+        "Les adjectifs de goût s'accordent en genre comme les couleurs et les émotions : [[slaný]] (masculin) vs [[slaná]] (féminin)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1429 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-bar-nok",
+      "type": "qcm",
+      "l1": "l'agneau (petit, pascal)",
+      "l2": "baránok",
+      "choices_l1": [
+        "ils / elles boivent",
+        "Il fait chaud.",
+        "le pain est bon (masculin)"
+      ],
+      "choices_l2": [
+        "opatrne",
+        "zajtra bude",
+        "víno"
+      ]
+    },
+    {
+      "id": "qcm-unka",
+      "type": "qcm",
+      "l1": "le jambon",
+      "l2": "šunka",
+      "choices_l1": [
+        "l'arc-en-ciel",
+        "ennuyeux",
+        "la serviette"
+      ],
+      "choices_l2": [
+        "v pondelok",
+        "mydlo",
+        "otec"
+      ]
+    },
+    {
+      "id": "qcm-chren",
+      "type": "qcm",
+      "l1": "le raifort",
+      "l2": "chren",
+      "choices_l1": [
+        "chercher",
+        "quatre ans",
+        "mettre, enfiler"
+      ],
+      "choices_l2": [
+        "čiapka",
+        "obloha",
+        "červené auto"
+      ]
+    },
+    {
+      "id": "qcm-syrov-n-tierka",
+      "type": "qcm",
+      "l1": "la tartinade au fromage",
+      "l2": "syrová nátierka",
+      "choices_l1": [
+        "il / elle voit",
+        "Je cherche la clé.",
+        "Combien ça coûte ?"
+      ],
+      "choices_l2": [
+        "lacný",
+        "štít",
+        "vrchol"
+      ]
+    },
+    {
+      "id": "qcm-po-ehna",
+      "type": "qcm",
+      "l1": "bénir",
+      "l2": "požehnať",
+      "choices_l1": [
+        "la cloche",
+        "devoir",
+        "ici"
+      ],
+      "choices_l2": [
+        "oni robia",
+        "soľ",
+        "chutiť"
+      ]
+    },
+    {
+      "id": "qcm-jes",
+      "type": "qcm",
+      "l1": "manger",
+      "l2": "jesť",
+      "choices_l1": [
+        "la boucherie",
+        "la poste",
+        "loin"
+      ],
+      "choices_l2": [
+        "divadlo",
+        "moje meno",
+        "stáť"
+      ]
+    },
+    {
+      "id": "qcm-st-l",
+      "type": "qcm",
+      "l1": "la table",
+      "l2": "stôl",
+      "choices_l1": [
+        "commencer",
+        "j'essaie",
+        "tu seras"
+      ],
+      "choices_l2": [
+        "víkend",
+        "vy idete",
+        "raňajky"
+      ]
+    },
+    {
+      "id": "qcm-k-az-po-ehnal-jedlo",
+      "type": "qcm",
+      "l1": "Le prêtre a béni la nourriture.",
+      "l2": "Kňaz požehnal jedlo.",
+      "choices_l1": [
+        "C'est plus facile.",
+        "Je prends un goulash.",
+        "ils / elles font"
+      ],
+      "choices_l2": [
+        "Toto je náročnejšie.",
+        "Poliali ma vodou.",
+        "on / ona robí"
+      ]
+    },
+    {
+      "id": "qcm-priniesli-sme-ko-k-na-po-ehnanie",
+      "type": "qcm",
+      "l1": "Nous avons apporté le panier à la bénédiction.",
+      "l2": "Priniesli sme košík na požehnanie.",
+      "choices_l1": [
+        "C'est plus facile.",
+        "les pommes de terre",
+        "ils / elles mangent"
+      ],
+      "choices_l2": [
+        "Na Zelený štvrtok sme upratovali.",
+        "plášť do dažďa",
+        "Ideš na zastávku?"
+      ]
+    },
+    {
+      "id": "qcm-jem-unku",
+      "type": "qcm",
+      "l1": "Je mange du jambon.",
+      "l2": "Jem šunku.",
+      "choices_l1": [
+        "il / elle travaille",
+        "la pâtisserie roulée",
+        "un petit frère (masculin)"
+      ],
+      "choices_l2": [
+        "o tretej",
+        "my bývame",
+        "účet"
+      ]
+    },
+    {
+      "id": "qcm-jem-bar-nka",
+      "type": "qcm",
+      "l1": "Je mange de l'agneau.",
+      "l2": "Jem baránka.",
+      "choices_l1": [
+        "Tu prends un café ?",
+        "Suis le bleu.",
+        "C'est après le coin."
+      ],
+      "choices_l2": [
+        "oranžový",
+        "jeseň",
+        "narodeniny"
+      ]
+    },
+    {
+      "id": "qcm-m-m-chren",
+      "type": "qcm",
+      "l1": "J'ai du raifort.",
+      "l2": "Mám chren.",
+      "choices_l1": [
+        "il / elle fait",
+        "Combien ça coûte ?",
+        "les pommes de terre"
+      ],
+      "choices_l2": [
+        "upozornenie",
+        "my kupujeme",
+        "predavačka"
+      ]
+    },
+    {
+      "id": "qcm-chcem-syrov-n-tierku",
+      "type": "qcm",
+      "l1": "Je veux de la tartinade au fromage.",
+      "l2": "Chcem syrovú nátierku.",
+      "choices_l1": [
+        "Je n'ai pas teint d'œufs.",
+        "Ça coûte cinq euros.",
+        "je me promène"
+      ],
+      "choices_l2": [
+        "studený → studenejší",
+        "Páči sa mi to.",
+        "Ideš na zastávku?"
+      ]
+    },
+    {
+      "id": "qcm-syr",
+      "type": "qcm",
+      "l1": "le fromage",
+      "l2": "syr",
+      "choices_l1": [
+        "festif",
+        "l'hôpital",
+        "tu seras"
+      ],
+      "choices_l2": [
+        "trištvrte",
+        "ulica",
+        "vy robíte"
+      ]
+    },
+    {
+      "id": "qcm-chlieb",
+      "type": "qcm",
+      "l1": "le pain",
+      "l2": "chlieb",
+      "choices_l1": [
+        "mercredi",
+        "la tante",
+        "la chemise"
+      ],
+      "choices_l2": [
+        "meno",
+        "my chodíme",
+        "opasok"
+      ]
+    },
+    {
+      "id": "qcm-v-no",
+      "type": "qcm",
+      "l1": "le vin",
+      "l2": "víno",
+      "choices_l1": [
+        "l'alerte",
+        "la télévision",
+        "le festival"
+      ],
+      "choices_l2": [
+        "jedlo",
+        "kuchyňa",
+        "vrch"
+      ]
+    },
+    {
+      "id": "qcm-paska",
+      "type": "qcm",
+      "l1": "la brioche pascale",
+      "l2": "paska",
+      "choices_l1": [
+        "la soupe de choucroute",
+        "le fromage de brebis",
+        "je marcherai (d'habitude)"
+      ],
+      "choices_l2": [
+        "langoše",
+        "kamzík",
+        "drahý"
+      ]
+    },
+    {
+      "id": "qcm-cukor",
+      "type": "qcm",
+      "l1": "le sucre",
+      "l2": "cukor",
+      "choices_l1": [
+        "quatre ans",
+        "l'eau minérale",
+        "assoiffé"
+      ],
+      "choices_l2": [
+        "kňaz",
+        "vy chcete",
+        "rukavice"
+      ]
+    },
+    {
+      "id": "qcm-slan",
+      "type": "qcm",
+      "l1": "salé",
+      "l2": "slaný",
+      "choices_l1": [
+        "tôt, bientôt",
+        "l'interdiction",
+        "sucré"
+      ],
+      "choices_l2": [
+        "málo",
+        "oblak",
+        "ráno"
+      ]
+    },
+    {
+      "id": "qcm-tip-av",
+      "type": "qcm",
+      "l1": "piquant",
+      "l2": "štipľavý",
+      "choices_l1": [
+        "Il neige.",
+        "le fromage",
+        "chaque"
+      ],
+      "choices_l2": [
+        "oblak",
+        "vy idete",
+        "Choďte rovno!"
+      ]
+    },
+    {
+      "id": "blank-na-stole-je-unka-vaj-ka-a-chren",
+      "type": "fill-blank",
+      "l1": "Sur la table il y a du jambon, des œufs et du raifort.",
+      "l2": "Na stole je šunka, vajíčka a chren.",
+      "missing_l1": "la",
+      "missing_l2": "je",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "heures",
+        "est",
+        "suis"
+      ],
+      "choices_l2": [
+        "áno",
+        "vodu",
+        "mám"
+      ]
+    },
+    {
+      "id": "blank-k-az-po-ehnal-jedlo-pred-obedom",
+      "type": "fill-blank",
+      "l1": "Le prêtre a béni la nourriture avant le déjeuner.",
+      "l2": "Kňaz požehnal jedlo pred obedom.",
+      "missing_l1": "la",
+      "missing_l2": "pred",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "une",
+        "mais",
+        "plaît"
+      ],
+      "choices_l2": [
+        "a",
+        "deti",
+        "to"
+      ]
+    },
+    {
+      "id": "blank-jedli-sme-bar-nka-a-syrov-n-tierku",
+      "type": "fill-blank",
+      "l1": "Nous avons mangé de l'agneau et de la tartinade au fromage.",
+      "l2": "Jedli sme baránka a syrovú nátierku.",
+      "missing_l1": "la",
+      "missing_l2": "a",
+      "blank_index_l1": 7,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "vais",
+        "heures",
+        "une"
+      ],
+      "choices_l2": [
+        "bude",
+        "v",
+        "je"
+      ]
+    },
+    {
+      "id": "blank-chren-je-ve-mi-tip-av",
+      "type": "fill-blank",
+      "l1": "Le raifort est très piquant !",
+      "l2": "Chren je veľmi štipľavý!",
+      "missing_l1": "est",
+      "missing_l2": "je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "il",
+        "sur",
+        "la"
+      ],
+      "choices_l2": [
+        "na",
+        "mám",
+        "áno"
+      ]
+    },
+    {
+      "id": "blank-nejedli-sme-m-so-na-ve-k-piatok",
+      "type": "fill-blank",
+      "l1": "Nous n'avons pas mangé de viande le vendredi saint.",
+      "l2": "Nejedli sme mäso na Veľký piatok.",
+      "missing_l1": "le",
+      "missing_l2": "na",
+      "blank_index_l1": 6,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "est",
+        "la",
+        "je"
+      ],
+      "choices_l2": [
+        "siedmej",
+        "vodu",
+        "o"
+      ]
+    },
+    {
+      "id": "blank-priniesli-sme-ko-k-do-kostola-na-po-ehnanie",
+      "type": "fill-blank",
+      "l1": "Nous avons apporté le panier à l'église pour la bénédiction.",
+      "l2": "Priniesli sme košík do kostola na požehnanie.",
+      "missing_l1": "la",
+      "missing_l2": "na",
+      "blank_index_l1": 8,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "vais",
+        "pas",
+        "je"
+      ],
+      "choices_l2": [
+        "nie",
+        "ako",
+        "bude"
+      ]
+    },
+    {
+      "id": "blank-st-l-bol-pln-jedla",
+      "type": "fill-blank",
+      "l1": "La table était pleine de nourriture.",
+      "l2": "Stôl bol plný jedla.",
+      "missing_l1": "de",
+      "missing_l2": "bol",
+      "blank_index_l1": 4,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "que",
+        "pas",
+        "suis"
+      ],
+      "choices_l2": [
+        "do",
+        "ešte",
+        "deti"
+      ]
+    },
+    {
+      "id": "blank-m-me-bar-nka-z-cesta-nie-skuto-n-ho",
+      "type": "fill-blank",
+      "l1": "Nous avons un agneau en pâte, pas un vrai.",
+      "l2": "Máme baránka z cesta, nie skutočného.",
+      "missing_l1": "un",
+      "missing_l2": "nie",
+      "blank_index_l1": 2,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "y",
+        "je",
+        "au"
+      ],
+      "choices_l2": [
+        "ešte",
+        "sa",
+        "deň"
+      ]
+    },
+    {
+      "id": "blank-na-bielu-sobotu-sme-pripravili-unku-vaj-ka-a-kol-e",
+      "type": "fill-blank",
+      "l1": "Le samedi saint nous avons préparé du jambon, des œufs et de la pâtisserie.",
+      "l2": "Na Bielu sobotu sme pripravili šunku, vajíčka a koláče.",
+      "missing_l1": "la",
+      "missing_l2": "a",
+      "blank_index_l1": 12,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "s'il",
+        "sur",
+        "veux"
+      ],
+      "choices_l2": [
+        "mám",
+        "prosím",
+        "tu"
+      ]
+    },
+    {
+      "id": "blank-farbili-sme-vaj-ka-potom-sme-ich-jedli-na-ve-kono-n-nede-u",
+      "type": "fill-blank",
+      "l1": "Nous avons teint les œufs, puis nous les avons mangés le dimanche de Pâques.",
+      "l2": "Farbili sme vajíčka, potom sme ich jedli na Veľkonočnú nedeľu.",
+      "missing_l1": "le",
+      "missing_l2": "na",
+      "blank_index_l1": 10,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "sur",
+        "mon",
+        "de"
+      ],
+      "choices_l2": [
+        "ísť",
+        "idem",
+        "si"
+      ]
+    },
+    {
+      "id": "blank-paska-je-sladk-ale-chren-je-tip-av",
+      "type": "fill-blank",
+      "l1": "La paska est sucrée, mais le raifort est piquant.",
+      "l2": "Paska je sladká, ale chren je štipľavý.",
+      "missing_l1": "le",
+      "missing_l2": "je",
+      "blank_index_l1": 5,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "vais",
+        "et",
+        "mais"
+      ],
+      "choices_l2": [
+        "si",
+        "sa",
+        "mám"
+      ]
+    },
+    {
+      "id": "blank-pripravili-sme-aj-v-no-pre-dospel-ch",
+      "type": "fill-blank",
+      "l1": "Nous avons aussi préparé du vin pour les adultes.",
+      "l2": "Pripravili sme aj víno pre dospelých.",
+      "missing_l1": "les",
+      "missing_l2": "sme",
+      "blank_index_l1": 7,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "un",
+        "c'est",
+        "où"
+      ],
+      "choices_l2": [
+        "toto",
+        "sa",
+        "má"
+      ]
+    },
+    {
+      "id": "blank-chlieb-bol-erstv-a-tepl",
+      "type": "fill-blank",
+      "l1": "Le pain était frais et chaud.",
+      "l2": "Chlieb bol čerstvý a teplý.",
+      "missing_l1": "et",
+      "missing_l2": "a",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "dans",
+        "ma",
+        "vous"
+      ],
+      "choices_l2": [
+        "máte",
+        "mať",
+        "sa"
+      ]
+    },
+    {
+      "id": "blank-nem-m-r-d-syr-so-unkou",
+      "type": "fill-blank",
+      "l1": "Je n'aime pas le fromage avec le jambon.",
+      "l2": "Nemám rád syr so šunkou.",
+      "missing_l1": "le",
+      "missing_l2": "rád",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "j'ai",
+        "est",
+        "de"
+      ],
+      "choices_l2": [
+        "v",
+        "máte",
+        "tu"
+      ]
+    },
+    {
+      "id": "blank-st-l-bol-slan-aj-sladk-z-rove",
+      "type": "fill-blank",
+      "l1": "La table était salée et sucrée à la fois.",
+      "l2": "Stôl bol slaný aj sladký zároveň.",
+      "missing_l1": "la",
+      "missing_l2": "aj",
+      "blank_index_l1": 7,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "est",
+        "vous",
+        "suis"
+      ],
+      "choices_l2": [
+        "musíme",
+        "môj",
+        "prosím"
+      ]
+    },
+    {
+      "id": "listen-na-stole-je-unka-vaj-ka-a-chren",
+      "type": "listen",
+      "l1": "Sur la table il y a du jambon, des œufs et du raifort.",
+      "l2": "Na stole je šunka, vajíčka a chren.",
+      "choices_l1": [
+        "Nous avons tout préparé pour Pâques.",
+        "L'année a douze mois.",
+        "Je paie par carte."
+      ]
+    },
+    {
+      "id": "listen-k-az-po-ehnal-jedlo-pred-obedom",
+      "type": "listen",
+      "l1": "Le prêtre a béni la nourriture avant le déjeuner.",
+      "l2": "Kňaz požehnal jedlo pred obedom.",
+      "choices_l1": [
+        "Eric, voici ma famille.",
+        "Le soir je suis à la maison.",
+        "J'attends ici depuis longtemps."
+      ]
+    },
+    {
+      "id": "listen-jedli-sme-bar-nka-a-syrov-n-tierku",
+      "type": "listen",
+      "l1": "Nous avons mangé de l'agneau et de la tartinade au fromage.",
+      "l2": "Jedli sme baránka a syrovú nátierku.",
+      "choices_l1": [
+        "Tu dois avoir des chaussures de randonnée.",
+        "La soupe de choucroute est chaude et acide.",
+        "Je suis professeur. Je travaille dans une école."
+      ]
+    },
+    {
+      "id": "listen-chren-je-ve-mi-tip-av",
+      "type": "listen",
+      "l1": "Le raifort est très piquant !",
+      "l2": "Chren je veľmi štipľavý!",
+      "choices_l1": [
+        "En hiver il y a un fort gel.",
+        "Je veux une réduction, parce que c'est trop cher.",
+        "C'est très savoureux."
+      ]
+    },
+    {
+      "id": "listen-nejedli-sme-m-so-na-ve-k-piatok",
+      "type": "listen",
+      "l1": "Nous n'avons pas mangé de viande le vendredi saint.",
+      "l2": "Nejedli sme mäso na Veľký piatok.",
+      "choices_l1": [
+        "Le week-end je ne me lève jamais tôt.",
+        "Sur la table il y a un verre et une assiette.",
+        "Nous avons une réservation pour deux lits et des sacs de couchage."
+      ]
+    },
+    {
+      "id": "listen-priniesli-sme-ko-k-do-kostola-na-po-ehnanie",
+      "type": "listen",
+      "l1": "Nous avons apporté le panier à l'église pour la bénédiction.",
+      "l2": "Priniesli sme košík do kostola na požehnanie.",
+      "choices_l1": [
+        "Le soir il va pleuvoir.",
+        "Les garçons sont venus avec le fouet.",
+        "Je suis le balisage rouge."
+      ]
+    },
+    {
+      "id": "listen-st-l-bol-pln-jedla",
+      "type": "listen",
+      "l1": "La table était pleine de nourriture.",
+      "l2": "Stôl bol plný jedla.",
+      "choices_l1": [
+        "Quelle est la date aujourd'hui ? Regarde le calendrier.",
+        "Nous avons un grand tapis et un vieux tableau.",
+        "Goûte la bryndza ! Elle est salée."
+      ]
+    },
+    {
+      "id": "listen-m-me-bar-nka-z-cesta-nie-skuto-n-ho",
+      "type": "listen",
+      "l1": "Nous avons un agneau en pâte, pas un vrai.",
+      "l2": "Máme baránka z cesta, nie skutočného.",
+      "choices_l1": [
+        "Oui, où est la cabine ?",
+        "Il y avait beaucoup de rires et de blagues.",
+        "L'itinéraire vers le sommet est long, mais la vue en vaut la peine."
+      ]
+    },
+    {
+      "id": "listen-na-bielu-sobotu-sme-pripravili-unku-vaj-ka-a-kol-e",
+      "type": "listen",
+      "l1": "Le samedi saint nous avons préparé du jambon, des œufs et de la pâtisserie.",
+      "l2": "Na Bielu sobotu sme pripravili šunku, vajíčka a koláče.",
+      "choices_l1": [
+        "J'attends à sept heures.",
+        "En montagne l'air est pur et le silence magnifique.",
+        "La soupe de choucroute est salée et un peu acide."
+      ]
+    },
+    {
+      "id": "listen-farbili-sme-vaj-ka-potom-sme-ich-jedli-na-ve-kono-n-nede-u",
+      "type": "listen",
+      "l1": "Nous avons teint les œufs, puis nous les avons mangés le dimanche de Pâques.",
+      "l2": "Farbili sme vajíčka, potom sme ich jedli na Veľkonočnú nedeľu.",
+      "choices_l1": [
+        "Les enfants veulent des fruits.",
+        "Je suis fatigué. Je veux me reposer.",
+        "C'est un peu petit. Vous en avez un plus grand ?"
+      ]
+    },
+    {
+      "id": "listen-paska-je-sladk-ale-chren-je-tip-av",
+      "type": "listen",
+      "l1": "La paska est sucrée, mais le raifort est piquant.",
+      "l2": "Paska je sladká, ale chren je štipľavý.",
+      "choices_l1": [
+        "Mon père est professeur.",
+        "Le parcours est difficile, mais la vue depuis le sommet en vaut la peine.",
+        "Va tout droit, puis à droite près de la banque."
+      ]
+    },
+    {
+      "id": "listen-pripravili-sme-aj-v-no-pre-dospel-ch",
+      "type": "listen",
+      "l1": "Nous avons aussi préparé du vin pour les adultes.",
+      "l2": "Pripravili sme aj víno pre dospelých.",
+      "choices_l1": [
+        "La rue est étroite, allez à pied.",
+        "Je me repose sur le lit et j'écoute.",
+        "Mon fils est étudiant. Il habite en ville."
+      ]
+    },
+    {
+      "id": "listen-chlieb-bol-erstv-a-tepl",
+      "type": "listen",
+      "l1": "Le pain était frais et chaud.",
+      "l2": "Chlieb bol čerstvý a teplý.",
+      "choices_l1": [
+        "Merci, c'était excellent.",
+        "J'attends à sept heures.",
+        "Mon ami est médecin. Il travaille à l'hôpital."
+      ]
+    },
+    {
+      "id": "listen-nem-m-r-d-syr-so-unkou",
+      "type": "listen",
+      "l1": "Je n'aime pas le fromage avec le jambon.",
+      "l2": "Nemám rád syr so šunkou.",
+      "choices_l1": [
+        "Le week-end j'ai le temps.",
+        "Ma grand-mère s'appelle Zuzana.",
+        "Et vous, Eric ? Que faites-vous ?"
+      ]
+    },
+    {
+      "id": "listen-st-l-bol-slan-aj-sladk-z-rove",
+      "type": "listen",
+      "l1": "La table était salée et sucrée à la fois.",
+      "l2": "Stôl bol slaný aj sladký zároveň.",
+      "choices_l1": [
+        "On se retrouve là-bas plus tard ?",
+        "Ján a vingt ans. Il est étudiant.",
+        "Le train arrive à l'heure."
+      ]
+    },
+    {
+      "id": "order-na-stole-je-unka-vaj-ka-a-chren",
+      "type": "order",
+      "l1": "Sur la table il y a du jambon, des œufs et du raifort.",
+      "l2": "Na stole je šunka, vajíčka a chren.",
+      "tokens_l1": [
+        "Sur",
+        "la",
+        "table",
+        "il",
+        "y",
+        "a",
+        "du",
+        "jambon,",
+        "des",
+        "œufs",
+        "et",
+        "du",
+        "raifort.",
+        "Le",
+        "raifort",
+        "est",
+        "très",
+        "piquant",
+        "!"
+      ],
+      "tokens_l2": [
+        "Na",
+        "stole",
+        "je",
+        "šunka,",
+        "vajíčka",
+        "a",
+        "chren.",
+        "Chren",
+        "je",
+        "veľmi",
+        "štipľavý!"
+      ]
+    },
+    {
+      "id": "order-k-az-po-ehnal-jedlo-pred-obedom",
+      "type": "order",
+      "l1": "Le prêtre a béni la nourriture avant le déjeuner.",
+      "l2": "Kňaz požehnal jedlo pred obedom.",
+      "tokens_l1": [
+        "Le",
+        "prêtre",
+        "a",
+        "béni",
+        "la",
+        "nourriture",
+        "avant",
+        "le",
+        "déjeuner.",
+        "Le",
+        "raifort",
+        "est",
+        "très",
+        "piquant",
+        "!"
+      ],
+      "tokens_l2": [
+        "Kňaz",
+        "požehnal",
+        "jedlo",
+        "pred",
+        "obedom.",
+        "Chren",
+        "je",
+        "veľmi",
+        "štipľavý!"
+      ]
+    },
+    {
+      "id": "order-jedli-sme-bar-nka-a-syrov-n-tierku",
+      "type": "order",
+      "l1": "Nous avons mangé de l'agneau et de la tartinade au fromage.",
+      "l2": "Jedli sme baránka a syrovú nátierku.",
+      "tokens_l1": [
+        "Nous",
+        "avons",
+        "mangé",
+        "de",
+        "l'agneau",
+        "et",
+        "de",
+        "la",
+        "tartinade",
+        "au",
+        "fromage.",
+        "Le",
+        "samedi",
+        "saint",
+        "nous",
+        "avons",
+        "préparé",
+        "du",
+        "jambon,",
+        "des",
+        "œufs",
+        "et",
+        "de",
+        "la",
+        "pâtisserie."
+      ],
+      "tokens_l2": [
+        "Jedli",
+        "sme",
+        "baránka",
+        "a",
+        "syrovú",
+        "nátierku.",
+        "Na",
+        "Bielu",
+        "sobotu",
+        "sme",
+        "pripravili",
+        "šunku,",
+        "vajíčka",
+        "a",
+        "koláče."
+      ]
+    },
+    {
+      "id": "order-chren-je-ve-mi-tip-av",
+      "type": "order",
+      "l1": "Le raifort est très piquant !",
+      "l2": "Chren je veľmi štipľavý!",
+      "tokens_l1": [
+        "Le",
+        "raifort",
+        "est",
+        "très",
+        "piquant",
+        "!",
+        "Je",
+        "n'aime",
+        "pas",
+        "le",
+        "fromage",
+        "avec",
+        "le",
+        "jambon."
+      ],
+      "tokens_l2": [
+        "Chren",
+        "je",
+        "veľmi",
+        "štipľavý!",
+        "Nemám",
+        "rád",
+        "syr",
+        "so",
+        "šunkou."
+      ]
+    },
+    {
+      "id": "order-nejedli-sme-m-so-na-ve-k-piatok",
+      "type": "order",
+      "l1": "Nous n'avons pas mangé de viande le vendredi saint.",
+      "l2": "Nejedli sme mäso na Veľký piatok.",
+      "tokens_l1": [
+        "Nous",
+        "n'avons",
+        "pas",
+        "mangé",
+        "de",
+        "viande",
+        "le",
+        "vendredi",
+        "saint.",
+        "La",
+        "table",
+        "était",
+        "pleine",
+        "de",
+        "nourriture."
+      ],
+      "tokens_l2": [
+        "Nejedli",
+        "sme",
+        "mäso",
+        "na",
+        "Veľký",
+        "piatok.",
+        "Stôl",
+        "bol",
+        "plný",
+        "jedla."
+      ]
+    },
+    {
+      "id": "order-priniesli-sme-ko-k-do-kostola-na-po-ehnanie",
+      "type": "order",
+      "l1": "Nous avons apporté le panier à l'église pour la bénédiction.",
+      "l2": "Priniesli sme košík do kostola na požehnanie.",
+      "tokens_l1": [
+        "Nous",
+        "avons",
+        "apporté",
+        "le",
+        "panier",
+        "à",
+        "l'église",
+        "pour",
+        "la",
+        "bénédiction.",
+        "La",
+        "table",
+        "était",
+        "salée",
+        "et",
+        "sucrée",
+        "à",
+        "la",
+        "fois."
+      ],
+      "tokens_l2": [
+        "Priniesli",
+        "sme",
+        "košík",
+        "do",
+        "kostola",
+        "na",
+        "požehnanie.",
+        "Stôl",
+        "bol",
+        "slaný",
+        "aj",
+        "sladký",
+        "zároveň."
+      ]
+    },
+    {
+      "id": "order-st-l-bol-pln-jedla",
+      "type": "order",
+      "l1": "La table était pleine de nourriture.",
+      "l2": "Stôl bol plný jedla.",
+      "tokens_l1": [
+        "La",
+        "table",
+        "était",
+        "pleine",
+        "de",
+        "nourriture.",
+        "Je",
+        "n'aime",
+        "pas",
+        "le",
+        "fromage",
+        "avec",
+        "le",
+        "jambon."
+      ],
+      "tokens_l2": [
+        "Stôl",
+        "bol",
+        "plný",
+        "jedla.",
+        "Nemám",
+        "rád",
+        "syr",
+        "so",
+        "šunkou."
+      ]
+    },
+    {
+      "id": "order-m-me-bar-nka-z-cesta-nie-skuto-n-ho",
+      "type": "order",
+      "l1": "Nous avons un agneau en pâte, pas un vrai.",
+      "l2": "Máme baránka z cesta, nie skutočného.",
+      "tokens_l1": [
+        "Nous",
+        "avons",
+        "un",
+        "agneau",
+        "en",
+        "pâte,",
+        "pas",
+        "un",
+        "vrai.",
+        "Le",
+        "samedi",
+        "saint",
+        "nous",
+        "avons",
+        "préparé",
+        "du",
+        "jambon,",
+        "des",
+        "œufs",
+        "et",
+        "de",
+        "la",
+        "pâtisserie."
+      ],
+      "tokens_l2": [
+        "Máme",
+        "baránka",
+        "z",
+        "cesta,",
+        "nie",
+        "skutočného.",
+        "Na",
+        "Bielu",
+        "sobotu",
+        "sme",
+        "pripravili",
+        "šunku,",
+        "vajíčka",
+        "a",
+        "koláče."
+      ]
+    },
+    {
+      "id": "order-na-bielu-sobotu-sme-pripravili-unku-vaj-ka-a-kol-e",
+      "type": "order",
+      "l1": "Le samedi saint nous avons préparé du jambon, des œufs et de la pâtisserie.",
+      "l2": "Na Bielu sobotu sme pripravili šunku, vajíčka a koláče.",
+      "tokens_l1": [
+        "Le",
+        "samedi",
+        "saint",
+        "nous",
+        "avons",
+        "préparé",
+        "du",
+        "jambon,",
+        "des",
+        "œufs",
+        "et",
+        "de",
+        "la",
+        "pâtisserie.",
+        "Nous",
+        "avons",
+        "aussi",
+        "préparé",
+        "du",
+        "vin",
+        "pour",
+        "les",
+        "adultes."
+      ],
+      "tokens_l2": [
+        "Na",
+        "Bielu",
+        "sobotu",
+        "sme",
+        "pripravili",
+        "šunku,",
+        "vajíčka",
+        "a",
+        "koláče.",
+        "Pripravili",
+        "sme",
+        "aj",
+        "víno",
+        "pre",
+        "dospelých."
+      ]
+    },
+    {
+      "id": "order-farbili-sme-vaj-ka-potom-sme-ich-jedli-na-ve-kono-n-nede-u",
+      "type": "order",
+      "l1": "Nous avons teint les œufs, puis nous les avons mangés le dimanche de Pâques.",
+      "l2": "Farbili sme vajíčka, potom sme ich jedli na Veľkonočnú nedeľu.",
+      "tokens_l1": [
+        "Nous",
+        "avons",
+        "teint",
+        "les",
+        "œufs,",
+        "puis",
+        "nous",
+        "les",
+        "avons",
+        "mangés",
+        "le",
+        "dimanche",
+        "de",
+        "Pâques.",
+        "Nous",
+        "n'avons",
+        "pas",
+        "mangé",
+        "de",
+        "viande",
+        "le",
+        "vendredi",
+        "saint."
+      ],
+      "tokens_l2": [
+        "Farbili",
+        "sme",
+        "vajíčka,",
+        "potom",
+        "sme",
+        "ich",
+        "jedli",
+        "na",
+        "Veľkonočnú",
+        "nedeľu.",
+        "Nejedli",
+        "sme",
+        "mäso",
+        "na",
+        "Veľký",
+        "piatok."
+      ]
+    },
+    {
+      "id": "order-paska-je-sladk-ale-chren-je-tip-av",
+      "type": "order",
+      "l1": "La paska est sucrée, mais le raifort est piquant.",
+      "l2": "Paska je sladká, ale chren je štipľavý.",
+      "tokens_l1": [
+        "La",
+        "paska",
+        "est",
+        "sucrée,",
+        "mais",
+        "le",
+        "raifort",
+        "est",
+        "piquant.",
+        "Nous",
+        "avons",
+        "un",
+        "agneau",
+        "en",
+        "pâte,",
+        "pas",
+        "un",
+        "vrai."
+      ],
+      "tokens_l2": [
+        "Paska",
+        "je",
+        "sladká,",
+        "ale",
+        "chren",
+        "je",
+        "štipľavý.",
+        "Máme",
+        "baránka",
+        "z",
+        "cesta,",
+        "nie",
+        "skutočného."
+      ]
+    },
+    {
+      "id": "order-pripravili-sme-aj-v-no-pre-dospel-ch",
+      "type": "order",
+      "l1": "Nous avons aussi préparé du vin pour les adultes.",
+      "l2": "Pripravili sme aj víno pre dospelých.",
+      "tokens_l1": [
+        "Nous",
+        "avons",
+        "aussi",
+        "préparé",
+        "du",
+        "vin",
+        "pour",
+        "les",
+        "adultes.",
+        "Le",
+        "prêtre",
+        "a",
+        "béni",
+        "la",
+        "nourriture",
+        "avant",
+        "le",
+        "déjeuner."
+      ],
+      "tokens_l2": [
+        "Pripravili",
+        "sme",
+        "aj",
+        "víno",
+        "pre",
+        "dospelých.",
+        "Kňaz",
+        "požehnal",
+        "jedlo",
+        "pred",
+        "obedom."
+      ]
+    },
+    {
+      "id": "order-chlieb-bol-erstv-a-tepl",
+      "type": "order",
+      "l1": "Le pain était frais et chaud.",
+      "l2": "Chlieb bol čerstvý a teplý.",
+      "tokens_l1": [
+        "Le",
+        "pain",
+        "était",
+        "frais",
+        "et",
+        "chaud.",
+        "Sur",
+        "la",
+        "table",
+        "il",
+        "y",
+        "a",
+        "du",
+        "jambon,",
+        "des",
+        "œufs",
+        "et",
+        "du",
+        "raifort."
+      ],
+      "tokens_l2": [
+        "Chlieb",
+        "bol",
+        "čerstvý",
+        "a",
+        "teplý.",
+        "Na",
+        "stole",
+        "je",
+        "šunka,",
+        "vajíčka",
+        "a",
+        "chren."
+      ]
+    },
+    {
+      "id": "order-nem-m-r-d-syr-so-unkou",
+      "type": "order",
+      "l1": "Je n'aime pas le fromage avec le jambon.",
+      "l2": "Nemám rád syr so šunkou.",
+      "tokens_l1": [
+        "Je",
+        "n'aime",
+        "pas",
+        "le",
+        "fromage",
+        "avec",
+        "le",
+        "jambon.",
+        "Nous",
+        "avons",
+        "mangé",
+        "de",
+        "l'agneau",
+        "et",
+        "de",
+        "la",
+        "tartinade",
+        "au",
+        "fromage."
+      ],
+      "tokens_l2": [
+        "Nemám",
+        "rád",
+        "syr",
+        "so",
+        "šunkou.",
+        "Jedli",
+        "sme",
+        "baránka",
+        "a",
+        "syrovú",
+        "nátierku."
+      ]
+    },
+    {
+      "id": "order-st-l-bol-slan-aj-sladk-z-rove",
+      "type": "order",
+      "l1": "La table était salée et sucrée à la fois.",
+      "l2": "Stôl bol slaný aj sladký zároveň.",
+      "tokens_l1": [
+        "La",
+        "table",
+        "était",
+        "salée",
+        "et",
+        "sucrée",
+        "à",
+        "la",
+        "fois.",
+        "Le",
+        "raifort",
+        "est",
+        "très",
+        "piquant",
+        "!"
+      ],
+      "tokens_l2": [
+        "Stôl",
+        "bol",
+        "slaný",
+        "aj",
+        "sladký",
+        "zároveň.",
+        "Chren",
+        "je",
+        "veľmi",
+        "štipľavý!"
+      ]
+    },
+    {
+      "id": "match-bar-nok-vocab",
+      "type": "match",
+      "l1": [
+        "l'agneau (petit, pascal)",
+        "le jambon",
+        "le raifort",
+        "la tartinade au fromage"
+      ],
+      "l2": [
+        "baránok",
+        "šunka",
+        "chren",
+        "syrová nátierka"
+      ]
+    },
+    {
+      "id": "match-na-stole-je-unka-vaj-ka-a-chren-sentences",
+      "type": "match",
+      "l1": [
+        "Sur la table il y a du jambon, des œufs et du raifort.",
+        "Le prêtre a béni la nourriture avant le déjeuner.",
+        "Nous avons mangé de l'agneau et de la tartinade au fromage.",
+        "Le raifort est très piquant !"
+      ],
+      "l2": [
+        "Na stole je šunka, vajíčka a chren.",
+        "Kňaz požehnal jedlo pred obedom.",
+        "Jedli sme baránka a syrovú nátierku.",
+        "Chren je veľmi štipľavý!"
+      ]
+    }
+  ]
+}

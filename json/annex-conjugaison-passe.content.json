@@ -1,0 +1,437 @@
+{
+  "id": "annex-conjugaison-passe",
+  "category": "annex",
+  "subgroup": "conjugaison",
+  "subgroup_label": "Conjugaison",
+  "title": "Mémo 2 – Le passé",
+  "image": null,
+  "content": [
+    {
+      "type": "blockquote",
+      "lines": [
+        "Bonne nouvelle : le passé slovaque est plus simple que le français. Il n'y a pas d'imparfait ni de passé composé différents. Un seul temps permet d'exprimer la plupart des actions passées."
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📚 Formation du passé"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le passé se construit avec :"
+    },
+    {
+      "type": "paragraph",
+      "text": "**participe passé + présent du verbe [[byť]]**"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le participe s'accorde avec le genre et le nombre."
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Genre",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "Masculin",
+          "[[robil]]"
+        ],
+        [
+          "Féminin",
+          "[[robila]]"
+        ],
+        [
+          "Neutre",
+          "[[robilo]]"
+        ],
+        [
+          "Pluriel",
+          "[[robili]]"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Exemple :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "[[Robil som.]] → J'ai fait.",
+        "[[Robila si.]] → Tu as fait.",
+        "[[Robili sme.]] → Nous avons fait."
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📚 Le verbe [[byť]] au passé"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Personne",
+        "Masculin",
+        "Féminin"
+      ],
+      "rows": [
+        [
+          "ja",
+          "[[bol som]]",
+          "[[bola som]]"
+        ],
+        [
+          "ty",
+          "[[bol si]]",
+          "[[bola si]]"
+        ],
+        [
+          "on / ona",
+          "[[bol]]",
+          "[[bola]]"
+        ],
+        [
+          "my",
+          "[[boli sme]]",
+          "[[boli sme]]"
+        ],
+        [
+          "vy",
+          "[[boli ste]]",
+          "[[boli ste]]"
+        ],
+        [
+          "oni / ony",
+          "[[boli]]",
+          "[[boli]]"
+        ]
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📚 Les principaux verbes"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "[[Mať]] (avoir)"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Personne",
+        "Masculin",
+        "Féminin"
+      ],
+      "rows": [
+        [
+          "ja",
+          "[[mal som]]",
+          "[[mala som]]"
+        ],
+        [
+          "ty",
+          "[[mal si]]",
+          "[[mala si]]"
+        ],
+        [
+          "on / ona",
+          "[[mal]]",
+          "[[mala]]"
+        ],
+        [
+          "my",
+          "[[mali sme]]",
+          "[[mali sme]]"
+        ],
+        [
+          "vy",
+          "[[mali ste]]",
+          "[[mali ste]]"
+        ],
+        [
+          "oni / ony",
+          "[[mali]]",
+          "[[mali]]"
+        ]
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "[[Robiť]] (faire)"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Personne",
+        "Masculin",
+        "Féminin"
+      ],
+      "rows": [
+        [
+          "ja",
+          "[[robil som]]",
+          "[[robila som]]"
+        ],
+        [
+          "ty",
+          "[[robil si]]",
+          "[[robila si]]"
+        ],
+        [
+          "on / ona",
+          "[[robil]]",
+          "[[robila]]"
+        ],
+        [
+          "my",
+          "[[robili sme]]",
+          "[[robili sme]]"
+        ],
+        [
+          "vy",
+          "[[robili ste]]",
+          "[[robili ste]]"
+        ],
+        [
+          "oni / ony",
+          "[[robili]]",
+          "[[robili]]"
+        ]
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "[[Hovoriť]] (parler)"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Personne",
+        "Masculin",
+        "Féminin"
+      ],
+      "rows": [
+        [
+          "ja",
+          "[[hovoril som]]",
+          "[[hovorila som]]"
+        ],
+        [
+          "ty",
+          "[[hovoril si]]",
+          "[[hovorila si]]"
+        ],
+        [
+          "on / ona",
+          "[[hovoril]]",
+          "[[hovorila]]"
+        ],
+        [
+          "my",
+          "[[hovorili sme]]",
+          "[[hovorili sme]]"
+        ],
+        [
+          "vy",
+          "[[hovorili ste]]",
+          "[[hovorili ste]]"
+        ],
+        [
+          "oni / ony",
+          "[[hovorili]]",
+          "[[hovorili]]"
+        ]
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "[[Chcieť]] (vouloir)"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Personne",
+        "Masculin",
+        "Féminin"
+      ],
+      "rows": [
+        [
+          "ja",
+          "[[chcel som]]",
+          "[[chcela som]]"
+        ],
+        [
+          "ty",
+          "[[chcel si]]",
+          "[[chcela si]]"
+        ],
+        [
+          "on / ona",
+          "[[chcel]]",
+          "[[chcela]]"
+        ],
+        [
+          "my",
+          "[[chceli sme]]",
+          "[[chceli sme]]"
+        ],
+        [
+          "vy",
+          "[[chceli ste]]",
+          "[[chceli ste]]"
+        ],
+        [
+          "oni / ony",
+          "[[chceli]]",
+          "[[chceli]]"
+        ]
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "[[Ísť]] (aller)"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Personne",
+        "Masculin",
+        "Féminin"
+      ],
+      "rows": [
+        [
+          "ja",
+          "[[išiel som]]",
+          "[[išla som]]"
+        ],
+        [
+          "ty",
+          "[[išiel si]]",
+          "[[išla si]]"
+        ],
+        [
+          "on / ona",
+          "[[išiel]]",
+          "[[išla]]"
+        ],
+        [
+          "my",
+          "[[išli sme]]",
+          "[[išli sme]]"
+        ],
+        [
+          "vy",
+          "[[išli ste]]",
+          "[[išli ste]]"
+        ],
+        [
+          "oni / ony",
+          "[[išli]]",
+          "[[išli]]"
+        ]
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🔍 À remarquer"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le participe s'accorde"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contrairement au français, le genre apparaît presque partout."
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Français",
+        "Homme",
+        "Femme"
+      ],
+      "rows": [
+        [
+          "J'ai parlé.",
+          "[[hovoril som]]",
+          "[[hovorila som]]"
+        ],
+        [
+          "Je suis allé.",
+          "[[išiel som]]",
+          "[[išla som]]"
+        ],
+        [
+          "J'ai voulu.",
+          "[[chcel som]]",
+          "[[chcela som]]"
+        ]
+      ]
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "La négation"
+    },
+    {
+      "type": "paragraph",
+      "text": "On ajoute simplement [[ne-]] devant le verbe."
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Affirmatif",
+        "Négatif"
+      ],
+      "rows": [
+        [
+          "[[robil som]]",
+          "[[nerobil som]]"
+        ],
+        [
+          ""
+        ]
+      ]
+    }
+  ]
+}

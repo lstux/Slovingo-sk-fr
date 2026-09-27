@@ -1,0 +1,401 @@
+{
+  "id": "series-rodina-moja-rodina",
+  "category": "series",
+  "subgroup": "rodina",
+  "subgroup_label": "Rodina",
+  "title": "Série Rodina (1/5) — Moja rodina",
+  "image": {
+    "src": "img/Family_Portrait.jpg",
+    "caption": "Portrait de famille — Wikimedia Commons"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Première fiche de la série : les membres de la famille, les possessifs **môj** / **moja**, et les deux verbes que tu utiliseras partout, **byť** (être) et **mať** (avoir)."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "rodina",
+          "la famille"
+        ],
+        [
+          "matka",
+          "la mère"
+        ],
+        [
+          "otec",
+          "le père"
+        ],
+        [
+          "brat",
+          "le frère"
+        ],
+        [
+          "sestra",
+          "la sœur"
+        ],
+        [
+          "babka",
+          "la grand-mère"
+        ],
+        [
+          "dedko",
+          "le grand-père"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Mon / ma"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le possessif s'accorde avec le genre du nom qui suit, pas avec la personne qui parle."
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "môj brat",
+          "mon frère (masculin)"
+        ],
+        [
+          "moja sestra",
+          "ma sœur (féminin)"
+        ],
+        [
+          "moje meno",
+          "mon prénom (neutre)"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Être — byť"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "ja som",
+          "je suis"
+        ],
+        [
+          "ty si",
+          "tu es"
+        ],
+        [
+          "on / ona je",
+          "il / elle est"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Avoir — mať"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "ja mám",
+          "j'ai"
+        ],
+        [
+          "ty máš",
+          "tu as"
+        ],
+        [
+          "on / ona má",
+          "il / elle a"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "To je moja rodina.",
+      "speaker": null,
+      "natural": "C'est ma famille.",
+      "literal": [
+        "To = ceci, c'",
+        "je = est",
+        "moja = ma",
+        "rodina = famille"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "To je môj otec a to je moja matka.",
+      "speaker": null,
+      "natural": "Voici mon père et voici ma mère.",
+      "literal": [
+        "To je = c'est, voici",
+        "môj = mon",
+        "otec = père",
+        "a = et",
+        "moja = ma",
+        "matka = mère"
+      ],
+      "notes": [
+        "« môj » devant un nom masculin, « moja » devant un féminin."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Máš brata?",
+      "speaker": null,
+      "natural": "Tu as un frère ?",
+      "literal": [
+        "Máš = tu as",
+        "brata = un frère"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Nemám brata. Mám sestru.",
+      "speaker": null,
+      "natural": "Je n'ai pas de frère. J'ai une sœur.",
+      "literal": [
+        "Nemám = je n'ai pas",
+        "brata = de frère",
+        "Mám = j'ai",
+        "sestru = une sœur"
+      ],
+      "notes": [
+        "La négation se colle au verbe : mám devient nemám. Un seul mot, aucun équivalent du « ne… pas » français.",
+        "Après « mať », le nom change de forme : brat devient brata, sestra devient sestru. C'est l'accusatif ; pour l'instant, retiens les expressions telles quelles."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moja sestra je doma.",
+      "speaker": null,
+      "natural": "Ma sœur est à la maison.",
+      "literal": [
+        "Moja = ma",
+        "sestra = sœur",
+        "je = est",
+        "doma = à la maison"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Moja babka sa volá Zuzana.",
+      "speaker": null,
+      "natural": "Ma grand-mère s'appelle Zuzana.",
+      "literal": [
+        "Moja = ma",
+        "babka = grand-mère",
+        "sa volá = s'appelle",
+        "Zuzana = Zuzana"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môj dedko a moja babka.",
+      "speaker": null,
+      "natural": "Mon grand-père et ma grand-mère.",
+      "literal": [
+        "Môj = mon",
+        "dedko = grand-père",
+        "a = et",
+        "moja = ma",
+        "babka = grand-mère"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Babka et dedko, pas « stará mama ».** Les formes officielles existent (*stará mama*, *starý otec*), mais dans la vraie vie tout le monde dit [[babka]] et [[dedko]]. C'est chaleureux et parfaitement standard."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Matka n'est pas le mot du quotidien.** C'est la forme neutre, celle des documents ou du dictionnaire, symétrique de [[otec]]. Dans la vraie vie, presque tout le monde dit plutôt [[mama]] — déjà familier, un cran en dessous de *matka*, comme « maman » face à « mère ». Et le slovaque adore encore diminutiver : *mama* devient [[mamička]], *otec* devient [[ocko]]. Ce n'est pas réservé aux enfants — un adulte appellera sa mère *mamička* sans que personne ne sourcille."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le déjeuner du dimanche.** Beaucoup de familles se retrouvent le dimanche midi chez la babka. C'est une institution, et refuser une deuxième assiette est considéré comme une insulte modérée. Tu es prévenu."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "kto",
+          "qui"
+        ],
+        [
+          "volať sa",
+          "s'appeler"
+        ],
+        [
+          "rodičia",
+          "les parents"
+        ],
+        [
+          "syn",
+          "le fils"
+        ],
+        [
+          "dcéra",
+          "la fille (de quelqu'un)"
+        ],
+        [
+          "manžel",
+          "le mari"
+        ],
+        [
+          "manželka",
+          "l'épouse"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Kto je to?",
+      "speaker": null,
+      "natural": "Qui est-ce ?",
+      "literal": [
+        "Kto = qui",
+        "je = est",
+        "to = ce, cela"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "To sú moji rodičia.",
+      "speaker": null,
+      "natural": "Ce sont mes parents.",
+      "literal": [
+        "To = ce",
+        "sú = sont",
+        "moji = mes",
+        "rodičia = parents"
+      ],
+      "notes": [
+        "Au pluriel, « je » devient « sú » et « môj » devient « moji »."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mám syna a dcéru.",
+      "speaker": null,
+      "natural": "J'ai un fils et une fille.",
+      "literal": [
+        "Mám = j'ai",
+        "syna = un fils",
+        "a = et",
+        "dcéru = une fille"
+      ],
+      "notes": [
+        "Même mécanisme qu'avec brata et sestru : après « mať », syn devient syna et dcéra devient dcéru."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Ako sa voláš?",
+      "speaker": null,
+      "natural": "Comment t'appelles-tu ?",
+      "literal": [
+        "Ako = comment",
+        "sa voláš = t'appelles-tu"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Môj manžel sa volá Jozef.",
+      "speaker": null,
+      "natural": "Mon mari s'appelle Jozef.",
+      "literal": [
+        "Môj = mon",
+        "manžel = mari",
+        "sa volá = s'appelle",
+        "Jozef = Jozef"
+      ],
+      "notes": []
+    }
+  ]
+}

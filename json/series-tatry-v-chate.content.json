@@ -1,0 +1,415 @@
+{
+  "id": "series-tatry-v-chate",
+  "category": "series",
+  "subgroup": "tatry",
+  "subgroup_label": "Tatry",
+  "title": "Série Tatry (4/5) — V chate",
+  "image": {
+    "src": "img/tatry_04_tatras_view.jpg",
+    "caption": "Vue des Hautes Tatras — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La halte au refuge de montagne. Première approche du **conditionnel**, pour exprimer un souhait plus poli ou une possibilité."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "chata",
+          "le refuge, le chalet"
+        ],
+        [
+          "nocľah",
+          "l'hébergement pour la nuit"
+        ],
+        [
+          "polievka",
+          "la soupe"
+        ],
+        [
+          "čaj",
+          "le thé"
+        ],
+        [
+          "unavený",
+          "fatigué"
+        ],
+        [
+          "odpočívať",
+          "se reposer"
+        ],
+        [
+          "by",
+          "particule du conditionnel"
+        ],
+        [
+          "hviezdy",
+          "les étoiles"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le conditionnel avec by"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "Chcel by som čaj.",
+          "Je voudrais un thé. (homme)"
+        ],
+        [
+          "Chcela by som čaj.",
+          "Je voudrais un thé. (femme)"
+        ],
+        [
+          "Mohli by sme odpočívať?",
+          "Pourrions-nous nous reposer ?"
+        ],
+        [
+          "Bolo by to pekné.",
+          "Ce serait joli."
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Le conditionnel se forme avec le passé du verbe (déjà croisé sous la forme *bol/bola*) suivi de **by**. C'est plus poli et plus doux que le présent direct."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bol / bola, le passé de byť"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "on bol",
+          "il a été, il était"
+        ],
+        [
+          "ona bola",
+          "elle a été, elle était"
+        ],
+        [
+          "oni boli",
+          "ils/elles ont été"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcel by som izbu v chate.",
+      "speaker": null,
+      "natural": "Je voudrais une chambre dans le refuge.",
+      "literal": [
+        "Chcel by som = je voudrais (homme)",
+        "izbu = une chambre",
+        "v chate = dans le refuge"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Máte voľný nocľah?",
+      "speaker": null,
+      "natural": "Vous avez de la place pour la nuit ?",
+      "literal": [
+        "Máte = vous avez",
+        "voľný nocľah = de la place pour la nuit"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Som unavený. Chcem odpočívať.",
+      "speaker": null,
+      "natural": "Je suis fatigué. Je veux me reposer.",
+      "literal": [
+        "Som unavený = je suis fatigué",
+        "Chcem odpočívať = je veux me reposer"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dáme si teplú polievku a čaj.",
+      "speaker": null,
+      "natural": "Nous prenons une soupe chaude et un thé.",
+      "literal": [
+        "Dáme si = nous prenons",
+        "teplú polievku = une soupe chaude",
+        "a čaj = et un thé"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mohli by sme tu prespať?",
+      "speaker": null,
+      "natural": "Pourrions-nous dormir ici ?",
+      "literal": [
+        "Mohli by sme = pourrions-nous",
+        "tu prespať = dormir ici"
+      ],
+      "notes": [
+        "« prespať » veut dire passer la nuit, dormir quelque part."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Bolo by lepšie ísť skoro ráno.",
+      "speaker": null,
+      "natural": "Ce serait mieux d'y aller tôt le matin.",
+      "literal": [
+        "Bolo by lepšie = ce serait mieux",
+        "ísť skoro ráno = d'y aller tôt le matin"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V chate je teplo a útulno.",
+      "speaker": null,
+      "natural": "Dans le refuge il fait chaud et c'est confortable.",
+      "literal": [
+        "V chate = dans le refuge",
+        "je teplo = il fait chaud",
+        "a útulno = et confortable"
+      ],
+      "notes": [
+        "« útulný » veut dire chaleureux, confortable. Ici sous forme impersonnelle, comme « je teplo »."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcela by som vidieť hviezdy.",
+      "speaker": null,
+      "natural": "Je voudrais voir les étoiles.",
+      "literal": [
+        "Chcela by som = je voudrais (femme)",
+        "vidieť hviezdy = voir les étoiles"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "On révise"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Sme unavení, chceli by sme odpočívať v chate.",
+      "speaker": null,
+      "natural": "Nous sommes fatigués, nous voudrions nous reposer au refuge.",
+      "literal": [
+        "Sme unavení = nous sommes fatigués",
+        "chceli by sme = nous voudrions",
+        "odpočívať v chate = nous reposer au refuge"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mohli by sme mať teplú polievku, prosím?",
+      "speaker": null,
+      "natural": "Pourrions-nous avoir une soupe chaude, s'il vous plaît ?",
+      "literal": [
+        "Mohli by sme mať = pourrions-nous avoir",
+        "teplú polievku = une soupe chaude",
+        "prosím = s'il vous plaît"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Trasa bola náročná, ale výhľad bol nádherný.",
+      "speaker": null,
+      "natural": "Le parcours était difficile, mais la vue était magnifique.",
+      "literal": [
+        "Trasa = le parcours",
+        "bola náročná = était difficile",
+        "ale = mais",
+        "výhľad = la vue",
+        "bol nádherný = était magnifique"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Réserver son nocľah à l'avance n'est pas un luxe.** Les refuges les plus populaires des Hautes Tatras affichent complet des semaines en avance en haute saison. Se présenter sans réservation revient à espérer une place au sol."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le repas du refuge est simple mais réconfortant.** Soupe, thé chaud au rhum, parfois un plat unique : le menu est limité par la logistique du ravitaillement en altitude, mais après une longue montée, ça a un tout autre goût."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Le silence de la nuit en refuge est un souvenir marquant.** Loin de toute pollution lumineuse, le ciel étoilé au-dessus des Tatras impressionne même les habitués. Beaucoup de randonneurs planifient leur nuit exprès pour voir les [[hviezdy]]."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "posteľ",
+          "le lit"
+        ],
+        [
+          "deka",
+          "la couverture"
+        ],
+        [
+          "sprcha",
+          "la douche"
+        ],
+        [
+          "rezervácia",
+          "la réservation"
+        ],
+        [
+          "ticho",
+          "le silence"
+        ],
+        [
+          "pohoda",
+          "la tranquillité, le bien-être"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Máme rezerváciu na dve postele.",
+      "speaker": null,
+      "natural": "Nous avons une réservation pour deux lits.",
+      "literal": [
+        "Máme rezerváciu = nous avons une réservation",
+        "na dve postele = pour deux lits"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Chcel by som teplú deku.",
+      "speaker": null,
+      "natural": "Je voudrais une couverture chaude.",
+      "literal": [
+        "Chcel by som = je voudrais",
+        "teplú deku = une couverture chaude"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Sprcha je studená!",
+      "speaker": null,
+      "natural": "La douche est froide !",
+      "literal": [
+        "Sprcha = la douche",
+        "je = est",
+        "studená = froide"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V horách je krásne ticho.",
+      "speaker": null,
+      "natural": "En montagne il y a un beau silence.",
+      "literal": [
+        "V horách = en montagne",
+        "je = il y a",
+        "krásne ticho = un beau silence"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Cítim pohodu, keď som v horách.",
+      "speaker": null,
+      "natural": "Je ressens la tranquillité quand je suis en montagne.",
+      "literal": [
+        "Cítim = je ressens",
+        "pohodu = la tranquillité",
+        "keď = quand",
+        "som v horách = je suis en montagne"
+      ],
+      "notes": []
+    }
+  ]
+}

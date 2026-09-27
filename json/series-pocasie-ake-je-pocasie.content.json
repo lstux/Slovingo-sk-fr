@@ -1,0 +1,384 @@
+{
+  "id": "series-pocasie-ake-je-pocasie",
+  "category": "series",
+  "subgroup": "pocasie",
+  "subgroup_label": "Pocasie",
+  "title": "Série Počasie (1/5) — Aké je počasie?",
+  "image": {
+    "src": "img/pocasie_01_tatras_winter.jpg",
+    "caption": "Refuge de montagne sous la neige, Hautes Tatras — Wikimedia Commons, CC BY-SA"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le temps qu'il fait, avec les tournures impersonnelles : **je zima**, **je teplo**. Pas de sujet, pas de piège, juste une construction à apprendre telle quelle."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les nouveaux mots"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "počasie",
+          "le temps (météo)"
+        ],
+        [
+          "slnko",
+          "le soleil"
+        ],
+        [
+          "dážď",
+          "la pluie"
+        ],
+        [
+          "sneh",
+          "la neige"
+        ],
+        [
+          "vietor",
+          "le vent"
+        ],
+        [
+          "oblak",
+          "le nuage"
+        ],
+        [
+          "búrka",
+          "l'orage"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La grammaire du jour"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les tournures impersonnelles"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "Je teplo.",
+          "Il fait chaud."
+        ],
+        [
+          "Je zima.",
+          "Il fait froid."
+        ],
+        [
+          "Je horúco.",
+          "Il fait très chaud."
+        ],
+        [
+          "Je chladno.",
+          "Il fait frais."
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces phrases n'ont pas de sujet : *je* suffit, suivi d'un adverbe en **-o**. C'est différent des adjectifs déjà vus qui s'accordaient à un nom."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Il pleut, il neige"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "Prší.",
+          "Il pleut."
+        ],
+        [
+          "Sneží.",
+          "Il neige."
+        ],
+        [
+          "Fúka vietor.",
+          "Il y a du vent."
+        ],
+        [
+          "Svieti slnko.",
+          "Le soleil brille."
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Des phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Aké je dnes počasie?",
+      "speaker": null,
+      "natural": "Quel temps fait-il aujourd'hui ?",
+      "literal": [
+        "Aké = quel",
+        "je = est",
+        "dnes = aujourd'hui",
+        "počasie = le temps"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je teplo a svieti slnko.",
+      "speaker": null,
+      "natural": "Il fait chaud et le soleil brille.",
+      "literal": [
+        "Je = il fait",
+        "teplo = chaud",
+        "a = et",
+        "svieti = brille",
+        "slnko = le soleil"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Prší. Nemám dáždnik.",
+      "speaker": null,
+      "natural": "Il pleut. Je n'ai pas de parapluie.",
+      "literal": [
+        "Prší = il pleut",
+        "Nemám = je n'ai pas",
+        "dáždnik = de parapluie"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "V zime sneží.",
+      "speaker": null,
+      "natural": "En hiver il neige.",
+      "literal": [
+        "V zime = en hiver",
+        "sneží = il neige"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Fúka silný vietor.",
+      "speaker": null,
+      "natural": "Il y a un vent fort.",
+      "literal": [
+        "Fúka = il souffle",
+        "silný = fort",
+        "vietor = vent"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je zima. Chcem čaj.",
+      "speaker": null,
+      "natural": "Il fait froid. Je veux du thé.",
+      "literal": [
+        "Je zima = il fait froid",
+        "Chcem = je veux",
+        "čaj = du thé"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Oblaky sú tmavé. Bude búrka.",
+      "speaker": null,
+      "natural": "Les nuages sont sombres. Il va y avoir un orage.",
+      "literal": [
+        "Oblaky = les nuages",
+        "sú = sont",
+        "tmavé = sombres",
+        "Bude búrka = il va y avoir un orage"
+      ],
+      "notes": [
+        "« bude » est le futur de byť. Retiens l'expression telle quelle."
+      ]
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Dnes je chladno, zajtra bude teplo.",
+      "speaker": null,
+      "natural": "Aujourd'hui il fait frais, demain il fera chaud.",
+      "literal": [
+        "Dnes = aujourd'hui",
+        "je chladno = il fait frais",
+        "zajtra = demain",
+        "bude teplo = il fera chaud"
+      ],
+      "notes": []
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🇸🇰 Coin slovaque"
+    },
+    {
+      "type": "paragraph",
+      "text": "**La météo est le sport national de la conversation.** Commencer par « aké je dnes počasie » avec un voisin, un collègue ou un chauffeur de taxi est un classique absolu, exactement comme en France — mais peut-être encore plus, vu l'amplitude des saisons."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Les quatre saisons sont vraiment marquées.** Hivers froids et neigeux, étés chauds et parfois orageux : le climat continental n'a rien de doux, et les Slovaques s'habillent en conséquence, avec un art consommé des couches superposées."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Prší et sneží n'ont pas de sujet, comme il pleut en français.** C'est l'une des rares fois où la construction impersonnelle du slovaque calque presque exactement le français, ce qui est un vrai soulagement après tous les accords rencontrés jusqu'ici."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vocabulaire complémentaire"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Slovaque",
+        "Français"
+      ],
+      "rows": [
+        [
+          "dáždnik",
+          "le parapluie"
+        ],
+        [
+          "mrznúť",
+          "geler"
+        ],
+        [
+          "teplota",
+          "la température"
+        ],
+        [
+          "stupeň",
+          "le degré"
+        ],
+        [
+          "hmla",
+          "le brouillard"
+        ],
+        [
+          "dúha",
+          "l'arc-en-ciel"
+        ],
+        [
+          "obloha",
+          "le ciel"
+        ]
+      ],
+      "speakable_column": 0
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Encore quelques phrases"
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Mrzne. Cesta je klzká.",
+      "speaker": null,
+      "natural": "Il gèle. La route est glissante.",
+      "literal": [
+        "Mrzne = il gèle",
+        "Cesta = la route",
+        "je = est",
+        "klzká = glissante"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Teplota je desať stupňov.",
+      "speaker": null,
+      "natural": "La température est de dix degrés.",
+      "literal": [
+        "Teplota = la température",
+        "je = est",
+        "desať stupňov = dix degrés"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Je hmla, nevidím nič.",
+      "speaker": null,
+      "natural": "Il y a du brouillard, je ne vois rien.",
+      "literal": [
+        "Je hmla = il y a du brouillard",
+        "nevidím = je ne vois pas",
+        "nič = rien"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Obloha je modrá a čistá.",
+      "speaker": null,
+      "natural": "Le ciel est bleu et clair.",
+      "literal": [
+        "Obloha = le ciel",
+        "je = est",
+        "modrá = bleue",
+        "a = et",
+        "čistá = claire"
+      ],
+      "notes": []
+    },
+    {
+      "type": "audio-card",
+      "phrase": "Po daždi je dúha.",
+      "speaker": null,
+      "natural": "Après la pluie il y a un arc-en-ciel.",
+      "literal": [
+        "Po daždi = après la pluie",
+        "je = il y a",
+        "dúha = un arc-en-ciel"
+      ],
+      "notes": []
+    }
+  ]
+}

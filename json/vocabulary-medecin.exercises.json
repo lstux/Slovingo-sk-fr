@@ -1,0 +1,986 @@
+{
+  "exercises": [
+    {
+      "id": "qcm-lek-r-lek-rka",
+      "type": "qcm",
+      "l1": "médecin",
+      "l2": "lekár / lekárka",
+      "choices_l1": [
+        "le billet",
+        "ranger, nettoyer",
+        "ail"
+      ],
+      "choices_l2": [
+        "aký / aká / aké",
+        "môj / moja / moje",
+        "najhorší / najhoršia / najhoršie"
+      ]
+    },
+    {
+      "id": "qcm-pacient-pacientka",
+      "type": "qcm",
+      "l1": "patient(e)",
+      "l2": "pacient / pacientka",
+      "choices_l1": [
+        "maison",
+        "tâches ménagères",
+        "foncé"
+      ],
+      "choices_l2": [
+        "veľký / veľká",
+        "rozvedený / rozvedená",
+        "študent / študentka"
+      ]
+    },
+    {
+      "id": "qcm-nemocnica",
+      "type": "qcm",
+      "l1": "hôpital",
+      "l2": "nemocnica",
+      "choices_l1": [
+        "banc",
+        "argenté",
+        "poitrine"
+      ],
+      "choices_l2": [
+        "trinásty",
+        "zdobila si",
+        "firma"
+      ]
+    },
+    {
+      "id": "qcm-ambulancia",
+      "type": "qcm",
+      "l1": "cabinet médical",
+      "l2": "ambulancia",
+      "choices_l1": [
+        "clé",
+        "quai",
+        "sucré"
+      ],
+      "choices_l2": [
+        "kľúče",
+        "ostrov",
+        "ja chodím"
+      ]
+    },
+    {
+      "id": "qcm-lieky",
+      "type": "qcm",
+      "l1": "médicaments",
+      "l2": "lieky",
+      "choices_l1": [
+        "quatre euros",
+        "carotte",
+        "frère"
+      ],
+      "choices_l2": [
+        "1. január",
+        "tráva",
+        "Neupratovali sme."
+      ]
+    },
+    {
+      "id": "qcm-recept",
+      "type": "qcm",
+      "l1": "ordonnance",
+      "l2": "recept",
+      "choices_l1": [
+        "banc",
+        "tu bois",
+        "l'État"
+      ],
+      "choices_l2": [
+        "ja pijem",
+        "zostať",
+        "čakať"
+      ]
+    },
+    {
+      "id": "qcm-choroba",
+      "type": "qcm",
+      "l1": "maladie",
+      "l2": "choroba",
+      "choices_l1": [
+        "poste",
+        "minute",
+        "dos"
+      ],
+      "choices_l2": [
+        "karta",
+        "my bývame",
+        "injekcia"
+      ]
+    },
+    {
+      "id": "qcm-vy-etrenie",
+      "type": "qcm",
+      "l1": "examen (médical)",
+      "l2": "vyšetrenie",
+      "choices_l1": [
+        "oignon",
+        "mettre, enfiler",
+        "tu vas"
+      ],
+      "choices_l2": [
+        "rezervácia",
+        "parkovisko",
+        "doprava"
+      ]
+    },
+    {
+      "id": "qcm-teplomer",
+      "type": "qcm",
+      "l1": "thermomètre",
+      "l2": "teplomer",
+      "choices_l1": [
+        "entraînement",
+        "lire",
+        "le manteau"
+      ],
+      "choices_l2": [
+        "platiť",
+        "lekáreň",
+        "slnko"
+      ]
+    },
+    {
+      "id": "qcm-injekcia",
+      "type": "qcm",
+      "l1": "piqûre",
+      "l2": "injekcia",
+      "choices_l1": [
+        "île",
+        "amusant(e)",
+        "le parfum"
+      ],
+      "choices_l2": [
+        "zľava",
+        "cestovný lístok",
+        "prst"
+      ]
+    },
+    {
+      "id": "qcm-n-plas",
+      "type": "qcm",
+      "l1": "pansement",
+      "l2": "náplasť",
+      "choices_l1": [
+        "la casquette",
+        "ce mois",
+        "le riz"
+      ],
+      "choices_l2": [
+        "šál",
+        "holub",
+        "MHD"
+      ]
+    },
+    {
+      "id": "qcm-alergia",
+      "type": "qcm",
+      "l1": "allergie",
+      "l2": "alergia",
+      "choices_l1": [
+        "triste",
+        "je veux",
+        "meilleur"
+      ],
+      "choices_l2": [
+        "vziať",
+        "plachý",
+        "dedko"
+      ]
+    },
+    {
+      "id": "qcm-boles",
+      "type": "qcm",
+      "l1": "douleur",
+      "l2": "bolesť",
+      "choices_l1": [
+        "cahier",
+        "le voisin",
+        "vallée"
+      ],
+      "choices_l2": [
+        "hodiny",
+        "zdobiť",
+        "upokojiť sa"
+      ]
+    },
+    {
+      "id": "qcm-lek-re",
+      "type": "qcm",
+      "l1": "pharmacie",
+      "l2": "lekáreň",
+      "choices_l1": [
+        "mari",
+        "la jupe",
+        "le lait"
+      ],
+      "choices_l2": [
+        "svetlý",
+        "máme",
+        "v piatok"
+      ]
+    },
+    {
+      "id": "qcm-lek-rnik-lek-rni-ka",
+      "type": "qcm",
+      "l1": "pharmacien / pharmacienne",
+      "l2": "lekárnik / lekárnička",
+      "choices_l1": [
+        "Tu prends un café ?",
+        "après le coin",
+        "1/3 (un tiers)"
+      ],
+      "choices_l2": [
+        "on / ona býva",
+        "ľahký / ľahká",
+        "Je to za rohom."
+      ]
+    },
+    {
+      "id": "qcm-tabletka",
+      "type": "qcm",
+      "l1": "comprimé",
+      "l2": "tabletka",
+      "choices_l1": [
+        "le lac",
+        "le printemps",
+        "épicéa"
+      ],
+      "choices_l2": [
+        "byt",
+        "nájsť",
+        "kačka"
+      ]
+    },
+    {
+      "id": "qcm-sirup",
+      "type": "qcm",
+      "l1": "sirop",
+      "l2": "sirup",
+      "choices_l1": [
+        "acheter",
+        "clair",
+        "ensemble"
+      ],
+      "choices_l2": [
+        "farba",
+        "ty hľadáš",
+        "sú"
+      ]
+    },
+    {
+      "id": "qcm-mas",
+      "type": "qcm",
+      "l1": "pommade",
+      "l2": "masť",
+      "choices_l1": [
+        "sourire",
+        "j'essaie",
+        "la lampe"
+      ],
+      "choices_l2": [
+        "holub",
+        "sekunda",
+        "utorok"
+      ]
+    },
+    {
+      "id": "qcm-vitam-n",
+      "type": "qcm",
+      "l1": "vitamine",
+      "l2": "vitamín",
+      "choices_l1": [
+        "fruits",
+        "la blague",
+        "anglais"
+      ],
+      "choices_l2": [
+        "pieseň",
+        "minulý rok",
+        "na námestí"
+      ]
+    },
+    {
+      "id": "qcm-zdrav-zdrav",
+      "type": "qcm",
+      "l1": "en bonne santé",
+      "l2": "zdravý / zdravá",
+      "choices_l1": [
+        "1/4 (un quart)",
+        "ah (je comprends)",
+        "savoir (faire) / pouvoir (capacité)"
+      ],
+      "choices_l2": [
+        "záchod / toaleta",
+        "Chcela by som čaj.",
+        "Chodím do práce autobusom."
+      ]
+    },
+    {
+      "id": "qcm-chor-chor",
+      "type": "qcm",
+      "l1": "malade",
+      "l2": "chorý / chorá",
+      "choices_l1": [
+        "facture, addition",
+        "gâteau",
+        "l'ami"
+      ],
+      "choices_l2": [
+        "čerstvý / čerstvá",
+        "Táto trasa je žltá.",
+        "on / ona príde"
+      ]
+    },
+    {
+      "id": "qcm-zdravie",
+      "type": "qcm",
+      "l1": "santé",
+      "l2": "zdravie",
+      "choices_l1": [
+        "3",
+        "cadeau",
+        "caisse"
+      ],
+      "choices_l2": [
+        "chrbát",
+        "trh",
+        "biely"
+      ]
+    },
+    {
+      "id": "qcm-poistenie",
+      "type": "qcm",
+      "l1": "assurance",
+      "l2": "poistenie",
+      "choices_l1": [
+        "1,50 €",
+        "banque",
+        "effrayé(e)"
+      ],
+      "choices_l2": [
+        "noc",
+        "my vidíme",
+        "farbila som"
+      ]
+    },
+    {
+      "id": "qcm-pohotovos",
+      "type": "qcm",
+      "l1": "urgences",
+      "l2": "pohotovosť",
+      "choices_l1": [
+        "le centime",
+        "coutume",
+        "fontaine"
+      ],
+      "choices_l2": [
+        "jeho",
+        "ja pracujem",
+        "hviezda"
+      ]
+    },
+    {
+      "id": "blank-o-v-s-tr-pi",
+      "type": "fill-blank",
+      "l1": "Qu'est-ce qui ne va pas ? (littéralement : qu'est-ce qui vous tourmente)",
+      "l2": "Čo vás trápi?",
+      "missing_l1": "pas",
+      "missing_l2": "vás",
+      "blank_index_l1": 4,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "veux",
+        "heures",
+        "la"
+      ],
+      "choices_l2": [
+        "bolo",
+        "sú",
+        "nemám"
+      ]
+    },
+    {
+      "id": "blank-bol-ma-hrdlo-a-m-m-hor-ku",
+      "type": "fill-blank",
+      "l1": "J'ai mal à la gorge et j'ai de la fièvre.",
+      "l2": "Bolí ma hrdlo a mám horúčku.",
+      "missing_l1": "la",
+      "missing_l2": "a",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "c'est",
+        "a",
+        "à"
+      ],
+      "choices_l2": [
+        "o",
+        "máte",
+        "veľmi"
+      ]
+    },
+    {
+      "id": "blank-nec-tim-sa-dobre",
+      "type": "fill-blank",
+      "l1": "Je ne me sens pas bien.",
+      "l2": "Necítim sa dobre.",
+      "missing_l1": "pas",
+      "missing_l2": "sa",
+      "blank_index_l1": 4,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "fait",
+        "que",
+        "je"
+      ],
+      "choices_l2": [
+        "ako",
+        "si",
+        "tam"
+      ]
+    },
+    {
+      "id": "blank-ka-lem-u-tri-dni",
+      "type": "fill-blank",
+      "l1": "Je tousse depuis trois jours.",
+      "l2": "Kašlem už tri dni.",
+      "missing_l1": "jours",
+      "missing_l2": "už",
+      "blank_index_l1": 4,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "sur",
+        "les",
+        "tu"
+      ],
+      "choices_l2": [
+        "môj",
+        "to",
+        "potom"
+      ]
+    },
+    {
+      "id": "blank-mus-me-v-s-vy-etri",
+      "type": "fill-blank",
+      "l1": "Nous devons vous examiner.",
+      "l2": "Musíme vás vyšetriť.",
+      "missing_l1": "vous",
+      "missing_l2": "vás",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "la",
+        "en",
+        "ma"
+      ],
+      "choices_l2": [
+        "má",
+        "tam",
+        "koľko"
+      ]
+    },
+    {
+      "id": "blank-m-te-na-nie-o-alergiu",
+      "type": "fill-blank",
+      "l1": "Avez-vous une allergie à quelque chose ?",
+      "l2": "Máte na niečo alergiu?",
+      "missing_l1": "à",
+      "missing_l2": "na",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "me",
+        "fait",
+        "suis"
+      ],
+      "choices_l2": [
+        "sa",
+        "môj",
+        "o"
+      ]
+    },
+    {
+      "id": "blank-predp-em-v-m-nejak-lieky",
+      "type": "fill-blank",
+      "l1": "Je vais vous prescrire des médicaments.",
+      "l2": "Predpíšem vám nejaké lieky.",
+      "missing_l1": "vous",
+      "missing_l2": "vám",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "à",
+        "a",
+        "la"
+      ],
+      "choices_l2": [
+        "si",
+        "ísť",
+        "sú"
+      ]
+    },
+    {
+      "id": "blank-m-m-recept-od-lek-ra",
+      "type": "fill-blank",
+      "l1": "J'ai une ordonnance du médecin.",
+      "l2": "Mám recept od lekára.",
+      "missing_l1": "une",
+      "missing_l2": "od",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "pas",
+        "y",
+        "que"
+      ],
+      "choices_l2": [
+        "bolo",
+        "si",
+        "mám"
+      ]
+    },
+    {
+      "id": "blank-mus-m-s-na-pohotovos",
+      "type": "fill-blank",
+      "l1": "Je dois aller aux urgences.",
+      "l2": "Musím ísť na pohotovosť.",
+      "missing_l1": "dois",
+      "missing_l2": "na",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "les",
+        "du",
+        "la"
+      ],
+      "choices_l2": [
+        "kde",
+        "áno",
+        "sú"
+      ]
+    },
+    {
+      "id": "listen-o-v-s-tr-pi",
+      "type": "listen",
+      "l1": "Qu'est-ce qui ne va pas ? (littéralement : qu'est-ce qui vous tourmente)",
+      "l2": "Čo vás trápi?",
+      "choices_l1": [
+        "Je n'ai pas mon portefeuille !",
+        "Le train est en retard, alors j'y vais en taxi.",
+        "L'œuf est dans l'assiette."
+      ]
+    },
+    {
+      "id": "listen-bol-ma-hrdlo-a-m-m-hor-ku",
+      "type": "listen",
+      "l1": "J'ai mal à la gorge et j'ai de la fièvre.",
+      "l2": "Bolí ma hrdlo a mám horúčku.",
+      "choices_l1": [
+        "Je suis né en Allemagne.",
+        "Ma maman a cinquante ans.",
+        "Mon fils est étudiant. Il habite en ville."
+      ]
+    },
+    {
+      "id": "listen-nec-tim-sa-dobre",
+      "type": "listen",
+      "l1": "Je ne me sens pas bien.",
+      "l2": "Necítim sa dobre.",
+      "choices_l1": [
+        "Le pain était frais et chaud.",
+        "Les enfants se le disaient entre eux ?",
+        "N'attends pas, je suis en retard."
+      ]
+    },
+    {
+      "id": "listen-ka-lem-u-tri-dni",
+      "type": "listen",
+      "l1": "Je tousse depuis trois jours.",
+      "l2": "Kašlem už tri dni.",
+      "choices_l1": [
+        "Le sac à dos est lourd, parce que j'ai de la nourriture, de l'eau et une tente.",
+        "Le réfrigérateur est dans la cuisine.",
+        "Le musée est fermé. On y va d'habitude le samedi."
+      ]
+    },
+    {
+      "id": "listen-mus-me-v-s-vy-etri",
+      "type": "listen",
+      "l1": "Nous devons vous examiner.",
+      "l2": "Musíme vás vyšetriť.",
+      "choices_l1": [
+        "J'en parle différemment avec ma mère qu'avec mes copines de camp.",
+        "Vous l'avez aussi dans une autre couleur ?",
+        "Le déjeuner était à la cantine, toujours la même heure, toujours la même table."
+      ]
+    },
+    {
+      "id": "listen-m-te-na-nie-o-alergiu",
+      "type": "listen",
+      "l1": "Avez-vous une allergie à quelque chose ?",
+      "l2": "Máte na niečo alergiu?",
+      "choices_l1": [
+        "Merci de m'avoir raconté ça. Maintenant je comprends beaucoup mieux.",
+        "Je lis un livre dans le salon.",
+        "J'habite dans un appartement."
+      ]
+    },
+    {
+      "id": "listen-predp-em-v-m-nejak-lieky",
+      "type": "listen",
+      "l1": "Je vais vous prescrire des médicaments.",
+      "l2": "Predpíšem vám nejaké lieky.",
+      "choices_l1": [
+        "Je voudrais une couverture chaude.",
+        "C'était obligatoire, ou vous l'aviez choisi ?",
+        "Je suis enseignante à l'école primaire."
+      ]
+    },
+    {
+      "id": "listen-m-m-recept-od-lek-ra",
+      "type": "listen",
+      "l1": "J'ai une ordonnance du médecin.",
+      "l2": "Mám recept od lekára.",
+      "choices_l1": [
+        "C'était seulement trois ans après la révolution, non ?",
+        "Qu'est-ce qui ne va pas ? (littéralement : qu'est-ce qui vous tourmente)",
+        "Je suis de Lyon."
+      ]
+    },
+    {
+      "id": "listen-mus-m-s-na-pohotovos",
+      "type": "listen",
+      "l1": "Je dois aller aux urgences.",
+      "l2": "Musím ísť na pohotovosť.",
+      "choices_l1": [
+        "Je prendrai une veste et des gants.",
+        "Ce t-shirt est bleu.",
+        "Je ne comprends pas."
+      ]
+    },
+    {
+      "id": "order-o-v-s-tr-pi",
+      "type": "order",
+      "l1": "Qu'est-ce qui ne va pas ? (littéralement : qu'est-ce qui vous tourmente)",
+      "l2": "Čo vás trápi?",
+      "tokens_l1": [
+        "Qu'est-ce",
+        "qui",
+        "ne",
+        "va",
+        "pas",
+        "?",
+        "(littéralement",
+        ":",
+        "qu'est-ce",
+        "qui",
+        "vous",
+        "tourmente)",
+        "J'ai",
+        "mal",
+        "à",
+        "la",
+        "gorge",
+        "et",
+        "j'ai",
+        "de",
+        "la",
+        "fièvre."
+      ],
+      "tokens_l2": [
+        "Čo",
+        "vás",
+        "trápi?",
+        "Bolí",
+        "ma",
+        "hrdlo",
+        "a",
+        "mám",
+        "horúčku."
+      ]
+    },
+    {
+      "id": "order-bol-ma-hrdlo-a-m-m-hor-ku",
+      "type": "order",
+      "l1": "J'ai mal à la gorge et j'ai de la fièvre.",
+      "l2": "Bolí ma hrdlo a mám horúčku.",
+      "tokens_l1": [
+        "J'ai",
+        "mal",
+        "à",
+        "la",
+        "gorge",
+        "et",
+        "j'ai",
+        "de",
+        "la",
+        "fièvre.",
+        "Je",
+        "tousse",
+        "depuis",
+        "trois",
+        "jours."
+      ],
+      "tokens_l2": [
+        "Bolí",
+        "ma",
+        "hrdlo",
+        "a",
+        "mám",
+        "horúčku.",
+        "Kašlem",
+        "už",
+        "tri",
+        "dni."
+      ]
+    },
+    {
+      "id": "order-nec-tim-sa-dobre",
+      "type": "order",
+      "l1": "Je ne me sens pas bien.",
+      "l2": "Necítim sa dobre.",
+      "tokens_l1": [
+        "Je",
+        "ne",
+        "me",
+        "sens",
+        "pas",
+        "bien.",
+        "Nous",
+        "devons",
+        "vous",
+        "examiner."
+      ],
+      "tokens_l2": [
+        "Necítim",
+        "sa",
+        "dobre.",
+        "Musíme",
+        "vás",
+        "vyšetriť."
+      ]
+    },
+    {
+      "id": "order-ka-lem-u-tri-dni",
+      "type": "order",
+      "l1": "Je tousse depuis trois jours.",
+      "l2": "Kašlem už tri dni.",
+      "tokens_l1": [
+        "Je",
+        "tousse",
+        "depuis",
+        "trois",
+        "jours.",
+        "J'ai",
+        "mal",
+        "à",
+        "la",
+        "gorge",
+        "et",
+        "j'ai",
+        "de",
+        "la",
+        "fièvre."
+      ],
+      "tokens_l2": [
+        "Kašlem",
+        "už",
+        "tri",
+        "dni.",
+        "Bolí",
+        "ma",
+        "hrdlo",
+        "a",
+        "mám",
+        "horúčku."
+      ]
+    },
+    {
+      "id": "order-mus-me-v-s-vy-etri",
+      "type": "order",
+      "l1": "Nous devons vous examiner.",
+      "l2": "Musíme vás vyšetriť.",
+      "tokens_l1": [
+        "Nous",
+        "devons",
+        "vous",
+        "examiner.",
+        "J'ai",
+        "une",
+        "ordonnance",
+        "du",
+        "médecin."
+      ],
+      "tokens_l2": [
+        "Musíme",
+        "vás",
+        "vyšetriť.",
+        "Mám",
+        "recept",
+        "od",
+        "lekára."
+      ]
+    },
+    {
+      "id": "order-m-te-na-nie-o-alergiu",
+      "type": "order",
+      "l1": "Avez-vous une allergie à quelque chose ?",
+      "l2": "Máte na niečo alergiu?",
+      "tokens_l1": [
+        "Avez-vous",
+        "une",
+        "allergie",
+        "à",
+        "quelque",
+        "chose",
+        "?",
+        "Je",
+        "ne",
+        "me",
+        "sens",
+        "pas",
+        "bien."
+      ],
+      "tokens_l2": [
+        "Máte",
+        "na",
+        "niečo",
+        "alergiu?",
+        "Necítim",
+        "sa",
+        "dobre."
+      ]
+    },
+    {
+      "id": "order-predp-em-v-m-nejak-lieky",
+      "type": "order",
+      "l1": "Je vais vous prescrire des médicaments.",
+      "l2": "Predpíšem vám nejaké lieky.",
+      "tokens_l1": [
+        "Je",
+        "vais",
+        "vous",
+        "prescrire",
+        "des",
+        "médicaments.",
+        "Avez-vous",
+        "une",
+        "allergie",
+        "à",
+        "quelque",
+        "chose",
+        "?"
+      ],
+      "tokens_l2": [
+        "Predpíšem",
+        "vám",
+        "nejaké",
+        "lieky.",
+        "Máte",
+        "na",
+        "niečo",
+        "alergiu?"
+      ]
+    },
+    {
+      "id": "order-m-m-recept-od-lek-ra",
+      "type": "order",
+      "l1": "J'ai une ordonnance du médecin.",
+      "l2": "Mám recept od lekára.",
+      "tokens_l1": [
+        "J'ai",
+        "une",
+        "ordonnance",
+        "du",
+        "médecin.",
+        "Je",
+        "vais",
+        "vous",
+        "prescrire",
+        "des",
+        "médicaments."
+      ],
+      "tokens_l2": [
+        "Mám",
+        "recept",
+        "od",
+        "lekára.",
+        "Predpíšem",
+        "vám",
+        "nejaké",
+        "lieky."
+      ]
+    },
+    {
+      "id": "order-mus-m-s-na-pohotovos",
+      "type": "order",
+      "l1": "Je dois aller aux urgences.",
+      "l2": "Musím ísť na pohotovosť.",
+      "tokens_l1": [
+        "Je",
+        "dois",
+        "aller",
+        "aux",
+        "urgences.",
+        "Qu'est-ce",
+        "qui",
+        "ne",
+        "va",
+        "pas",
+        "?",
+        "(littéralement",
+        ":",
+        "qu'est-ce",
+        "qui",
+        "vous",
+        "tourmente)"
+      ],
+      "tokens_l2": [
+        "Musím",
+        "ísť",
+        "na",
+        "pohotovosť.",
+        "Čo",
+        "vás",
+        "trápi?"
+      ]
+    },
+    {
+      "id": "match-lek-r-lek-rka-vocab",
+      "type": "match",
+      "l1": [
+        "médecin",
+        "patient(e)",
+        "hôpital",
+        "cabinet médical"
+      ],
+      "l2": [
+        "lekár / lekárka",
+        "pacient / pacientka",
+        "nemocnica",
+        "ambulancia"
+      ]
+    },
+    {
+      "id": "match-o-v-s-tr-pi-sentences",
+      "type": "match",
+      "l1": [
+        "Qu'est-ce qui ne va pas ? (littéralement : qu'est-ce qui vous tourmente)",
+        "J'ai mal à la gorge et j'ai de la fièvre.",
+        "Je ne me sens pas bien.",
+        "Je tousse depuis trois jours."
+      ],
+      "l2": [
+        "Čo vás trápi?",
+        "Bolí ma hrdlo a mám horúčku.",
+        "Necítim sa dobre.",
+        "Kašlem už tri dni."
+      ]
+    }
+  ]
+}
