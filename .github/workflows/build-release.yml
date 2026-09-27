@@ -1,17 +1,5 @@
 name: Build & Release
 
-# Build à la demande : va chercher le moteur Slovingo (lstux/Slovingo),
-# construit ce contenu avec, et publie le résultat (dist/) comme
-# Release GitHub de CE repo.
-#
-# Convention : ce repo EST le "lang dir" sk-fr, tel qu'attendu par
-# src/build.py de Slovingo -- c'est-à-dire qu'il contient à sa racine :
-#   md/          fiches SMD sources
-#   img/         images référencées par les fiches
-#   exercises/   exceptions d'exercices persistantes (si utilisé)
-#   lang.json    config de la langue
-# (json/ et dist/ sont générés par le build, jamais committés ici.)
-
 on:
   workflow_dispatch:
     inputs:
@@ -24,62 +12,15 @@ on:
         required: false
         default: ""
 
+permissions:
+  contents: write
+
 jobs:
   build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout contenu (slovingo-sk-fr)
-        uses: actions/checkout@v4
-        with:
-          path: content
-
-      - name: Checkout code (Slovingo)
-        uses: actions/checkout@v4
-        with:
-          repository: lstux/Slovingo
-          ref: ${{ github.event.inputs.slovingo_ref }}
-          path: engine
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
-          # Pas de requirements.txt : Slovingo n'a aucune dépendance
-          # externe (voir README.md du repo Slovingo).
-
-      - name: Placer le contenu dans l'arbo attendue par build.py
-        run: |
-          mkdir -p engine/langs/sk-fr
-          # copie tout le contenu de ce repo (md/, img/, exercises/, lang.json)
-          # dans engine/langs/sk-fr/, en excluant les fichiers meta du repo
-          rsync -a --exclude='.git' --exclude='.github' --exclude='LICENSE' --exclude='README*' \
-            content/ engine/langs/sk-fr/
-
-      - name: Build
-        run: |
-          cd engine
-          python3 src/build.py --lang-dir langs/sk-fr --static-dir static
-
-      - name: Déterminer le tag de release
-        id: tag
-        run: |
-          if [ -n "${{ github.event.inputs.release_tag }}" ]; then
-            echo "tag=${{ github.event.inputs.release_tag }}" >> "$GITHUB_OUTPUT"
-          else
-            echo "tag=$(date +%Y.%m.%d)" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Packager le build
-        run: |
-          cd engine/langs/sk-fr
-          tar czf ../../../slovingo-sk-fr.tar.gz dist/
-
-      - name: Créer la Release GitHub
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ steps.tag.outputs.tag }}
-          name: "Slovingo sk-fr — ${{ steps.tag.outputs.tag }}"
-          body: |
-            Build généré via workflow_dispatch.
-            Code Slovingo utilisé : `${{ github.event.inputs.slovingo_ref }}`
-          files: slovingo-sk-fr.tar.gz
+    uses: lstux/Slovingo/.github/workflows/build-release.yml@main
+    with:
+      lang_code: sk-fr
+      slovingo_ref: ${{ inputs.slovingo_ref }}
+      release_tag: ${{ inputs.release_tag }}
+    permissions:
+      contents: write
