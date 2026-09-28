@@ -184,7 +184,7 @@
       "id": "blank-no-um-vajte-poh-re-pros-m",
       "type": "fill-blank",
       "l1": "Oui. Lavez les verres, s'il vous plaît.",
-      "l2": "Áno. Umývajte poháre, prosím.",
+      "l2": "Áno. Umyte poháre, prosím.",
       "missing_l1": "les",
       "missing_l2": "prosím",
       "blank_index_l1": 2,
@@ -198,26 +198,6 @@
         "pomáhať",
         "Varím",
         "výborné"
-      ]
-    },
-    {
-      "id": "blank-a-ja-upratujem-ob-va-ku",
-      "type": "fill-blank",
-      "l1": "Et moi je range le salon !",
-      "l2": "A ja upratujem obývačku!",
-      "missing_l1": "le",
-      "missing_l2": "ja",
-      "blank_index_l1": 4,
-      "blank_index_l2": 1,
-      "choices_l1": [
-        "Les",
-        "prie",
-        "s'il"
-      ],
-      "choices_l2": [
-        "ten",
-        "Toto",
-        "My"
       ]
     },
     {
@@ -244,7 +224,7 @@
       "id": "blank-otv-ram-okno-je-tu-teplo",
       "type": "fill-blank",
       "l1": "J'ouvre la fenêtre ? Il fait chaud ici.",
-      "l2": "Otváram okno? Je tu teplo.",
+      "l2": "Otvorím okno? Je tu teplo.",
       "missing_l1": "la",
       "missing_l2": "Je",
       "blank_index_l1": 1,
@@ -264,7 +244,7 @@
       "id": "blank-no-pros-m-a-zatv-rajte-dvere",
       "type": "fill-blank",
       "l1": "Oui, s'il vous plaît. Et fermez la porte.",
-      "l2": "Áno, prosím. A zatvárajte dvere.",
+      "l2": "Áno, prosím. A zatvorte dvere.",
       "missing_l1": "la",
       "missing_l2": "A",
       "blank_index_l1": 6,
@@ -382,14 +362,14 @@
       "l1": "Merci. Vous avez un bel appartement.",
       "l2": "Ďakujem. Máte pekný byt.",
       "choices_l1": [
-        "Et moi je range le salon !",
+        "Et moi, je vais ranger le salon !",
         "Les chaussons sont ici ?",
         "Bonjour, Eric. Entrez, je vous en prie."
       ],
       "choices_l2": [
         "Taniere sú v skrini, v kuchyni.",
         "Čo robíš, Andrea?",
-        "A ja upratujem obývačku!"
+        "A ja upracem obývačku!"
       ]
     },
     {
@@ -463,13 +443,13 @@
       "l2": "Áno, nech sa páči. Sadnite si na gauč.",
       "choices_l1": [
         "Que fais-tu, Andrea ?",
-        "Et moi je range le salon !",
+        "Et moi, je vais ranger le salon !",
         "Oui, s'il vous plaît. Et fermez la porte."
       ],
       "choices_l2": [
-        "Otváram okno? Je tu teplo.",
+        "Otvorím okno? Je tu teplo.",
         "Ďakujem. Máte pekný byt.",
-        "Áno. Umývajte poháre, prosím."
+        "Áno. Umyte poháre, prosím."
       ]
     },
     {
@@ -480,12 +460,12 @@
       "choices_l1": [
         "Oui, s'il vous plaît. Et fermez la porte.",
         "Les chaussons sont ici ?",
-        "Et moi je range le salon !"
+        "Et moi, je vais ranger le salon !"
       ],
       "choices_l2": [
         "Ďakujem. Máte pekný byt.",
-        "Áno, prosím. A zatvárajte dvere.",
-        "Áno. Umývajte poháre, prosím."
+        "Áno, prosím. A zatvorte dvere.",
+        "Áno. Umyte poháre, prosím."
       ]
     },
     {
@@ -500,31 +480,15 @@
       ],
       "choices_l2": [
         "Áno, nech sa páči. Sadnite si na gauč.",
-        "Áno. Umývajte poháre, prosím.",
+        "Áno. Umyte poháre, prosím.",
         "Dobrý deň, Eric. Nech sa páči."
-      ]
-    },
-    {
-      "id": "listen-m-em-pom-ha",
-      "type": "listen",
-      "l1": "Puis-je aider ?",
-      "l2": "Môžem pomáhať?",
-      "choices_l1": [
-        "Les assiettes sont dans l'armoire, dans la cuisine.",
-        "Oui. Lavez les verres, s'il vous plaît.",
-        "J'ouvre la fenêtre ? Il fait chaud ici."
-      ],
-      "choices_l2": [
-        "Hľadám okuliare.",
-        "Nespím. Počúvam.",
-        "Otváram okno."
       ]
     },
     {
       "id": "listen-no-um-vajte-poh-re-pros-m",
       "type": "listen",
       "l1": "Oui. Lavez les verres, s'il vous plaît.",
-      "l2": "Áno. Umývajte poháre, prosím.",
+      "l2": "Áno. Umyte poháre, prosím.",
       "choices_l1": [
         "Oui, s'il vous plaît. Et fermez la porte.",
         "Bonjour, Eric. Entrez, je vous en prie.",
@@ -534,22 +498,6 @@
         "Papuče sú tu?",
         "Taniere sú v skrini, v kuchyni.",
         "Na chodbe. Záchod je tam tiež."
-      ]
-    },
-    {
-      "id": "listen-a-ja-upratujem-ob-va-ku",
-      "type": "listen",
-      "l1": "Et moi je range le salon !",
-      "l2": "A ja upratujem obývačku!",
-      "choices_l1": [
-        "Dans le couloir. Les toilettes sont là aussi.",
-        "Bonjour, Eric. Entrez, je vous en prie.",
-        "Il est petit. Nous avons trois pièces."
-      ],
-      "choices_l2": [
-        "Varím. Máme obed o dvanástej.",
-        "Čo robíš, Andrea?",
-        "Ďakujem. Máte pekný byt."
       ]
     },
     {
@@ -572,7 +520,7 @@
       "id": "listen-otv-ram-okno-je-tu-teplo",
       "type": "listen",
       "l1": "J'ouvre la fenêtre ? Il fait chaud ici.",
-      "l2": "Otváram okno? Je tu teplo.",
+      "l2": "Otvorím okno? Je tu teplo.",
       "choices_l1": [
         "Il est petit. Nous avons trois pièces.",
         "Oui, s'il vous plaît. Et fermez la porte.",
@@ -580,15 +528,15 @@
       ],
       "choices_l2": [
         "Čo robíš, Andrea?",
-        "Áno. Umývajte poháre, prosím.",
-        "Áno, prosím. A zatvárajte dvere."
+        "Áno. Umyte poháre, prosím.",
+        "Áno, prosím. A zatvorte dvere."
       ]
     },
     {
       "id": "listen-no-pros-m-a-zatv-rajte-dvere",
       "type": "listen",
       "l1": "Oui, s'il vous plaît. Et fermez la porte.",
-      "l2": "Áno, prosím. A zatvárajte dvere.",
+      "l2": "Áno, prosím. A zatvorte dvere.",
       "choices_l1": [
         "Les assiettes sont dans l'armoire, dans la cuisine.",
         "Merci. Vous avez un bel appartement.",
@@ -597,7 +545,7 @@
       "choices_l2": [
         "Čo robíš, Andrea?",
         "Áno, nech sa páči. Sadnite si na gauč.",
-        "Otváram okno? Je tu teplo."
+        "Otvorím okno? Je tu teplo."
       ]
     },
     {
@@ -607,13 +555,13 @@
       "l2": "Ďakujem, bolo to výborné.",
       "choices_l1": [
         "Que fais-tu, Andrea ?",
-        "Et moi je range le salon !",
+        "Et moi, je vais ranger le salon !",
         "Il est petit. Nous avons trois pièces."
       ],
       "choices_l2": [
         "Ďakujem. Máte pekný byt.",
         "Čo robíš, Andrea?",
-        "Áno. Umývajte poháre, prosím."
+        "Áno. Umyte poháre, prosím."
       ]
     },
     {
@@ -622,7 +570,7 @@
       "l1": "Où sont mes lunettes ?",
       "l2": "Kde sú moje okuliare?",
       "choices_l1": [
-        "Et moi je range le salon !",
+        "Et moi, je vais ranger le salon !",
         "Je cuisine. Nous déjeunons à midi.",
         "Bonjour, Eric. Entrez, je vous en prie."
       ],
@@ -639,7 +587,7 @@
       "l2": "Náš dom je veľký, ale izby sú malé.",
       "choices_l1": [
         "Il est petit. Nous avons trois pièces.",
-        "Et moi je range le salon !",
+        "Et moi, je vais ranger le salon !",
         "Oui, je vous en prie. Asseyez-vous sur le canapé."
       ],
       "choices_l2": [
@@ -659,9 +607,9 @@
         "Il est petit. Nous avons trois pièces."
       ],
       "choices_l2": [
-        "Áno. Umývajte poháre, prosím.",
+        "Áno. Umyte poháre, prosím.",
         "Papuče sú tu?",
-        "A ja upratujem obývačku!"
+        "A ja upracem obývačku!"
       ]
     },
     {
@@ -778,9 +726,10 @@
         "bain",
         "?",
         "Et",
-        "moi",
+        "moi,",
         "je",
-        "range",
+        "vais",
+        "ranger",
         "le",
         "salon",
         "!"
@@ -791,7 +740,7 @@
         "kúpeľňa?",
         "A",
         "ja",
-        "upratujem",
+        "upracem",
         "obývačku!"
       ]
     },
@@ -840,9 +789,10 @@
         "ici",
         "?",
         "Et",
-        "moi",
+        "moi,",
         "je",
-        "range",
+        "vais",
+        "ranger",
         "le",
         "salon",
         "!"
@@ -853,7 +803,7 @@
         "tu?",
         "A",
         "ja",
-        "upratujem",
+        "upracem",
         "obývačku!"
       ]
     },
@@ -890,7 +840,7 @@
         "na",
         "gauč.",
         "Áno.",
-        "Umývajte",
+        "Umyte",
         "poháre,",
         "prosím."
       ]
@@ -960,7 +910,7 @@
       "id": "order-no-um-vajte-poh-re-pros-m",
       "type": "order",
       "l1": "Oui. Lavez les verres, s'il vous plaît.",
-      "l2": "Áno. Umývajte poháre, prosím.",
+      "l2": "Áno. Umyte poháre, prosím.",
       "tokens_l1": [
         "Oui.",
         "Lavez",
@@ -977,38 +927,9 @@
       ],
       "tokens_l2": [
         "Áno.",
-        "Umývajte",
+        "Umyte",
         "poháre,",
         "prosím.",
-        "Papuče",
-        "sú",
-        "tu?"
-      ]
-    },
-    {
-      "id": "order-a-ja-upratujem-ob-va-ku",
-      "type": "order",
-      "l1": "Et moi je range le salon !",
-      "l2": "A ja upratujem obývačku!",
-      "tokens_l1": [
-        "Et",
-        "moi",
-        "je",
-        "range",
-        "le",
-        "salon",
-        "!",
-        "Les",
-        "chaussons",
-        "sont",
-        "ici",
-        "?"
-      ],
-      "tokens_l2": [
-        "A",
-        "ja",
-        "upratujem",
-        "obývačku!",
         "Papuče",
         "sú",
         "tu?"
@@ -1059,7 +980,7 @@
       "id": "order-otv-ram-okno-je-tu-teplo",
       "type": "order",
       "l1": "J'ouvre la fenêtre ? Il fait chaud ici.",
-      "l2": "Otváram okno? Je tu teplo.",
+      "l2": "Otvorím okno? Je tu teplo.",
       "tokens_l1": [
         "J'ouvre",
         "la",
@@ -1076,7 +997,7 @@
         "?"
       ],
       "tokens_l2": [
-        "Otváram",
+        "Otvorím",
         "okno?",
         "Je",
         "tu",
@@ -1091,7 +1012,7 @@
       "id": "order-no-pros-m-a-zatv-rajte-dvere",
       "type": "order",
       "l1": "Oui, s'il vous plaît. Et fermez la porte.",
-      "l2": "Áno, prosím. A zatvárajte dvere.",
+      "l2": "Áno, prosím. A zatvorte dvere.",
       "tokens_l1": [
         "Oui,",
         "s'il",
@@ -1112,7 +1033,7 @@
         "Áno,",
         "prosím.",
         "A",
-        "zatvárajte",
+        "zatvorte",
         "dvere.",
         "Ďakujem.",
         "Máte",
@@ -1173,7 +1094,7 @@
         "Áno,",
         "prosím.",
         "A",
-        "zatvárajte",
+        "zatvorte",
         "dvere."
       ]
     },
@@ -1267,6 +1188,86 @@
         "Ďakujem. Máte pekný byt.",
         "Je malý. Máme tri izby.",
         "Kde je kúpeľňa?"
+      ]
+    },
+    {
+      "id": "listen-m-em-pom-c",
+      "type": "listen",
+      "l1": "Je peux aider ?",
+      "l2": "Môžem pomôcť?",
+      "choices_l1": [
+        "Tu peux aider ?",
+        "Je veux aider ?",
+        "Je peux entrer ?"
+      ]
+    },
+    {
+      "id": "blank-a-ja-upracem-ob-va-ku",
+      "type": "fill-blank",
+      "l1": "Et moi, je vais ranger le salon !",
+      "l2": "A ja upracem obývačku!",
+      "missing_l1": "vais",
+      "missing_l2": "ja",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "vas",
+        "va",
+        "allons"
+      ],
+      "choices_l2": [
+        "ty",
+        "on",
+        "my"
+      ]
+    },
+    {
+      "id": "listen-a-ja-upracem-ob-va-ku",
+      "type": "listen",
+      "l1": "Et moi, je vais ranger le salon !",
+      "l2": "A ja upracem obývačku!",
+      "choices_l1": [
+        "Et moi, je vais ranger la cuisine !",
+        "Et toi, tu vas ranger le salon !",
+        "Et moi, je vais ranger la chambre !"
+      ]
+    },
+    {
+      "id": "order-a-ja-upracem-ob-va-ku",
+      "type": "order",
+      "l1": "Et moi, je vais ranger le salon !",
+      "l2": "A ja upracem obývačku!",
+      "tokens_l1": [
+        "Et",
+        "moi,",
+        "je",
+        "vais",
+        "ranger",
+        "le",
+        "salon",
+        "!",
+        "Je",
+        "cherche",
+        "la",
+        "clé.",
+        "Elle",
+        "n'est",
+        "pas",
+        "dans",
+        "le",
+        "sac."
+      ],
+      "tokens_l2": [
+        "A",
+        "ja",
+        "upracem",
+        "obývačku!",
+        "Hľadám",
+        "kľúč.",
+        "Nie",
+        "je",
+        "v",
+        "taške."
       ]
     }
   ]

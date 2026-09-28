@@ -100,12 +100,13 @@ Eric et Ján se tutoient. Eric vouvoie Babka Zuzana.
 > Kde = où
 > bývate = habitez-vous
 
-! 👦 Bývam v Košiciach, v byte. A vy?
-> J'habite à Košice, dans un appartement. Et vous ?
+! 👦 Bývam v Lyone, v byte. A vy?
+> J'habite à Lyon, dans un appartement. Et vous ?
 > Bývam = j'habite
-> v Košiciach = à Košice (locatif, toujours au pluriel)
+> v Lyone = à Lyon
 > v byte = dans un appartement
 > A vy = et vous
++ Les villes étrangères se déclinent aussi : Lyon → v Lyone, comme dom → v dome.
 
 ! 👵 Bývam tu, v dome. Mám záhradu.
 > J'habite ici, dans une maison. J'ai un jardin.
