@@ -34,7 +34,7 @@
   },
   "subgroups": {
     "velkanoc": "Veľká noc",
-    "kronica_vstupdoeu": "Kronika : Vstup do EÚ"
+    "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
   },
   "ui": {
     "home": "Accueil",
@@ -164,16 +164,16 @@
     "pocasie": "weather",
     "tatry": "mountains",
     "velkanoc": "easter",
-    "kronica_emigracia": "games",
-    "kronica_neznerevolucia": "games",
-    "kronica_pionieri": "games",
-    "kronica_radio": "games",
-    "kronica_rozdelenie": "games",
-    "kronica_skola": "games",
-    "kronica_snp": "games",
-    "kronica_stefanik": "games",
-    "kronica_stur": "games",
-    "kronica_vstupdoeu": "games",
-    "kronica_zaslusneslovensko": "games"
+    "kronika_emigracia": "games",
+    "kronika_neznerevolucia": "games",
+    "kronika_pionieri": "games",
+    "kronika_radio": "games",
+    "kronika_rozdelenie": "games",
+    "kronika_skola": "games",
+    "kronika_snp": "games",
+    "kronika_stefanik": "games",
+    "kronika_stur": "games",
+    "kronika_vstupdoeu": "games",
+    "kronika_zaslusneslovensko": "games"
   }
 }
