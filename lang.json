@@ -152,5 +152,16 @@
       "francais",
       "french"
     ]
+  },
+  "subgroup_themes": {
+    "rodina": "family",
+    "doma": "house",
+    "jedlo": "food",
+    "cas": "time",
+    "nakupy": "shopping",
+    "mesto": "city",
+    "pocasie": "weather",
+    "tatry": "mountains",
+    "velkanoc": "easter"
   }
 }
