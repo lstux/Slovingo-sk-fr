@@ -154,6 +154,7 @@
     ]
   },
   "subgroup_themes": {
+    "kitsurvie": "basics",
     "rodina": "family",
     "doma": "house",
     "jedlo": "food",
@@ -162,6 +163,17 @@
     "mesto": "city",
     "pocasie": "weather",
     "tatry": "mountains",
-    "velkanoc": "easter"
+    "velkanoc": "easter",
+    "kronica_emigracia": "games",
+    "kronica_neznerevolucia": "games",
+    "kronica_pionieri": "games",
+    "kronica_radio": "games",
+    "kronica_rozdelenie": "games",
+    "kronica_skola": "games",
+    "kronica_snp": "games",
+    "kronica_stefanik": "games",
+    "kronica_stur": "games",
+    "kronica_vstupdoeu": "games",
+    "kronica_zaslusneslovensko": "games"
   }
 }
