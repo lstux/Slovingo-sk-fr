@@ -23,12 +23,7 @@
     "storage_prefix": "sk-fr",
     "url_path": "/slovingo/sk-fr/",
     "user_name_default": "Eric",
-    "user_name_placeholder": "Ton prénom",
-    "icon_style": "kids",
-    "icon_companions": [
-      "🦊",
-      "🐰"
-    ]
+    "user_name_placeholder": "Ton prénom"
   },
   "categories": {
     "introduction": "Avant de commencer",
