@@ -23,7 +23,12 @@
     "storage_prefix": "sk-fr",
     "url_path": "/slovingo/sk-fr/",
     "user_name_default": "Eric",
-    "user_name_placeholder": "Ton prénom"
+    "user_name_placeholder": "Ton prénom",
+    "icon_style": "kids",
+    "icon_companions": [
+      "🦊",
+      "🐰"
+    ]
   },
   "categories": {
     "introduction": "Avant de commencer",
@@ -142,7 +147,23 @@
     "exercise_listen_play_button": "🔊 Écouter",
     "exercise_listen_slow_button": "🐢 Lentement",
     "exercise_order_question_label": "Mettez les mots dans l'ordre :",
-    "exercise_submit_button": "Vérifier"
+    "exercise_submit_button": "Vérifier",
+    "map_title": "Carte de l'aventure",
+    "map_start": "Commencer",
+    "map_continue": "Continuer",
+    "map_explore": "Explorer",
+    "map_close": "Fermer",
+    "map_resources": "Ressources",
+    "map_completed": "terminé",
+    "map_current": "étape en cours",
+    "map_in_progress": "commencé",
+    "map_discovered": "découvert",
+    "map_not_discovered": "pas encore découvert",
+    "map_undiscovered": "Cette partie du chemin n'est pas encore découverte. Tu peux quand même l'explorer !",
+    "map_castle_soon": "Le grand examen final arrive bientôt !",
+    "map_series_done": "Série terminée !",
+    "map_step_done": "Étape terminée !",
+    "all_sheets": "Toutes les fiches"
   },
   "generator": {
     "target_headers": [
@@ -197,5 +218,17 @@
     "kronika_stur": "games",
     "kronika_vstupdoeu": "games",
     "kronika_zaslusneslovensko": "games"
+  },
+  "map": {
+    "icons": {
+      "rodina": "👨‍👩‍👧",
+      "doma": "🏠",
+      "jedlo": "🍲",
+      "cas": "🕐",
+      "nakupy": "🛒",
+      "dedina": "🏘️",
+      "zvierata": "🦌",
+      "hry": "🎲"
+    }
   }
 }
