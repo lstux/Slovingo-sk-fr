@@ -158,7 +158,10 @@
     "map_castle_soon": "Le grand examen final arrive bientôt !",
     "map_series_done": "Série terminée !",
     "map_step_done": "Étape terminée !",
-    "all_sheets": "Toutes les fiches"
+    "all_sheets": "Toutes les fiches",
+    "backup_export": "📥 Exporter les réglages et la progression (JSON)",
+    "backup_import": "📤 Importer une sauvegarde (JSON)",
+    "map_final_reached": "Bravo ! Le parcours est terminé !"
   },
   "generator": {
     "target_headers": [
