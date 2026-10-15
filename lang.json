@@ -163,6 +163,7 @@
     "backup_import": "📤 Importer une sauvegarde (JSON)",
     "map_final_reached": "Bravo ! Le parcours est terminé !"
   },
+  "greeting": {"t": "Ahoj, [USER_NAME]!", "n": "Salut, [USER_NAME] !"},
   "cheers": {
     "perfect": [
       {"t": "Výborne!", "n": "Excellent !"},
