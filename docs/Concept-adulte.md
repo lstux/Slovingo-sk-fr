@@ -1,6 +1,6 @@
 # Concept « Roadtrip » — cours adulte, univers parallèle
 
-*Version 0.5, 29 octobre 2026. Série-voyage du cours sk-fr : un guide touristique de la Slovaquie, mis en histoire, de Bratislava à Košice. Univers proche de Zajka Friends (mêmes personnages, un peu de continuité), sans en être la suite directe. Le slovaque est un brouillon, à faire relire par un locuteur natif. Les lieux sont réels, les souvenirs d'Andrea sont fictifs.*
+*Version 0.6, 29 octobre 2026. Série-voyage du cours sk-fr : un guide touristique de la Slovaquie, mis en histoire, de Bratislava à Košice. Univers proche de Zajka Friends (mêmes personnages, un peu de continuité), sans en être la suite directe. Le slovaque est un brouillon, à faire relire par un locuteur natif. Les lieux sont réels, les souvenirs d'Andrea sont fictifs.*
 
 ## En bref
 - **Un guide touristique, mis en histoire.** On visite le pays : tous les **incontournables** de la Slovaquie sont obligatoires, et chaque étape ajoute un **détour** vers un lieu plus connu des locaux que des touristes étrangers.
@@ -11,10 +11,10 @@
 - **Un chapitre = une journée de voyage** : douze jours, onze nuits, environ 700 km au total (estimation).
 
 ## Personnages
-- 🦊 **Gab**, le renard. C'est « toi ». L'oncle qui s'est engagé pour le voyage et découvre tout en même temps que ses neveux. Il parle un slovaque approximatif, et le narrateur le corrige au passage.
+- 🦊 **Gab**, le renard. C'est « toi ». L'oncle qui emmène ses neveux, venus de France, en vacances en Slovaquie, et qui découvre tout en même temps qu'eux. Il parle un slovaque approximatif, et le narrateur le corrige au passage.
 - 🐰 **Andrea**, la hase, amie de Gab. Née à **Prešov**, elle connaît le pays, a des souvenirs partout et prétend tout savoir.
-- **Le neveu et la nièce** : les enfants de la grande sœur de Gab, une lapine. Un petit garçon renard 🦊 et une petite hase 🐰, comme Andrea. Ils ne connaissent que Bratislava et ses environs, d'où le voyage. Ils posent toutes les questions.
-- **Prénoms proposés** (à valider) : le neveu 🦊 **Hugo**, la nièce 🐰 **Lola**, leur mère **Claire** (surtout au téléphone ou au départ). À Prešov, la famille d'Andrea : maman **Marta**, papa **Ivan**, et **babka Zuzana** en clin d'œil à Kids.
+- **Le neveu et la nièce** : les enfants de la grande sœur de Gab, une lapine. Un petit garçon renard 🦊 et une petite hase 🐰, comme Andrea. Ils vivent en France et viennent en vacances avec leur oncle : ils découvrent tout, comme lui. Ils posent toutes les questions, apprennent des mots en route et finissent par corriger le slovaque de Gab.
+- **Prénoms proposés** (à valider) : le neveu 🦊 **Hugo**, la nièce 🐰 **Lola**, leur mère **Claire**, restée en France (au téléphone). À Prešov, la famille d'Andrea : maman **Marta**, papa **Ivan**, et **babka Zuzana** en clin d'œil à Kids.
 - 🧭 **Le GPS**, la voix du voyage (voir « Le narrateur »).
 - Personnages de passage (hôte de penzión, guide, serveur, voisin de camping) : une émoticône unique par rôle, sans récurrence obligatoire.
 
@@ -25,7 +25,7 @@ Douze chapitres, douze étapes (certaines en regroupent deux). Les incontournabl
 
 | Ch. | Étape | Incontournables | Détour (lieu réel, plus local) | Nuit |
 |---|---|---|---|---|
-| 01 | Bratislava | Château, cathédrale Saint-Martin, vieille ville, Église bleue, pont SNP et sa tour en forme d'ovni | Caves à vin des Petites Carpates | Chez la grande sœur (départ le lendemain) |
+| 01 | Bratislava | Château, cathédrale Saint-Martin, vieille ville, Église bleue, pont SNP et sa tour en forme d'ovni | Caves à vin des Petites Carpates | Arrivée de France, première nuit à Bratislava |
 | 02 | Piešťany et Trenčín | Château de Trenčín perché sur son rocher, inscription romaine du IIe siècle gravée dans la roche | Station thermale de Piešťany et sa boue sulfureuse, synagogue de Trenčín | **Penzión** : le gag de celui qui ronfle |
 | 03 | Bojnice et Kremnica | Château de conte de fées de Bojnice, sa grotte, son zoo | Hôtel des Monnaies de Kremnica | Chambre chez l'habitant |
 | 04 | Banská Štiavnica | Ville minière classée UNESCO, calvaire baroque | Étang minier (tajch) de Počúvadlo | **Chata** au bord de l'eau |
@@ -76,7 +76,7 @@ Voyage d'été, de mai à octobre : les remontées mécaniques des Tatras et le 
 - Les gags viennent des situations, jamais de moqueries sur des personnes réelles.
 - Andrea connaît le pays mais ne se souvient pas de tout : bon ressort, surtout sur les détours.
 - Les incontournables sont racontés comme un guide, les détours comme des confidences.
-- Les enfants ne connaissent que Bratislava : tout les surprend, y compris ce que Gab trouve banal.
+- Les enfants découvrent la Slovaquie : tout les surprend, y compris ce que Gab trouve banal. Ils retiennent les mots plus vite que lui.
 
 ## Cadre
 - **Niveau** : on pousse un peu par rapport à Friends (visé A2), vers un B1 accessible, à aligner sur le cours adulte existant.
@@ -93,8 +93,8 @@ Voyage d'été, de mai à octobre : les remontées mécaniques des Tatras et le 
 - **Hôtel Invisible** : les deux sources trouvées ne décrivent pas la même chose (cinq chambres d'artistes d'un côté, hôtel classique Hlavná 101 de l'autre). À confirmer avant d'en faire la dernière nuit.
 
 ## Points à valider
-1. **Les neveux** : où vivent-ils, et parlent-ils slovaque ? Hypothèse de travail : une famille française installée près de Bratislava, enfants plutôt à l'aise en slovaque, qui corrigent leur oncle.
-2. **Prénoms** : Hugo, Lola, Claire, Marta, Ivan, babka Zuzana.
+1. **Prénoms** : Hugo, Lola, Claire, Marta, Ivan, babka Zuzana. **Âges proposés** : Hugo 9 ans, Lola 6 ans (assez petits pour les « on est arrivés ? »).
+2. **Kit de survie** : il met en scène « Eric » 👦 qui rencontre Andrea 👩 et la vouvoie, ce qui ne colle plus avec Gab 🦊 et Andrea 🐰, amis de longue date. « Eric » est aussi écrit en dur dans deux annexes (conjugaison, pronoms possessifs). À adapter avant la fusion.
 3. **Hôtel Invisible** à Košice : à confirmer avant d'en faire la dernière nuit.
 4. **Dates d'ouverture** de la grotte de Dobšiná, du train forestier d'Orava et accès au château de Šariš.
 5. **Détours « locaux »** : relecture par un locuteur natif.
