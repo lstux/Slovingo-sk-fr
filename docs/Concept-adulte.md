@@ -1,18 +1,21 @@
 # Concept « Roadtrip » — cours adulte, univers parallèle
 
-*Version 0.3, 8 octobre 2026. Série-voyage du cours sk-fr : un guide touristique de la Slovaquie, mis en histoire, de Bratislava à Košice. Univers proche de Zajka Friends (mêmes personnages, un peu de continuité), sans en être la suite directe. Le slovaque est un brouillon, à faire relire par un locuteur natif. Les lieux sont réels, les souvenirs d'Andrea sont fictifs.*
+*Version 0.5, 29 octobre 2026. Série-voyage du cours sk-fr : un guide touristique de la Slovaquie, mis en histoire, de Bratislava à Košice. Univers proche de Zajka Friends (mêmes personnages, un peu de continuité), sans en être la suite directe. Le slovaque est un brouillon, à faire relire par un locuteur natif. Les lieux sont réels, les souvenirs d'Andrea sont fictifs.*
 
 ## En bref
 - **Un guide touristique, mis en histoire.** On visite le pays : tous les **incontournables** de la Slovaquie sont obligatoires, et chaque étape ajoute un **détour** vers un lieu plus connu des locaux que des touristes étrangers.
 - **Un voyage qui teste les hébergements** : penzión (avec le gag de celui qui ronfle), camping, chambre chez l'habitant, chata, chez la famille d'Andrea, et un hôtel pas comme les autres à Košice.
 - **Le ton** : gags de vacances en famille que tous les parents reconnaissent. La valise qui déborde, le GPS qui s'obstine, « on est arrivés ? » toutes les dix minutes, la pause pipi au pire moment.
 - **Aucun enjeu de fond.** De bonnes vacances, de bons souvenirs.
-- **Format identique à Friends** : une série = un chapitre, fiches 01-04 avec micro-dialogues, fiches 05 et 06 avec l'épisode et un narrateur 💬.
+- **Format identique à Friends** : une série = un chapitre, fiches 01-04 avec micro-dialogues, fiches 05 et 06 avec l'épisode et un narrateur 💬 (le GPS, avec repli possible sur un narrateur neutre).
+- **Un chapitre = une journée de voyage** : douze jours, onze nuits, environ 700 km au total (estimation).
 
 ## Personnages
 - 🦊 **Gab**, le renard. C'est « toi ». L'oncle qui s'est engagé pour le voyage et découvre tout en même temps que ses neveux. Il parle un slovaque approximatif, et le narrateur le corrige au passage.
 - 🐰 **Andrea**, la hase, amie de Gab. Née à **Prešov**, elle connaît le pays, a des souvenirs partout et prétend tout savoir.
 - **Le neveu et la nièce** : les enfants de la grande sœur de Gab, une lapine. Un petit garçon renard 🦊 et une petite hase 🐰, comme Andrea. Ils ne connaissent que Bratislava et ses environs, d'où le voyage. Ils posent toutes les questions.
+- **Prénoms proposés** (à valider) : le neveu 🦊 **Hugo**, la nièce 🐰 **Lola**, leur mère **Claire** (surtout au téléphone ou au départ). À Prešov, la famille d'Andrea : maman **Marta**, papa **Ivan**, et **babka Zuzana** en clin d'œil à Kids.
+- 🧭 **Le GPS**, la voix du voyage (voir « Le narrateur »).
 - Personnages de passage (hôte de penzión, guide, serveur, voisin de camping) : une émoticône unique par rôle, sans récurrence obligatoire.
 
 ## Route
@@ -52,11 +55,22 @@ Voyage d'été, de mai à octobre : les remontées mécaniques des Tatras et le 
 - **Chez la famille d'Andrea** : la nuit la plus chaleureuse du voyage.
 - **Hôtel Invisible à Košice** : la dernière nuit, avec une vue différente par chambre.
 
+## Le narrateur : le GPS
+- **Par défaut, le narrateur 💬 est le GPS** de la voiture. Il commente le voyage, annonce les étapes et donne des directions, ce qui sert le vocabulaire (*odbočte vľavo*, *choďte rovno*).
+- **Il n'est pas toujours là** : camping des Tatras, grotte de glace, gorges du Slovenský raj, chez la famille d'Andrea. Quand il n'y a plus de réseau, il le dit lui-même (« signal perdu »), passe en mode hors ligne, boude, puis revient en fin de chapitre avec « recalcul de l'itinéraire ». Le gag fait partie du charme.
+- **Repli possible sur un narrateur neutre**, comme dans Friends, pour un chapitre ou pour la série entière si le GPS s'essouffle.
+
 ## Structure des séries (comme Friends)
 - **01 à 04** : vocabulaire et grammaire, micro-dialogues de 3 à 6 cartes, narrateur compris.
 - **05** : l'épisode en dialogue, narrateur 💬.
 - **06** : l'épisode prolongé.
 - **Carte** : la fiche 01 de chaque série commence par une carte Leaflet (bloc `%:`) qui montre l'étape. La syntaxe `%` est en cours de validation côté moteur (branche `feat/smd-leaflet-map`).
+
+## Repo, branches et images
+- **Le roadtrip remplace les séries 01 à 09** du cours adulte, dans le même repo `Slovingo-sk-fr`. Les chapitres 01 à 12 prennent les numéros 01 à 12 : pas de collision avec les Kronika, qui commencent à 15.
+- **La branche `original`** conserve le cours actuel, pour référence. Elle n'est pas publiée : le workflow GitHub Pages ne se déclenche que sur `main`.
+- **Au moment de fusionner**, `main` devient le roadtrip, et le site `lstux.github.io/Slovingo-sk-fr` passe au roadtrip. On garde le kit de survie, l'introduction, les Kronika et le vocabulaire. L'introduction « 01 La Slovaquie » fait doublon avec l'esprit du roadtrip : à revoir à l'écriture.
+- **Images** : photos réelles de paysages et de lieux, depuis Wikimedia Commons, avec les crédits (auteur, licence) dans `img/credits.md` comme pour Kids. Pas d'illustrations IA pour l'instant.
 
 ## Ton et gags
 - Les gags viennent des situations, jamais de moqueries sur des personnes réelles.
@@ -79,15 +93,17 @@ Voyage d'été, de mai à octobre : les remontées mécaniques des Tatras et le 
 - **Hôtel Invisible** : les deux sources trouvées ne décrivent pas la même chose (cinq chambres d'artistes d'un côté, hôtel classique Hlavná 101 de l'autre). À confirmer avant d'en faire la dernière nuit.
 
 ## Points à valider
-1. Portée de la refonte : remplacer les séries actuelles du cours adulte ou ajouter le roadtrip à côté (voir plus bas).
-2. Narrateur 💬 : qui est-ce dans le roadtrip ? Idée : le GPS.
-3. Durée du voyage : un chapitre par jour, ou plus long ?
-4. Prénoms du neveu, de la nièce et de la famille d'Andrea.
+1. **Les neveux** : où vivent-ils, et parlent-ils slovaque ? Hypothèse de travail : une famille française installée près de Bratislava, enfants plutôt à l'aise en slovaque, qui corrigent leur oncle.
+2. **Prénoms** : Hugo, Lola, Claire, Marta, Ivan, babka Zuzana.
+3. **Hôtel Invisible** à Košice : à confirmer avant d'en faire la dernière nuit.
+4. **Dates d'ouverture** de la grotte de Dobšiná, du train forestier d'Orava et accès au château de Šariš.
+5. **Détours « locaux »** : relecture par un locuteur natif.
 
 ## Prochaines étapes
-1. Validation de ce concept.
-2. Rédaction de `docs/Histoire.md` (slovaque d'abord, traduction ensuite), comme dans Friends.
-3. Découpage en fiches 01-06 pour chaque chapitre.
+1. Retirer les séries 01 à 09 de `feat/roadtrip` (fiches, exercices, thèmes et icônes de `lang.json`).
+2. Rédiger `docs/Format-roadtrip.md` et `docs/Progression-roadtrip.md`, sur le modèle de Friends.
+3. Rédiger `docs/Histoire.md` (slovaque d'abord, traduction ensuite), comme dans Friends.
+4. Découper en fiches 01-06 pour chaque chapitre.
 
 ## Sources de vérification
 - Slovakia.travel, [10 best places to visit in Slovakia](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia), [Dobšinská Ice Cave](https://slovakia.travel/en/dobsinska-ladova-jaskyna-cave), [Mint in Kremnica](https://slovakia.travel/en/mint-in-kremnica)
