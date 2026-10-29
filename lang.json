@@ -37,6 +37,7 @@
     "trencin": "Piešťany a Trenčín",
     "bojnice": "Bojnice a Kremnica",
     "stiavnica": "Banská Štiavnica",
+    "orava": "Orava",
     "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
   },
   "ui": {
@@ -232,6 +233,7 @@
     "trencin": "city",
     "bojnice": "shopping",
     "stiavnica": "food",
+    "orava": "time",
     "kronika_emigracia": "games",
     "kronika_neznerevolucia": "games",
     "kronika_pionieri": "games",
@@ -250,6 +252,7 @@
       "trencin": "🏯",
       "bojnice": "🐻",
       "stiavnica": "⛏️",
+      "orava": "🚂",
       "dedina": "🏘️",
       "zvierata": "🦌",
       "hry": "🎲"
