@@ -17,7 +17,7 @@ Le roadtrip **remplace les séries 01 à 09** de l'ancien cours adulte (conserv�
 ## Structure générale
 
 - **Introduction** (5 fiches, inchangées) : la Slovaquie, la langue, la prononciation, qui es-tu (prénom), compter.
-- **Kit de survie** (4 fiches, à adapter avec Gab et Andrea) : saluer, politesse, premier dialogue.
+- **Kit de survie** (4 fiches) : saluer, politesse, premier dialogue. Il devient le **souvenir de la première rencontre** de Gab et Andrea, il y a des années : ils s'y vouvoient, ce qui pose le *vy* avant le *ty* du voyage. Réécriture légère, avec le chapitre 1.
 - **Chapitres 1 à 12** : une journée de voyage chacun, de Bratislava à Košice.
 - Puis, inchangés : les **Kronika**, le **vocabulaire**, les **annexes**.
 
@@ -135,6 +135,7 @@ L'introduction couvre les bases (lettres à caron, accent sur la première sylla
 - **Le ronfleur** : penzión n° 1 (ch. 02), Gab accuse Andrea ; n° 2 (ch. 05), tout le monde accuse Hugo ; n° 3 (ch. 08), c'est Gab, preuve enregistrée par Lola.
 - **La navigation** : *Prepočítavam trasu…* chaque fois que Gab n'écoute pas ; *Stratila som signál* dans les Tatras, le Slovenský raj et chez Andrea.
 - **Andrea connaît tout** : *Toto poznám!*, sauf le chemin, qu'elle oublie une fois sur deux.
+- **Le *vy* de Gab** : chapitres 1 à 3, Gab retombe dans le *vy* avec Andrea par habitude (*Viete, Andrea…*) et elle le reprend (*Tykáme si, [USER_NAME]! Už roky!*). Au chapitre 1, aux caves des Petites Carpates : *Môžeme si potykať? Znova?*, verre levé. Ensuite, retours ponctuels quand Gab est fatigué ou stressé. Toujours signalé par un `+`. Coin slovaque associé : *tykať / vykať*, la formule *Môžeme si potykať?*, souvent autour d'un verre, et refuser le *ty* vexe. On ne parle pas de « tradition » et on n'emploie pas *pripiť si na tykanie* sans confirmation d'un locuteur natif.
 - **Les enfants apprennent plus vite que Gab** : à partir du chapitre 4 ou 5, Hugo ou Lola le corrigent (*Nie „jeden pivo“, ujo! Jedno pivo!*).
 - **La pause pipi** : *Musím ísť na záchod!* au pire moment, au moins une fois par trajet long.
 - **Claire au téléphone** : *Ako sa majú deti?*, et Gab qui répond toujours *Výborne!*, même quand c'est faux.
@@ -160,7 +161,7 @@ L'introduction couvre les bases (lettres à caron, accent sur la première sylla
 1. ~~Concept, format, progression~~ (faits, à valider)
 2. ~~Retirer les séries 01 à 09~~ (fait, conservées dans `original`)
 3. `docs/Histoire.md` : toute l'histoire en slovaque d'abord, chapitre par chapitre, sans les contraintes de fiches ; puis traduction, relecture et annotations ; puis découpage en fiches
-4. Adapter le kit de survie (Gab 🦊 et Andrea 🐰) et remplacer « Eric » dans les annexes ; passer `user_name_default` à *Gab*
+4. Réécrire le kit de survie en souvenir de la première rencontre (Gab 🦊 et Andrea 🐰, vouvoiement conservé), avec le chapitre 1 ; remplacer « Eric » dans les annexes ; passer `user_name_default` à *Gab*
 5. `lang.json` : sous-groupes, thèmes et icônes de carte des 12 séries, au fur et à mesure
 6. Chapitres 1 à 4, relecture par un locuteur natif, puis la suite
 7. Photos Wikimedia Commons et crédits, chapitre par chapitre

@@ -75,6 +75,8 @@ Voyage d'été, de mai à octobre : les remontées mécaniques des Tatras et le 
 ## Ton et gags
 - Les gags viennent des situations, jamais de moqueries sur des personnes réelles.
 - Andrea connaît le pays mais ne se souvient pas de tout : bon ressort, surtout sur les détours.
+- **Le *vy* de Gab** : Gab a longtemps vouvoyé Andrea avant de passer au *ty*, et il y retombe par habitude au début du voyage. Andrea le reprend. Au chapitre 1, aux caves des Petites Carpates, elle lève son verre en soupirant : *Môžeme si potykať? Znova?* Selon l'étiquette, c'est la femme qui propose le *ty* à l'homme : c'est donc elle qui l'avait proposé, il y a des années.
+- **Le kit de survie devient le souvenir de leur première rencontre**, il y a des années : Gab 🦊 et Andrea 🐰 s'y vouvoient normalement. La réécriture reste légère (Eric devient Gab, les avatars changent, le dialogue garde l'essentiel).
 - Les incontournables sont racontés comme un guide, les détours comme des confidences.
 - Les enfants découvrent la Slovaquie : tout les surprend, y compris ce que Gab trouve banal. Ils retiennent les mots plus vite que lui.
 
@@ -94,7 +96,7 @@ Voyage d'été, de mai à octobre : les remontées mécaniques des Tatras et le 
 
 ## Points à valider
 1. **Prénoms** : Hugo, Lola, Claire, Marta, Ivan, babka Zuzana. **Âges proposés** : Hugo 9 ans, Lola 6 ans (assez petits pour les « on est arrivés ? »).
-2. **Kit de survie** : il met en scène « Eric » 👦 qui rencontre Andrea 👩 et la vouvoie, ce qui ne colle plus avec Gab 🦊 et Andrea 🐰, amis de longue date. « Eric » est aussi écrit en dur dans deux annexes (conjugaison, pronoms possessifs). À adapter avant la fusion.
+2. **Kit de survie** : à réécrire comme le souvenir de la première rencontre de Gab 🦊 et Andrea 🐰 (vouvoiement conservé), en même temps que le chapitre 1. « Eric » est aussi écrit en dur dans deux annexes (conjugaison, pronoms possessifs). À adapter avant la fusion.
 3. **Hôtel Invisible** à Košice : à confirmer avant d'en faire la dernière nuit.
 4. **Dates d'ouverture** de la grotte de Dobšiná, du train forestier d'Orava et accès au château de Šariš.
 5. **Détours « locaux »** : relecture par un locuteur natif.

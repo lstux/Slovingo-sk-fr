@@ -53,6 +53,7 @@ Le moteur associe **un nom par emoji** pour tout le cours, et les voix se règle
 
 **Tutoiement et vouvoiement** :
 - *ty* entre Gab, Andrea et les enfants, et en famille (y compris chez Andrea) ;
+- **exception voulue : le *vy* de Gab envers Andrea**. Il l'a longtemps vouvoyée avant de passer au *ty*, et il y retombe par habitude, surtout au début du voyage ou quand il est fatigué. Andrea le reprend. Chaque réplique où Gab vouvoie Andrea porte une remarque `+` qui le signale, pour que l'apprenant ne prenne pas cette forme pour la bonne (voir `Progression-roadtrip.md`, gags) ;
 - *vy* avec tous les adultes inconnus (réception, serveurs, guides) ; les enfants vouvoient aussi les adultes ;
 - la navigation vouvoie le conducteur (*Odbočte doprava*), comme une vraie navigation.
 
@@ -262,7 +263,7 @@ Comme Friends : écrits à la main dans `exercises/<nom de la fiche>.exercises.j
 - [ ] Aucun mot inconnu non signalé (navigation et narrateur compris)
 - [ ] Un marqueur unique par personnage, `! 🐰 …` après le `!`
 - [ ] Formes masculines pour Gab et Hugo, féminines pour Andrea, Lola et la navigation
-- [ ] *ty / vy* respectés (inconnus vouvoyés, navigation au *vy*)
+- [ ] *ty / vy* respectés (inconnus vouvoyés, navigation au *vy*) ; tout *vy* de Gab envers Andrea est signalé par un `+`
 - [ ] Coin slovaque : faits vérifiés sur le lieu du jour
 - [ ] Fiche extra : tableau complet, suite de l'épisode, 3 mots nouveaux au plus
 - [ ] Nom de fichier et titre selon le schéma, sous-groupe déclaré dans `lang.json`
