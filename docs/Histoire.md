@@ -2,11 +2,11 @@
 
 Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet avant de la découper en fiches, comme pour Zajka Friends.
 
-**État** : premier jet des chapitres 1 à 10, à traduire, corriger et annoter. Le slovaque est à faire relire par un locuteur natif.
+**État** : premier jet des chapitres 1 à 12, à traduire, corriger et annoter. Le slovaque est à faire relire par un locuteur natif.
 
 ## Conventions
 
-- Une réplique par ligne. Avatars : `🦊` Gab, `🐰` Andrea, `🦊🧢` Hugo, `🐇` Lola, `📱` Claire (au téléphone), `🧭` la navigation, `💬` le narrateur neutre (quand la navigation n'est pas là). Les humains par fonction, un emoji par fonction (voir `Format-roadtrip.md`, §3), par exemple `🧑‍💼` la réception.
+- Une réplique par ligne. Avatars : `🦊` Gab, `🐰` Andrea, `🦊🧢` Hugo, `🐇` Lola, `📱` Claire (au téléphone), `🧭` la navigation, `💬` le narrateur neutre (quand la navigation n'est pas là). Famille d'Andrea (chapitre 11, avatars proposés) : `🐰🌷` Marta, sa mère, `🐰🎣` Ivan, son père, `🐑` babka Zuzana, sa grand-mère (clin d'œil à Kids, où babka Zuzana est la grand-mère des cousins d'Andrea). Les humains par fonction, un emoji par fonction (voir `Format-roadtrip.md`, §3), par exemple `🧑‍💼` la réception.
 - **Gab** s'écrit « Gab » dans ce document. Dans les fiches, ce sera `[USER_NAME]`, jamais décliné.
 - **Genre** : Gab et Hugo au masculin, Andrea, Lola et la navigation au féminin.
 - **Tutoiement** entre Gab, Andrea et les enfants ; **vouvoiement** avec les inconnus ; la navigation vouvoie. **Exception voulue** : Gab retombe dans le *vy* avec Andrea, et elle le reprend.
@@ -14,7 +14,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 - **Chaque chapitre = une journée = 6 scènes**, qui deviendront les 6 fiches. Scènes 1 à 4 plutôt courtes, 5 et 6 plus longues.
 - Aucune phrase imposée pour l'instant. Le niveau monte au fil des chapitres : présent et phrases très courtes au début (voir `Progression-roadtrip.md`).
 - Chaque chapitre se termine par les **faits à vérifier** avant d'écrire les fiches.
-- **Longueur** : les chapitres 5 à 8 sont sous la cible (700 à 900 mots). Ils seront **allongés au deuxième passage** : scènes de route plus longues, plus d'Andrea qui raconte, répliques plus riches au fil du niveau.
+- **Longueur** : les chapitres 5 à 12 sont sous la cible (700 à 900 mots pour 5 à 8, 900 à 1 100 pour 9 à 12). Ils seront **allongés au deuxième passage** : scènes de route plus longues, plus d'Andrea qui raconte, répliques plus riches au fil du niveau.
 
 ## Les 12 chapitres
 
@@ -1781,7 +1781,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 ## Scéna 6 — Hrad v noci
 
-💬 Neskoro večer. Deti spia. Gab a Andrea sedia na terase. Hrad na kopci svieti.
+💬 Neskoro večer. Deti spia. Gab a Andrea sedia na terase. Hrad na kopci je tmavý. Nad ním sú hviezdy.
 
 🐰 Keď som bola malá, bola som tu so školou.
 
@@ -1807,7 +1807,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 **Faits à vérifier (chapitre 9)**
 - Levoča : place *Námestie Majstra Pavla* dans l'enceinte ; cage de la honte (fin XVIe – début XVIIe siècle) sur la place ; autel de Saint-Jacques, gothique tardif, 18,6 m, le plus haut de ce type au monde, en bois de tilleul, réalisé de 1507 à 1517 dans l'atelier de Maître Paul (vérifié, [Slovakia.travel](https://slovakia.travel/en/levoca-town-monument-reserve)).
-- Château de Spiš : un des plus grands ensembles castraux d'Europe centrale ([Slovakia.travel](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia)) ; « plus grand que celui d'Orava » à confirmer ; le château éclairé la nuit, à confirmer.
+- Château de Spiš : un des plus grands ensembles castraux d'Europe centrale ([Slovakia.travel](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia)) ; « plus grand que celui d'Orava » à confirmer. L'éclairage décoratif du château a été coupé en septembre 2022 par économie d'énergie, sans date de reprise connue ([TASR](https://www.teraz.sk/slovensko/rezort-kultury-prerusilo-dekorativne/662948-clanok.html)) : la scène le montre donc dans le noir.
 - Spišská Kapitula, surnommée « le Vatican slovaque » ([Slovakia.travel](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia)) ; la cathédrale et le mur, à confirmer.
 - Le passé (*bol / bola*, *videl som / videla som*) est le point de grammaire du chapitre : le gag de genre de Gab (*ja som bola*) doit être signalé par un `+`.
 
@@ -1815,7 +1815,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 # Kapitola 10 — Bardejov
 
-*Résumé : en voiture, Claire demande ce qu'ils ont fait hier, et les enfants racontent au passé pluriel : « nous sommes allés… nous avons vu… et tonton était dans une cage ! » ; Gab nie, puis avoue « juste cinq minutes ». À Bardejov, la place aux maisons colorées et l'hôtel de ville, premier bâtiment Renaissance de Slovaquie ; le faubourg juif, lui aussi à l'UNESCO. La basilique Saint-Gilles et sa tour : Gab « est déjà monté sur assez de choses » (*vyšli sme / nevyjdem*), puis monte quand même. Sur la *lavička zblíženia*, le banc qui rapproche, Gab et Andrea glissent au milieu : « sur ce banc, on ne peut pas se vouvoyer ». Aux thermes de Bardejovské Kúpele, le plus ancien musée en plein air de Slovaquie (« encore une église en bois, comme à Tvrdošín ! ») et l'eau minérale « qui a goût de fer ». Le soir, à l'hôtel de spa, Andrea avoue qu'elle est un peu nerveuse : demain, Prešov, sa mère.*
+*Résumé : en voiture, Claire demande ce qu'ils ont fait hier, et les enfants racontent au passé pluriel : « nous sommes allés… nous avons vu… et tonton était dans une cage ! » ; Gab nie, puis avoue « juste cinq minutes ». À Bardejov, la place aux maisons colorées et l'hôtel de ville, premier bâtiment Renaissance de Slovaquie ; le faubourg juif, lui aussi à l'UNESCO. La basilique Saint-Gilles et sa tour : Gab « est déjà monté sur assez de choses » (*vyšli sme / nevyjdem*), puis monte quand même. Sur la *lavička zblíženia*, le banc qui rapproche, Gab et Andrea glissent au milieu : « sur ce banc, on ne peut pas se vouvoyer ». Aux thermes de Bardejovské Kúpele, le plus ancien musée en plein air de Slovaquie (« encore une église en bois, comme à Tvrdošín ! ») et l'eau minérale « qui a goût de fer ». Le soir, à l'hôtel de spa, Andrea avoue qu'elle est un peu nerveuse : demain, Prešov, sa mère, qui sait déjà que Gab ronfle (Andrea lui raconte tout).*
 
 ## Scéna 1 — Čo ste robili?
 
@@ -1847,7 +1847,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 ## Scéna 2 — Námestie
 
-💬 Bardejov. Veľké námestie. Okolo sú farebné domy s vysokými štítmi. V strede stojí stará radnica.
+💬 Bardejov. Veľké námestie. Okolo sú farebné domy. V strede stojí stará radnica.
 
 🐰 Táto radnica je prvá renesančná stavba na Slovensku.
 
@@ -1965,14 +1965,378 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Ako vie, že chrápem?
 
-🐰 Claire jej poslala nahrávku.
+🐰 Ja som jej to povedala.
 
-🦊 Čo? Claire pozná tvoju mamu?
+🦊 Andrea!
 
-🐰 Teraz už áno.
+🐰 Mama sa pýta všetko. A ja hovorím všetko.
 
 **Faits à vérifier (chapitre 10)**
 - Bardejov : hôtel de ville présenté comme le premier bâtiment Renaissance de Slovaquie ; basilique Saint-Gilles à trois nefs avec 11 autels gothiques ; faubourg juif inscrit à l'UNESCO avec la ville en 2000 (vérifié, [Prešovský kraj](https://www.po-kraj.sk/en/presov-region/attractions/seven-wonders-presov-region/bardejov.html)). Tour de 76 m avec plateforme d'observation ; *lavička zblíženia*, banc bleu et rouge dans le Promenádny park, qui rapproche les gens assis aux deux bouts ; musée en plein air de Bardejovské Kúpele, ouvert en 1965, le plus ancien de Slovaquie, avec des églises en bois (vérifié, [Zľavomat](https://www.zlavomat.sk/magazin/1964-kam-v-bardejove)).
-- La synagogue du faubourg et les maisons colorées à pignons de la place : à confirmer.
+- Faubourg juif : ensemble de l'ancienne synagogue (1836), avec maison d'étude et bains rituels, restauré, Mlynská 13 (vérifié, [Slovak Jewish Heritage](https://www.slovak-jewish-heritage.org/route/bardejov-old-synagogue-compound)). Les maisons colorées de la place : à confirmer.
 - Le goût de fer de l'eau minérale : plausible, à confirmer.
-- Claire qui contacte la mère d'Andrea : gag à valider (comment se connaissent-elles ?).
+
+---
+
+# Kapitola 11 — Prešov
+
+*Résumé : chez Andrea. Sa mère, Marta, propose le tutoiement à Gab dès la porte (« chez nous, tout le monde se tutoie ») : « Tu vois, maman est plus rapide que toi. » Son père, Ivan, ne parle que de pêche. Babka Zuzana parle le šariš (*Ta co, deti?*), Andrea traduit, et Lola l'imite aussitôt ; à l'est, l'accent tombe sur l'avant-dernière syllabe. Les *pirohy* de babka : Gab remercie (*ďakujem babke, ďakujem mame*), n'en peut plus, et en mange un sixième, « chez nous, on ne refuse pas ». Andrea fait visiter son Prešov au passé : l'école, la glace du dimanche avec son père, « qui parlait de poissons ». À Solivar, les anciennes salines : des chevaux tiraient l'eau salée dans des seaux de cuir. Le soir, l'album photo : Andrea toute petite, avec de grandes oreilles, et Andrea à sept ans au château de Spiš sous la pluie, ce que Gab sait déjà. La nuit, babka Zuzana entend ronfler sur le canapé : « Un ours dans le salon ? »*
+
+## Scéna 1 — Vitajte v Prešove
+
+💬 Prešov. Tichá ulica a malý dom so záhradou. Pri bráne stojí zajačica v zástere.
+
+🧭 Cieľ je vľavo.
+
+🐰 To je moja mama.
+
+🐰🌷 Andrejka! Konečne!
+
+💬 Mama objíma Andreu. Dlho. Veľmi dlho.
+
+🐰🌷 A vy ste Gab? Vitajte u nás!
+
+🦊 Dobrý deň, pani...
+
+🐰🌷 Marta. A tykáme si! U nás si všetci tykajú.
+
+🦊 Tykáme si? Hneď?
+
+🐰 Vidíš, Gab? Mama je rýchlejšia ako ty.
+
+🐰🌷 A toto sú deti? Ahoj, Hugo! Ahoj, Lola!
+
+🦊🧢 Ako vieš, ako sa voláme?
+
+🐰🌷 Andrea mi všetko povedala.
+
+💬 Pri dverách stojí zajac a nič nehovorí. Je to Andrein otec.
+
+🐰🎣 Ahoj. Ivan. Chodíš na ryby?
+
+🦊 Nie.
+
+🐰🎣 Škoda.
+
+💬 Ivan ide do záhrady. Rozhovor sa skončil.
+
+🐰 Otec veľa nehovorí. Len o rybách.
+
+## Scéna 2 — Babka hovorí po šarišsky
+
+💬 V kuchyni sedí stará ovca. Je to babka Zuzana.
+
+🐑 Ta co, deci? Hladne sce?
+
+🦊🧢 Čo?
+
+🐰 Babka hovorí po šarišsky. „Ta co“ je ako „tak čo“. Pýta sa, či ste hladní.
+
+🐇 Ta co! Ta co!
+
+🐑 No vidziš! Dzivče hutori jak ja!
+
+🐰 Babka hovorí: „Vidíš, dievča hovorí ako ja.“
+
+🦊 Rozumiem po slovensky. Trochu. Ale toto nie.
+
+🐰 Na východe je prízvuk na predposlednej slabike. Nie na prvej.
+
+🦊 Na predposlednej? Pred-po-SLED-nej?
+
+🐰 Výborne. Teraz si skoro Prešovčan.
+
+## Scéna 3 — Pirohy
+
+💬 Na stole sú pirohy. Veľa pirohov. Veľmi veľa pirohov.
+
+🐰🌷 Babka robí pirohy so zemiakmi a s bryndzou.
+
+🦊🧢 S bryndzou? Ako halušky?
+
+🐰 Áno. Ale toto sú pirohy.
+
+🐇 Babka, tvoje pirohy sú lepšie ako koláč pána domáceho!
+
+🐑 Ta jasne!
+
+💬 Gab zje jeden piroh. Potom druhý. Potom piaty.
+
+🦊 Ďakujem babke. Ďakujem mame. Už nemôžem.
+
+🐑 Ešče jeden!
+
+🐰 Babka hovorí: ešte jeden.
+
+🦊 Nemôžem...
+
+🐰🌷 Ešte jeden. U nás sa neodmieta.
+
+💬 Gab zje šiesty piroh.
+
+🐰 Vitaj v Prešove, Gab.
+
+## Scéna 4 — Andrein Prešov
+
+💬 Poobede. Hlavná ulica. Je dlhá a široká. V strede stojí veľký kostol.
+
+🐰 Tu som chodila do školy. Tam, za kostolom.
+
+🦊🧢 Bola si dobrá žiačka?
+
+🐰 Bola som veľmi dobrá žiačka.
+
+🐰🌷 Nebola. Bola hlučná.
+
+🐰 Mama!
+
+💬 Pri fontáne Andrea zastane.
+
+🐰 Keď som bola malá, tu som každú nedeľu jedla zmrzlinu. S otcom.
+
+🐇 S otcom? Aj on jedol zmrzlinu?
+
+🐰 Áno. A rozprával o rybách.
+
+🦊 Niektoré veci sa nemenia.
+
+## Scéna 5 — Soľ
+
+💬 Solivar. Staré drevené budovy na kraji mesta. V jednej je veľké drevené koleso.
+
+🐰 Tu sa kedysi robila soľ. Zo slanej vody spod zeme.
+
+🦊🧢 Spod zeme?
+
+🐰 Áno. Kone ťahali koleso a koleso ťahalo vodu hore. V kožených vedrách.
+
+🐇 Chudáky kone.
+
+🦊 Ako ja na rebríkoch.
+
+🐰 Potom vodu varili. Voda zmizla a zostala soľ.
+
+🦊🧢 Soľ z Prešova!
+
+🦊 Je soľ zdravá?
+
+🐰 Trochu áno. Veľa nie.
+
+🦊 Ako všetko dobré.
+
+## Scéna 6 — Medveď v obývačke
+
+💬 Večer. Obývačka. Mama ukazuje starý album.
+
+🐰🌷 Pozrite. Toto je Andrea. Má päť rokov.
+
+🐇 Andrea je malá! A má veľké uši!
+
+🐰 Všetky zajačice majú veľké uši.
+
+🐰🌷 A tu má sedem rokov. Bola na Spišskom hrade so školou. Pršalo.
+
+🦊 Viem. Bola celá mokrá.
+
+🐰🌷 Ako to vieš?
+
+🦊 Andrea mi to povedala. Na terase.
+
+💬 Mama sa pozerá na Andreu. Andrea sa pozerá do albumu.
+
+💬 Noc. Gab spí na gauči v obývačke. Chrrr... chrrr...
+
+💬 Babka Zuzana ide v noci do kuchyne. Zastane.
+
+🐑 Ta co? Medvedz v obývačke?
+
+🐰 Nie, babka. To je Gab.
+
+🐑 Ta jak medvedz.
+
+🐰 Áno. Ako medveď. Dobrú noc, babka.
+
+**Faits à vérifier (chapitre 11)**
+- Dialectes de l'est (dont le šariš, autour de Prešov) : accent sur l'avant-dernière syllabe ; *ta* pour *tak* (vérifié, [Wikipedia](https://en.wikipedia.org/wiki/Eastern_Slovak_dialects)). **Toutes les répliques de babka en šariš** (*Ta co, deci? Hladne sce? Vidziš, dzivče hutori jak ja, Ešče, medvedz*) sont à faire écrire ou corriger par un locuteur de Prešov : c'est la partie la plus fragile du chapitre.
+- Solivar : ensemble de pompage et d'ébullition de la saumure, monument culturel national ; puits Leopold creusé à partir de 1571, pompe actionnée par quatre paires de chevaux qui remontaient la saumure dans des seaux de cuir ; musée (vérifié, [Región Šariš](https://www.regionsaris.sk/en/kultura-a-umenie/solivar-narodna-kulturna-pamiatka/)).
+- Hlavná ulica de Prešov, la co-cathédrale Saint-Nicolas au milieu, une fontaine : à confirmer.
+- *pirohy* aux pommes de terre et à la bryndza : à confirmer pour la région.
+- Babka Zuzana 🐑 : dans Kids, elle est la grand-mère de Katka et Maťo, cousins d'Andrea, donc aussi la grand-mère d'Andrea ; clin d'œil à garder ou non (univers parallèle).
+
+---
+
+# Kapitola 12 — Košice
+
+*Résumé : le dernier « on est arrivés ? », et la question de Hugo : « Quel jour était le meilleur ? » (*ktorý, keď*). Chacun répond, Gab : « chaque jour où vous étiez avec moi » ; Andrea : « qui t'a écrit ça ? » « La navigation. » À Košice, la cathédrale Sainte-Élisabeth, la plus grande église de Slovaquie (« mais l'autel de Levoča est plus haut »), la tour d'Urban, « plus vieille que tonton », et la fontaine qui chante. Dernière mine, d'opale cette fois, « encore une mine, encore le noir, encore un casque ». Dernière nuit dans un petit hôtel où chaque chambre est différente : vue sur la cathédrale, sur les toits… et sur un mur pour Gab. Claire appelle : « ils vont très bien, vraiment ». Andrea : « Si nous avions plus de temps, nous irions aussi dans les Poloniny » (*keby… išli by sme*) ; Gab : « l'été prochain », « si tu dors sous la tente ». À la gare, Andrea retourne à Prešov et, pour une fois, c'est elle qui vouvoie Gab : « c'est contagieux ». Dans la voiture, la navigation : « Destination : Lyon. Plus de mille kilomètres. » Lola : « On est arrivés ? » « Lola, on n'a pas encore démarré ! »*
+
+## Scéna 1 — Ktorý deň bol najlepší?
+
+💬 Ráno. Auto ide z Prešova do Košíc. Cesta je krátka.
+
+🧭 Cieľ je o tridsaťpäť minút.
+
+🐇 Ujo... Už sme tam?
+
+🦊 Ešte nie, Lola.
+
+🐇 Je to posledné „už sme tam“?
+
+🦊 Možno.
+
+🐇 Škoda.
+
+🦊🧢 Ktorý deň bol najlepší?
+
+🐇 Ten, keď bol ujo v klietke.
+
+🦊🧢 Pre mňa ten, keď sme spali v aute.
+
+🐰 Pre mňa ten, keď si sa šmýkal na tobogane, Gab. V žltých plavkách.
+
+🦊 A pre mňa každý deň, keď ste boli so mnou.
+
+🐰 To je pekné. Kto ti to napísal?
+
+🦊 Navigácia.
+
+## Scéna 2 — Hlavná ulica
+
+💬 Košice. Hlavná ulica. V strede stojí obrovská katedrála.
+
+🐰 Toto je Dóm svätej Alžbety. Je to najväčší kostol na Slovensku.
+
+🦊🧢 Väčší ako v Levoči?
+
+🐰 Väčší. Ale oltár v Levoči je vyšší.
+
+💬 Vedľa stojí stará veža.
+
+🐰 To je Urbanova veža. Je veľmi stará.
+
+🐇 Staršia ako ujo?
+
+🦊 Lola, prosím. Všetko je staršie ako ujo. Okrem vás.
+
+💬 Neďaleko je park a fontána. Voda tancuje. Hrá hudba.
+
+🐇 Fontána spieva!
+
+🐰 Je to Spievajúca fontána.
+
+🐇 Ako v rozprávke!
+
+🦊🧢 Lola, u teba je všetko ako v rozprávke.
+
+🐇 Lebo všetko je ako v rozprávke.
+
+## Scéna 3 — Opál
+
+💬 Poobede. Les neďaleko Košíc. Staré bane.
+
+🐰 Tu sú opálové bane. Patria medzi najstaršie na svete.
+
+🦊🧢 Čo je opál?
+
+🐰 Kameň. Má všetky farby. Ako dúha.
+
+🐇 Ako domy v Bardejove!
+
+🧑‍🏫 Prosím, nasaďte si prilby a držte sa pri mne. V bani je tma.
+
+🦊 Zase baňa. Zase tma. Zase prilba.
+
+🐰 A zase si pomalý.
+
+🦊 A zase opatrný.
+
+## Scéna 4 — Hotel, kde je každá izba iná
+
+💬 Večer. Malý hotel v centre. Každá izba je iná. Z každej izby je iný výhľad.
+
+🧑‍💼 Dobrý večer. Vitajte. Vaše izby sú hore.
+
+🐇 Moja izba má okno na katedrálu!
+
+🦊🧢 A moja na strechy!
+
+🦊 A moja... na stenu.
+
+🐰 Aj stena je výhľad, Gab.
+
+🦊 Je to najkrajšia stena na Slovensku.
+
+## Scéna 5 — Budúce leto
+
+💬 Terasa. Posledný večer. Zvoní telefón.
+
+📱 Ahoj! Ako sa majú deti?
+
+🦊 Majú sa výborne. Naozaj.
+
+📱 A ty?
+
+🦊 Ja tiež. Som unavený, ale šťastný.
+
+🦊🧢 Mami, budúce leto pôjdeme znova!
+
+📱 Kam?
+
+🐰 Keby sme mali viac času, išli by sme aj na Poloniny. Sú tam staré bukové lesy. A v noci je úplná tma. Vidno všetky hviezdy.
+
+🐇 Hviezdy ako v Tvrdošíne?
+
+🐰 Lepšie. Skutočné.
+
+🦊 Tak budúce leto Poloniny.
+
+🐰 Ak budeš spať v stane.
+
+🦊 Budem spať v aute.
+
+## Scéna 6 — Cieľ: Lyon
+
+💬 Ráno. Železničná stanica v Košiciach. Andrea ide vlakom domov do Prešova. Gab a deti idú autom do Francúzska.
+
+🐇 Andrea, nechoď!
+
+🐰 Musím, Lola. Ale prídem do Lyonu. Možno.
+
+🦊🧢 Naozaj?
+
+🐰 Možno. Ak tam budú pirohy.
+
+🦊 Andrea... Ďakujem vám za všetko.
+
+🐰 Gab!
+
+🦊 Ti! Ďakujem ti!
+
+🐰 Aj ja ďakujem vám, Gab.
+
+🦊 Vám?
+
+🐰 Ha! Je to nákazlivé.
+
+💬 Vlak odchádza. Andrea máva z okna. Deti mávajú. Gab máva najviac.
+
+💬 V aute. Gab zapína navigáciu.
+
+🧭 Zadajte cieľ.
+
+🦊 Lyon.
+
+🧭 Trasa: viac ako tisíc kilometrov.
+
+🦊🧢 Ujo...
+
+🐇 Už sme tam?
+
+🦊 Lola, ešte stojíme!
+
+💬 Gab sa smeje. Auto ide. Slovensko je za nimi. Ale nie je ďaleko.
+
+**Faits à vérifier (chapitre 12)**
+- Košice : cathédrale Sainte-Élisabeth, la plus grande église de Slovaquie ; tour d'Urban, ancien clocher du XIVe siècle ; fontaine chantante dans un parc ; mines d'opale à environ 23 km, parmi les plus anciennes du monde (vérifié, [Slovakia.travel](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia)). Visite des mines d'opale avec casque et guide : à confirmer.
+- Poloniny : forêts primaires de hêtres (UNESCO) et ciel très sombre ([Slovakia.travel](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia)).
+- Le petit hôtel « où chaque chambre est différente » n'est pas nommé : l'Hôtel Invisible reste à confirmer.
+- Košice → Lyon : « plus de mille kilomètres » (environ 1 600 ?), à confirmer.

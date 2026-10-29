@@ -46,7 +46,7 @@ Le moteur associe **un nom par emoji** pour tout le cours, et les voix se règle
 | 📱 | **Claire** | la mère des enfants, restée en France, au téléphone |
 | 🧭 | **La navigation** (le GPS) | narratrice par défaut, voir §6 |
 | 💬 | Le narrateur neutre | repli, voir §6 |
-| à définir | La famille d'Andrea (Marta, Ivan, babka Zuzana) | chapitre 11 ; un marqueur unique chacun |
+| 🐰🌷 / 🐰🎣 / 🐑 | La famille d'Andrea : Marta (mère), Ivan (père, ne parle que de pêche), babka Zuzana (grand-mère, parle šariš) | chapitre 11 ; avatars proposés |
 | 🧑‍… | Les humains | désignés par leur **fonction**, vouvoyés ; **un emoji par fonction** (voir ci-dessous) |
 
 **Humains** : comme dans Friends, ils parlent normalement aux animaux et personne ne s'en étonne. Un même emoji ne peut pas servir à deux fonctions (le moteur leur donnerait le même nom). Propositions : 🧑‍💼 la réception (*recepčná*), 🧑‍🍳 le serveur (*čašník*), 🧓 l'hôte de la chata ou de la chambre chez l'habitant (*pán domáci*), 🧑‍🏫 le guide (*sprievodca*), 🧑‍🔧 le gardien du camping (*správca kempu*), 🧑‍🦰 la vendeuse (*predavačka*), 👵 une vieille dame du village (*stará pani*), 👷 le préposé de la remontée (*pracovník lanovky*). Animaux non-personnages : 🐓 le coq (*Kikirikí*), à valider. On complète la liste au fil de l'écriture et on la tient à jour ici.

@@ -126,7 +126,7 @@ L'introduction couvre les bases (lettres à caron, accent sur la première sylla
 | 🧭 | La navigation | 1 (l'arrivée à Bratislava), vraiment à partir du 2 |
 | 📱 | Claire, au téléphone | 1 (l'arrivée), puis de temps en temps |
 | 💬 | Le narrateur neutre | quand la navigation n'est pas là |
-| à définir | Marta, Ivan, babka Zuzana | 11 |
+| 🐰🌷 🐰🎣 🐑 | Marta, Ivan, babka Zuzana (proposés) | 11 |
 | 🧑‍… | Les humains, par fonction | dès le 1 |
 
 **Gags et traits à noter dès qu'ils sont posés** (pour rester cohérent) :
