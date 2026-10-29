@@ -2,7 +2,7 @@
 
 @ TODO_img/choisir-image.jpg | TODO : choisir une image (rencontre, deux personnes qui se saluent...) sur Wikimedia Commons
 
-Eric croise Andrea pour la première fois. On boucle le kit avec de quoi dire qu'on ne comprend pas, demander si elle parle français — et un dernier mot tout neuf, caché dans le dialogue.
+**Un souvenir.** Il y a des années, bien avant le grand voyage, tu croises Andrea pour la première fois. Vous vous vouvoyez : vous ne vous connaissez pas encore. On boucle le kit avec de quoi dire qu'on ne comprend pas, demander si elle parle français, et un dernier mot tout neuf, caché dans le dialogue.
 
 ---
 
@@ -23,48 +23,48 @@ Eric croise Andrea pour la première fois. On boucle le kit avec de quoi dire qu
 
 ## Les personnages
 
-- 👦 Eric, le Français
-- 👩 Andrea, une amie slovaque
+- 🦊 Toi, un renard français
+- 🐰 Andrea, une hase slovaque
 
-Eric et Andrea se vouvoient : c'est leur première rencontre.
+Andrea et toi, vous vous vouvoyez : c'est votre première rencontre. Des années plus tard, vous vous tutoierez… presque toujours.
 
 ---
 
 ## Le dialogue
 
-! 👩 Dobrý deň! Ako sa máte?
+! 🐰 Dobrý deň! Ako sa máte?
 > Bonjour ! Comment allez-vous ?
 > Dobrý deň = bonjour
 > Ako sa máte = comment allez-vous
 + {{Ako sa máte}} est la forme vouvoiement de {{Ako sa máš}}, vu en fiche 1.
 
-! 👦 Dobrý deň. Dobre, ďakujem. A vy?
+! 🦊 Dobrý deň. Dobre, ďakujem. A vy?
 > Bonjour. Bien, merci. Et vous ?
 > Dobrý deň = bonjour
 > Dobre = bien
 > ďakujem = merci
 > A vy = et vous
 
-! 👩 Tiež dobre, ďakujem.
+! 🐰 Tiež dobre, ďakujem.
 > Bien aussi, merci.
 > Tiež = aussi
 > dobre = bien
 > ďakujem = merci
 
-! 👦 Hovoríte po francúzsky?
+! 🦊 Hovoríte po francúzsky?
 > Parlez-vous français ?
 > Hovoríte = vous parlez
 > po francúzsky = français
 + Probablement la question la plus utile de tout ce kit : si la réponse est oui, la moitié de tes problèmes de communication disparaissent d'un coup. Le patron **{{po}}** + une langue à la forme en « -y » marche pour n'importe quelle langue : {{po francúzsky}} (en français), {{po anglicky}} (en anglais). En pratique, tu croiseras sans doute plus d'anglophones que de francophones en Slovaquie — {{Hovoríte po anglicky?}} te servira encore plus souvent.
 
-! 👩 Áno, hovorím po francúzsky.
+! 🐰 Áno, hovorím po francúzsky.
 > Oui, je parle français.
 > Áno = oui
 > hovorím = je parle
 > po francúzsky = français
 + {{Hovorím}} est la forme « je » du même verbe que {{hovoríte}} (vous parlez).
 
-! 👦 Prepáčte, nerozumiem. Čo to znamená "dovidenia"?
+! 🦊 Prepáčte, nerozumiem. Čo to znamená "dovidenia"?
 > Pardon, je ne comprends pas. Qu'est-ce que ça veut dire « dovidenia » ?
 > Prepáčte = pardon
 > nerozumiem = je ne comprends pas
@@ -72,22 +72,22 @@ Eric et Andrea se vouvoient : c'est leur première rencontre.
 > to = ça
 + {{dovidenia}} est un mot tout neuf : Andrea va te l'expliquer directement.
 
-! 👩 Dovidenia znamená "au revoir".
+! 🐰 Dovidenia znamená "au revoir".
 > « Dovidenia » veut dire « au revoir ».
 > znamená = ça veut dire
 + Andrea répond directement en donnant la traduction française — pratique quand quelqu'un ne comprend pas un mot.
 
-! 👦 Ďakujem!
+! 🦊 Ďakujem!
 > Merci !
 > Ďakujem = merci
 
-! 👩 Nemáte za čo! Dovidenia!
+! 🐰 Nemáte za čo! Dovidenia!
 > De rien ! Au revoir !
 > Nemáte za čo = de rien (littéralement « vous n'avez pas de quoi »)
 > Dovidenia = au revoir
 + Entre amis, ce sera {{Nemáš za čo}}. Un simple {{Prosím}} marche aussi dans les deux cas.
 
-! 👦 Dovidenia!
+! 🦊 Dovidenia!
 > Au revoir !
 > Dovidenia = au revoir
 

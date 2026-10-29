@@ -25,20 +25,22 @@ Deux salutations essentielles en slovaque :
 
 ## L'échange
 
-! 👩 Dobrý deň! Vitajte! Ja som Andrea.
+Dans ce cours, tu es un renard 🦊, et Andrea 🐰 est une hase slovaque. Voici votre toute première rencontre : on se vouvoie.
+
+! 🐰 Dobrý deň! Vitajte! Ja som Andrea.
 > Bonjour ! Bienvenue ! Je m'appelle Andrea.
 > Ja = moi
 > som = je suis
 
-! 👩 Ako sa voláte?
+! 🐰 Ako sa voláte?
 > Comment vous appelez-vous ?
 > Ako sa voláte = comment vous vous appelez (forme de politesse)
 
-! 👤 Volám sa [ASK_USER_NAME].
+! 🦊 Volám sa [ASK_USER_NAME].
 > Je m'appelle [dis-nous ton prénom].
 > Volám sa = je m'appelle
 
-! 👩 Teší ma, [USER_NAME]! Som rada.
+! 🐰 Teší ma, [USER_NAME]! Som rada.
 > Enchantée, [USER_NAME] ! Je suis heureuse !
 > Teší ma = enchanté(e) (formule de politesse, valable au tutoiement comme au vouvoiement)
 > Som rada = je suis heureuse (une femme dirait "rada", un homme "rád")

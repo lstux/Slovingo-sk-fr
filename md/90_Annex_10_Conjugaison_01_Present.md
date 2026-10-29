@@ -146,7 +146,7 @@ Exception avec {{byť}} :
 
 | Français | Slovaque |
 |----------|-----------|
-| Je suis Éric. | Som Eric. |
+| Je suis Gab. | Som Gab. |
 | Je suis français. | Som Francúz. |
 | J'ai le temps. | Mám čas. |
 | Je n'ai pas le temps. | Nemám čas. |
@@ -163,7 +163,7 @@ Exception avec {{byť}} :
 
 Essaie de connaître ces phrases presque par cœur.
 
-- {{Som Eric.}}
+- {{Som Gab.}}
 - {{Som Francúz.}}
 - {{Mám čas.}}
 - {{Nemám čas.}}
