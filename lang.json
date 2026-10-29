@@ -33,7 +33,6 @@
     "annex": "Annexe"
   },
   "subgroups": {
-    "velkanoc": "Veľká noc",
     "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
   },
   "ui": {
@@ -225,15 +224,6 @@
   },
   "subgroup_themes": {
     "kitsurvie": "basics",
-    "rodina": "family",
-    "doma": "house",
-    "jedlo": "food",
-    "cas": "time",
-    "nakupy": "shopping",
-    "mesto": "city",
-    "pocasie": "weather",
-    "tatry": "mountains",
-    "velkanoc": "easter",
     "kronika_emigracia": "games",
     "kronika_neznerevolucia": "games",
     "kronika_pionieri": "games",
@@ -248,11 +238,6 @@
   },
   "map": {
     "icons": {
-      "rodina": "👨‍👩‍👧",
-      "doma": "🏠",
-      "jedlo": "🍲",
-      "cas": "🕐",
-      "nakupy": "🛒",
       "dedina": "🏘️",
       "zvierata": "🦌",
       "hry": "🎲"
