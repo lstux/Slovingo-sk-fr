@@ -2,7 +2,7 @@
 
 Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet avant de la découper en fiches, comme pour Zajka Friends.
 
-**État** : premier jet des chapitres 1 à 6, à traduire, corriger et annoter. Le slovaque est à faire relire par un locuteur natif.
+**État** : premier jet des chapitres 1 à 8, à traduire, corriger et annoter. Le slovaque est à faire relire par un locuteur natif.
 
 ## Conventions
 
@@ -14,6 +14,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 - **Chaque chapitre = une journée = 6 scènes**, qui deviendront les 6 fiches. Scènes 1 à 4 plutôt courtes, 5 et 6 plus longues.
 - Aucune phrase imposée pour l'instant. Le niveau monte au fil des chapitres : présent et phrases très courtes au début (voir `Progression-roadtrip.md`).
 - Chaque chapitre se termine par les **faits à vérifier** avant d'écrire les fiches.
+- **Longueur** : les chapitres 5 à 8 sont sous la cible (700 à 900 mots). Ils seront **allongés au deuxième passage** : scènes de route plus longues, plus d'Andrea qui raconte, répliques plus riches au fil du niveau.
 
 ## Les 12 chapitres
 
@@ -1203,3 +1204,447 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 - Tatralandia : aquaparc thermal à Liptovský Mikuláš ([Slovakia.travel](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia)) ; « chaude toute l'année » à confirmer.
 - `👵` la vieille dame du village : un avatar de plus.
 - Le magasin de maillots à Liptovský Mikuláš : inventé.
+
+---
+
+# Kapitola 7 — Vysoké Tatry
+
+*Résumé : la météo du jour, au futur (*Ráno bude slnko… v noci bude búrka*) et avec une condition (*Ak bude búrka, budeme spať v aute*) ; il faut des vestes, « c'est l'été ! ». À Štrbské pleso, Gab rame en rond, Andrea rame droit. Le funiculaire de Hrebienok et les cascades du Studený potok : l'eau est glacée. À Skalnaté pleso, la remontée vers Lomnický štít ne part pas à cause du vent ; une marmotte siffle : « je suis un danger ? ». Au camping, Gab monte la tente à l'envers (« ce n'est pas la porte, c'est une fenêtre de toit »), les enfants la remontent en cinq minutes ; la navigation perd le signal. La nuit, l'orage : on compte entre l'éclair et le tonnerre, les duvets sont trempés, tout le monde finit dans la voiture. Hugo dort enfin dans la voiture, « comme à Trenčín ».*
+
+## Scéna 1 — Predpoveď počasia
+
+💬 Ráno. Liptovský Mikuláš. Andrea sa pozerá na mobil.
+
+🦊 Aké bude dnes počasie?
+
+🐰 Ráno bude slnko. Poobede bude oblačno. A v noci bude búrka.
+
+🦊 Búrka? V noci? A my budeme spať v stane.
+
+🐰 Ak bude búrka, budeme spať v aute.
+
+🦊🧢 Nie! Chceme spať v stane!
+
+🐇 V stane! V stane!
+
+🐰 Dobre. Ale musíme si vziať bundy.
+
+🐇 Bundy? Je leto!
+
+🐰 V horách je leto iné. Hore je zima a fúka vietor.
+
+🦊 A musíme si vziať aj dáždniky.
+
+🦊🧢 A stan.
+
+🦊 A stan. Samozrejme.
+
+## Scéna 2 — Štrbské pleso
+
+💬 Štrbské pleso. Veľké jazero a za ním vysoké hory. Svieti slnko.
+
+🐰 Toto je Štrbské pleso. Je to ľadovcové jazero.
+
+🐇 Ľadovcové? Je tam ľad?
+
+🐰 Teraz nie. Ale voda je studená.
+
+🦊🧢 Ujo, môžeme ísť na loďku?
+
+🦊 Môžeme.
+
+💬 Gab vesluje. Loďka ide... dookola.
+
+🦊🧢 Ujo, ideme dookola!
+
+🦊 Viem. To je okružná plavba.
+
+🐰 Daj mi veslá, Gab.
+
+💬 Andrea vesluje. Loďka ide rovno.
+
+🐇 Andrea vie veslovať lepšie ako ujo.
+
+🦊 Andrea vie všetko lepšie ako ujo.
+
+🐰 To je pravda.
+
+## Scéna 3 — Hrebienok
+
+💬 Starý Smokovec. Malá lanovka ide hore po kopci, ako vlak. Ide na Hrebienok.
+
+🦊🧢 Vlak na kopec!
+
+🐰 To je pozemná lanovka. Ide hore na Hrebienok.
+
+💬 Z Hrebienka vedie chodník cez les. Počuť vodu.
+
+🐇 Čo je to? Ten zvuk?
+
+🐰 Vodopády. Studený potok.
+
+💬 Voda padá zo skál. Je biela a hlučná.
+
+🦊🧢 Je to krásne!
+
+🐇 Môžem sa dotknúť vody?
+
+🐰 Môžeš. Ale opatrne.
+
+💬 Lola sa dotkne vody.
+
+🐇 Áá! Je ľadová!
+
+🦊 Vidíš? Opatrnosť je dôležitá.
+
+🐰 Hovorí opatrný Gab.
+
+## Scéna 4 — Vietor
+
+💬 Poobede. Tatranská Lomnica. Lanovka ide hore k Skalnatému plesu. A odtiaľ až na Lomnický štít.
+
+🐰 Lomnický štít je veľmi vysoký. Hore je kaviareň.
+
+🦊🧢 Kaviareň na štíte? Super!
+
+💬 Pri Skalnatom plese stojí pracovník lanovky.
+
+👷 Prepáčte. Na Lomnický štít dnes lanovka nepôjde.
+
+🦊 Prečo?
+
+👷 Fúka silný vietor. Je to nebezpečné.
+
+🐇 Nie! Ja chcem do kaviarne na štíte!
+
+🐰 V horách musíš byť trpezlivá, Lola. Hory rozhodujú.
+
+💬 Zrazu niečo píska. Píí! Píí!
+
+🦊🧢 Čo to je?
+
+🐰 Pozrite, tam na kameni. To je svišť.
+
+🐇 Svišť! Prečo píska?
+
+🐰 Píska, keď je nebezpečenstvo.
+
+🐇 Ja som nebezpečenstvo?
+
+🐰 Pre svište áno.
+
+🦊 Ten svišť je ako navigácia. Stále niečo hovorí.
+
+## Scéna 5 — Kemp
+
+💬 Večer. Kemp pod Tatrami. Veľa stanov, veľa áut a veľa detí.
+
+🧑‍🔧 Dobrý večer. Máte rezerváciu?
+
+🦊 Dobrý večer. Áno. Na meno Gab.
+
+🧑‍🔧 Miesto číslo dvanásť. Tam pri lese.
+
+🦊 Ďakujem.
+
+💬 Gab otvára tašku. Stan, tyče, kolíky. A návod.
+
+🦊 Tak. Návod. Krok jeden...
+
+💬 Desať minút. Dvadsať minút. Stan stojí. Ale je naopak.
+
+🦊🧢 Ujo, dvere sú hore.
+
+🦊 Viem. To je... strešné okno.
+
+🐰 Samozrejme, Gab.
+
+💬 Hugo a Lola stavajú stan znova. Za päť minút stan stojí dobre.
+
+🐇 Ujo, my vieme postaviť stan lepšie ako ty.
+
+🦊 Áno. Ale ja viem dobre čítať návod.
+
+🐰 Nevieš.
+
+💬 Gab sa pozerá na mobil.
+
+🧭 Stratila som signál.
+
+🦊🧢 Navigácia nemá signál.
+
+🐰 V horách nemá signál nikto. Ani navigácia.
+
+💬 Nad Tatrami sú tmavé mraky.
+
+## Scéna 6 — Búrka
+
+💬 Noc. Všetci sú v stane. Je tma. Potom začne pršať.
+
+🐇 Ujo, prší.
+
+🦊 Áno. Prší. Je to v poriadku.
+
+💬 Fúka vietor. Blýska sa. Hrmí.
+
+🐇 Ujo! Hrmí!
+
+🦊 Počítaj, Lola. Blesk a potom: jeden, dva, tri...
+
+🐇 Jeden, dva, tri, štyri...
+
+💬 Hrmí.
+
+🦊 Štyri sekundy. Búrka nie je blízko.
+
+💬 Ďalší blesk. A hneď hrmí.
+
+🐇 Jeden!
+
+🦊 Búrka je blízko.
+
+💬 Do stanu tečie voda. Spacáky sú mokré.
+
+🦊🧢 Ujo, môj spacák je mokrý!
+
+🐰 Gab. Ak bude ešte pršať...
+
+🦊 Ideme do auta. Teraz!
+
+💬 Všetci bežia do auta. V aute je sucho a teplo.
+
+🦊🧢 Ujo, spím v aute. Ako som chcel v Trenčíne.
+
+🦊 Áno, Hugo. Konečne máš, čo chceš.
+
+🐇 Ujo, to je najlepší kemping na svete.
+
+🐰 Lola, ty máš rada všetko, čo sa pokazí.
+
+🐇 Áno!
+
+💬 Prší. Na aute bubnuje dážď. Po chvíli všetci spia.
+
+**Faits à vérifier (chapitre 7)**
+- Funiculaire Starý Smokovec – Hrebienok, remontées Tatranská Lomnica – Skalnaté pleso – Lomnický štít : en service l'été 2026 (vérifié, [horaires TMR 2026](https://www.vt.sk/fileadmin/resort_upload/vt/cestovny_poriadok_.pdf)) ; café au sommet de Lomnický štít ([Slovakia.travel](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia)). La fermeture pour vent est plausible mais inventée.
+- Cascades du Studený potok depuis Hrebienok, promenade facile pour les familles (vérifié, [Tatry.sk](https://www.tatry.sk/en/tips-for-trips/)).
+- Štrbské pleso : lac glaciaire, barques ([Slovakia.travel](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia)).
+- La marmotte (*svišť*) siffle pour alerter : à confirmer, et sa présence vers Skalnaté pleso.
+- Compter les secondes entre l'éclair et le tonnerre : 4 s ≈ 1,3 km, donc « pas tout près » plutôt que « loin ».
+- `👷` le préposé de la remontée : un avatar de plus.
+
+---
+
+# Kapitola 8 — Slovenský raj
+
+*Résumé : le matin après l'orage, les duvets sèchent sur les arbres. Andrea explique les balisages de couleur ; dans les gorges de Suchá Belá, on ne peut que monter. Échelles, chaînes, cascades : Gab passe devant « pour la sécurité », très lentement ; les échelles sont « plus hautes », puis « la plus haute ». Aux Biele Vody, les spermophiles (*sysle*), « plus petits que la marmotte, et plus rapides » ; Lola ne bouge plus : « je suis une statue, comme Čumil ». Dans la grotte de glace de Dobšiná, il fait moins de zéro : « des vestes, c'est l'été ! » ; la navigation perd encore le signal, « elle a peur de la grotte ». Le soir, chacun dit ce qu'il voudrait (*chcel by som… chcela by som…*) : Andrea voudrait leur montrer Prešov et sa famille. La nuit, Lola enregistre le ronfleur n° 3 : c'est Gab. L'enregistrement part chez Claire : « tu ronfles comme un ours ». Hugo : « J'ai enfin vu un ours. »*
+
+## Scéna 1 — Ráno po búrke
+
+💬 Ráno. Svieti slnko. Kemp je mokrý. Na stromoch visia spacáky.
+
+🐰 Dnes ideme do Slovenského raja.
+
+🦊🧢 Do raja? Ako v nebi?
+
+🐰 Skoro. Sú tam rokliny, vodopády a rebríky.
+
+💬 Pri chodníku sú farebné značky. Červená, modrá, zelená, žltá.
+
+🦊 Čo sú tie farby?
+
+🐰 Turistické značky. Každá trasa má svoju farbu.
+
+🐇 A my ideme po ktorej?
+
+🐰 Po tej, ktorá ide do rokliny Suchá Belá.
+
+💬 Na začiatku rokliny je tabuľa.
+
+🐰 Pozor. V tejto rokline môžeme ísť len hore. Dole nemôžeme.
+
+🦊🧢 Prečo?
+
+🐰 Lebo rebríky sú úzke. Ľudia sa na nich nemôžu obísť.
+
+## Scéna 2 — Rebríky
+
+💬 Roklina je úzka. Všade je voda, kamene a mokré drevo.
+
+🦊🧢 Rebrík! Môžem ísť prvý?
+
+🦊 Nie. Ja musím ísť prvý.
+
+🐰 Ty? Opatrný Gab?
+
+🦊 Áno. Opatrný Gab ide prvý. Kvôli bezpečnosti.
+
+💬 Gab ide hore. Pomaly. Veľmi pomaly.
+
+🦊🧢 Ujo, môžeš ísť rýchlejšie?
+
+🦊 Nemôžem. Rebrík je mokrý.
+
+💬 Ďalší rebrík. A ďalší.
+
+🐇 Tento rebrík je vyšší ako ten!
+
+🦊🧢 A tento je najvyšší!
+
+🐰 Pozrite. Vodopád.
+
+💬 Vedľa rebríka padá voda. Na skale sú reťaze.
+
+🐇 Môžem sa držať reťaze?
+
+🐰 Musíš sa držať reťaze.
+
+💬 Hore je les a slnko. Gab je červený a celý mokrý.
+
+🦊🧢 Ujo, si v poriadku?
+
+🦊 Som v poriadku. Som najopatrnejší ujo na svete.
+
+🐰 A najpomalší.
+
+## Scéna 3 — Sysle
+
+💬 Poobede. Lúka pri Bielych Vodách. V tráve sú malé diery. Z dier vykúkajú malé zvieratká.
+
+🐇 Čo je to? Svište?
+
+🐰 Nie. To sú sysle. Syseľ je menší ako svišť.
+
+🦊🧢 A je rýchlejší?
+
+🐰 Oveľa rýchlejší.
+
+🦊 Ako ja na tobogane.
+
+💬 Syseľ prichádza bližšie. Potom ďalší. A ďalší.
+
+🐇 Ujo, je ich päť! Desať!
+
+🦊 Lola, nehýb sa.
+
+🐇 Nehýbem sa. Som socha. Ako Čumil.
+
+## Scéna 4 — Ľadová jaskyňa
+
+💬 Dobšinská ľadová jaskyňa. Vonku je teplo. Ale pri vchode je zima.
+
+🧑‍🏫 Dobrý deň. V jaskyni je pod nulou. Musíte si obliecť bundy.
+
+🐇 Bundy? Je leto!
+
+🐰 Vidíš, Lola? Bundy sú dobré.
+
+💬 Vnútri je všade ľad. Steny sú z ľadu. Podlaha je z ľadu.
+
+🐇 Ľad! V lete! Ako v rozprávke!
+
+🧑‍🏫 Prosím, nedotýkajte sa ľadu.
+
+🦊🧢 Ujo, je tu chladnejšie ako v tajchu.
+
+🦊 Áno. Toto je najstudenšie miesto na Slovensku.
+
+🐰 Nie je. Ale je veľmi studené.
+
+💬 Gab sa pozerá na mobil.
+
+🧭 Stratila som signál.
+
+🦊🧢 Navigácia sa bojí jaskyne.
+
+## Scéna 5 — Čo by si chcel?
+
+💬 Večer. Záhrada pri penzióne. Na stole je čaj a koláče.
+
+🐰 Gab, čo by si chcel robiť zajtra?
+
+🦊 Chcel by som spať. Desať hodín. Bez búrky a bez chrápania.
+
+🐇 Ja by som chcela ísť znova do Tatralandie.
+
+🦊🧢 Ja by som chcel vidieť medveďa. Naozajstného. Nie v zoo.
+
+🐰 To by som nechcela. Medvede sú nebezpečné.
+
+🦊 A ty, Andrea? Čo by si chcela?
+
+💬 Andrea sa pozerá na hory. Chvíľu nič nehovorí.
+
+🐰 Chcela by som vám ukázať Prešov. Moje mesto. Moju rodinu.
+
+🐇 Tvoju rodinu? Máš mamu?
+
+🐰 Mám mamu, otca aj babku. Babka robí najlepšie pirohy na svete.
+
+🦊🧢 Lepšie ako koláč pána domáceho?
+
+🐰 Oveľa lepšie.
+
+🐇 Tak chcem ísť do Prešova!
+
+🦊 Pôjdeme. Ale najprv Spiš.
+
+## Scéna 6 — Dôkaz
+
+💬 Noc. Penzión v Slovenskom raji. Všetci spia. Potom: chrrr... chrrr...
+
+💬 Lola sa zobudí. Počúva. Potom berie Gabov mobil.
+
+💬 Lola šepká.
+
+🐇 Hugo. Hugo! Zobuď sa.
+
+🦊🧢 Čo je?
+
+🐇 Kto chrápe?
+
+🦊🧢 Ja nie. Ty?
+
+🐇 Ja nie. Počúvaj.
+
+💬 Chrápanie ide z Gabovej postele. Lola nahráva.
+
+💬 Ráno. Raňajky. Gab pije kávu.
+
+🦊 Dnes som spal výborne. Nikto nechrápal.
+
+🐇 Ujo. Počúvaj.
+
+💬 Lola púšťa nahrávku. Chrrr... chrrr...
+
+🦊 Kto je to?
+
+🐇 To si ty.
+
+🦊 To nie som ja.
+
+🦊🧢 Si to ty. To je tvoja posteľ. A to je tvoj hlas.
+
+🐰 Ja nechrápem. Hugo nechrápe. Lola chrápe trochu. A ty chrápeš najviac.
+
+🦊 Dobre. Dobre. Som najlepší chrápač na svete.
+
+🦊🧢 Pošleme to mame!
+
+🦊 Nie!
+
+🐇 Už je to poslané.
+
+💬 O minútu príde správa od Claire.
+
+📱 Ha ha ha! Gab, chrápeš ako medveď!
+
+🦊🧢 Ujo, konečne som videl medveďa.
+
+**Faits à vérifier (chapitre 8)**
+- Suchá Belá : gorge à sens unique (montée seulement), échelles, chaînes, cascades ; couleur du balisage (non citée dans le texte, à fixer) : à confirmer.
+- Balisage touristique slovaque en quatre couleurs (rouge, bleu, vert, jaune) : à confirmer.
+- Biele Vody : prairie où l'on voit et nourrit des spermophiles (*sysle*) ([Slovakia.travel](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia)) ; vérifier si nourrir est encore autorisé ou déconseillé, et adapter (le texte ne montre personne qui les nourrit).
+- Dobšiná : glace partout, température négative, visite d'environ 30 min ([Slovakia.travel](https://slovakia.travel/en/dobsinska-ladova-jaskyna-cave)) ; « ne touchez pas la glace » plausible.
+- *pirohy* chez la babka d'Andrea à Prešov : spécialité de l'est, à confirmer.
+- Passé en morceaux (*spal som, nechrápal, videl som*) avant le chapitre 9 : à signaler dans les fiches.
