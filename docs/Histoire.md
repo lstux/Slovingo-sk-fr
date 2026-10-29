@@ -2,7 +2,7 @@
 
 Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet avant de la découper en fiches, comme pour Zajka Friends.
 
-**État** : premier jet des chapitres 1 à 4, à traduire, corriger et annoter. Le slovaque est à faire relire par un locuteur natif.
+**État** : premier jet des chapitres 1 à 6, à traduire, corriger et annoter. Le slovaque est à faire relire par un locuteur natif.
 
 ## Conventions
 
@@ -24,7 +24,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 | 3 | Bojnice a Kremnica | Château, zoo, Hôtel des Monnaies | Chambre chez l'habitant |
 | 4 | Banská Štiavnica | Ville minière, étang de Počúvadlo | Chata |
 | 5 | Orava | Longue route, château, train forestier | Penzión (le ronfleur n° 2) |
-| 6 | Vlkolínec a Liptov | Village de rondins, Tatralandia | Penzión ou appartement |
+| 6 | Vlkolínec a Liptov | Village de rondins, Tatralandia | Appartement |
 | 7 | Vysoké Tatry | Hrebienok, cascades, Štrbské pleso | Camping |
 | 8 | Slovenský raj | Gorges, échelles, grotte de glace | Penzión (le ronfleur n° 3) |
 | 9 | Spiš | Levoča, château de Spiš | Chambre chez l'habitant |
@@ -838,3 +838,368 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 - Les *tajchy* : réservoirs artificiels construits pour les mines, aujourd'hui pour la baignade ; Počúvadlo à environ 11 km de la ville, parmi les plus grands, les plus profonds et les plus froids (vérifié, [Startitup](https://www.startitup.sk/kedysi-sluzili-banikom-dnes-sa-v-nich-kupeme-8-tajchov-ktore-by-ste-mali-toto-leto-navstivit/)).
 - Kalvária : chapelles blanches et deux églises sur la colline (à confirmer).
 - *bryndzové halušky* et *Kofola* : plat et boisson nommés ; Kofola est une marque, mais d'usage courant (à valider selon la règle « pas de marque »).
+
+---
+
+# Kapitola 5 — Orava
+
+*Résumé : longue journée de route, avec les heures (*Koľko je hodín? O koľkej?*) et les jours (*Dnes je streda*). La navigation prend un rond-point et recalcule ; Gab découvre pourquoi elle dit *odbočte* et pas *odboč* : elle le vouvoie, « au moins quelqu'un me vouvoie ». Nouvelle pause pipi. Le château d'Orava sur son rocher, où l'on a tourné *Nosferatu* : Lola a peur des vampires. Dans l'église en bois de Tvrdošín, un plafond étoilé et saint Georges contre le dragon : « Enfin un dragon ! » (et « pauvre dragon »). Course pour le petit train forestier de 15 h. Le soir, une seule chambre pour tous : quelqu'un ronfle, tout le monde accuse Hugo… c'est Lola.*
+
+## Scéna 1 — Koľko je hodín?
+
+💬 Ráno v chate pri tajchu. Deti ešte spia. Gab sa pozerá na mobil.
+
+🦊 Andrea, koľko je hodín?
+
+🐰 Je sedem hodín.
+
+🦊 O koľkej ideme?
+
+🐰 O ôsmej. Cesta na Oravu je dlhá.
+
+🦊🧢 Ako dlhá?
+
+🐰 Dve a pol hodiny. Možno tri.
+
+🦊🧢 Tri hodiny? Ujo, už sme tam?
+
+🦊 Hugo, ešte stojíme!
+
+🐇 Aký je dnes deň?
+
+🐰 Dnes je streda.
+
+🐇 V stredu ideme na hrad?
+
+🐰 V stredu ideme na hrad.
+
+## Scéna 2 — Slušná navigácia
+
+💬 Cesta. Kopce, lesy, dediny. A znova kopce.
+
+🧭 Na kruhovom objazde choďte druhým výjazdom.
+
+🦊 Druhým... čím?
+
+🧭 Prepočítavam trasu.
+
+🦊🧢 Zase?
+
+🦊 Prečo navigácia hovorí „odbočte“ a „choďte“? Prečo nie „odboč“?
+
+🐰 Lebo ti vyká. Je to slušná navigácia.
+
+🦊 Aspoň niekto mi vyká.
+
+🐰 Gab!
+
+🐇 Ujo! Musím ísť na záchod!
+
+🦊 Zase?
+
+🐇 Zase!
+
+🧭 O tri kilometre je odpočívadlo.
+
+🐰 Táto navigácia je najlepšia na svete.
+
+## Scéna 3 — Hrad na skale
+
+💬 Oravský Podzámok. Nad riekou je vysoká skala. Na skale je hrad. Hrad a skala sú ako jedno.
+
+🦊🧢 Ten hrad je strašidelný.
+
+🐰 Áno. Tu natáčali starý film o upírovi. Nosferatu.
+
+🐇 Upír? Tu býva upír?
+
+🦊 Upíri chodia len v noci.
+
+🐇 Ujo!
+
+🐰 Gab, nestraš ju. Lola, upír tu nebýva. Je to len film.
+
+🦊🧢 Ideme hore?
+
+🐰 Ideme hore. Je tam veľa schodov.
+
+💬 Hore fúka vietor. Dole je rieka a dediny. Výhľad je krásny.
+
+🦊 Uf. Som hore.
+
+🦊🧢 Ujo, si pomalý ako slimák.
+
+## Scéna 4 — Drak v kostole
+
+💬 Tvrdošín. Na cintoríne stojí malý drevený kostol. Je veľmi starý.
+
+🐰 Tento kostol je z dreva. Je v UNESCO.
+
+🦊🧢 Celý z dreva?
+
+🐰 Celý.
+
+💬 Vnútri je tma. Na strope sú hviezdy.
+
+🐇 Hviezdy na strope!
+
+💬 Na stene je starý obraz. Na obraze je rytier na koni a drak.
+
+🐇 Drak! Konečne drak!
+
+🐰 To je svätý Juraj. Bojuje s drakom.
+
+🐇 A drak vyhrá?
+
+🐰 Nie. Drak nikdy nevyhrá.
+
+🐇 Chudák drak.
+
+## Scéna 5 — Vlak o tretej
+
+💬 Poobede. Les pri Oravskej Lesnej. Malá stanica a malý vlak.
+
+🐰 Vlak ide o tretej.
+
+🦊 Koľko je hodín?
+
+🦊🧢 O päť minút ide vlak!
+
+🦊 Rýchlo! Poďte!
+
+💬 Všetci bežia. Gab beží posledný.
+
+🦊 Počkajte! Počkajte na mňa!
+
+💬 Vlak ešte stojí. Stihli to.
+
+🐰 Sme tu! Sadnite si.
+
+💬 Vlak ide pomaly cez les. Hore, stále hore.
+
+🦊🧢 Tento vlak je pomalý.
+
+🐰 Ako ujo.
+
+🦊 Ďakujem.
+
+💬 Hore je lúka a malá drevená rozhľadňa.
+
+🐇 Ujo, poď hore na rozhľadňu!
+
+🦊 Nie, Lola. Dnes mám dosť schodov.
+
+## Scéna 6 — Kto chrápe? Znova
+
+💬 Večer. Penzión pri Tvrdošíne. Jedna veľká izba pre všetkých.
+
+🧑‍💼 Dobrý večer. Raňajky sú od siedmej do deviatej.
+
+🦊 Ďakujeme. Dobrú noc.
+
+💬 Noc. Je tma. Niekto chrápe. Nahlas.
+
+🐰 Gab, to je Hugo.
+
+🦊 Áno, to je Hugo.
+
+🦊🧢 Nie som to ja! Ja nespím!
+
+🐰 Ty nespíš?
+
+🦊🧢 Nie. Počúvam.
+
+💬 Všetci počúvajú. Chrápanie ide z Lolinej postele.
+
+🦊 Lola?
+
+🐰 Taká malá zajačica... a tak nahlas!
+
+🦊🧢 Je to horšie ako upír.
+
+💬 Lola sa zobúdza.
+
+🐇 Čo je? Je tu upír?
+
+🦊 Nie, Lola. Spi. A nechrápaj.
+
+🐇 Ja nechrápem!
+
+💬 O minútu Lola spí. A chrápe.
+
+**Faits à vérifier (chapitre 5)**
+- Château d'Orava : sur un rocher calcaire d'environ 112 m au-dessus de l'Orava, à Oravský Podzámok ; parties en pierre du XIIIe siècle, première mention en 1267 ; de nombreuses scènes de *Nosferatu* (1922) y ont été tournées (vérifié, [Wikipedia](https://en.wikipedia.org/wiki/Orava_Castle)). « Beaucoup de marches » : plausible, à confirmer.
+- Tvrdošín : église en bois de Tous-les-Saints, dans le cimetière, origine dans la seconde moitié du XVe siècle, UNESCO depuis 2008 ; plafond peint d'un ciel étoilé, tableau de saint Georges à cheval contre le dragon (1653) (vérifié, [Slovakia.travel](https://slovakia.travel/en/tvrdosin-all-saints-church)).
+- Train forestier d'Orava : Tanečník – Sedlo Beskyd, avec une tour d'observation en bois de 7 m au terminus, saison mai-octobre ([Náučné chodníky](https://naucnechodniky.eu/naucny-chodnik-oravskej-lesnej-zeleznice/?print=pdf)). L'horaire de 15 h est inventé.
+- Durée Banská Štiavnica → Orava (2 h 30 à 3 h annoncées) : à confirmer.
+- *kruhový objazd*, *výjazd*, *odpočívadlo* : termes de navigation, à confirmer.
+
+---
+
+# Kapitola 6 — Vlkolínec a Liptov
+
+*Résumé : Vlkolínec, « le village des loups ? », non, un village de maisons en rondins classé UNESCO, aux murs colorés, et son clocher en bois de 1770. Gab demande son chemin en slovaque, et comprend la réponse. L'après-midi, devant Tatralandia, catastrophe : les maillots sont restés à Lyon. Achats à Liptovský Mikuláš : couleurs, *páči sa mi*, essayage ; Lola veut du rose, Hugo du bleu avec un requin, Gab n'a plus que des jaunes à fleurs (« tu ressembles à une banane »). À l'aquaparc, l'eau est chaude, « pas comme au tajch », et le prudent Gab devient rapide sur le toboggan. Le soir, Claire appelle : « très bien », et « cette fois, c'est vrai ». Demain, les Tatras et le camping : « Tu sais monter une tente, Gab ? » « …Bien sûr. »*
+
+## Scéna 1 — Dedina vlkov?
+
+💬 Ráno. Malá dedina v horách nad Ružomberkom. Volá sa Vlkolínec.
+
+🐇 Vlkolínec? Tu bývajú vlci?
+
+🐰 Nie. Tu bývajú ľudia. Len pár ľudí. A prichádza sem veľa turistov.
+
+🦊🧢 Prečo toľko turistov?
+
+🐰 Lebo tieto domy sú staré a z dreva. Celá dedina je v UNESCO.
+
+💬 Domy sú drevené. Steny sú modré, biele a žlté.
+
+🐇 Modrý dom! Žltý dom! Biely dom!
+
+🐰 Áno, Lola. Farby sú tu krásne.
+
+## Scéna 2 — Kade mám ísť?
+
+💬 V strede dediny stojí stará drevená zvonica.
+
+🐰 Táto zvonica je z roku 1770.
+
+🦊🧢 Ujo, je tu studňa? Chcem vidieť studňu.
+
+🦊 Neviem. Opýtam sa.
+
+🦊 Prepáčte, kade mám ísť k studni?
+
+👵 Choďte rovno a potom doľava. Studňa je pri ceste.
+
+🦊 Ďakujem.
+
+👵 Nie je za čo. Pekný deň!
+
+🐰 Vidíš? Vieš sa pýtať po slovensky.
+
+🦊 Áno. A rozumiem aj odpovedi.
+
+## Scéna 3 — Kde sú plavky?
+
+💬 Poobede. Liptov. Auto stojí pred Tatralandiou. Je to veľký aquapark.
+
+🦊🧢 Aquapark! Ideme plávať!
+
+🐇 Ujo, kde sú plavky?
+
+🦊 Plavky sú... v kufri.
+
+💬 Gab otvára kufor. Plavky tam nie sú.
+
+🦊 Plavky sú... v Lyone.
+
+🐰 Gab!
+
+🦊🧢 Ujo!
+
+🐇 Ujo!
+
+🦊 Dobre. Ideme do obchodu.
+
+## Scéna 4 — V obchode
+
+💬 Obchod v Liptovskom Mikuláši. Veľa plaviek. Všetky farby.
+
+🧑‍🦰 Dobrý deň. Môžem vám pomôcť?
+
+🦊 Dobrý deň. Potrebujeme plavky. Pre deti a pre mňa.
+
+🐰 Lola, páčia sa ti tieto plavky? Sú zelené.
+
+🐇 Nie. Nepáčia sa mi. Chcem ružové.
+
+🦊🧢 A ja chcem modré. So žralokom.
+
+🧑‍🦰 Tu sú modré so žralokom. A tu sú ružové.
+
+🐇 Ružové! Tie sa mi páčia!
+
+🦊 A pre mňa? Môžem si skúsiť tieto?
+
+🧑‍🦰 Áno, kabínka je tam.
+
+💬 Gab vychádza z kabínky. Má na sebe žlté plavky s kvetmi.
+
+🐰 Gab... Žlté? S kvetmi?
+
+🦊 Sú to posledné plavky v mojej veľkosti.
+
+🦊🧢 Ujo, vyzeráš ako banán.
+
+🦊 Ďakujem, Hugo.
+
+## Scéna 5 — Tatralandia
+
+💬 Tatralandia. Bazény, tobogany a teplá voda.
+
+🐇 Voda je teplá! Nie ako v tajchu!
+
+🐰 Je to termálna voda. Je teplá celý rok.
+
+🦊🧢 Ujo, poď na tobogan!
+
+🦊 Nie. Som opatrný.
+
+🐰 A pomalý.
+
+🦊 A žltý.
+
+💬 Ale Hugo ťahá Gaba hore. Na najvyšší tobogan.
+
+🦊 Áááá!
+
+💬 Gab je dole. Rýchlo. Veľmi rýchlo.
+
+🐰 Na tobogane si rýchly, Gab.
+
+🦊 Ešte raz! Poďme ešte raz!
+
+🦊🧢 Ujo, si ako banán na tobogane.
+
+## Scéna 6 — Zajtra hory
+
+💬 Večer. Malý apartmán v Liptovskom Mikuláši. Z okna vidno hory.
+
+🐰 Pozrite. To sú Tatry. Zajtra ideme tam.
+
+💬 Zvoní telefón. Je to Claire.
+
+📱 Ahoj, Gab! Ako sa majú deti?
+
+🦊 Majú sa výborne!
+
+🐰 Tentoraz je to pravda.
+
+📱 Čo? Prečo „tentoraz“?
+
+🦊 Nič, nič! Dobrú noc, Claire!
+
+💬 Deti sú v posteli.
+
+🦊🧢 Ujo, budeme v Tatrách spať v stane?
+
+🦊 Áno. V stane.
+
+🐇 Máme stan?
+
+🦊 Máme stan.
+
+🐰 A vieš postaviť stan, Gab?
+
+💬 Ticho.
+
+🦊 ...Samozrejme.
+
+🐰 Dobrú noc. Zajtra uvidíme.
+
+**Faits à vérifier (chapitre 6)**
+- Vlkolínec : partie de la ville de Ružomberok, à environ 7 km, dans la Veľká Fatra ; environ 45 bâtiments traditionnels ; clocher en bois de 1770 ; UNESCO (vérifié, [UNESCO](https://whc.unesco.org/en/list/622)). Les murs peints en bleu, blanc et jaune (ocre ?), le puits et le chemin pour y aller sont à confirmer.
+- Tatralandia : aquaparc thermal à Liptovský Mikuláš ([Slovakia.travel](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia)) ; « chaude toute l'année » à confirmer.
+- `👵` la vieille dame du village : un avatar de plus.
+- Le magasin de maillots à Liptovský Mikuláš : inventé.
