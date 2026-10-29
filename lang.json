@@ -34,6 +34,7 @@
   },
   "subgroups": {
     "bratislava": "Bratislava",
+    "trencin": "Piešťany a Trenčín",
     "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
   },
   "ui": {
@@ -226,6 +227,7 @@
   "subgroup_themes": {
     "kitsurvie": "basics",
     "bratislava": "city",
+    "trencin": "city",
     "kronika_emigracia": "games",
     "kronika_neznerevolucia": "games",
     "kronika_pionieri": "games",
@@ -241,6 +243,7 @@
   "map": {
     "icons": {
       "bratislava": "🏰",
+      "trencin": "🏯",
       "dedina": "🏘️",
       "zvierata": "🦌",
       "hry": "🎲"
