@@ -33,6 +33,7 @@
     "annex": "Annexe"
   },
   "subgroups": {
+    "bratislava": "Bratislava",
     "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
   },
   "ui": {
@@ -224,6 +225,7 @@
   },
   "subgroup_themes": {
     "kitsurvie": "basics",
+    "bratislava": "city",
     "kronika_emigracia": "games",
     "kronika_neznerevolucia": "games",
     "kronika_pionieri": "games",
@@ -238,6 +240,7 @@
   },
   "map": {
     "icons": {
+      "bratislava": "🏰",
       "dedina": "🏘️",
       "zvierata": "🦌",
       "hry": "🎲"
