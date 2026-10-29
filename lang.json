@@ -38,6 +38,7 @@
     "bojnice": "Bojnice a Kremnica",
     "stiavnica": "Banská Štiavnica",
     "orava": "Orava",
+    "liptov": "Vlkolínec a Liptov",
     "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
   },
   "ui": {
@@ -234,6 +235,7 @@
     "bojnice": "shopping",
     "stiavnica": "food",
     "orava": "time",
+    "liptov": "shopping",
     "kronika_emigracia": "games",
     "kronika_neznerevolucia": "games",
     "kronika_pionieri": "games",
@@ -253,6 +255,7 @@
       "bojnice": "🐻",
       "stiavnica": "⛏️",
       "orava": "🚂",
+      "liptov": "🌊",
       "dedina": "🏘️",
       "zvierata": "🦌",
       "hry": "🎲"
