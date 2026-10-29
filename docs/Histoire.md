@@ -2,7 +2,7 @@
 
 Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet avant de la découper en fiches, comme pour Zajka Friends.
 
-**État** : premier jet des chapitres 1 et 2, à traduire, corriger et annoter. Le slovaque est à faire relire par un locuteur natif.
+**État** : premier jet des chapitres 1 à 4, à traduire, corriger et annoter. Le slovaque est à faire relire par un locuteur natif.
 
 ## Conventions
 
@@ -447,3 +447,394 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 - Trenčín : inscription romaine de l'an 179 sur le rocher du château, qui nomme le lieu *Laugaricio*, visible depuis la terrasse de l'hôtel Elizabeth ; la Matúšova veža, d'après Matúš Čák, belle vue sur le Považie (vérifié, [Visit Trenčín](https://visit.trencin.sk/wp-content/uploads/2018/04/Prechadzky-mestom.pdf)). À garder pour un coin slovaque : la légende de la *Studňa lásky* (Omar et Fatima).
 - Durée Bratislava → Trenčín par Piešťany : environ 1 h 30 annoncé au chapitre 1, à confirmer.
 - *čerpacia stanica* (langue de la navigation) et *benzínka* (langue courante) : à confirmer.
+
+---
+
+# Kapitola 3 — Bojnice a Kremnica
+
+*Résumé : la navigation recalcule pour la première fois. À Bojnice, un château « comme en France » (le comte Pálffy l'a reconstruit sur le modèle des châteaux français), une grotte dessous, sans dragon. Au zoo, les enfants voient des ours et des singes, et un renard : « c'est ma cousine », dit Gab. Dernier gros *vy* de Gab (« *Chcete zmrzlinu?* »). Le tilleul du roi Matthias, planté selon la légende par Matúš Čák, « le même que la tour ? ». À Kremnica, l'Hôtel des Monnaies : on y frappe des euros ; les enfants comptent leurs pièces (*jedno euro, dve eurá, pätnásť eur*). Andrea signale « un des centres de l'Europe ». Le soir, chambre chez l'habitant : le patron offre un gâteau. Personne ne ronfle… jusqu'au coq, à cinq heures.*
+
+## Scéna 1 — Prepočítavam trasu
+
+💬 Ráno. Auto ide do Bojníc.
+
+🦊🧢 Ujo, čo chceme dnes vidieť?
+
+🦊 Dnes chceme vidieť zámok.
+
+🐇 Ja chcem vidieť zvieratá!
+
+🐰 V Bojniciach je aj zoo. Uvidíme.
+
+🧭 Odbočte doľava.
+
+🦊 Doľava... Kde doľava?
+
+🧭 Prepočítavam trasu.
+
+🐰 Gab, to bolo tam.
+
+🦊 Viem.
+
+🧭 Prepočítavam trasu.
+
+🦊🧢 Ujo, navigácia je nervózna.
+
+## Scéna 2 — Zámok
+
+💬 Bojnice. Na kopci stojí zámok. Má veľa veží a strechy sú ako v rozprávke.
+
+🐇 Ako vo Francúzsku!
+
+🐰 Presne tak. Je ako francúzske zámky.
+
+🦊🧢 Je to hrad alebo zámok?
+
+🐰 Zámok. Hrad je na obranu. Zámok je na bývanie.
+
+🦊 A je tu niečo pod zámkom?
+
+🐰 Áno. Pod zámkom je jaskyňa.
+
+🐇 Je tam drak?
+
+🐰 Nie, drak tam nie je. Len voda a kamene.
+
+🐇 Škoda.
+
+## Scéna 3 — V zoo
+
+💬 Zoo v Bojniciach. Je veľká a je v nej veľa zvierat.
+
+🐇 Vidím medveďa! Veľkého medveďa!
+
+🦊🧢 A ja vidím opice!
+
+🐇 Pozri, ujo! Líška!
+
+🦊 Hm. To je moja sesternica.
+
+🦊🧢 Naozaj?
+
+🦊 Nie.
+
+💬 Je horúco. Gab sa pozerá na Andreu.
+
+🦊 Andrea, chcete zmrzlinu?
+
+🐰 Chcete?
+
+🦊 Prepáč. Chceš zmrzlinu?
+
+🐰 Chcem. A ty si nemožný.
+
+🦊🧢 Aj my chceme zmrzlinu!
+
+🦊 Dobre. Štyri zmrzliny.
+
+## Scéna 4 — Stará lipa
+
+💬 Pri zámku stojí stará lipa. Je obrovská.
+
+🐰 Toto je lipa kráľa Mateja. Má viac ako sedemsto rokov.
+
+🦊🧢 Sedemsto rokov! Je staršia ako ujo!
+
+🦊 Hugo, prosím.
+
+🐰 Podľa legendy ju zasadil Matúš Čák.
+
+🦊🧢 Matúš? Ako Matúšova veža v Trenčíne?
+
+🐰 Áno. Ten istý Matúš.
+
+🐇 Ten Matúš má veľa vecí.
+
+## Scéna 5 — Kremnica
+
+💬 Poobede. Kremnica. Malé mesto v horách a stará mincovňa.
+
+🐰 Tu sa robia mince. Aj slovenské eurá.
+
+🦊🧢 Eurá? Tu? V Kremnici?
+
+🐰 Áno. Aj euro v tvojom vrecku môže byť z Kremnice.
+
+💬 V obchode pri mincovni sú krásne mince. Zlaté a strieborné.
+
+🧑‍🦰 Dobrý deň. Želáte si?
+
+🦊 Dobrý deň. Koľko stojí táto minca?
+
+🧑‍🦰 Pätnásť eur.
+
+🦊🧢 Ja mám dve eurá.
+
+🐇 A ja mám jedno euro!
+
+🐰 Spolu máte tri eurá.
+
+🦊 A ja mám dvadsať eur. Nech sa páči.
+
+🧑‍🦰 Ďakujem. Tu máte päť eur.
+
+💬 Hugo drží mincu. Lola chce mincu tiež.
+
+🐇 A ja?
+
+🦊 Ty máš jedno euro. Je tiež z Kremnice. Možno.
+
+🐰 Neďaleko je aj stred Európy.
+
+🦊🧢 Stred Európy? Tu?
+
+🐰 Jeden zo stredov. Európa má veľa stredov.
+
+🐇 Koľko?
+
+🐰 Veľa. Každý chce stred.
+
+## Scéna 6 — U pána domáceho
+
+💬 Večer. Malá dedina pri Kremnici. Gab a Andrea majú ubytovanie v súkromí. Je to dom s veľkou záhradou.
+
+🧓 Dobrý večer! Vitajte u nás!
+
+🦊 Dobrý večer. Ďakujeme.
+
+🧓 Tu je izba pre vás a tu je izba pre pani. Chcete koláč?
+
+🦊🧢 Áno!
+
+🐇 Áno!
+
+🦊 Ďakujeme, nechceme...
+
+🦊🧢 Chceme! Chceme!
+
+🧓 Deti chcú koláč. Deti majú pravdu.
+
+💬 Koláč je s jablkami. Je ešte teplý.
+
+🐇 Ujo, to je najlepší koláč na svete.
+
+🦊 Áno, Lola. Je výborný.
+
+💬 Noc. Je ticho. Nikto nechrápe.
+
+🦊 Konečne. Ticho.
+
+💬 Ráno o piatej.
+
+🐓 Kikirikí!
+
+🐇 Ujo! Kto je to?
+
+🦊 To je... kohút.
+
+💬 Z druhej izby počuť Andreu.
+
+🐰 Vitaj na dedine, Gab.
+
+**Faits à vérifier (chapitre 3)**
+- Bojnice : château reconstruit en néogothique de 1889 à 1910 par le comte Ján Pálffy, sur le modèle de châteaux gothiques français et tyroliens ; grotte de travertin sous le château, visitée en fin de parcours ; zoo présenté comme le plus ancien et le plus visité de Slovaquie, ouvert au public en 1955 ; tilleul du roi Matthias, plus de 720 ans, planté selon la légende par Matúš Čák en 1301 (vérifié, [Zľavomat](https://www.zlavomat.sk/magazin/1928-bojnice-atrakcie)). Les animaux cités (ours, singes, renard) sont à confirmer au zoo de Bojnice.
+- Kremnica : l'Hôtel des Monnaies frappe les euros slovaques (vérifié, [Slovakia.travel](https://slovakia.travel/en/mint-in-kremnica)) ; une boutique de pièces sur place et le prix de 15 € sont inventés, à ajuster.
+- « Centre de l'Europe » près de Kremnica, avec la petite église Saint-Jean-Baptiste et une pierre ([Startitup](https://www.startitup.sk/ja-som-slovensko-stred-slovenska/)) : c'est **un des points** qui revendiquent ce titre ([Wikipedia](https://en.wikipedia.org/wiki/Geographical_midpoint_of_Europe)), d'où le gag.
+- `🐓` le coq : un avatar de plus, à valider (il ne dit que *Kikirikí*).
+- *ubytovanie v súkromí* (chambre chez l'habitant) : terme courant, à confirmer.
+
+---
+
+# Kapitola 4 — Banská Štiavnica
+
+*Résumé : on salue comme les mineurs, « *Zdar Boh!* ». Visite d'une vieille mine, casques trop grands. Au restaurant, Gab commande « *jeden pivo* » et Hugo le corrige devant le serveur : « *Jedno pivo, ujo!* » (début du gag « les enfants corrigent Gab »). Découverte des *bryndzové halušky* : Hugo adore, Lola trouve ça trop acide et veut des frites. Personne ne veut monter au Calvaire. À l'étang de Počúvadlo, « *Toto poznám!* » ; l'eau est glacée, Gab ne veut pas entrer, les enfants l'arrosent. Le soir, à la chata, Gab a oublié d'acheter à manger et le magasin est fermé : dîner de pain et du gâteau de la veille, « le meilleur dîner ». « Ujo, on est arrivés ? » « Oui, Lola. Aujourd'hui, on est arrivés. »*
+
+## Scéna 1 — Zdar Boh!
+
+💬 Banská Štiavnica. Staré banské mesto. Domy sú na kopcoch, ulice idú hore a dole.
+
+🧑‍🏫 Zdar Boh!
+
+🦊 Dobrý deň...
+
+🐰 Tu sa hovorí „Zdar Boh“. Je to banícky pozdrav.
+
+🦊🧢 Zdar Boh!
+
+🐇 Zdar Boh!
+
+🧑‍🏫 Výborne! Vitajte v Banskej Štiavnici.
+
+🦊 Prečo sú tu všade kopce?
+
+🐰 Lebo mesto je v starej sopke.
+
+🐇 V sopke? A sopka spí?
+
+🐰 Spí. Už veľmi dlho.
+
+## Scéna 2 — V bani
+
+💬 Stará baňa. Pri vchode sú prilby a svetlá.
+
+🧑‍🏫 Tu máte prilby. Nasaďte si ich, prosím.
+
+🐇 Moja prilba je veľká.
+
+🦊🧢 Aj moja.
+
+🦊 Moja je malá.
+
+🐰 Lebo ty máš veľkú hlavu.
+
+💬 V bani je zima a tma. Všade je kameň.
+
+🧑‍🏫 Táto baňa je veľmi stará. Má viac ako tristo rokov.
+
+🦊🧢 Je tu zima.
+
+🐇 A je tu tma. Ujo, kde si?
+
+🦊 Tu som, Lola. Za tebou.
+
+## Scéna 3 — V reštaurácii
+
+💬 Obed. Malá reštaurácia na námestí.
+
+🧑‍🍳 Dobrý deň. Tu je jedálny lístok. Čo si dáte?
+
+🦊 Dám si bryndzové halušky. A jeden pivo.
+
+🦊🧢 Ujo! Jedno pivo!
+
+🧑‍🍳 Jedno pivo. Dobre.
+
+🐰 Hugo hovorí po slovensky lepšie ako ty.
+
+🦊 Ďakujem, Andrea.
+
+🐇 Mám smäd! Dám si kofolu.
+
+🦊🧢 A ja mám hlad. Čo sú halušky?
+
+🐰 Halušky sú ako malé cestoviny. S bryndzou. Bryndza je syr z ovčieho mlieka.
+
+🦊🧢 Tak si dám halušky.
+
+💬 Jedlo je na stole. Hugo zje všetko. Lola ochutná a prestane.
+
+🐇 Fuj. Je to kyslé.
+
+🦊🧢 Nie je! Je to výborné!
+
+🐇 Nie je to dobré. Chcem hranolky.
+
+🧑‍🍳 Hranolky? Áno, máme.
+
+🦊 Na Slovensku... a hranolky.
+
+🐰 Deti sú všade rovnaké.
+
+## Scéna 4 — Kalvária
+
+💬 Poobede. Na kopci nad mestom sú biele kaplnky a dva kostoly. Je to Kalvária.
+
+🐰 Pozrite! Tam hore je Kalvária. Je krásna.
+
+🦊🧢 Je to ďaleko?
+
+🐰 Trochu. Ideme hore?
+
+🐇 Nechcem. Bolia ma nohy.
+
+🦊 Ani ja nechcem. Mňa tiež bolia nohy.
+
+🐰 Vy dvaja ste rovnakí.
+
+🦊🧢 Ja chcem ísť hore!
+
+🐰 Výborne, Hugo! Ideme?
+
+🦊🧢 Zajtra.
+
+🐰 Dobre. Tak sa pozeráme zdola. Aj zdola je krásna.
+
+## Scéna 5 — Tajch
+
+💬 Neskoro poobede. Les a veľké jazero. Voda je tmavá a pokojná.
+
+🐰 Toto je tajch Počúvadlo. Toto poznám!
+
+🦊🧢 Čo je tajch?
+
+🐰 Umelé jazero. Je staré. Voda z tajchov bola pre bane.
+
+🐰 Teraz je pre nás. Tu sa kúpem každé leto.
+
+💬 Hugo a Lola bežia do vody.
+
+🐇 Áááá! Voda je studená!
+
+🦊🧢 Je veľmi studená! Ujo, poď!
+
+🦊 Nie. Ja nejdem. Som opatrný.
+
+🐰 A pomalý.
+
+🦊 A opatrný.
+
+💬 Hugo a Lola striekajú vodu na Gaba.
+
+🐇 Teraz si mokrý, ujo! Tak poď!
+
+💬 Gab skáče do vody.
+
+🦊 Áááá! Je studená! Je strašne studená!
+
+🐰 Vitaj v Štiavnici, Gab.
+
+## Scéna 6 — Večera v chate
+
+💬 Večer. Malá drevená chata pri tajchu. Na nebi sú prvé hviezdy.
+
+🦊🧢 Ujo, mám hlad.
+
+🐇 Aj ja mám hlad. Čo máme na večeru?
+
+🦊 Máme... chlieb.
+
+🐰 Chlieb? A čo ešte?
+
+🦊 A koláč. Od pána domáceho.
+
+🐰 To je všetko?
+
+🦊 Obchod je zatvorený.
+
+🐰 Gab...
+
+🐇 Koláč na večeru? Super!
+
+🦊🧢 To je najlepšia večera!
+
+🐰 Ty si najhorší ujo na svete.
+
+🦊 Nie. Som najlepší ujo na svete. Pozri, oni sú šťastní.
+
+💬 Deti jedia koláč. Andrea sa smeje. Je ticho a teplo.
+
+🐇 Ujo?
+
+🦊 Áno, Lola?
+
+🐇 Už sme tam?
+
+🦊 Áno, Lola. Dnes sme tam.
+
+**Faits à vérifier (chapitre 4)**
+- *Zdar Boh!* : le salut des mineurs, toujours utilisé à Banská Štiavnica (à confirmer).
+- Banská Štiavnica bâtie dans la caldeira d'un ancien volcan (à confirmer et à formuler prudemment dans un coin slovaque).
+- La mine visitable (*štôlňa*), casques, « plus de 300 ans » : à ajuster selon la mine choisie (musée en plein air de la mine, par exemple).
+- Les *tajchy* : réservoirs artificiels construits pour les mines, aujourd'hui pour la baignade ; Počúvadlo à environ 11 km de la ville, parmi les plus grands, les plus profonds et les plus froids (vérifié, [Startitup](https://www.startitup.sk/kedysi-sluzili-banikom-dnes-sa-v-nich-kupeme-8-tajchov-ktore-by-ste-mali-toto-leto-navstivit/)).
+- Kalvária : chapelles blanches et deux églises sur la colline (à confirmer).
+- *bryndzové halušky* et *Kofola* : plat et boisson nommés ; Kofola est une marque, mais d'usage courant (à valider selon la règle « pas de marque »).

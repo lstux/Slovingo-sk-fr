@@ -49,7 +49,7 @@ Le moteur associe **un nom par emoji** pour tout le cours, et les voix se règle
 | à définir | La famille d'Andrea (Marta, Ivan, babka Zuzana) | chapitre 11 ; un marqueur unique chacun |
 | 🧑‍… | Les humains | désignés par leur **fonction**, vouvoyés ; **un emoji par fonction** (voir ci-dessous) |
 
-**Humains** : comme dans Friends, ils parlent normalement aux animaux et personne ne s'en étonne. Un même emoji ne peut pas servir à deux fonctions (le moteur leur donnerait le même nom). Propositions : 🧑‍💼 la réception (*recepčná*), 🧑‍🍳 le serveur (*čašník*), 🧓 l'hôte de la chata ou de la chambre chez l'habitant (*pán domáci*), 🧑‍🏫 le guide (*sprievodca*), 🧑‍🔧 le gardien du camping (*správca kempu*). On complète la liste au fil de l'écriture et on la tient à jour ici.
+**Humains** : comme dans Friends, ils parlent normalement aux animaux et personne ne s'en étonne. Un même emoji ne peut pas servir à deux fonctions (le moteur leur donnerait le même nom). Propositions : 🧑‍💼 la réception (*recepčná*), 🧑‍🍳 le serveur (*čašník*), 🧓 l'hôte de la chata ou de la chambre chez l'habitant (*pán domáci*), 🧑‍🏫 le guide (*sprievodca*), 🧑‍🔧 le gardien du camping (*správca kempu*), 🧑‍🦰 la vendeuse (*predavačka*). Animaux non-personnages : 🐓 le coq (*Kikirikí*), à valider. On complète la liste au fil de l'écriture et on la tient à jour ici.
 
 **Tutoiement et vouvoiement** :
 - *ty* entre Gab, Andrea et les enfants, et en famille (y compris chez Andrea) ;
