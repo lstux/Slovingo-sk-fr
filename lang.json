@@ -36,6 +36,7 @@
     "bratislava": "Bratislava",
     "trencin": "Piešťany a Trenčín",
     "bojnice": "Bojnice a Kremnica",
+    "stiavnica": "Banská Štiavnica",
     "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
   },
   "ui": {
@@ -230,6 +231,7 @@
     "bratislava": "city",
     "trencin": "city",
     "bojnice": "shopping",
+    "stiavnica": "food",
     "kronika_emigracia": "games",
     "kronika_neznerevolucia": "games",
     "kronika_pionieri": "games",
@@ -247,6 +249,7 @@
       "bratislava": "🏰",
       "trencin": "🏯",
       "bojnice": "🐻",
+      "stiavnica": "⛏️",
       "dedina": "🏘️",
       "zvierata": "🦌",
       "hry": "🎲"
