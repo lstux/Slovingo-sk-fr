@@ -123,7 +123,7 @@ L'introduction couvre les bases (lettres à caron, accent sur la première sylla
 | 🐰 | Andrea | kit de survie / 1 |
 | 🦊🧢 | Hugo, 9 ans | 1 |
 | 🐇 | Lola, 6 ans | 1 |
-| 🧭 | La navigation | 2 (première route) |
+| 🧭 | La navigation | 1 (l'arrivée à Bratislava), vraiment à partir du 2 |
 | 📱 | Claire, au téléphone | 1 (l'arrivée), puis de temps en temps |
 | 💬 | Le narrateur neutre | quand la navigation n'est pas là |
 | à définir | Marta, Ivan, babka Zuzana | 11 |
