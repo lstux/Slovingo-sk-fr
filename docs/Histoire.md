@@ -2,7 +2,7 @@
 
 Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet avant de la découper en fiches, comme pour Zajka Friends.
 
-**État** : premier jet des chapitres 1 à 8, à traduire, corriger et annoter. Le slovaque est à faire relire par un locuteur natif.
+**État** : premier jet des chapitres 1 à 10, à traduire, corriger et annoter. Le slovaque est à faire relire par un locuteur natif.
 
 ## Conventions
 
@@ -1648,3 +1648,331 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 - Dobšiná : glace partout, température négative, visite d'environ 30 min ([Slovakia.travel](https://slovakia.travel/en/dobsinska-ladova-jaskyna-cave)) ; « ne touchez pas la glace » plausible.
 - *pirohy* chez la babka d'Andrea à Prešov : spécialité de l'est, à confirmer.
 - Passé en morceaux (*spal som, nechrápal, videl som*) avant le chapitre 9 : à signaler dans les fiches.
+
+---
+
+# Kapitola 9 — Spiš
+
+*Résumé : le passé entre dans l'histoire (*kedysi to bolo…*). À Levoča, la cage de la honte : les enfants y enferment Gab, « parce que tu as ronflé ! », photo pour Claire. Dans la basilique Saint-Jacques, le plus haut autel gothique en bois du monde, dix ans de travail pour Maître Paul, « aussi longtemps que tonton pour monter une tente ». Le château de Spiš, immense, sous le vent comme à Lomnický štít. Spišská Kapitula, « le Vatican slovaque ». Le soir, chez l'habitant, chacun raconte sa journée au passé, et Gab se trompe de genre : « *Ja som bola v klietke* », « Tu es une hase, tonton ? ». Sur la terrasse, Andrea se souvient d'une sortie scolaire au château ; Gab, fatigué, retombe dans le *vy*.*
+
+## Scéna 1 — Klietka hanby
+
+💬 Levoča. Staré mesto za hradbami. Na námestí sú krásne domy a veľký kostol.
+
+🐰 Toto je Levoča. Kedysi to bolo veľmi bohaté mesto.
+
+🦊🧢 Prečo bolo bohaté?
+
+🐰 Lebo tu boli obchodníci. Predávali a kupovali.
+
+💬 Na námestí stojí malá železná klietka.
+
+🐇 Čo je to? Klietka pre psa?
+
+🐰 Nie. To je klietka hanby. Kedysi tam zatvárali zlých ľudí. Všetci sa na nich pozerali.
+
+🦊🧢 Ujo, poď dnu!
+
+🦊 Prečo ja?
+
+🐇 Lebo si chrápal!
+
+💬 Gab stojí v klietke. Hugo fotí.
+
+🦊🧢 Pošleme to mame!
+
+🦊 Nie! Už nie!
+
+🐰 Gab, ty si dnes zlý človek?
+
+🦊 Nie som človek. Som líška.
+
+## Scéna 2 — Oltár
+
+💬 Bazilika svätého Jakuba. Vnútri je ticho. Vpredu stojí obrovský drevený oltár.
+
+🐰 Tento oltár je vysoký skoro devätnásť metrov. Je to najvyšší gotický drevený oltár na svete.
+
+🦊🧢 Kto ho urobil?
+
+🐰 Majster Pavol z Levoče. Robil ho desať rokov.
+
+🦊🧢 Desať rokov! Tak dlho ako ujo stavia stan.
+
+🦊 Hugo...
+
+🐇 Je celý z dreva?
+
+🐰 Áno. Z lipového dreva.
+
+🐇 Ako lipa v Bojniciach?
+
+🐰 Áno. Lipa je dobré drevo.
+
+## Scéna 3 — Spišský hrad
+
+💬 Na kopci nad Spišským Podhradím stojí obrovský hrad. Je to ruina, ale je veľká. Veľmi veľká.
+
+🐰 Spišský hrad. Je to jeden z najväčších hradov v strednej Európe.
+
+🦊🧢 Je väčší ako Oravský hrad?
+
+🐰 Oveľa väčší.
+
+💬 Deti bežia medzi starými múrmi. Hore fúka vietor.
+
+🦊 Fúka ako na Lomnickom štíte.
+
+🐇 Kto tu býval?
+
+🐰 Kedysi tu bývali bohatí páni. Mali vojakov a kone.
+
+🦊🧢 A kde sú teraz?
+
+🐰 Teraz tu nebýva nikto. Len vietor a turisti.
+
+🦊 Bol som na veľa hradoch. Ale toto je najväčší.
+
+## Scéna 4 — Slovenský Vatikán
+
+💬 Oproti hradu, na druhom kopci, je malé mesto za múrom. Má katedrálu a staré domy.
+
+🐰 Toto je Spišská Kapitula. Hovorí sa jej slovenský Vatikán.
+
+🐇 Čo je Vatikán?
+
+🐰 Mesto pápeža v Ríme. Je malé a je v ňom veľa kostolov.
+
+🦊🧢 A tu býva pápež?
+
+🐰 Nie. Ale je to tiež malé mesto a kostol je veľmi dôležitý.
+
+🐇 Malé mesto v meste. Ako Lego.
+
+## Scéna 5 — Čo sme robili?
+
+💬 Večer. Ubytovanie v súkromí v Spišskom Podhradí. Na stole je polievka a chlieb.
+
+🧓 Tak, deti, čo ste dnes robili?
+
+🦊🧢 Videl som veľký hrad!
+
+🐇 A ja som videla klietku!
+
+🦊🧢 A ujo bol v klietke!
+
+🧓 V klietke? Prečo?
+
+🐇 Lebo chrápal.
+
+🧓 Aha. To je dobrý dôvod.
+
+🦊 Áno, ja som bola v klietke. Len päť minút.
+
+🦊🧢 Bola? Ujo, ty si zajačica?
+
+🦊 Bol! Bol som v klietke!
+
+🐰 Gab je dnes zajačica. Celý deň.
+
+🐇 Ujo zajačica! Ujo zajačica!
+
+🦊 Bol som. Bol som. Bol som.
+
+## Scéna 6 — Hrad v noci
+
+💬 Neskoro večer. Deti spia. Gab a Andrea sedia na terase. Hrad na kopci svieti.
+
+🐰 Keď som bola malá, bola som tu so školou.
+
+🦊 Na hrade?
+
+🐰 Áno. Pršalo a bola zima. Všetci sme boli mokrí. Ale bolo to krásne.
+
+🦊 Ako náš kemping.
+
+🐰 Presne ako náš kemping.
+
+💬 Chvíľu je ticho.
+
+🦊 Andrea... ďakujem, že ste s nami.
+
+🐰 Ste?
+
+🦊 Prepáč. Som unavený. Ďakujem, že si s nami.
+
+🐰 Rada. Dobrú noc, Gab.
+
+🦊 Dobrú noc.
+
+**Faits à vérifier (chapitre 9)**
+- Levoča : place *Námestie Majstra Pavla* dans l'enceinte ; cage de la honte (fin XVIe – début XVIIe siècle) sur la place ; autel de Saint-Jacques, gothique tardif, 18,6 m, le plus haut de ce type au monde, en bois de tilleul, réalisé de 1507 à 1517 dans l'atelier de Maître Paul (vérifié, [Slovakia.travel](https://slovakia.travel/en/levoca-town-monument-reserve)).
+- Château de Spiš : un des plus grands ensembles castraux d'Europe centrale ([Slovakia.travel](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia)) ; « plus grand que celui d'Orava » à confirmer ; le château éclairé la nuit, à confirmer.
+- Spišská Kapitula, surnommée « le Vatican slovaque » ([Slovakia.travel](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia)) ; la cathédrale et le mur, à confirmer.
+- Le passé (*bol / bola*, *videl som / videla som*) est le point de grammaire du chapitre : le gag de genre de Gab (*ja som bola*) doit être signalé par un `+`.
+
+---
+
+# Kapitola 10 — Bardejov
+
+*Résumé : en voiture, Claire demande ce qu'ils ont fait hier, et les enfants racontent au passé pluriel : « nous sommes allés… nous avons vu… et tonton était dans une cage ! » ; Gab nie, puis avoue « juste cinq minutes ». À Bardejov, la place aux maisons colorées et l'hôtel de ville, premier bâtiment Renaissance de Slovaquie ; le faubourg juif, lui aussi à l'UNESCO. La basilique Saint-Gilles et sa tour : Gab « est déjà monté sur assez de choses » (*vyšli sme / nevyjdem*), puis monte quand même. Sur la *lavička zblíženia*, le banc qui rapproche, Gab et Andrea glissent au milieu : « sur ce banc, on ne peut pas se vouvoyer ». Aux thermes de Bardejovské Kúpele, le plus ancien musée en plein air de Slovaquie (« encore une église en bois, comme à Tvrdošín ! ») et l'eau minérale « qui a goût de fer ». Le soir, à l'hôtel de spa, Andrea avoue qu'elle est un peu nerveuse : demain, Prešov, sa mère.*
+
+## Scéna 1 — Čo ste robili?
+
+💬 Ráno. Auto ide na sever. Zvoní telefón.
+
+📱 Ahoj, deti! Čo ste včera robili?
+
+🦊🧢 Boli sme v Levoči! Videli sme veľký oltár!
+
+🐇 A boli sme na hrade! Na obrovskom hrade!
+
+📱 Super! A čo robil ujo?
+
+🦊🧢 Ujo bol v klietke!
+
+📱 V klietke?
+
+🦊 Nebol som v klietke. Teda... bol som tam. Len päť minút.
+
+📱 Prečo?
+
+🐇 Lebo chrápal!
+
+📱 Ha ha! Gab, mám tvoju fotku. Je super.
+
+🦊 Ďakujem, Claire.
+
+🧭 O päťsto metrov odbočte doprava. Cieľ je Bardejov.
+
+## Scéna 2 — Námestie
+
+💬 Bardejov. Veľké námestie. Okolo sú farebné domy s vysokými štítmi. V strede stojí stará radnica.
+
+🐰 Táto radnica je prvá renesančná stavba na Slovensku.
+
+🦊🧢 Prvá? Pred ňou nebola žiadna?
+
+🐰 Pred ňou boli iné stavby. Ale nie renesančné.
+
+🐇 Domy sú ako farbičky. Žltý, zelený, modrý, ružový!
+
+🐰 Celé námestie je v UNESCO. Aj židovské suburbium za hradbami.
+
+🦊 Čo je suburbium?
+
+🐰 Štvrť za hradbami. Kedysi tu žilo veľa Židov. Je tam stará synagóga.
+
+💬 Idú pomaly okolo hradieb. Je ticho.
+
+## Scéna 3 — Veža
+
+💬 Bazilika svätého Egídia. Vnútri je jedenásť starých gotických oltárov. Vonku je vysoká veža.
+
+🦊🧢 Ideme hore na vežu?
+
+🦊 Nie. Ja nejdem. Včera sme vyšli na hrad. Predvčerom sme vyšli na rebríky. Dnes nevyjdem nikam.
+
+🐰 Veža má výhľad na celé mesto.
+
+🦊 Nevyjdem.
+
+🐇 Ujo, si opatrný?
+
+🦊 Som unavený.
+
+💬 Deti a Andrea idú hore. Gab čaká dole. Päť minút. Desať minút.
+
+🦊 Dobre. Idem hore.
+
+💬 Hore. Gab je červený. Výhľad je krásny.
+
+🦊 Uf. Vyšiel som.
+
+🐰 Vidíš? Opatrný, unavený, ale vyšiel si.
+
+## Scéna 4 — Lavička zblíženia
+
+💬 Promenádny park. Je tam zvláštna lavička. Je modrá a červená. V strede je nižšia.
+
+🐰 Toto je lavička zblíženia. Sadni si na kraj. Ja si sadnem na druhý kraj.
+
+💬 Gab si sadá na jeden kraj. Andrea na druhý. Pomaly sa šmýkajú. Až do stredu.
+
+🦊 Hm. Sme v strede.
+
+🐰 Na tejto lavičke sa nedá vykať, Gab.
+
+🦊 Tak ti tykám. Navždy.
+
+🐰 Uvidíme.
+
+🐇 Ja chcem tiež! Hugo, poď!
+
+💬 Lola a Hugo sa šmýkajú. Až do stredu. Lola padá na Huga.
+
+🦊🧢 Lola!
+
+🐇 Je to ako v aute! Vždy si na mne!
+
+## Scéna 5 — Kúpele a skanzen
+
+💬 Poobede. Bardejovské Kúpele. Les, kolonáda a pramene.
+
+🐰 Tu je minerálna voda. Je zdravá. Ochutnajte.
+
+🐇 Fuj! Chutí ako železo!
+
+🦊🧢 Chutí ako stará minca z Kremnice.
+
+🐰 Je to zdravé.
+
+🦊 Zdravé je často fuj.
+
+💬 Neďaleko je skanzen. Staré drevené domy, mlyn, drevený kostol.
+
+🦊🧢 Drevený kostol! Ako v Tvrdošíne!
+
+🐰 Áno. Tento skanzen je najstarší na Slovensku.
+
+🐇 Je tam drak?
+
+🐰 Neviem. Pozrime sa.
+
+💬 Draka nenašli. Ale našli staré koleso od voza a mačku.
+
+🐇 Mačka! To je skoro drak.
+
+## Scéna 6 — Zajtra Prešov
+
+💬 Večer. Kúpeľný hotel. Deti sú v bazéne. Gab a Andrea pijú čaj.
+
+🦊 Zajtra ideme do Prešova. K tebe domov.
+
+🐰 Áno.
+
+🦊 Tešíš sa?
+
+🐰 Teším sa. Ale som trochu nervózna.
+
+🦊 Prečo?
+
+🐰 Mama bude... mama. Bude variť pre celý pluk. A bude sa veľa pýtať.
+
+🦊 Na čo?
+
+🐰 Na všetko. Kto si, čo robíš, prečo nemáš ženu, prečo chrápeš.
+
+🦊 Ako vie, že chrápem?
+
+🐰 Claire jej poslala nahrávku.
+
+🦊 Čo? Claire pozná tvoju mamu?
+
+🐰 Teraz už áno.
+
+**Faits à vérifier (chapitre 10)**
+- Bardejov : hôtel de ville présenté comme le premier bâtiment Renaissance de Slovaquie ; basilique Saint-Gilles à trois nefs avec 11 autels gothiques ; faubourg juif inscrit à l'UNESCO avec la ville en 2000 (vérifié, [Prešovský kraj](https://www.po-kraj.sk/en/presov-region/attractions/seven-wonders-presov-region/bardejov.html)). Tour de 76 m avec plateforme d'observation ; *lavička zblíženia*, banc bleu et rouge dans le Promenádny park, qui rapproche les gens assis aux deux bouts ; musée en plein air de Bardejovské Kúpele, ouvert en 1965, le plus ancien de Slovaquie, avec des églises en bois (vérifié, [Zľavomat](https://www.zlavomat.sk/magazin/1964-kam-v-bardejove)).
+- La synagogue du faubourg et les maisons colorées à pignons de la place : à confirmer.
+- Le goût de fer de l'eau minérale : plausible, à confirmer.
+- Claire qui contacte la mère d'Andrea : gag à valider (comment se connaissent-elles ?).
