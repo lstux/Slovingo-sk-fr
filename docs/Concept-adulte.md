@@ -64,7 +64,7 @@ Voyage d'été, de mai à octobre : les remontées mécaniques des Tatras et le 
 - **01 à 04** : vocabulaire et grammaire, micro-dialogues de 3 à 6 cartes, narrateur compris.
 - **05** : l'épisode en dialogue, narrateur 💬.
 - **06** : l'épisode prolongé.
-- **Carte** : la fiche 01 de chaque série commence par une carte Leaflet (bloc `%:`) qui montre l'étape. La syntaxe `%` est en cours de validation côté moteur (branche `feat/smd-leaflet-map`).
+- **Carte** : la fiche 01 de chaque série commence par une carte Leaflet du trajet de la journée (bloc `%~`). La syntaxe est disponible dans le moteur (`docs/Format-SMD.txt`, §5 ; outil `tools/geomap-editor.html`).
 
 ## Repo, branches et images
 - **Le roadtrip remplace les séries 01 à 09** du cours adulte, dans le même repo `Slovingo-sk-fr`. Les chapitres 01 à 12 prennent les numéros 01 à 12 : pas de collision avec les Kronika, qui commencent à 15.
@@ -100,8 +100,8 @@ Voyage d'été, de mai à octobre : les remontées mécaniques des Tatras et le 
 5. **Détours « locaux »** : relecture par un locuteur natif.
 
 ## Prochaines étapes
-1. Retirer les séries 01 à 09 de `feat/roadtrip` (fiches, exercices, thèmes et icônes de `lang.json`).
-2. Rédiger `docs/Format-roadtrip.md` et `docs/Progression-roadtrip.md`, sur le modèle de Friends.
+1. ~~Retirer les séries 01 à 09 de `feat/roadtrip`~~ (fait).
+2. ~~Rédiger `docs/Format-roadtrip.md` et `docs/Progression-roadtrip.md`~~ (faits, à valider).
 3. Rédiger `docs/Histoire.md` (slovaque d'abord, traduction ensuite), comme dans Friends.
 4. Découper en fiches 01-06 pour chaque chapitre.
 
