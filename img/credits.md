@@ -84,3 +84,7 @@ Auteur et licence sont recopiés de la page Commons de chaque fichier. Les licen
 | 00_KitSurvie_02_politesse | [European hare (Lepus europaeus) Marken 2.jpg](https://commons.wikimedia.org/wiki/File:European_hare_(Lepus_europaeus)_Marken_2.jpg) | à compléter | à compléter |
 | 00_KitSurvie_03_dialogue | [Hviezdoslavovo námestie (10266936594).jpg](https://commons.wikimedia.org/wiki/File:Hviezdoslavovo_n%C3%A1mestie_(10266936594).jpg) | Jorge Láscar | CC BY 2.0 |
 | 00_KitSurvie_04_extra | [Michael's Gate and tower (10267681486).jpg](https://commons.wikimedia.org/wiki/File:Michael's_Gate_and_tower_(10267681486).jpg) | Jorge Láscar | CC BY 2.0 |
+
+## Fond de la carte d'accueil
+
+`img/map_background.jpg` : illustration générée avec Gemini (Google), prompt dans `docs/Prompt-carte-accueil.md`.

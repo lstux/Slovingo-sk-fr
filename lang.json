@@ -30,7 +30,8 @@
     "series": "Séries",
     "dialog": "Dialogues",
     "vocabulary": "Vocabulaire",
-    "annex": "Annexe"
+    "annex": "Annexe",
+    "credits": "Merci"
   },
   "subgroups": {
     "bratislava": "Bratislava",
@@ -274,9 +275,27 @@
       "bardejov": "🛁",
       "presov": "🥟",
       "kosice": "⛲",
-      "dedina": "🏘️",
-      "zvierata": "🦌",
-      "hry": "🎲"
+      "credits": "🏁"
+    },
+    "final_title": "Šťastnú cestu!",
+    "exclude": ["kronika"],
+    "exclude_title": "Kronika",
+    "positions": {
+      "intro": [57, 5],
+      "series-kitsurvie": [33, 7],
+      "series-bratislava": [72, 9],
+      "series-trencin": [23, 17],
+      "series-bojnice": [73, 22],
+      "series-stiavnica": [30, 35],
+      "series-orava": [82, 35],
+      "series-liptov": [20, 49],
+      "series-tatry": [66, 55],
+      "series-raj": [22, 64],
+      "series-spis": [62, 64],
+      "series-bardejov": [25, 75],
+      "series-presov": [65, 77],
+      "series-kosice": [36, 88],
+      "final-exam": [85, 94]
     }
   }
 }
