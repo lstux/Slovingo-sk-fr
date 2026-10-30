@@ -1,6 +1,6 @@
 # Série Tatry (5/5) — Kemp
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (des tentes dans un camping au pied des Tatras) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovakia_High_Tatras_Tatranska_Lomnica_0476.jpg | Tatranská Lomnica, au pied des Tatras — crédit à compléter, Wikimedia Commons
 
 {{fr:Le soir, au camping. Tu as promis que tu savais monter une tente. C'est le moment de le prouver.}}
 

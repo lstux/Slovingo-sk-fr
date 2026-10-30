@@ -1,6 +1,6 @@
 # Bardejov (extra) — Zajtra Prešov
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (un hôtel thermal le soir, une tasse de thé) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Kolon%C3%A1da_-_Bardejovsk%C3%A9_K%C3%BApele.JPG | La colonnade de Bardejovské Kúpele — crédit à compléter, Wikimedia Commons
 
 {{fr:Le soir, à l'hôtel thermal. Les enfants sont à la piscine. Andrea a l'air un peu inquiète : demain, on va chez elle.}}
 

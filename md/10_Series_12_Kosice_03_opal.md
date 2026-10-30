@@ -1,6 +1,6 @@
 # Série Košice (3/5) — Opál
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (une opale de Slovaquie aux reflets colorés) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Drah%C3%BD_op%C3%A1l_-_Slovakia_opal.JPG | Une opale de Slovaquie — crédit à compléter, Wikimedia Commons
 
 {{fr:L'après-midi, une dernière mine, près de Košice. On y cherchait des pierres de toutes les couleurs. Encore un casque, encore le noir.}}
 

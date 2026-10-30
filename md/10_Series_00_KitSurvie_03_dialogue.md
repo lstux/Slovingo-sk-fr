@@ -1,6 +1,6 @@
 # Kit de Survie (3/4) — Prvé stretnutie
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (rencontre, deux personnes qui se saluent...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Hviezdoslavovo_n%C3%A1mestie_(10266936594).jpg | Hviezdoslavovo námestie, à Bratislava : là où tout a commencé — Jorge Láscar, CC BY 2.0, Wikimedia Commons
 
 **Un souvenir.** Il y a des années, bien avant le grand voyage, tu croises Andrea pour la première fois. Vous vous vouvoyez : vous ne vous connaissez pas encore. On boucle le kit avec de quoi dire qu'on ne comprend pas, demander si elle parle français, et un dernier mot tout neuf, caché dans le dialogue.
 

@@ -1,6 +1,6 @@
 # Série Bardejov (4/5) — Lavička zblíženia
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (le banc bleu et rouge « lavička zblíženia » dans le parc de Bardejov) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bardejov10Slovakia6.JPG | Dans la vieille ville de Bardejov — crédit à compléter, Wikimedia Commons
 
 {{fr:Dans le parc, un banc étrange, plus bas au milieu. Si on s'assoit chacun à un bout, on finit côte à côte. Et sur ce banc, impossible de vouvoyer.}}
 

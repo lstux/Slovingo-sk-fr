@@ -1,6 +1,6 @@
 # Série Košice (2/5) — Hlavná ulica
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (la cathédrale Sainte-Élisabeth de Košice et la tour d'Urban) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/St_Elisabeth_Cathedral_Kosice.jpeg | La cathédrale Sainte-Élisabeth de Košice — crédit à compléter, Wikimedia Commons
 
 {{fr:Košice, sa grande rue, sa cathédrale immense, une vieille tour, et une fontaine qui chante. Tout est comme dans un conte, dit Lola.}}
 

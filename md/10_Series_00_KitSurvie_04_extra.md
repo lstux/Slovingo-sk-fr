@@ -1,6 +1,6 @@
 # Kit de Survie (extra) — Všetko dokopy
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (récapitulatif, phrasebook...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Michael's_Gate_and_tower_(10267681486).jpg | La porte Saint-Michel, à Bratislava — Jorge Láscar, CC BY 2.0, Wikimedia Commons
 
 Aucun mot nouveau ici. Tout le vocabulaire du Kit de Survie est rassemblé, puis recombiné dans des phrases inédites. Tu es prêt à attaquer les séries.
 

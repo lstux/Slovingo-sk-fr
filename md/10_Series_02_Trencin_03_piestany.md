@@ -1,6 +1,6 @@
 # Série Trenčín (3/5) — Piešťany
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (le Kolonádový most et la statue du Barlolámač, Piešťany) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Most_kolonadovy.JPG | Le Kolonádový most de Piešťany — crédit à compléter, Wikimedia Commons
 
 {{fr:Pause à Piešťany, la ville thermale. Sur le pont, un monsieur casse sa béquille. Et Lola découvre la boue.}}
 

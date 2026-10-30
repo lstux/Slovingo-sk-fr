@@ -1,6 +1,6 @@
 # Série Bratislava (5/5) — Večer v pivnici
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (une cave à vin des Petites Carpates, des tonneaux) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Modra_(Modern,_Modor)_-_Horn%C3%A1_br%C3%A1na.JPG | Modra, petite ville du vin des Petites Carpates : la porte haute — Pudelek (Marcin Szala), CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Le soir, Andrea vous emmène dans une cave à vin, au pied des Petites Carpates. Du vin pour les grands, du jus de raisin pour les petits. Et un toast un peu spécial.}}
 

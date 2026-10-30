@@ -1,6 +1,6 @@
 # Liptov (extra) — Zajtra hory
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (les Tatras vues depuis Liptovský Mikuláš, le soir) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Liptovska_Mara_od_pol._Ratkovie.jpg | Le lac de Liptovská Mara, les montagnes derrière — crédit à compléter, Wikimedia Commons
 
 {{fr:Le soir, depuis la fenêtre, on voit les Tatras. Demain, on y va. Et on dormira sous la tente. Normalement.}}
 

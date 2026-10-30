@@ -1,6 +1,6 @@
 # Štiavnica (extra) — Večera v chate
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (une petite chata en bois au bord de l'eau, le soir) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bansk%C3%A1_%C5%A0tiavnica_-_tajch_Rozgrund.JPG | Le tajch Rozgrund, près de Banská Štiavnica — crédit à compléter, Wikimedia Commons
 
 {{fr:La nuit tombe sur la petite chata en bois. Les enfants ont faim. Et tu as oublié quelque chose.}}
 

@@ -1,6 +1,6 @@
 # Série Bojnice (2/5) — Zámok
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (le château de Bojnice et ses toits pointus) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bojnice_(Bojnitz)_Castle_(by_Pudelek).jpg | Le château de Bojnice et ses toits pointus — Pudelek (Marcin Szala), CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Le château de Bojnice ressemble à un château de conte. Et pour les enfants venus de France, il a un petit air familier.}}
 

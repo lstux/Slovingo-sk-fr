@@ -1,6 +1,6 @@
 # Série Bratislava (3/5) — Staré mesto
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (la statue de Čumil, ou l'église bleue) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Church_of_St._Elizabeth_nicknamed_The_Blue_Church_(10267484804).jpg | L'église Sainte-Élisabeth, l'« église bleue » — Jorge Láscar, CC BY 2.0, Wikimedia Commons
 
 {{fr:Balade dans la vieille ville : un drôle de monsieur qui sort d'une bouche d'égout, puis une église toute bleue.}}
 

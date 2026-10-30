@@ -1,6 +1,6 @@
 # Série Prešov (3/5) — Pirohy
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (une assiette de pirohy slovaques) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bryndzov%C3%A9_pirohy.JPG | Des pirohy à la bryndza — crédit à compléter, Wikimedia Commons
 
 {{fr:Le déjeuner chez babka. Des pirohy, encore des pirohy, toujours des pirohy. Et chez elle, on ne refuse pas.}}
 

@@ -1,6 +1,6 @@
 # Kit de Survie (1/4) — Salutations
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (salutations, poignée de main...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%AD%C5%A1ka_hrdzav%C3%A1_Vulpes_vulpes,_NPR_Dolina_Bielej_vody_733.jpg | Un renard roux des Tatras : c'est toi — crédit à compléter, Wikimedia Commons
 
 Pour commencer, seulement quatre mots : {{dobrý deň}} (bonjour), {{ako sa máš}} (comment ça va), {{ahoj}} et {{čau}} (salut, au revoir). La réponse à {{ako sa máš}} arrive dans la fiche suivante — patience.
 

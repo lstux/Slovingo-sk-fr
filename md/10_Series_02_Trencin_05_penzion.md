@@ -1,6 +1,6 @@
 # Série Trenčín (5/5) — Penzión
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (une petite pension, une chambre simple avec trois lits) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Tren%C4%8D%C3%ADn_Castle_34.jpg | Trenčín, au pied du château : la pension n'est pas loin — Scotch Mist, CC BY-SA 4.0, Wikimedia Commons
 
 {{fr:Première nuit sur la route : un petit penzión à Trenčín. Deux chambres, trois lits, et deux enfants qui veulent le même.}}
 

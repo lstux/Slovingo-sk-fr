@@ -1,6 +1,6 @@
 # Série Bojnice (5/5) — Kremnica
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (l'Hôtel des Monnaies de Kremnica, des pièces) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Kremnica,_mincov%C5%88a.jpg | L'Hôtel des Monnaies de Kremnica — crédit à compléter, Wikimedia Commons
 
 {{fr:L'après-midi, Kremnica, une petite ville dans les montagnes. Ici, on fabrique des pièces depuis presque sept cents ans, et les enfants comptent leur argent de poche.}}
 

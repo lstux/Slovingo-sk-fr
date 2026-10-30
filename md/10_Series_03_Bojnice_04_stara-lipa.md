@@ -1,6 +1,6 @@
 # Série Bojnice (4/5) — Stará lipa
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (le tilleul du roi Matthias à Bojnice) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Lipa_krala_Mateja_-_Bojnice.jpg | Le tilleul du roi Matthias, à Bojnice — Martin Hlauka (Pescan), licence à vérifier sur la page Commons, Wikimedia Commons
 
 {{fr:Près du château, un arbre gigantesque. Il a plus de sept cents ans, et il est lié à un personnage que les enfants connaissent déjà.}}
 

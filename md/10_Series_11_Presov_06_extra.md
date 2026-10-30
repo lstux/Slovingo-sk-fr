@@ -1,6 +1,6 @@
 # Prešov (extra) — Medveď v obývačke
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (un vieil album photo de famille ouvert, un salon) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Presov-Cathedral_of_St_John_the_Baptist-at_night.jpg | Prešov la nuit : la cathédrale Saint-Jean-Baptiste — crédit à compléter, Wikimedia Commons
 
 {{fr:Le soir, Marta sort le vieil album de famille. Andrea toute petite, Andrea à l'école… Puis la nuit tombe, et babka entend un drôle de bruit.}}
 

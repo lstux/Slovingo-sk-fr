@@ -1,6 +1,6 @@
 # Raj (extra) — Dôkaz
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (un téléphone posé sur une table de nuit, la nuit) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Hrabu%C5%A1ice,_Podlesok,_Horn%C3%A1d.JPG | Le Hornád à Podlesok, le soir venu — crédit à compléter, Wikimedia Commons
 
 {{fr:Troisième nuit en penzión. Quelqu'un ronfle. Cette fois, Lola a un plan : enregistrer.}}
 

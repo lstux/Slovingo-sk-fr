@@ -1,6 +1,6 @@
 # Série Bardejov (2/5) — Námestie
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (la place de Bardejov, ses maisons et l'hôtel de ville au milieu) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bardejov_namesti_3773.JPG | La place de Bardejov et l'hôtel de ville — crédit à compléter, Wikimedia Commons
 
 {{fr:Bardejov, une grande place entourée de maisons colorées, avec au milieu un hôtel de ville très ancien. Et derrière les remparts, un quartier chargé d'histoire.}}
 

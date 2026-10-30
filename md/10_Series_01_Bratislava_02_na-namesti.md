@@ -1,6 +1,6 @@
 # Série Bratislava (2/5) — Na Hlavnom námestí
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (Hlavné námestie de Bratislava et sa fontaine) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Hlavn%C3%A9_n%C3%A1mestie-The_napoleonic_soldier,_Old_Town_Hall_and_Roland_Fountain-Bratislava.JPG | Hlavné námestie : l'ancien hôtel de ville et la fontaine de Roland — Jorge Láscar, CC BY 2.0, Wikimedia Commons
 
 {{fr:Sur la grande place, Andrea vous attend près de la fontaine. Les présentations commencent… et tu te trompes déjà de politesse.}}
 

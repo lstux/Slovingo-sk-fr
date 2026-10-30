@@ -1,6 +1,6 @@
 # Série Bojnice (3/5) — V zoo
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (un ours brun, ou un renard, au zoo de Bojnice) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bear_(28392685756).jpg | Un ours brun (photo prise hors de Bojnice) — Susanne Nilsson, CC BY-SA 2.0, Wikimedia Commons
 
 {{fr:Au zoo de Bojnice, les enfants voient des ours, des singes… et un renard. Tu jures que ce n'est pas de la famille.}}
 

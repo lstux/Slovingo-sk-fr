@@ -1,6 +1,6 @@
 # Série Štiavnica (5/5) — Tajch
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (le lac Počúvadlo entouré de forêt) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8D%C3%BAvadlianske_jazero_01.jpg | Le lac Počúvadlo, un ancien réservoir des mines (tajch) — crédit à compléter, Wikimedia Commons
 
 {{fr:Fin d'après-midi, au bord d'un étang dans la forêt. Andrea connaît l'endroit par cœur. L'eau est très, très froide.}}
 

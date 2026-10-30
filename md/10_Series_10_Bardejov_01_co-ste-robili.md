@@ -1,6 +1,6 @@
 # Série Bardejov (1/5) — Čo ste robili?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (une route de campagne du nord-est de la Slovaquie) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bardejov_banner.jpg | En arrivant à Bardejov — crédit à compléter, Wikimedia Commons
 
 %~ Deň 10 : zo Spiša do Bardejova
 % 48.9990, 20.7530 | {{Spišské Podhradie}}

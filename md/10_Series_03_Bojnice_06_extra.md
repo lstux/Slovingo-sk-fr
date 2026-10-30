@@ -1,6 +1,6 @@
 # Bojnice (extra) — U pána domáceho
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (une maison de village avec un jardin, près de Kremnica) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Kremnicke_vrchy_from_Kremnica.jpg | Les collines autour de Kremnica — crédit à compléter, Wikimedia Commons
 
 {{fr:Le soir, vous dormez chez l'habitant, dans un petit village. Le patron a fait un gâteau. Et quelqu'un se lève très tôt.}}
 

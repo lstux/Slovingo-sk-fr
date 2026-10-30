@@ -1,6 +1,6 @@
 # Kit de Survie (2/4) — Politesse basique
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une image (politesse, savoir-vivre...) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/European_hare_(Lepus_europaeus)_Marken_2.jpg | Une hase : Andrea, très polie — crédit à compléter, Wikimedia Commons
 
 La fiche précédente t'a laissé en plan avec {{ako sa máš}} sans réponse. La voici, plus les mots magiques qui t'ouvrent les portes : {{ďakujem}} (merci), {{prosím}} (s'il te plaît), {{prepáčte}} (pardon).
 

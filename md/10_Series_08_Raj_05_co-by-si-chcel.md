@@ -1,6 +1,6 @@
 # Série Raj (5/5) — Čo by si chcel?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (le jardin d'une pension le soir, une table avec du thé) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Hrabu%C5%A1ice,_obec_a_Vysok%C3%A9_Tatry.JPG | Hrabušice, porte du Slovenský raj, et les Tatras au loin — crédit à compléter, Wikimedia Commons
 
 {{fr:Le soir, dans le jardin du penzión, chacun dit ce qu'il voudrait faire demain. Andrea, elle, pense à autre chose.}}
 

@@ -1,6 +1,6 @@
 # Série Orava (3/5) — Hrad na skale
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (le château d'Orava sur son rocher au-dessus de la rivière) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Oravsk%C3%BD_hrad_-_Oravsk%C3%BD_Podz%C3%A1mok.jpg | Le château d'Orava sur son rocher — crédit à compléter, Wikimedia Commons
 
 {{fr:Le château d'Orava semble sortir du rocher. On y a tourné un très vieux film de vampire. Lola n'est pas rassurée.}}
 

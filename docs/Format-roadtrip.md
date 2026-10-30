@@ -223,14 +223,17 @@ Comme Friends :
 ## 12. Photos
 
 ```
-@ img/nom.jpg | Légende : sujet. Source : Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/<Fichier>.jpg | <sujet> — <auteur>, <licence>, Wikimedia Commons
 ```
 
-- **Photos réelles** des lieux du voyage (paysages, monuments, rues), une par fiche, choisies une à une sur Wikimedia Commons, avec auteur et licence dans `img/credits.md`. ~600-800 px de large.
-- Tant que la photo n'est pas choisie : `@ TODO_img/choisir-image.jpg | TODO : choisir une photo (…)`.
-- Les photos de l'ancien cours restées dans `img/` (Tatras, Štrbské pleso, Lomnický štít, halušky, Kofola, trams de Košice…) peuvent être réutilisées.
+- **Photos réelles** des lieux du voyage (paysages, monuments, rues), une par fiche, sur Wikimedia Commons. Chaque photo a sa ligne dans `img/credits.md` (fiche, fichier, auteur, licence).
+- Quand une photo ne montre pas exactement le lieu de la scène, la légende le dit (« photo prise hors de Bojnice »…).
+- Tant que l'auteur n'est pas relevé, la légende finit par « crédit à compléter, Wikimedia Commons » et la ligne de `img/credits.md` porte « à compléter ».
+- Mise en place, depuis la racine du cours, dans cet ordre :
+  1. `python3 tools/fill_credits.py` : relève auteur et licence sur Commons, complète `img/credits.md` et les légendes, signale les fichiers introuvables ;
+  2. `python3 ../Slovingo/src/fetch_images.py --lang-dir . --resize 800 --execute` : télécharge les photos dans `img/` et rend les chemins locaux.
+- Les deux scripts vont **lentement** (pauses entre les requêtes) pour éviter les erreurs 429.
 - Pas d'illustrations de personnages pour l'instant.
-- Le téléchargement depuis Commons se fait **lentement** (une requête à la fois, avec des pauses) pour éviter les erreurs 429.
 
 ## 13. Coin slovaque
 

@@ -1,6 +1,6 @@
 # Série Liptov (2/5) — Kade mám ísť?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (le clocher en bois de Vlkolínec) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovakia_Vlkolinec_30.JPG | Au cœur du village de Vlkolínec — crédit à compléter, Wikimedia Commons
 
 {{fr:Au milieu du village, un vieux clocher en bois. Hugo veut voir le puits. Tu demandes ton chemin, en slovaque, tout seul.}}
 

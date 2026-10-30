@@ -1,6 +1,6 @@
 # Série Prešov (5/5) — Soľ
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (les bâtiments en bois de Solivar, à Prešov) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Sklad_soli,_Solivar,_Pre%C5%A1ov.jpg | L'entrepôt de sel de Solivar, à Prešov — crédit à compléter, Wikimedia Commons
 
 {{fr:À la sortie de la ville, de vieux bâtiments en bois. Autrefois, on y fabriquait du sel. Avec l'aide de chevaux.}}
 

@@ -1,6 +1,6 @@
 # Série Raj (2/5) — Rebríky
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (des échelles métalliques le long d'une cascade dans le Slovenský raj) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Misov%C3%A9_vodop%C3%A1dy,_Such%C3%A1_Bel%C3%A1,_Slovensk%C3%BD_r%C3%A1j,_2012,_02.JPG | Les cascades Misové vodopády et leurs échelles, à Suchá Belá — crédit à compléter, Wikimedia Commons
 
 {{fr:Les échelles, les chaînes, l'eau partout. Tu passes devant, « pour la sécurité ». Très, très lentement.}}
 

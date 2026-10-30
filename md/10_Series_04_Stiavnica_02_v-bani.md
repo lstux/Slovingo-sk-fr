@@ -1,6 +1,6 @@
 # Série Štiavnica (2/5) — V bani
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (une galerie de mine à Banská Štiavnica, des casques) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bansk%C3%A9_m%C3%BAzeum_v_pr%C3%ADrode_-_skanzen_Bansk%C3%A1_%C5%A0tiavnica_3_-_panoramio.jpg | Le musée de la mine en plein air de Banská Štiavnica — crédit à compléter, Wikimedia Commons
 
 {{fr:Visite d'une vieille mine. On met un casque, on allume sa lampe, et on entre dans le froid et le noir.}}
 

@@ -1,6 +1,6 @@
 # Série Prešov (4/5) — Andrein Prešov
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (la Hlavná ulica de Prešov et sa grande église) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Hlavn%C3%A1_ulica._Pre%C5%A1ov_20_Slovakia.jpg | La Hlavná ulica de Prešov — crédit à compléter, Wikimedia Commons
 
 {{fr:L'après-midi, Andrea vous fait visiter son Prešov à elle : son école, sa fontaine, ses dimanches. Et sa maman corrige les souvenirs.}}
 

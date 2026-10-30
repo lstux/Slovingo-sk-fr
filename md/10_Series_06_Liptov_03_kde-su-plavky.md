@@ -1,6 +1,6 @@
 # Série Liptov (3/5) — Kde sú plavky?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (le parking d'un aquaparc, un coffre de voiture ouvert) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Tatralandia_Aquapark_-_panoramio.jpg | L'aquaparc Tatralandia, vu de l'extérieur — crédit à compléter, Wikimedia Commons
 
 {{fr:L'après-midi, devant le grand aquaparc du Liptov. Les enfants veulent nager. Il ne manque qu'une chose.}}
 

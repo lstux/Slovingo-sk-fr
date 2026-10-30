@@ -1,6 +1,6 @@
 # Série Spiš (5/5) — Čo sme robili?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (une table de cuisine slovaque, une soupe, le soir) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovakia_region_Spis_33.jpg | La campagne du Spiš — crédit à compléter, Wikimedia Commons
 
 {{fr:Le soir, chez l'habitant à Spišské Podhradie. Le patron demande ce que vous avez fait aujourd'hui. Les enfants racontent au passé. Et tu te trompes de genre.}}
 

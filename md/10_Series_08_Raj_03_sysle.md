@@ -1,6 +1,6 @@
 # Série Raj (3/5) — Sysle
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (un spermophile, syseľ, dans une prairie) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/European_ground_squirrel_-_Siesel_-_Spermophilus_citellus.jpg | Un spermophile, syseľ (photo prise hors du Slovenský raj) — crédit à compléter, Wikimedia Commons
 
 {{fr:L'après-midi, une prairie pleine de petits trous. Dans chaque trou, une petite tête. Lola ne bouge plus.}}
 

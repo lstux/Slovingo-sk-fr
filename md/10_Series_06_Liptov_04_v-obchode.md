@@ -1,6 +1,6 @@
 # Série Liptov (4/5) — V obchode
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (des maillots de bain colorés dans une boutique) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Liptovsk%C3%BD_Mikul%C3%A1%C5%A1_-_N%C3%A1mestie_oslobodite%C4%BEov_-_panoramio.jpg | Liptovský Mikuláš, la place principale — crédit à compléter, Wikimedia Commons
 
 {{fr:Au magasin de Liptovský Mikuláš, il faut trois maillots de bain. Lola sait exactement ce qu'elle veut. Toi, tu prends ce qui reste.}}
 

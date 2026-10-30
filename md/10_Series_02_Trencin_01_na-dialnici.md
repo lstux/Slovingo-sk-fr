@@ -1,6 +1,6 @@
 # Série Trenčín (1/5) — Na diaľnici
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (l'autoroute D1 le long du Váh, les collines) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Dia%C4%BEnica_D1_behind_junction_Senec.JPG | L'autoroute D1, direction le nord-est — crédit à compléter, Wikimedia Commons
 
 %~ Deň 2 : z Bratislavy do Trenčína
 % 48.1439, 17.1097 | {{Bratislava}}

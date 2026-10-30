@@ -1,6 +1,6 @@
 # Série Spiš (2/5) — Oltár
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (le grand autel de Maître Paul dans la basilique Saint-Jacques de Levoča) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/St._James,_Levo%C4%8Da,_Main_altar,_2017_v2.jpg | Le grand autel de Maître Paul, basilique Saint-Jacques de Levoča — crédit à compléter, Wikimedia Commons
 
 {{fr:Dans la basilique Saint-Jacques, un autel en bois immense. Le plus haut de ce genre au monde. Il a fallu dix ans pour le faire.}}
 

@@ -1,6 +1,6 @@
 # Série Tatry (3/5) — Hrebienok
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (le funiculaire de Hrebienok, ou les cascades du Studený potok) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Vodopad_studeny_potok1.JPG | Une cascade du Studený potok, sous Hrebienok — crédit à compléter, Wikimedia Commons
 
 {{fr:Un petit train qui grimpe tout droit dans la pente, puis un sentier dans la forêt jusqu'aux cascades. L'eau est glacée.}}
 

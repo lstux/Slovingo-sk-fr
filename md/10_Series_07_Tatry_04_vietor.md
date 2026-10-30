@@ -1,6 +1,6 @@
 # Série Tatry (4/5) — Vietor
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (Skalnaté pleso et la remontée vers Lomnický štít, ou une marmotte des Tatras) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Kabinka_Skalnate_pleso-Lomnicky_stit.jpg | La cabine entre Skalnaté pleso et le Lomnický štít — crédit à compléter, Wikimedia Commons
 
 {{fr:L'après-midi, on monte vers Lomnický štít, un sommet avec un café tout en haut. Mais la montagne a son mot à dire.}}
 

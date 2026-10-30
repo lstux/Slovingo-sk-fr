@@ -1,6 +1,6 @@
 # Série Liptov (5/5) — Tatralandia
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (les piscines et toboggans de Tatralandia, les montagnes derrière) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Aquapark_Tatralandia_(16).jpg | Les piscines et toboggans de Tatralandia — crédit à compléter, Wikimedia Commons
 
 {{fr:Enfin, l'eau chaude ! Des piscines, des toboggans, et un oncle prudent qui découvre qu'il aime la vitesse.}}
 

@@ -1,6 +1,6 @@
 # Košice (extra) — Cieľ: Lyon
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (la gare de Košice, ou une voiture sur la route au départ) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Ko%C5%A1ice_Railway_Station.jpg | La gare de Košice — crédit à compléter, Wikimedia Commons
 
 {{fr:Le matin du départ. Andrea rentre à Prešov en train. Vous, vous repartez vers la France. Il reste une dernière question.}}
 

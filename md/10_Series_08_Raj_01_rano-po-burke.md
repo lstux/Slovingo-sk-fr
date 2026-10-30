@@ -1,6 +1,6 @@
 # Série Raj (1/5) — Ráno po búrke
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (l'entrée des gorges de Suchá Belá, des panneaux de balisage) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Such%C3%A1_Bel%C3%A1,_Slovensk%C3%BD_r%C3%A1j,_2012,_004.JPG | Dans les gorges de Suchá Belá — crédit à compléter, Wikimedia Commons
 
 %~ Deň 8 : Slovenský raj
 % 49.1650, 20.2800 | {{Tatranská Lomnica}}

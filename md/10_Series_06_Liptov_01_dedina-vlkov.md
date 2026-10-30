@@ -1,6 +1,6 @@
 # Série Liptov (1/5) — Dedina vlkov?
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (les maisons en rondins de Vlkolínec) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Vlkolinec_Dom_9012.JPG | Une maison en rondins de Vlkolínec — crédit à compléter, Wikimedia Commons
 
 %~ Deň 6 : z Oravy do Liptova
 % 49.3364, 19.5592 | {{Tvrdošín}}

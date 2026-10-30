@@ -1,6 +1,6 @@
 # Spiš (extra) — Hrad v noci
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (la silhouette du château de Spiš sous un ciel étoilé) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Spi%C5%A1sk%C3%BD_hrad,_okres_Spi%C5%A1sk%C3%A1_Nov%C3%A1_Ves_(28).JPG | Le château de Spiš — crédit à compléter, Wikimedia Commons
 
 {{fr:Tard le soir, les enfants dorment. Sur la terrasse, Andrea raconte un souvenir. Tu es fatigué, et ça se voit.}}
 

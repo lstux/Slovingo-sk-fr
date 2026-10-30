@@ -1,6 +1,6 @@
 # Série Orava (5/5) — Vlak o tretej
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (le petit train forestier d'Orava, Oravská lesná železnica) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Tane%C4%8Dn%C3%ADk_-_railway_carriage.JPG | Un wagon du petit train forestier d'Orava, à Tanečník — crédit à compléter, Wikimedia Commons
 
 {{fr:L'après-midi, un petit train forestier attend dans les bois. Il part à quinze heures. Il est presque quinze heures.}}
 

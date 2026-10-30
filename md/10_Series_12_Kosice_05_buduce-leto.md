@@ -1,6 +1,6 @@
 # Série Košice (5/5) — Budúce leto
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (une terrasse le soir à Košice, ou les forêts de hêtres des Poloniny) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Stu%C5%BEica_primeval_forest,_Slovakia.jpg | La forêt primaire de Stužica, dans les Poloniny — crédit à compléter, Wikimedia Commons
 
 {{fr:Le dernier soir, sur la terrasse. Claire appelle. Et on parle déjà de l'été prochain.}}
 

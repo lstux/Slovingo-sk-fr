@@ -1,6 +1,6 @@
 # Orava (extra) — Kto chrápe? Znova
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (une chambre de pension dans l'Orava, la nuit) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Mesto_Tvrdo%C5%A1%C3%ADn.jpg | Tvrdošín, où l'on dort ce soir-là — crédit à compléter, Wikimedia Commons
 
 {{fr:Ce soir, une seule grande chambre pour tout le monde. Et quelqu'un ronfle à nouveau. Tout le monde a son suspect.}}
 

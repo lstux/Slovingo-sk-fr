@@ -1,6 +1,6 @@
 # Série Orava (4/5) — Drak v kostole
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (l'église en bois de Tous-les-Saints de Tvrdošín) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Wooden_Church,_Tvrdo%C5%A1%C3%ADn.jpg | L'église en bois de Tous-les-Saints, à Tvrdošín — crédit à compléter, Wikimedia Commons
 
 {{fr:À Tvrdošín, une petite église en bois de plus de cinq cents ans. À l'intérieur, un ciel plein d'étoiles, et enfin, un dragon.}}
 

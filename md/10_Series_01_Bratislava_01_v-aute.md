@@ -1,6 +1,6 @@
 # Série Bratislava (1/5) — V aute
 
-@ TODO_img/choisir-image.jpg | TODO : choisir une photo (l'arrivée à Bratislava en voiture, le château au loin) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bratislava_Danube_R01.jpg | Le Danube à Bratislava, le château au fond — Marc Ryckaert (MJJR), CC BY, Wikimedia Commons
 
 %~ Deň 1 : Bratislava
 % 48.1436, 17.1090 | {{Hlavné námestie}}
