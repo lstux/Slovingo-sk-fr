@@ -41,6 +41,7 @@
     "liptov": "Vlkolínec a Liptov",
     "tatry": "Vysoké Tatry",
     "raj": "Slovenský raj",
+    "spis": "Spiš",
     "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
   },
   "ui": {
@@ -240,6 +241,7 @@
     "liptov": "shopping",
     "tatry": "mountains",
     "raj": "mountains",
+    "spis": "city",
     "kronika_emigracia": "games",
     "kronika_neznerevolucia": "games",
     "kronika_pionieri": "games",
@@ -262,6 +264,7 @@
       "liptov": "🌊",
       "tatry": "⛰️",
       "raj": "🪜",
+      "spis": "⛪",
       "dedina": "🏘️",
       "zvierata": "🦌",
       "hry": "🎲"
