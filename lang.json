@@ -43,6 +43,7 @@
     "raj": "Slovenský raj",
     "spis": "Spiš",
     "bardejov": "Bardejov",
+    "presov": "Prešov",
     "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
   },
   "ui": {
@@ -244,6 +245,7 @@
     "raj": "mountains",
     "spis": "city",
     "bardejov": "city",
+    "presov": "family",
     "kronika_emigracia": "games",
     "kronika_neznerevolucia": "games",
     "kronika_pionieri": "games",
@@ -268,6 +270,7 @@
       "raj": "🪜",
       "spis": "⛪",
       "bardejov": "🛁",
+      "presov": "🥟",
       "dedina": "🏘️",
       "zvierata": "🦌",
       "hry": "🎲"
