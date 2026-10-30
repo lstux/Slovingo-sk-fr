@@ -44,6 +44,7 @@
     "spis": "Spiš",
     "bardejov": "Bardejov",
     "presov": "Prešov",
+    "kosice": "Košice",
     "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
   },
   "ui": {
@@ -246,6 +247,7 @@
     "spis": "city",
     "bardejov": "city",
     "presov": "family",
+    "kosice": "city",
     "kronika_emigracia": "games",
     "kronika_neznerevolucia": "games",
     "kronika_pionieri": "games",
@@ -271,6 +273,7 @@
       "spis": "⛪",
       "bardejov": "🛁",
       "presov": "🥟",
+      "kosice": "⛲",
       "dedina": "🏘️",
       "zvierata": "🦌",
       "hry": "🎲"

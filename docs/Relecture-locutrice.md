@@ -4,7 +4,7 @@ Liste courte des points à confirmer, **par ordre de priorité**. Le dialecte d'
 
 ## 1. Le šariš de babka Zuzana (chapitre 11, Prešov)
 
-Toutes ces répliques sont dans `docs/Histoire.md`, **Kapitola 11**. Babka parle le dialecte de Prešov ; Andrea traduit en slovaque standard. Questions : est-ce que ça sonne juste ? Qu'est-ce qu'une grand-mère de Prešov dirait vraiment ?
+Toutes ces répliques sont dans `docs/Histoire.md`, **Kapitola 11**, et dans les fiches du chapitre 11 : `md/10_Series_11_Presov_02_babka-hovori-po-sarissky.md` (scène 2, avec un tableau šariš / standard dans « Aujourd'hui on apprend »), `md/10_Series_11_Presov_03_pirohy.md` (scène 3) et `md/10_Series_11_Presov_06_extra.md` (scène 6). Une correction devra être reportée aux deux endroits. Babka parle le dialecte de Prešov ; Andrea traduit en slovaque standard. Questions : est-ce que ça sonne juste ? Qu'est-ce qu'une grand-mère de Prešov dirait vraiment ?
 
 | Scène | Réplique de babka (brouillon) | Ce qu'on veut dire (standard) | Français |
 |---|---|---|---|
@@ -45,3 +45,12 @@ Andrea explique aussi (scène 2) : *Na východe je prízvuk na predposlednej sla
 - Le jeu de mots *Čumil / čumieť* (la statue de Bratislava qui « regarde bouche bée ») : ça marche pour un Slovaque ?
 - Les *pirohy* aux pommes de terre et à la bryndza : typiques de Prešov et du Šariš ?
 - Kofola dans un dialogue : normal de la nommer ?
+
+## 5. Faits ajoutés dans les fiches, non revérifiés en ligne
+
+- Le tilleul, symbole des peuples slaves (chapitre 3) ; le Kofola « né en Tchécoslovaquie » (chapitre 4) ; le Calvaire de Banská Štiavnica, ensemble baroque du XVIIIe siècle (chapitre 4).
+- « Les plus petites hautes montagnes du monde » pour les Tatras (chapitre 6) ; le nom *svišť vrchovský tatranský* (chapitre 7) ; le camping sauvage interdit dans le parc national des Tatras (chapitre 7).
+- Le balisage : une bande de couleur entre deux bandes blanches ; les gorges à échelles du Slovenský raj à sens unique (chapitre 8).
+- Les expressions *spať ako zabitý*, *spať ako bábätko* (chapitre 8) et *variť pre celý pluk* (chapitre 10).
+- Prešov, troisième ville de Slovaquie, place en fuseau, co-cathédrale Saint-Nicolas et fontaine sur la Hlavná ulica (chapitre 11) ; les dialectes de l'est (Spiš, Šariš, Abov, Zemplín) (chapitre 11).
+- Košice, Capitale européenne de la culture 2013 ; les mines d'opale de Dubník (chapitre 12).
