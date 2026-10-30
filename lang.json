@@ -39,6 +39,7 @@
     "stiavnica": "Banská Štiavnica",
     "orava": "Orava",
     "liptov": "Vlkolínec a Liptov",
+    "tatry": "Vysoké Tatry",
     "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
   },
   "ui": {
@@ -236,6 +237,7 @@
     "stiavnica": "food",
     "orava": "time",
     "liptov": "shopping",
+    "tatry": "mountains",
     "kronika_emigracia": "games",
     "kronika_neznerevolucia": "games",
     "kronika_pionieri": "games",
@@ -256,6 +258,7 @@
       "stiavnica": "⛏️",
       "orava": "🚂",
       "liptov": "🌊",
+      "tatry": "⛰️",
       "dedina": "🏘️",
       "zvierata": "🦌",
       "hry": "🎲"
