@@ -40,6 +40,7 @@
     "orava": "Orava",
     "liptov": "Vlkolínec a Liptov",
     "tatry": "Vysoké Tatry",
+    "raj": "Slovenský raj",
     "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
   },
   "ui": {
@@ -238,6 +239,7 @@
     "orava": "time",
     "liptov": "shopping",
     "tatry": "mountains",
+    "raj": "mountains",
     "kronika_emigracia": "games",
     "kronika_neznerevolucia": "games",
     "kronika_pionieri": "games",
@@ -259,6 +261,7 @@
       "orava": "🚂",
       "liptov": "🌊",
       "tatry": "⛰️",
+      "raj": "🪜",
       "dedina": "🏘️",
       "zvierata": "🦌",
       "hry": "🎲"
