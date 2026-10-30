@@ -42,6 +42,7 @@
     "tatry": "Vysoké Tatry",
     "raj": "Slovenský raj",
     "spis": "Spiš",
+    "bardejov": "Bardejov",
     "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
   },
   "ui": {
@@ -242,6 +243,7 @@
     "tatry": "mountains",
     "raj": "mountains",
     "spis": "city",
+    "bardejov": "city",
     "kronika_emigracia": "games",
     "kronika_neznerevolucia": "games",
     "kronika_pionieri": "games",
@@ -265,6 +267,7 @@
       "tatry": "⛰️",
       "raj": "🪜",
       "spis": "⛪",
+      "bardejov": "🛁",
       "dedina": "🏘️",
       "zvierata": "🦌",
       "hry": "🎲"

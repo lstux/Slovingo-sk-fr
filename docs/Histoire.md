@@ -1911,9 +1911,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Lola a Hugo sa šmýkajú. Až do stredu. Lola padá na Huga.
 
-🦊🧢 Lola!
-
-🐇 Je to ako v aute! Vždy si na mne!
+🦊🧢 Lola! Je to ako v aute! Vždy si na mne!
 
 ## Scéna 5 — Kúpele a skanzen
 
