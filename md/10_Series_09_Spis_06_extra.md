@@ -104,7 +104,7 @@
 ! 🦊 Andrea... ďakujem, že ste s nami.
 > Andrea… merci d'être avec nous.
 > ďakujem, že ste s nami = merci que vous soyez avec nous
-+ Le vouvoiement revient : Gab est fatigué. À une amie : {{že si s nami}}.
++ Le vouvoiement revient : tu es fatigué. À une amie : {{že si s nami}}.
 
 ! 🐰 Ste?
 > « Vous » ?

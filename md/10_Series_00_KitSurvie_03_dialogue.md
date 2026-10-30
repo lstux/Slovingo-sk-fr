@@ -2,7 +2,7 @@
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Hviezdoslavovo_n%C3%A1mestie_(10266936594).jpg | Hviezdoslavovo námestie, à Bratislava : là où tout a commencé — Jorge Láscar, CC BY 2.0, Wikimedia Commons
 
-**Un souvenir.** Il y a des années, bien avant le grand voyage, tu croises Andrea pour la première fois. Vous vous vouvoyez : vous ne vous connaissez pas encore. On boucle le kit avec de quoi dire qu'on ne comprend pas, demander si elle parle français, et un dernier mot tout neuf, caché dans le dialogue.
+**Un souvenir.** Il y a des années, bien avant le grand voyage, tu croises Andrea pour la première fois. Vous vous vouvoyez : vous ne vous connaissez pas encore. On boucle le kit avec de quoi dire qu'on ne comprend pas, demander si elle parle français, se présenter, et un dernier mot tout neuf, caché dans le dialogue.
 
 ---
 
@@ -18,6 +18,9 @@
 | hovoríte | vous parlez |
 | po francúzsky | français (une langue) |
 | nemáte za čo | de rien (vouvoiement) |
+| ako sa voláte | comment vous appelez-vous |
+| volám sa | je m'appelle |
+| teší ma | enchanté(e) |
 
 ---
 
@@ -81,11 +84,31 @@ Andrea et toi, vous vous vouvoyez : c'est votre première rencontre. Des années
 > Merci !
 > Ďakujem = merci
 
-! 🐰 Nemáte za čo! Dovidenia!
-> De rien ! Au revoir !
+! 🐰 Nemáte za čo!
+> De rien !
 > Nemáte za čo = de rien (littéralement « vous n'avez pas de quoi »)
-> Dovidenia = au revoir
 + Entre amis, ce sera {{Nemáš za čo}}. Un simple {{Prosím}} marche aussi dans les deux cas.
+
+! 🦊 Ako sa voláte?
+> Comment vous appelez-vous ?
+> Ako = comment
+> sa voláte = vous vous appelez
++ Vouvoiement. Au tutoiement : {{Ako sa voláš?}}
+
+! 🐰 Volám sa Andrea. A vy?
+> Je m'appelle Andrea. Et vous ?
+> Volám sa = je m'appelle
+> A vy = et vous
+
+! 🦊 Volám sa [USER_NAME].
+> Je m'appelle [USER_NAME].
+> Volám sa = je m'appelle
+
+! 🐰 Teší ma, [USER_NAME]! Dovidenia!
+> Enchantée, [USER_NAME] ! Au revoir !
+> Teší ma = enchantée (littéralement « ça me réjouit »)
+> Dovidenia = au revoir
++ {{Teší ma}} : la formule de toute première rencontre, valable au tutoiement comme au vouvoiement.
 
 ! 🦊 Dovidenia!
 > Au revoir !
@@ -106,8 +129,6 @@ Andrea et toi, vous vous vouvoyez : c'est votre première rencontre. Des années
 | Slovaque | Français |
 |----------|----------|
 | pekne | joliment, bien |
-| volať sa | s'appeler |
-| teší ma | enchanté(e) |
 | po anglicky | anglais (une langue) |
 
 ---
@@ -119,17 +140,6 @@ Andrea et toi, vous vous vouvoyez : c'est votre première rencontre. Des années
 > Ďakujem = merci
 > pekne = joliment
 + Littéralement « je remercie joliment ». On peut renforcer : {{Ďakujem veľmi pekne}}.
-
-! Ako sa voláte?
-> Comment vous appelez-vous ?
-> Ako = comment
-> sa voláte = vous vous appelez
-+ Vouvoiement. Au tutoiement : {{Ako sa voláš?}}
-
-! Teší ma.
-> Enchanté(e).
-> Teší ma = ça me réjouit
-+ La formule de toute première rencontre, valable au tutoiement comme au vouvoiement.
 
 ! Prepáčte, hovoríte po anglicky?
 > Pardon, vous parlez anglais ?

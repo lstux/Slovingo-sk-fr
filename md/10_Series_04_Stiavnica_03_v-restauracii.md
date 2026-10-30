@@ -64,7 +64,7 @@
 > Dám si = je vais prendre
 > bryndzové halušky = des halušky à la bryndza
 > jeden pivo = (faux !) une bière
-+ Erreur de Gab : {{pivo}} est neutre, on dit {{jedno pivo}}.
++ Ton erreur : {{pivo}} est neutre, on dit {{jedno pivo}}.
 
 ! 🦊🧢 Ujo! Jedno pivo!
 > Tonton ! « Jedno » pivo !

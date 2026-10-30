@@ -59,7 +59,8 @@ Le moteur associe **un nom par emoji** pour tout le cours, et les voix se règle
 
 **Prénom** :
 - `[ASK_USER_NAME]` reste dans l'introduction (`00_Introduction_04_qui-es-tu`). Ensuite, `[USER_NAME]` dans les répliques et la narration.
-- Le nom par défaut (`site.user_name_default` dans `lang.json`) passera de *Eric* à *Gab* au moment de la fusion, avec l'adaptation du kit de survie et des deux annexes où « Eric » est écrit en dur.
+- Le nom par défaut (`site.user_name_default` dans `lang.json`) est *Gab*. Le prénom n'est jamais écrit en dur, ni dans les remarques ni dans les annexes : toujours `[USER_NAME]`, ou la 2e personne (« ton erreur »). Pas de `[USER_NAME]` dans une voix `{{…}}`.
+- Dans le kit (fiche 03), toi et Andrea vous présentez au vouvoiement : *Volám sa [USER_NAME].*
 - Un prénom saisi **ne se décline pas** : on l'emploie comme sujet ou pour appeler (*Ahoj, [USER_NAME]!*), jamais à l'accusatif ni au datif.
 - Le marqueur va **après** le `!` : `! 🐰 Ahoj!`.
 

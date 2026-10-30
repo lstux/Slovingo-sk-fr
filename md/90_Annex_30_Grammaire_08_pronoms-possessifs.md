@@ -22,10 +22,10 @@ En slovaque, le verbe indique déjà qui fait l'action (comme en italien ou en e
 
 ## Exemples
 
-! Ja som Gab.
-> Moi, je suis Gab.
+! Ja som [USER_NAME].
+> Moi, je suis [USER_NAME].
 > Ja = moi
-> som Gab = je suis Gab
+> som [USER_NAME] = je suis [USER_NAME]
 + Le pronom sujet est facultatif ici, car "som" indique déjà "je suis". On l'ajoute surtout pour insister ("moi, je...").
 
 ! Kde bývaš ty?
