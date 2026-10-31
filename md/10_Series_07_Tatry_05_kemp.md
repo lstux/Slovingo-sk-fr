@@ -1,6 +1,6 @@
 # Série Tatry (5/5) — Kemp
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovakia_High_Tatras_Tatranska_Lomnica_0476.jpg | Tatranská Lomnica, au pied des Tatras — crédit à compléter, Wikimedia Commons
+@ img/illus_07.jpg | Une tente bien montée. Ou presque. · illustration Gemini
 
 {{fr:Le soir, au camping. Tu as promis que tu savais monter une tente. C'est le moment de le prouver.}}
 
@@ -133,6 +133,8 @@
 ---
 
 ## 🇸🇰 Coin slovaque
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovakia_High_Tatras_Tatranska_Lomnica_0476.jpg | Tatranská Lomnica, au pied des Tatras — crédit à compléter, Wikimedia Commons
 
 **Camper sous les Tatras.** Autour des Hautes Tatras, plusieurs campings accueillent tentes et camping-cars, au pied des sommets. Dans le parc national, en revanche, on ne plante pas sa tente n'importe où : le camping sauvage y est interdit.
 

@@ -1,6 +1,6 @@
 # Série Bardejov (5/5) — Kúpele a skanzen
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bardejovsk%C3%A9_K%C3%BApele_skanzen_10_01.jpg | Le musée en plein air de Bardejovské Kúpele — crédit à compléter, Wikimedia Commons
+@ img/illus_10.jpg | Presque un dragon ! · illustration Gemini
 
 {{fr:L'après-midi, la station thermale de Bardejov : une eau minérale au goût bizarre, et le plus vieux musée en plein air de Slovaquie.}}
 
@@ -94,6 +94,8 @@
 ---
 
 ## 🇸🇰 Coin slovaque
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bardejovsk%C3%A9_K%C3%BApele_skanzen_10_01.jpg | Le musée en plein air de Bardejovské Kúpele — crédit à compléter, Wikimedia Commons
 
 **Bardejovské Kúpele.** À quelques kilomètres de Bardejov, cette station thermale au milieu des forêts est connue pour ses sources minérales. On y boit l'eau directement aux fontaines de la colonnade.
 

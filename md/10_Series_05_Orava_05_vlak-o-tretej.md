@@ -1,6 +1,6 @@
 # Série Orava (5/5) — Vlak o tretej
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Tane%C4%8Dn%C3%ADk_-_railway_carriage.JPG | Un wagon du petit train forestier d'Orava, à Tanečník — crédit à compléter, Wikimedia Commons
+@ img/illus_05.jpg | Le train de 15 h… presque raté · illustration Gemini
 
 {{fr:L'après-midi, un petit train forestier attend dans les bois. Il part à quinze heures. Il est presque quinze heures.}}
 
@@ -114,6 +114,8 @@
 ---
 
 ## 🇸🇰 Coin slovaque
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Tane%C4%8Dn%C3%ADk_-_railway_carriage.JPG | Un wagon du petit train forestier d'Orava, à Tanečník — crédit à compléter, Wikimedia Commons
 
 **Le train forestier d'Orava.** Près d'Oravská Lesná, une ancienne voie ferrée forestière transporte aujourd'hui des touristes, de mai à octobre. Le petit train relie Tanečník au col de Beskyd, à 933 mètres, où une tour d'observation en bois de 7 mètres attend au-dessus de la prairie.
 

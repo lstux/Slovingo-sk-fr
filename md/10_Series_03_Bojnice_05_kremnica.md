@@ -1,6 +1,6 @@
 # Série Bojnice (5/5) — Kremnica
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Kremnica,_mincov%C5%88a.jpg | L'Hôtel des Monnaies de Kremnica — crédit à compléter, Wikimedia Commons
+@ img/illus_03.jpg | Une pièce de Kremnica pour Hugo · illustration Gemini
 
 {{fr:L'après-midi, Kremnica, une petite ville dans les montagnes. Ici, on fabrique des pièces depuis presque sept cents ans, et les enfants comptent leur argent de poche.}}
 
@@ -156,6 +156,8 @@
 ---
 
 ## 🇸🇰 Coin slovaque
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Kremnica,_mincov%C5%88a.jpg | L'Hôtel des Monnaies de Kremnica — crédit à compléter, Wikimedia Commons
 
 **L'Hôtel des Monnaies de Kremnica.** On y frappe des pièces depuis presque sept cents ans : des florins d'or d'abord, puis des ducats. Aujourd'hui encore, les euros slovaques y sont fabriqués. On peut visiter l'ancien atelier de frappe et le musée des monnaies et médailles.
 

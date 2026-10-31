@@ -1,6 +1,6 @@
 # Série Bratislava (5/5) — Večer v pivnici
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Modra_(Modern,_Modor)_-_Horn%C3%A1_br%C3%A1na.JPG | Modra, petite ville du vin des Petites Carpates : la porte haute — Pudelek (Marcin Szala), CC BY-SA 3.0, Wikimedia Commons
+@ img/illus_01.jpg | Le toast à la cave… et le jus de Lola · illustration Gemini
 
 {{fr:Le soir, Andrea vous emmène dans une cave à vin, au pied des Petites Carpates. Du vin pour les grands, du jus de raisin pour les petits. Et un toast un peu spécial.}}
 
@@ -168,6 +168,8 @@
 ---
 
 ## 🇸🇰 Coin slovaque
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Modra_(Modern,_Modor)_-_Horn%C3%A1_br%C3%A1na.JPG | Modra, petite ville du vin des Petites Carpates : la porte haute — Pudelek (Marcin Szala), CC BY-SA 3.0, Wikimedia Commons
 
 **Tykať, vykať.** Le slovaque a deux verbes : {{tykať}}, tutoyer, et {{vykať}}, vouvoyer. Pour proposer de passer au « tu », on demande {{Môžeme si potykať?}} Ça se fait souvent autour d'un verre, et refuser un tutoiement proposé, c'est vexer la personne.
 

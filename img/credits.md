@@ -88,3 +88,25 @@ Auteur et licence sont recopiés de la page Commons de chaque fichier. Les licen
 ## Fond de la carte d'accueil
 
 `img/map_background.jpg` : illustration générée avec Gemini (Google), prompt dans `docs/Prompt-carte-accueil.md`.
+
+## Illustrations (Google Gemini)
+
+Générées avec Google Gemini les 31 octobre et 1er novembre 2026, à partir de la planche de personnages (`docs/illustrations/planche-personnages.jpg`, d'après les designs pixel de l'auteur) et, pour les lieux, d'une photo Wikimedia Commons donnée en référence. Prompts : `docs/Prompts-illustrations.md`.
+
+Une illustration faite d'après une photo sous licence CC BY-SA en est une œuvre dérivée : elle est diffusée sous la même licence, en citant le photographe (voir la ligne de la photo dans « Images des fiches » ci-dessus, ou sa page Commons).
+
+| Fiche | Image | Photo de référence |
+|---|---|---|
+| 00_Introduction_01_slovaquie | `img/illus_cover.jpg` | aucune (scène imaginée) |
+| 01_Bratislava_05_vecer-v-pivnici | `img/illus_01.jpg` | aucune (scène imaginée) |
+| 02_Trencin_05_penzion | `img/illus_02.jpg` | [Trenciansky hrad (2007).jpg](https://commons.wikimedia.org/wiki/File:Trenciansky_hrad_(2007).jpg) |
+| 03_Bojnice_05_kremnica | `img/illus_03.jpg` | [Kremnica, mincovňa.jpg](https://commons.wikimedia.org/wiki/File:Kremnica,_mincov%C5%88a.jpg) |
+| 04_Stiavnica_05_tajch | `img/illus_04.jpg` | [Počúvadlianske jazero 01.jpg](https://commons.wikimedia.org/wiki/File:Po%C4%8D%C3%BAvadlianske_jazero_01.jpg) |
+| 05_Orava_05_vlak-o-tretej | `img/illus_05.jpg` | [Tanečník - railway carriage.JPG](https://commons.wikimedia.org/wiki/File:Tane%C4%8Dn%C3%ADk_-_railway_carriage.JPG) |
+| 06_Liptov_05_tatralandia | `img/illus_06.jpg` | [Aquapark Tatralandia (16).jpg](https://commons.wikimedia.org/wiki/File:Aquapark_Tatralandia_(16).jpg) |
+| 07_Tatry_05_kemp | `img/illus_07.jpg` | [Panorama High Tatras from Poprad.jpg](https://commons.wikimedia.org/wiki/File:Panorama_High_Tatras_from_Poprad.jpg) |
+| 08_Raj_05_co-by-si-chcel | `img/illus_08.jpg` | [Hrabušice, obec a Vysoké Tatry.JPG](https://commons.wikimedia.org/wiki/File:Hrabu%C5%A1ice,_obec_a_Vysok%C3%A9_Tatry.JPG) |
+| 09_Spis_05_co-sme-robili | `img/illus_09.jpg` | [Spis Castle - Slovakia.jpg](https://commons.wikimedia.org/wiki/File:Spis_Castle_-_Slovakia.jpg) |
+| 10_Bardejov_05_kupele-a-skanzen | `img/illus_10.jpg` | [Bardejovské Kúpele skanzen 10 01.jpg](https://commons.wikimedia.org/wiki/File:Bardejovsk%C3%A9_K%C3%BApele_skanzen_10_01.jpg) |
+| 11_Presov_05_sol | `img/illus_11.jpg` | [Sklad soli, Solivar, Prešov.jpg](https://commons.wikimedia.org/wiki/File:Sklad_soli,_Solivar,_Pre%C5%A1ov.jpg) |
+| 12_Kosice_05_buduce-leto | `img/illus_12.jpg` | [St Elisabeth Cathedral Kosice.jpeg](https://commons.wikimedia.org/wiki/File:St_Elisabeth_Cathedral_Kosice.jpeg) |

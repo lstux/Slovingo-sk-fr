@@ -1,6 +1,6 @@
 # Série Spiš (5/5) — Čo sme robili?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovakia_region_Spis_33.jpg | La campagne du Spiš — crédit à compléter, Wikimedia Commons
+@ img/illus_09.jpg | « Ujo zajačica ! » · illustration Gemini
 
 {{fr:Le soir, chez l'habitant à Spišské Podhradie. Le patron demande ce que vous avez fait aujourd'hui. Les enfants racontent au passé. Et tu te trompes de genre.}}
 
@@ -95,6 +95,8 @@
 ---
 
 ## 🇸🇰 Coin slovaque
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovakia_region_Spis_33.jpg | La campagne du Spiš — crédit à compléter, Wikimedia Commons
 
 **Le passé dit qui parle.** En slovaque, le passé change selon qu'on est un homme ou une femme : {{bol som}} ou {{bola som}}, {{videl som}} ou {{videla som}}. Un petit **-a** suffit à transformer tonton en hase.
 

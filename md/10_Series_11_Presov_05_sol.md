@@ -1,6 +1,6 @@
 # Série Prešov (5/5) — Soľ
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Sklad_soli,_Solivar,_Pre%C5%A1ov.jpg | L'entrepôt de sel de Solivar, à Prešov — crédit à compléter, Wikimedia Commons
+@ img/illus_11.jpg | Solivar : ici, on faisait du sel · illustration Gemini
 
 {{fr:À la sortie de la ville, de vieux bâtiments en bois. Autrefois, on y fabriquait du sel. Avec l'aide de chevaux.}}
 
@@ -84,6 +84,8 @@
 ---
 
 ## 🇸🇰 Coin slovaque
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Sklad_soli,_Solivar,_Pre%C5%A1ov.jpg | L'entrepôt de sel de Solivar, à Prešov — crédit à compléter, Wikimedia Commons
 
 **Solivar.** À Prešov, cet ensemble industriel ancien pompait la saumure du sous-sol et la faisait bouillir pour en tirer le sel. Le puits Leopold a été creusé à partir de 1571 ; au-dessus, une pompe actionnée par quatre paires de chevaux remontait la saumure dans des seaux en cuir. C'est aujourd'hui un monument culturel national, avec un musée.
 

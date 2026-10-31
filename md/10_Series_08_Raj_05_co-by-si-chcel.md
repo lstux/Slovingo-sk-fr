@@ -1,6 +1,6 @@
 # Série Raj (5/5) — Čo by si chcel?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Hrabu%C5%A1ice,_obec_a_Vysok%C3%A9_Tatry.JPG | Hrabušice, porte du Slovenský raj, et les Tatras au loin — crédit à compléter, Wikimedia Commons
+@ img/illus_08.jpg | Le soir au jardin : à quoi pense Andrea ? · illustration Gemini
 
 {{fr:Le soir, dans le jardin du penzión, chacun dit ce qu'il voudrait faire demain. Andrea, elle, pense à autre chose.}}
 
@@ -119,6 +119,8 @@
 ---
 
 ## 🇸🇰 Coin slovaque
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Hrabu%C5%A1ice,_obec_a_Vysok%C3%A9_Tatry.JPG | Hrabušice, porte du Slovenský raj, et les Tatras au loin — crédit à compléter, Wikimedia Commons
 
 **Le conditionnel, avec by.** Pour « je voudrais », le slovaque prend la forme du passé et ajoute {{by}} : {{chcel by som}} (un homme), {{chcela by som}} (une femme). C'est la formule polie pour demander quelque chose : {{Chcel by som kávu.}}, je voudrais un café.
 
