@@ -87,7 +87,7 @@ Fiche : `md/10_Series_01_Bratislava_05_vecer-v-pivnici.md` → image `img/illus_
 ```
 Use the attached model sheet for the characters (keep them exactly as designed). Place: an old vaulted wine cellar in the Small Carpathians, stone vault, big oak barrels, a long wooden table, warm candle light.
 
-Scene: Evening toast. Andrea and Gab raise wine glasses; Hugo raises a glass of grape juice. Lola lifts her glass very, very high and spills the juice all over Hugo, who is soaked and outraged. Gab's backpack hangs on his chair and his phone is ringing on the table.
+Scene: Evening toast. Andrea and Gab raise wine glasses; Hugo and Lola have small chunky tumblers (not wine glasses) of pale golden white-grape juice, clearly a children's drink with straws; the adults' wine is in stemmed glasses. Lola lifts her tumbler very, very high and spills the golden juice all over Hugo, who is soaked and outraged. Gab's backpack hangs on his chair and his phone is ringing on the table.
 
 Characters: Gab, an adult male red fox in his forties (bright orange fur, grey-black ear tips, cream muzzle and chest, a few grey hairs on the cheeks, friendly slightly tired eyes), wearing a blue zip hoodie over a white T-shirt (his backpack has yellow straps); Andrea, an adult female grey hare in her forties (grey fur, a white blaze from forehead to muzzle, long ears with pink insides, her left ear folded down, calm amused look), wearing a mint-green top; Hugo, a 9-year-old fox cub (same orange fur and grey ear tips as Gab, lively and mischievous), wearing a red baseball cap and a striped T-shirt; Lola, a 6-year-old little hare (light sandy-brown fur, white tummy, big ears, cheeky smile), wearing a yellow summer dress.
 
