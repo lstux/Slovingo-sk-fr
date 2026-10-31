@@ -16,7 +16,7 @@ Le roadtrip **remplace les séries 01 à 09** de l'ancien cours adulte (conserv�
 
 ## Structure générale
 
-- **Introduction** (5 fiches, inchangées) : la Slovaquie, la langue, la prononciation, qui es-tu (prénom), compter.
+- **Introduction** (4 fiches) : le voyage (l'histoire, les personnages, le fonctionnement, le prénom), la Slovaquie, la langue, la prononciation. Les salutations sont dans le kit de survie, les nombres dans le vocabulaire.
 - **Kit de survie** (4 fiches) : saluer, politesse, premier dialogue. Il devient le **souvenir de la première rencontre** de Gab et Andrea, il y a des années : ils s'y vouvoient, ce qui pose le *vy* avant le *ty* du voyage. Réécriture légère, avec le chapitre 1.
 - **Chapitres 1 à 12** : une journée de voyage chacun, de Bratislava à Košice.
 - Puis, inchangés : les **Kronika**, le **vocabulaire**, les **annexes**.

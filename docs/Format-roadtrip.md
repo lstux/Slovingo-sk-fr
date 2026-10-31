@@ -58,7 +58,7 @@ Le moteur associe **un nom par emoji** pour tout le cours, et les voix se règle
 - la navigation vouvoie le conducteur (*Odbočte doprava*), comme une vraie navigation.
 
 **Prénom** :
-- `[ASK_USER_NAME]` reste dans l'introduction (`00_Introduction_04_qui-es-tu`). Ensuite, `[USER_NAME]` dans les répliques et la narration.
+- `[ASK_USER_NAME]` est dans la première fiche de l'introduction (`00_Introduction_01_le-voyage`), une seule fois. Ensuite, `[USER_NAME]` dans les répliques et la narration.
 - Le nom par défaut (`site.user_name_default` dans `lang.json`) est *Gab*. Le prénom n'est jamais écrit en dur, ni dans les remarques ni dans les annexes : toujours `[USER_NAME]`, ou la 2e personne (« ton erreur »). Pas de `[USER_NAME]` dans une voix `{{…}}`.
 - Dans le kit (fiche 03), toi et Andrea vous présentez au vouvoiement : *Volám sa [USER_NAME].*
 - Un prénom saisi **ne se décline pas** : on l'emploie comme sujet ou pour appeler (*Ahoj, [USER_NAME]!*), jamais à l'accusatif ni au datif.

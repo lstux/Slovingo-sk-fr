@@ -1,7 +1,5 @@
 # 🇸🇰 Introduction — La Slovaquie en un coup d'œil
 
-@ img/illus_cover.jpg | En route ! De Bratislava aux Tatras · illustration Gemini
-
 @ img/1920px-Relief_Map_of_Slovakia_Kraje.png | Carte administrative de la Slovaquie — Wikimedia Commons
 
 Avant d'apprendre la langue, un peu de contexte sur le pays lui-même : où il se situe, d'où il vient, et ce qui fait sa culture.
