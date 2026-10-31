@@ -16,6 +16,15 @@ Le tout avec des gags de vacances que tous les parents reconnaîtront : le GPS q
 
 Et oui, il vouvoie encore Andrea de temps en temps. C'est un vieux jeu entre eux. Promis, ça s'explique.
 
+## Aperçu
+
+<p align="center">
+  <img src="docs/screenshots/1_carte.jpg" width="200" alt="La carte d'accueil">
+  <img src="docs/screenshots/2_episode.jpg" width="200" alt="Une fiche épisode et son illustration">
+  <img src="docs/screenshots/3_dialogue.jpg" width="200" alt="Un dialogue, traduction et détail ouverts">
+  <img src="docs/screenshots/4_exercice.jpg" width="200" alt="Un exercice">
+</p>
+
 ## Comment ça marche
 
 - **Avant de partir** : une petite intro (le voyage, le pays, la langue, la prononciation) et un kit de survie pour dire bonjour, merci et pardon.
