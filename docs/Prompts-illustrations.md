@@ -267,7 +267,7 @@ Fiche : `md/10_Series_11_Presov_05_sol.md` → image `img/illus_11.jpg`
 ```
 Use the attached model sheet for the characters (keep them exactly as designed) and the attached photo as the reference for the place: the old wooden salt-works buildings of Solivar in Prešov, with steep shingled roofs.
 
-Scene: Inside a tall wooden building of the old salt works, a huge wooden horse-driven wheel under the roof beams. Andrea explains, pointing at the wheel; Hugo looks up, impressed; Lola pats the wooden frame ("poor horses"); Gab rubs his sore legs.
+Scene: In front of the old wooden salt-works buildings with their steep shingled roofs, on a sunny afternoon. Andrea explains, pointing at the tallest building; Hugo listens, impressed; Lola, sad for the horses who used to work there, looks at an old wooden horse harness hanging on the wall; Gab sits on a bench, rubbing his sore legs.
 
 Characters: Gab, an adult male red fox in his forties (bright orange fur, grey-black ear tips, cream muzzle and chest, a few grey hairs on the cheeks, friendly slightly tired eyes), wearing a blue zip hoodie over a white T-shirt; Andrea, an adult female grey hare in her forties (grey fur, a white blaze from forehead to muzzle, long ears with pink insides, her left ear folded down, calm amused look), wearing a mint-green top; Hugo, a 9-year-old fox cub (same orange fur and grey ear tips as Gab, lively and mischievous), wearing a red baseball cap and a striped T-shirt; Lola, a 6-year-old little hare (light sandy-brown fur, white tummy, big ears, cheeky smile), wearing a yellow summer dress.
 
