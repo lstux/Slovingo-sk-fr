@@ -30,6 +30,7 @@ Andrea explique aussi (scène 2) : *Na východe je prízvuk na predposlednej sla
 - Le passage au *ty* autour d'un verre : ça se fait vraiment ? Existe-t-il une expression du genre *pripiť si na tykanie* ?
 - Est-ce que c'est plutôt la femme ou la personne plus âgée qui propose le *ty* ?
 - *Tykáme si, Gab! Už roky!* : naturel ?
+- Titre du kit 03 : *Hra na vykanie* pour « le jeu du vouvoiement » (deux enfants qui jouent aux inconnus) : est-ce qu'on dit ça ? Ou *Hráme sa na neznámych* ?
 
 ## 3. Les mots de la famille et du voyage
 

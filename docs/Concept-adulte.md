@@ -75,8 +75,8 @@ Voyage d'été, de mai à octobre : les remontées mécaniques des Tatras et le 
 ## Ton et gags
 - Les gags viennent des situations, jamais de moqueries sur des personnes réelles.
 - Andrea connaît le pays mais ne se souvient pas de tout : bon ressort, surtout sur les détours.
-- **Le *vy* de Gab** : Gab a longtemps vouvoyé Andrea avant de passer au *ty*, et il y retombe par habitude au début du voyage. Andrea le reprend. Au chapitre 1, aux caves des Petites Carpates, elle lève son verre en soupirant : *Môžeme si potykať? Znova?* Selon l'étiquette, c'est la femme qui propose le *ty* à l'homme : c'est donc elle qui l'avait proposé, il y a des années.
-- **Le kit de survie devient le souvenir de leur première rencontre**, il y a des années : Gab 🦊 et Andrea 🐰 s'y vouvoient normalement. La réécriture reste légère (Eric devient Gab, les avatars changent, le dialogue garde l'essentiel).
+- **Le *vy* de Gab** : un jeu d'enfance. Un été dans les Tatras (l'univers de Kids), la petite Andrea lui a appris la politesse en jouant aux inconnus ; ils se tutoient depuis toujours (raccord avec Kids et Friends), mais Gab retombe dans le *vy* par jeu, par tendresse ou par fatigue. Andrea le reprend. Au chapitre 1, aux caves des Petites Carpates, elle lève son verre en soupirant : *Môžeme si potykať? Znova?* Selon l'étiquette, c'est la femme qui propose le *ty* à l'homme : c'est donc elle qui siffle la fin du jeu, une fois de plus.
+- **Le kit de survie devient un souvenir d'enfance** : le « jeu des inconnus », où la petite Andrea apprend au petit Gab à vouvoyer (31 oct. : remplace l'idée d'une première rencontre, qui contredisait Kids et Friends). La réécriture reste légère (Eric devient Gab, les avatars changent, le dialogue garde l'essentiel).
 - Les incontournables sont racontés comme un guide, les détours comme des confidences.
 - Les enfants découvrent la Slovaquie : tout les surprend, y compris ce que Gab trouve banal. Ils retiennent les mots plus vite que lui.
 

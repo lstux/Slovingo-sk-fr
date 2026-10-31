@@ -82,7 +82,7 @@ Auteur et licence sont recopiés de la page Commons de chaque fichier. Les licen
 | 02_Trencin_02_na-benzinke | [Trenčín 09.jpg](https://commons.wikimedia.org/wiki/File:Tren%C4%8D%C3%ADn_09.jpg) | Scotch Mist | CC BY-SA (version à vérifier) |
 | 00_KitSurvie_01_salutations | [Líška hrdzavá Vulpes vulpes, NPR Dolina Bielej vody 733.jpg](https://commons.wikimedia.org/wiki/File:L%C3%AD%C5%A1ka_hrdzav%C3%A1_Vulpes_vulpes,_NPR_Dolina_Bielej_vody_733.jpg) | à compléter | à compléter |
 | 00_KitSurvie_02_politesse | [European hare (Lepus europaeus) Marken 2.jpg](https://commons.wikimedia.org/wiki/File:European_hare_(Lepus_europaeus)_Marken_2.jpg) | à compléter | à compléter |
-| 00_KitSurvie_03_dialogue | [Hviezdoslavovo námestie (10266936594).jpg](https://commons.wikimedia.org/wiki/File:Hviezdoslavovo_n%C3%A1mestie_(10266936594).jpg) | Jorge Láscar | CC BY 2.0 |
+| 00_KitSurvie_03_dialogue | [Flowers Štrbské Pleso 25 Slovakia 4.jpg](https://commons.wikimedia.org/wiki/File:Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg) | à compléter | à compléter |
 | 00_KitSurvie_04_extra | [Michael's Gate and tower (10267681486).jpg](https://commons.wikimedia.org/wiki/File:Michael's_Gate_and_tower_(10267681486).jpg) | Jorge Láscar | CC BY 2.0 |
 
 ## Fond de la carte d'accueil

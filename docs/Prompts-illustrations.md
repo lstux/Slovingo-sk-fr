@@ -1,6 +1,6 @@
 # Illustrations IA du roadtrip — prompts Gemini
 
-Une illustration par chapitre, pour la **fiche 05** (l'épisode), plus une pour le kit (la première rencontre). La fiche 06 viendra peut-être ensuite. Les autres fiches gardent leur photo Wikimedia Commons.
+Une illustration par chapitre, pour la **fiche 05** (l'épisode), plus une pour le kit (le jeu d'enfance). La fiche 06 viendra peut-être ensuite. Les autres fiches gardent leur photo Wikimedia Commons.
 
 **Style** : dessin animé 2D classique (pas de 3D), personnages animaux, décors peints réalistes pour que les lieux soient reconnaissables.
 
@@ -60,18 +60,18 @@ Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean 
 
 ---
 
-## 00. Kit — la première rencontre
+## 00. Kit — le jeu des inconnus
 
 Fiche : `md/10_Series_00_KitSurvie_03_dialogue.md` → image `img/illus_00.jpg`
 
-**Photo à joindre** : [Hviezdoslavovo_námestie_(10266936594).jpg](https://commons.wikimedia.org/wiki/File:Hviezdoslavovo_námestie_(10266936594).jpg)
+**Photo à joindre** : [Flowers_Štrbské_Pleso_25_Slovakia_4.jpg](https://commons.wikimedia.org/wiki/File:Flowers_Štrbské_Pleso_25_Slovakia_4.jpg)
 
 ```
-Use the attached model sheet for the characters (keep them exactly as designed) and the attached photo as the reference for the place: Hviezdoslavovo námestie in Bratislava (long tree-lined square, the Slovak National Theatre at the end).
+Use the attached model sheet for the characters' fur colours and markings (here Gab and Andrea are children, so draw them younger and smaller), and the attached photo as the reference for the place: a flowery mountain meadow near Štrbské pleso in the High Tatras, jagged peaks behind.
 
-Scene: Many years ago, the very first meeting. On the square, Gab, holding a small French–Slovak phrasebook, greets Andrea very politely, a little stiff and formal; she answers with an amused, kind smile. Both look about ten years younger than in the rest of the story. Passers-by in the background.
+Scene: Many years before the road trip, one summer in the High Tatras, Gab and Andrea are children (about nine years old, clearly kids, not the adults of the model sheet, but with the same fur colours and markings). In a flowery meadow, Andrea plays a very formal grown-up lady: back straight, chin up, holding out her paw for a handshake. Gab plays along with an exaggerated, clumsy little bow, holding a small French-Slovak phrasebook. Both are trying very hard not to burst out laughing. Warm summer afternoon light.
 
-Characters: Gab, an adult male red fox in his forties (bright orange fur, grey-black ear tips, cream muzzle and chest, a few grey hairs on the cheeks, friendly slightly tired eyes), wearing a blue zip hoodie over a white T-shirt; Andrea, an adult female grey hare in her forties (grey fur, a white blaze from forehead to muzzle, long ears with pink insides, her left ear folded down, calm amused look), wearing a mint-green top.
+Characters: young Gab as a child, about nine years old: a little red fox (bright orange fur, grey-black ear tips, cream muzzle), no cap, wearing a light blue T-shirt and blue shorts, a tiny backpack with yellow straps; young Andrea as a child, about nine years old: a little grey hare (grey fur, a white blaze from forehead to muzzle, long ears with pink insides, her left ear folded down), wearing a mint-green summer dress.
 
 Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, expressive faces. Backgrounds are detailed, realistic painted backdrops, so that the real place is instantly recognisable: keep its architecture, proportions, colours and surroundings faithful to the reference photo. Warm, gentle summer light. 16:9 landscape, 1920×1080. Anthropomorphic animals walk upright, wear clothes and live among ordinary humans, who are drawn in the same 2D style and find this normal. No text, no letters, no speech bubbles, no logos, no watermark.
 ```

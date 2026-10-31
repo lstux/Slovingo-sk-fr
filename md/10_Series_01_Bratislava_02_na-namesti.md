@@ -77,7 +77,7 @@ Pour l'âge, on « a » des années, et le mot change avec le nombre :
 > Andrea ! Bonjour ! Comment allez-vous ?
 > Dobrý deň = bonjour
 > Ako sa máte = comment allez-vous
-+ Oups : tu vouvoies Andrea, comme lors de votre première rencontre. Entre amis, c'est {{Ako sa máš?}}
++ Oups : tu vouvoies Andrea, comme dans votre vieux jeu d'enfance. Entre amis, c'est {{Ako sa máš?}}
 
 ! 🐰 Máte? [USER_NAME], tykáme si!
 > « Allez-vous » ? [USER_NAME], on se tutoie !

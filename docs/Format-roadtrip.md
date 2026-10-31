@@ -53,7 +53,7 @@ Le moteur associe **un nom par emoji** pour tout le cours, et les voix se règle
 
 **Tutoiement et vouvoiement** :
 - *ty* entre Gab, Andrea et les enfants, et en famille (y compris chez Andrea) ;
-- **exception voulue : le *vy* de Gab envers Andrea**. Il l'a longtemps vouvoyée avant de passer au *ty*, et il y retombe par habitude, surtout au début du voyage ou quand il est fatigué. Andrea le reprend. Chaque réplique où Gab vouvoie Andrea porte une remarque `+` qui le signale, pour que l'apprenant ne prenne pas cette forme pour la bonne (voir `Progression-roadtrip.md`, gags) ;
+- **exception voulue : le *vy* de Gab envers Andrea**. Depuis l'enfance, ils jouent à se vouvoyer (le « jeu des inconnus » qu'Andrea lui a appris dans les Tatras, voir le kit 03) ; ils se tutoient pour de vrai, mais Gab retombe dans le *vy* par jeu, par tendresse ou par fatigue. Raccord avec Kids et Friends, où ils se tutoient. Andrea le reprend. Chaque réplique où Gab vouvoie Andrea porte une remarque `+` qui le signale, pour que l'apprenant ne prenne pas cette forme pour la bonne (voir `Progression-roadtrip.md`, gags) ;
 - *vy* avec tous les adultes inconnus (réception, serveurs, guides) ; les enfants vouvoient aussi les adultes ;
 - la navigation vouvoie le conducteur (*Odbočte doprava*), comme une vraie navigation.
 

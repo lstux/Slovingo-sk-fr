@@ -46,7 +46,7 @@
 
 En chemin, vous croiserez aussi des humains : la réception d'un hôtel, un guide, une vendeuse… Ils sont désignés par leur fonction, et on les vouvoie.
 
-**Un petit défaut.** Tu as connu Andrea il y a des années, et pendant longtemps vous vous êtes vouvoyés. Depuis, vous vous tutoyez. Normalement. Mais quand tu es fatigué, ému ou distrait, le vouvoiement revient tout seul. Andrea, elle, ne laisse rien passer. Tu verras leur toute première rencontre dans le kit de survie.
+**Un vieux jeu.** Andrea et toi, vous vous connaissez depuis l'enfance. Un été, dans les Tatras, elle t'a appris la politesse slovaque en jouant aux inconnus : {{Dobrý deň, ako sa voláte?}} Vous saviez très bien comment vous vous appeliez, et c'est ce qui vous faisait rire. Depuis, vous vous tutoyez, bien sûr. Mais il t'arrive encore de la vouvoyer : par jeu, par tendresse, ou quand tu es fatigué. Andrea, elle, ne laisse rien passer. Ce souvenir d'enfance est dans le kit de survie.
 
 ---
 
