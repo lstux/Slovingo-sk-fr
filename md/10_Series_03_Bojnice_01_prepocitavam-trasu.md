@@ -1,6 +1,6 @@
 # Série Bojnice (1/5) — Prepočítavam trasu
 
-@ img/Zámok_Bojnice_-_panoramio_(5).jpg | Le château de Bojnice, au bout de la route — crédit à compléter, Wikimedia Commons
+@ img/Zámok_Bojnice_-_panoramio_(5).jpg | Le château de Bojnice, au bout de la route — Juraj Habaj, CC BY-SA 3.0, Wikimedia Commons
 
 %~ Deň 3 : z Trenčína do Kremnice
 % 48.8945, 18.0444 | {{Trenčín}}

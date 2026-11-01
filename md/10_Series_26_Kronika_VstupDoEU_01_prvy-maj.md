@@ -1,6 +1,6 @@
 # Vstup do EÚ (1/2) — Prvý máj dvetisícštyri
 
-@ img/EU_and_Slovakia_flags.jpg | Drapeaux de l'Union européenne et de la Slovaquie — crédit à compléter, Wikimedia Commons
+@ img/EU_and_Slovakia_flags.jpg | Drapeaux de l'Union européenne et de la Slovaquie — Ian Brown from Salzburg, CC BY-SA 2.0, Wikimedia Commons
 
 Le 1er mai 2004, la Slovaquie devenait membre de l'{{Európska únia}}, aux côtés de neuf autres pays. Un ancien {{pas}}, passeport d'avant l'{{vstup}}, suffit à mesurer le temps passé depuis.
 

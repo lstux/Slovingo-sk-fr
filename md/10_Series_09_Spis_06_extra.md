@@ -1,6 +1,6 @@
 # Spiš (extra) — Hrad v noci
 
-@ img/Spišský_hrad,_okres_Spišská_Nová_Ves_(28).JPG | Le château de Spiš — crédit à compléter, Wikimedia Commons
+@ img/Spišský_hrad,_okres_Spišská_Nová_Ves_(28).JPG | Le château de Spiš — Michal Klajban, CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Tard le soir, les enfants dorment. Sur la terrasse, Andrea raconte un souvenir. Tu es fatigué, et ça se voit.}}
 

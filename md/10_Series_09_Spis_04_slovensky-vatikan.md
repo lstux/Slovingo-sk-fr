@@ -1,6 +1,6 @@
 # Série Spiš (4/5) — Slovenský Vatikán
 
-@ img/Spišské_Podhradie-Spišská_Kapitula,_katedra_św._Marcina_(HB10).jpg | Spišská Kapitula et la cathédrale Saint-Martin — crédit à compléter, Wikimedia Commons
+@ img/Spišské_Podhradie-Spišská_Kapitula,_katedra_św._Marcina_(HB10).jpg | Spišská Kapitula et la cathédrale Saint-Martin — Henryk Bielamowicz, CC BY-SA 4.0, Wikimedia Commons
 
 {{fr:En face du château, sur une autre colline, une toute petite ville entourée d'un mur, avec sa cathédrale. On l'appelle le Vatican slovaque.}}
 

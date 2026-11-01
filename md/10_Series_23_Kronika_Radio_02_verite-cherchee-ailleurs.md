@@ -1,6 +1,6 @@
 # Rádio (2/2) — La vérité qu'on cherchait ailleurs
 
-@ img/Radio,_Model_308U,_Talisman,_Tesla,_Czechoslovakia,_c._1953,_Bakelite_case_-_Museum_für_Angewandte_Kunst_Köln_-_Cologne,_Germany_-_DSC09685.jpg | Poste radio Tesla Talisman, Tchécoslovaquie, années 1950 — crédit à compléter, Wikimedia Commons
+@ img/Radio,_Model_308U,_Talisman,_Tesla,_Czechoslovakia,_c._1953,_Bakelite_case_-_Museum_für_Angewandte_Kunst_Köln_-_Cologne,_Germany_-_DSC09685.jpg | Poste radio Tesla Talisman, Tchécoslovaquie, années 1950 — Daderot, CC0, Wikimedia Commons
 
 À côté des {{noviny}} et de la {{televízia}} officielles, une autre {{pravda}} circulait — cherchée, elle, du bout des doigts sur le cadran d'un poste de radio. {{Slobodná Európa}} (Radio Free Europe) et {{Hlas Ameriky}} (Voice of America) émettaient depuis l'étranger, en tchèque et en slovaque, financées par les États-Unis. Les écouter n'était pas {{zakázané}} de manière systématique, mais c'était mal vu, risqué socialement, et parfois surveillé.
 

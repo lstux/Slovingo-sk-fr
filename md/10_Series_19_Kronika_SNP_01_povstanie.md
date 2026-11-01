@@ -1,6 +1,6 @@
 # SNP — Un soulèvement dans un pays allié d'Hitler
 
-@ img/Banská_Bystrica_Monument_to_the_Slovak_National_Uprising_1944_(3187252127).jpg | Monument du Soulèvement national slovaque, Banská Bystrica — crédit à compléter, Wikimedia Commons
+@ img/Banská_Bystrica_Monument_to_the_Slovak_National_Uprising_1944_(3187252127).jpg | Monument du Soulèvement national slovaque, Banská Bystrica — Sludge G, CC BY-SA 2.0, Wikimedia Commons
 
 Entre 1939 et 1945, la Slovaquie existe comme État indépendant — mais un État satellite de l'Allemagne nazie, dirigé par le régime autoritaire de Jozef Tiso, allié économique et militaire du Reich. C'est dans ce pays-là, officiellement du côté d'Hitler, qu'éclate en 1944 l'un des plus grands soulèvements armés antinazis d'Europe.
 

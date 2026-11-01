@@ -1,6 +1,6 @@
 # Nežná revolúcia (1/2) — Sedemnásty november
 
-@ img/Kosice_(Slovakia)_-_Main_Street_3.jpg | Hlavná ulica à Košice, où des dizaines de milliers de personnes ont manifesté en novembre 1989 — crédit à compléter, Wikimedia Commons
+@ img/Kosice_(Slovakia)_-_Main_Street_3.jpg | Hlavná ulica à Košice, où des dizaines de milliers de personnes ont manifesté en novembre 1989 — Maros M r a z (Maros), CC BY-SA 3.0, Wikimedia Commons
 
 Le 17 novembre est une fête nationale en Slovaquie (même s'il n'est plus chômé depuis 2025), jour de la {{Nežná revolúcia}}, la Révolution de velours. Tout a commencé à Prague ce jour-là, mais s'est vite répandu à travers tout le pays — y compris à Košice, où des dizaines de milliers de personnes ont fini par manifester sur {{Hlavná ulica}}, l'artère centrale de la ville.
 

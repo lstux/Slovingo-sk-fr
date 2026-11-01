@@ -1,6 +1,6 @@
 # Série Košice (4/5) — Hotel, kde je každá izba iná
 
-@ img/Old_Town_Rooftops_-_From_St._Elisabeth_Cathedral_Bell_Tower_-_Kosice_-_Slovakia_(36428416881).jpg | Les toits de la vieille ville de Košice — crédit à compléter, Wikimedia Commons
+@ img/Old_Town_Rooftops_-_From_St._Elisabeth_Cathedral_Bell_Tower_-_Kosice_-_Slovakia_(36428416881).jpg | Les toits de la vieille ville de Košice — Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0, Wikimedia Commons
 
 {{fr:Dernière nuit : un petit hôtel au centre, où chaque chambre est différente, avec une vue différente. Enfin, presque.}}
 

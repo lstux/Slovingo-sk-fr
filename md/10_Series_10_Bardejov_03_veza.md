@@ -1,6 +1,6 @@
 # Série Bardejov (3/5) — Veža
 
-@ img/Bardejov,_bazilika_sv._Egídia_(1).JPG | La basilique Saint-Gilles de Bardejov — crédit à compléter, Wikimedia Commons
+@ img/Bardejov,_bazilika_sv._Egídia_(1).JPG | La basilique Saint-Gilles de Bardejov — Photograph: palickap (talk), CC BY-SA 4.0, Wikimedia Commons
 
 {{fr:La basilique Saint-Gilles a une très haute tour, avec une vue sur toute la ville. Tu as déjà monté assez de choses cette semaine. Vraiment.}}
 
