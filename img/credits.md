@@ -41,10 +41,10 @@ Auteur et licence sont recopiés de la page Commons de chaque fichier. Les licen
 | 06_Liptov_02_kade-mam-ist | [Slovakia Vlkolinec 30.JPG](https://commons.wikimedia.org/wiki/File:Slovakia_Vlkolinec_30.JPG) | Ing.Mgr. Jozef Kotulič | CC BY 3.0 |
 | 06_Liptov_03_kde-su-plavky | [Tatralandia Aquapark - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Tatralandia_Aquapark_-_panoramio.jpg) | Sebastian B | CC BY 3.0 |
 | 06_Liptov_04_v-obchode | [Liptovský Mikuláš - Námestie osloboditeľov - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Liptovsk%C3%BD_Mikul%C3%A1%C5%A1_-_N%C3%A1mestie_oslobodite%C4%BEov_-_panoramio.jpg) | Jan Starec | CC BY-SA 3.0 |
-| 06_Liptov_05_tatralandia | [Aquapark Tatralandia (16).jpg](https://commons.wikimedia.org/wiki/File:Aquapark_Tatralandia_(16).jpg) | I would appreciate being notified if you use my work outside Wikimedia. Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms. More of my work can be found in my personal gallery. | CC BY-SA 3.0 |
+| 06_Liptov_05_tatralandia | [Aquapark Tatralandia (16).jpg](https://commons.wikimedia.org/wiki/File:Aquapark_Tatralandia_(16).jpg) | Sevela.p | CC BY-SA 3.0 |
 | 06_Liptov_06_extra | [Liptovska Mara od pol. Ratkovie.jpg](https://commons.wikimedia.org/wiki/File:Liptovska_Mara_od_pol._Ratkovie.jpg) | Slovan88 | Public domain |
 | 07_Tatry_01_predpoved-pocasia | [Panorama High Tatras from Poprad.jpg](https://commons.wikimedia.org/wiki/File:Panorama_High_Tatras_from_Poprad.jpg) | Kristo | CC BY-SA 2.5 |
-| 07_Tatry_02_strbske-pleso | [Lake of Strbske pleso.jpg](https://commons.wikimedia.org/wiki/File:Lake_of_Strbske_pleso.jpg) | No machine-readable author provided. Kristo~commonswiki assumed (based on copyright claims). | CC BY-SA 3.0 |
+| 07_Tatry_02_strbske-pleso | [Lake of Strbske pleso.jpg](https://commons.wikimedia.org/wiki/File:Lake_of_Strbske_pleso.jpg) | Kristo | CC BY-SA 3.0 |
 | 07_Tatry_03_hrebienok | [Vodopad studeny potok1.JPG](https://commons.wikimedia.org/wiki/File:Vodopad_studeny_potok1.JPG) | Fenos | CC BY 3.0 |
 | 07_Tatry_04_vietor | [Kabinka Skalnate pleso-Lomnicky stit.jpg](https://commons.wikimedia.org/wiki/File:Kabinka_Skalnate_pleso-Lomnicky_stit.jpg) | Rl91 | CC BY 3.0 |
 | 07_Tatry_05_kemp | [Slovakia High Tatras Tatranska Lomnica 0476.jpg](https://commons.wikimedia.org/wiki/File:Slovakia_High_Tatras_Tatranska_Lomnica_0476.jpg) | Jozef Kotulič | CC BY 2.5 |
@@ -53,9 +53,9 @@ Auteur et licence sont recopiés de la page Commons de chaque fichier. Les licen
 | 08_Raj_02_rebriky | [Misové vodopády, Suchá Belá, Slovenský ráj, 2012, 02.JPG](https://commons.wikimedia.org/wiki/File:Misov%C3%A9_vodop%C3%A1dy,_Such%C3%A1_Bel%C3%A1,_Slovensk%C3%BD_r%C3%A1j,_2012,_02.JPG) | Michal Klajban | CC BY-SA 3.0 |
 | 08_Raj_03_sysle | [European ground squirrel - Siesel - Spermophilus citellus.jpg](https://commons.wikimedia.org/wiki/File:European_ground_squirrel_-_Siesel_-_Spermophilus_citellus.jpg) | Bouke ten Cate | CC BY-SA 4.0 |
 | 08_Raj_04_ladova-jaskyna | [Dobšinská Ice Cave, 24.jpg](https://commons.wikimedia.org/wiki/File:Dob%C5%A1insk%C3%A1_Ice_Cave,_24.jpg) | dariusz woźniak | CC BY-SA 3.0 |
-| 08_Raj_05_co-by-si-chcel | [Hrabušice, obec a Vysoké Tatry.JPG](https://commons.wikimedia.org/wiki/File:Hrabu%C5%A1ice,_obec_a_Vysok%C3%A9_Tatry.JPG) | I would appreciate being notified if you use my work outside Wikimedia. More of my work can be found in my personal gallery. | CC BY-SA 3.0 |
-| 08_Raj_06_extra | [Hrabušice, Podlesok, Hornád.JPG](https://commons.wikimedia.org/wiki/File:Hrabu%C5%A1ice,_Podlesok,_Horn%C3%A1d.JPG) | I would appreciate being notified if you use my work outside Wikimedia. More of my work can be found in my personal gallery. | CC BY-SA 3.0 |
-| 09_Spis_01_klietka-hanby | [Levoca klietka hanby.jpg](https://commons.wikimedia.org/wiki/File:Levoca_klietka_hanby.jpg) | No machine-readable author provided. PM assumed (based on copyright claims). | Public domain |
+| 08_Raj_05_co-by-si-chcel | [Hrabušice, obec a Vysoké Tatry.JPG](https://commons.wikimedia.org/wiki/File:Hrabu%C5%A1ice,_obec_a_Vysok%C3%A9_Tatry.JPG) | Aktron | CC BY-SA 3.0 |
+| 08_Raj_06_extra | [Hrabušice, Podlesok, Hornád.JPG](https://commons.wikimedia.org/wiki/File:Hrabu%C5%A1ice,_Podlesok,_Horn%C3%A1d.JPG) | Aktron | CC BY-SA 3.0 |
+| 09_Spis_01_klietka-hanby | [Levoca klietka hanby.jpg](https://commons.wikimedia.org/wiki/File:Levoca_klietka_hanby.jpg) | PM | Public domain |
 | 09_Spis_02_oltar | [St. James, Levoča, Main altar, 2017 v2.jpg](https://commons.wikimedia.org/wiki/File:St._James,_Levo%C4%8Da,_Main_altar,_2017_v2.jpg) | Gerda Arendt | CC BY-SA 4.0 |
 | 09_Spis_03_spissky-hrad | [Spis Castle - Slovakia.jpg](https://commons.wikimedia.org/wiki/File:Spis_Castle_-_Slovakia.jpg) | Petr Kratochvil | CC0 |
 | 09_Spis_04_slovensky-vatikan | [Spišské Podhradie-Spišská Kapitula, katedra św. Marcina (HB10).jpg](https://commons.wikimedia.org/wiki/File:Spi%C5%A1sk%C3%A9_Podhradie-Spi%C5%A1sk%C3%A1_Kapitula,_katedra_%C5%9Bw._Marcina_(HB10).jpg) | Henryk Bielamowicz | CC BY-SA 4.0 |
@@ -142,3 +142,13 @@ Noms de fichiers Commons déduits des noms locaux (préfixes de vignette `1920px
 | 27_Kronika_Emigracia_01_partir-puis-revenir | [Map of the Slovak Diaspora in the World.svg](https://commons.wikimedia.org/wiki/File:Map_of_the_Slovak_Diaspora_in_the_World.svg) | Allice Hunter | CC BY-SA 4.0 |
 | 29_Kronika_ZaSlusneSlovensko_01_vrazda | [Za slušné Slovensko, Košice 1.jpg](https://commons.wikimedia.org/wiki/File:Za_slu%C5%A1n%C3%A9_Slovensko,_Ko%C5%A1ice_1.jpg) | Bubamara | CC BY-SA 4.0 |
 | 29_Kronika_ZaSlusneSlovensko_02_namestia | [Za slušné Slovensko, Košice 1.jpg](https://commons.wikimedia.org/wiki/File:Za_slu%C5%A1n%C3%A9_Slovensko,_Ko%C5%A1ice_1.jpg) | Bubamara | CC BY-SA 4.0 |
+
+## Auteurs qui demandent à être prévenus
+
+Une politesse demandée sur la page Commons (pas une condition de la licence) : un petit message sur la page de discussion Commons de l'auteur suffit.
+
+| Fiche | Fichier Commons | Auteur | Prévenu |
+|---|---|---|---|
+| 06_Liptov_05_tatralandia | [Aquapark Tatralandia (16).jpg](https://commons.wikimedia.org/wiki/File:Aquapark_Tatralandia_(16).jpg) | [Sevela.p](https://commons.wikimedia.org/wiki/User_talk:Sevela.p) | à faire |
+| 08_Raj_05_co-by-si-chcel | [Hrabušice, obec a Vysoké Tatry.JPG](https://commons.wikimedia.org/wiki/File:Hrabu%C5%A1ice,_obec_a_Vysok%C3%A9_Tatry.JPG) | [Aktron](https://commons.wikimedia.org/wiki/User_talk:Aktron) | à faire |
+| 08_Raj_06_extra | [Hrabušice, Podlesok, Hornád.JPG](https://commons.wikimedia.org/wiki/File:Hrabu%C5%A1ice,_Podlesok,_Horn%C3%A1d.JPG) | [Aktron](https://commons.wikimedia.org/wiki/User_talk:Aktron) | à faire |

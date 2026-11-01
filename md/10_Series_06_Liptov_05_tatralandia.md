@@ -97,7 +97,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ img/Aquapark_Tatralandia_(16).jpg | Les piscines et toboggans de Tatralandia — I would appreciate being notified if you use my work outside Wikimedia. Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms. More of my work can be found in my personal gallery., CC BY-SA 3.0, Wikimedia Commons
+@ img/Aquapark_Tatralandia_(16).jpg | Les piscines et toboggans de Tatralandia — Sevela.p, CC BY-SA 3.0, Wikimedia Commons
 
 **L'eau chaude du Liptov.** Sous le Liptov, des sources chaudes remontent du sous-sol. Les aquaparcs de la région les utilisent : on s'y baigne dehors même quand il fait frais, avec les montagnes en face.
 

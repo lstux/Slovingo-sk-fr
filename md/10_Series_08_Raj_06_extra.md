@@ -1,6 +1,6 @@
 # Raj (extra) — Dôkaz
 
-@ img/Hrabušice,_Podlesok,_Hornád.JPG | Le Hornád à Podlesok, le soir venu — I would appreciate being notified if you use my work outside Wikimedia. More of my work can be found in my personal gallery., CC BY-SA 3.0, Wikimedia Commons
+@ img/Hrabušice,_Podlesok,_Hornád.JPG | Le Hornád à Podlesok, le soir venu — Aktron, CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Troisième nuit en penzión. Quelqu'un ronfle. Cette fois, Lola a un plan : enregistrer.}}
 
