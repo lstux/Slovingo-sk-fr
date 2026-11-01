@@ -36,7 +36,7 @@ IMAGES=(
   "basics|Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg"
   "shopping|Bojnice_Castle_Slovakia.jpg"
   "food|Bansk%C3%A1_%C5%A0tiavnica_from_Nov%C3%BD_z%C3%A1mok_2007.jpg"
-  "time|Orava_castle_panorama_01.jpg"
+  "time|Orava_Castle_in_Slovakia_banner.jpg"
   "family|Hlavn%C3%A1_ulica._Pre%C5%A1ov_20_Slovakia.jpg"
   "games|Devin_Hrad_Panorama.jpg"
 )
