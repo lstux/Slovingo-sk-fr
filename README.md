@@ -53,7 +53,7 @@ Si ça peut donner à quelqu'un l'envie d'apprendre quelques mots de slovaque, d
 
 Le cours est complet, mais il reste des choses à polir :
 
-- **Le slovaque des dialogues est à faire relire par des natifs.** Surtout le dialecte de Prešov de babka Zuzana ! Si tu parles slovaque et que quelque chose sonne bizarre, n'hésite pas à ouvrir une issue, ça m'aidera beaucoup.
+- **Le slovaque des dialogues est à faire relire par des natifs.** Surtout le dialecte de Prešov de babka Zuzana ! Si tu parles slovaque et que quelque chose sonne bizarre, n'hésite pas à ouvrir une issue, ça m'aidera beaucoup. Tout est expliqué dans 👉 [**Tu relis le slovaque ?**](docs/Relire-le-slovaque.md)
 - Les crédits de certaines photos sont encore à compléter.
 - Les chapitres 5 à 12 seront un peu étoffés.
 
