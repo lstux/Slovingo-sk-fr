@@ -16,9 +16,9 @@
     "css_class": "col-native"
   },
   "site": {
-    "title": "Ahoj Slovenčina",
+    "title": "Ahoj Slovenčina! Zo západu na východ",
     "short_name": "Ahoj SK",
-    "description": "Apprentissage du slovaque - fiches et exercices",
+    "description": "Le slovaque en roadtrip, de Bratislava à Košice",
     "theme_color": "#0b4ea2",
     "storage_prefix": "sk-fr",
     "url_path": "/slovingo/sk-fr/",

@@ -1,4 +1,4 @@
-# Ahoj Slovenčina 🇸🇰 🇫🇷
+# Ahoj Slovenčina! Zo západu na východ 🇸🇰 🇫🇷
 
 🌐 **Le cours en ligne : [lstux.github.io/Slovingo-sk-fr](https://lstux.github.io/Slovingo-sk-fr/)**
 
