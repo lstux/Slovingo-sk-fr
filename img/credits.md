@@ -149,8 +149,8 @@ Fichiers `img/style_<clé>.jpg`, affichés tels quels dans le bandeau des fiches
 
 | Image (thème : chapitres) | Fichier Commons | Auteur | Licence |
 |---|---|---|---|
-| `style_mountains.jpg` (Tatras, Slovenský raj) | photo reprise de l'ancien cours | à retrouver | à retrouver |
-| `style_city.jpg` (Bratislava, Trenčín, Spiš, Bardejov, Košice) | photo reprise de l'ancien cours | à retrouver | à retrouver |
+| `style_mountains.jpg` (Tatras, Slovenský raj) | [Vysoké Tatry panorama.jpg](https://commons.wikimedia.org/wiki/File:Vysok%C3%A9_Tatry_panorama.jpg) | à compléter | à compléter |
+| `style_city.jpg` (Bratislava, Trenčín, Spiš, Bardejov, Košice) | [Bratislava Panorama R01.jpg](https://commons.wikimedia.org/wiki/File:Bratislava_Panorama_R01.jpg) | Marc Ryckaert (MJJR) | CC BY |
 | `style_default.jpg` (intro, vocabulaire, accueil) | [Hybe and the High Tatras.jpg](https://commons.wikimedia.org/wiki/File:Hybe_and_the_High_Tatras.jpg) | à compléter | à compléter |
 | `style_basics.jpg` (kit de survie) | [Flowers Štrbské Pleso 25 Slovakia 4.jpg](https://commons.wikimedia.org/wiki/File:Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg) | à compléter | à compléter |
 | `style_shopping.jpg` (Bojnice, Liptov) | [Bojnice Castle Slovakia.jpg](https://commons.wikimedia.org/wiki/File:Bojnice_Castle_Slovakia.jpg) | à compléter | à compléter |

@@ -29,8 +29,9 @@ UA="Slovingo-style-images/1.0 (https://github.com/lstux/Slovingo-sk-fr)"
 COMMONS="https://commons.wikimedia.org"
 
 # clé de thème | nom du fichier Commons (codé comme dans l'adresse de la page)
-# mountains et city : photos gardées telles quelles (déjà dans img/), pas listées ici.
 IMAGES=(
+  "mountains|Vysok%C3%A9_Tatry_panorama.jpg"
+  "city|Bratislava_Panorama_R01.jpg"
   "default|Hybe_and_the_High_Tatras.jpg"
   "basics|Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg"
   "shopping|Bojnice_Castle_Slovakia.jpg"
