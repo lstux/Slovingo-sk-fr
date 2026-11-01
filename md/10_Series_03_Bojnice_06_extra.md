@@ -62,7 +62,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧓 Pán domáci, le patron de la maison : on le vouvoie
 - 🐓 Kohút, le coq du jardin
@@ -96,7 +96,7 @@
 > Chcete koláč = vous voulez du gâteau
 + Mot nouveau signalé : {{koláč}} = le gâteau.
 
-! 🦊🧢 Áno!
+! 🧢 Áno!
 > Oui !
 
 ! 🐇 Áno!
@@ -107,7 +107,7 @@
 > Ďakujeme = merci
 > nechceme = nous ne voulons pas
 
-! 🦊🧢 Chceme! Chceme!
+! 🧢 Chceme! Chceme!
 > On veut ! On veut !
 > Chceme = nous voulons
 

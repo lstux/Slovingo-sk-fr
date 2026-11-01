@@ -22,7 +22,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -55,7 +55,7 @@
 > do Tatralandie = à Tatralandia
 + Lola est une fille : {{chcela by som}}, avec **-la**.
 
-! 🦊🧢 Ja by som chcel vidieť medveďa. Naozajstného. Nie v zoo.
+! 🧢 Ja by som chcel vidieť medveďa. Naozajstného. Nie v zoo.
 > Moi, je voudrais voir un ours. Un vrai. Pas au zoo.
 > Ja by som chcel = moi, je voudrais
 > vidieť medveďa = voir un ours
@@ -98,7 +98,7 @@
 > najlepšie pirohy = les meilleurs pirohy
 + Mot nouveau signalé : {{pirohy}} = des raviolis farcis, spécialité de l'est.
 
-! 🦊🧢 Lepšie ako koláč pána domáceho?
+! 🧢 Lepšie ako koláč pána domáceho?
 > Meilleurs que le gâteau du patron ?
 > Lepšie ako = meilleurs que
 > koláč pána domáceho = le gâteau du patron

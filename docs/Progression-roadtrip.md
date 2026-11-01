@@ -121,7 +121,7 @@ L'introduction couvre les bases (lettres à caron, accent sur la première sylla
 |---|---|---|
 | 🦊 | Gab (toi), l'oncle | kit de survie / 1 |
 | 🐰 | Andrea | kit de survie / 1 |
-| 🦊🧢 | Hugo, 9 ans | 1 |
+| 🧢 | Hugo, 9 ans | 1 |
 | 🐇 | Lola, 6 ans | 1 |
 | 🧭 | La navigation | 1 (l'arrivée à Bratislava), vraiment à partir du 2 |
 | 📱 | Claire, au téléphone | 1 (l'arrivée), puis de temps en temps |

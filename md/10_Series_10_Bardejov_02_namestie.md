@@ -41,7 +41,7 @@ Ils s'accordent comme des adjectifs : {{prvá renesančná stavba}}, le premier 
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -62,7 +62,7 @@ Ils s'accordent comme des adjectifs : {{prvá renesančná stavba}}, le premier 
 > prvá renesančná stavba = le premier bâtiment Renaissance
 > na Slovensku = en Slovaquie
 
-! 🦊🧢 Prvá? Pred ňou nebola žiadna?
+! 🧢 Prvá? Pred ňou nebola žiadna?
 > Le premier ? Avant lui, il n'y en avait aucun ?
 > Pred ňou = avant lui
 > nebola žiadna = il n'y en avait aucun

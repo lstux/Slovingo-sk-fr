@@ -52,7 +52,7 @@ Avec un autre verbe, on met simplement l'infinitif : {{Chcem vidieť zámok.}} =
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧭 Navigácia, la navigation de la voiture (elle te vouvoie)
 - 💬 Le narrateur
@@ -68,7 +68,7 @@ Avec un autre verbe, on met simplement l'infinitif : {{Chcem vidieť zámok.}} =
 > do Bojníc = à Bojnice
 + {{Bojnice}} est un nom au pluriel : {{do Bojníc}}, {{v Bojniciach}}.
 
-! 🦊🧢 Ujo, čo chceme dnes vidieť?
+! 🧢 Ujo, čo chceme dnes vidieť?
 > Tonton, qu'est-ce qu'on veut voir aujourd'hui ?
 > čo = quoi
 > chceme = nous voulons
@@ -122,7 +122,7 @@ Avec un autre verbe, on met simplement l'infinitif : {{Chcem vidieť zámok.}} =
 > Je recalcule l'itinéraire.
 > Prepočítavam trasu = je recalcule l'itinéraire
 
-! 🦊🧢 Ujo, navigácia je nervózna.
+! 🧢 Ujo, navigácia je nervózna.
 > Tonton, la navigation est nerveuse.
 > navigácia = la navigation
 > je nervózna = est nerveuse

@@ -68,7 +68,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -96,7 +96,7 @@
 > Kto = qui
 > chrápe = ronfle
 
-! 🦊🧢 Ja nie.
+! 🧢 Ja nie.
 > Pas moi.
 > Ja nie = pas moi
 
@@ -186,7 +186,7 @@
 > Bonne nuit, [USER_NAME].
 > Dobrú noc = bonne nuit
 
-! 🦊🧢 Ujo, zajtra spím v aute.
+! 🧢 Ujo, zajtra spím v aute.
 > Tonton, demain, je dors dans la voiture.
 > zajtra = demain
 > spím = je dors

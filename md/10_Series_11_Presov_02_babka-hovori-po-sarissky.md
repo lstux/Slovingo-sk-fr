@@ -46,7 +46,7 @@ En slovaque standard, l'accent tombe toujours sur la **première** syllabe : {{P
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🐑 Babka Zuzana, la grand-mère d'Andrea : elle parle šariš
 - 💬 Le narrateur
@@ -67,7 +67,7 @@ En slovaque standard, l'accent tombe toujours sur la **première** syllabe : {{P
 > Hladne sce = vous avez faim (šariš : ste hladní)
 + C'est du šariš, le dialecte de Prešov. Ne cherche pas ces formes dans le dictionnaire.
 
-! 🦊🧢 Čo?
+! 🧢 Čo?
 > Quoi ?
 
 ! 🐰 Babka hovorí po šarišsky. „Ta co“ je ako „tak čo“. Pýta sa, či ste hladní.

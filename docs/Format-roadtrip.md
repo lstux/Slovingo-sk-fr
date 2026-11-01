@@ -41,7 +41,7 @@ Le moteur associe **un nom par emoji** pour tout le cours, et les voix se règle
 |---|---|---|
 | 🦊 | **Gab** (toi) | homme adulte, Français, oncle de Hugo et Lola ; prénom `[USER_NAME]` (par défaut *Gab*) ; formes **masculines** |
 | 🐰 | **Andrea** | hase adulte, née à Prešov, amie de Gab ; formes **féminines** |
-| 🦊🧢 | **Hugo** | renardeau, 9 ans, neveu de Gab *(avatar et âge proposés)* |
+| 🧢 | **Hugo** | renardeau, 9 ans, neveu de Gab *(avatar et âge proposés)* |
 | 🐇 | **Lola** | petite hase, 6 ans, nièce de Gab *(avatar et âge proposés)* |
 | 📱 | **Claire** | la mère des enfants, restée en France, au téléphone |
 | 🧭 | **La navigation** (le GPS) | narratrice par défaut, voir §6 |
@@ -194,7 +194,7 @@ Les micro-dialogues font **3 à 5 répliques au début du voyage, jusqu'à 8 ver
 
 **Fiche 05** :
 - `## Vocabulaire du dialogue` (au plus 5 mots nouveaux) ;
-- `## Les personnages` : avatar + nom (`- 🧭 Navigácia`, `- 🦊🧢 Hugo`…) ;
+- `## Les personnages` : avatar + nom (`- 🧭 Navigácia`, `- 🧢 Hugo`…) ;
 - `## Le dialogue` : l'épisode, une **scène entière**, écrite d'un trait comme dans `docs/Histoire.md` (on ne la découpe pas pour caser des phrases), **12 à 15 répliques** au chapitre 1, **15 à 20** jusqu'au chapitre 4, puis jusqu'à **30–40** vers la fin ;
 - Coin slovaque.
 

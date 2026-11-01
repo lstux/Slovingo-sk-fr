@@ -51,7 +51,7 @@ Déjà vus, à revoir : {{najlepší}}, {{posledný}}, {{pekný}}.
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧭 Navigácia, la navigation de la voiture (elle te vouvoie)
 - 💬 Le narrateur
@@ -85,7 +85,7 @@ Déjà vus, à revoir : {{najlepší}}, {{posledný}}, {{pekný}}.
 ! 🐇 Škoda.
 > Dommage.
 
-! 🦊🧢 Ktorý deň bol najlepší?
+! 🧢 Ktorý deň bol najlepší?
 > Quel jour était le meilleur ?
 > Ktorý deň = quel jour
 > bol najlepší = était le meilleur
@@ -95,7 +95,7 @@ Déjà vus, à revoir : {{najlepší}}, {{posledný}}, {{pekný}}.
 > Ten, keď = celui où
 > bol ujo v klietke = tonton était dans la cage
 
-! 🦊🧢 Pre mňa ten, keď sme spali v aute.
+! 🧢 Pre mňa ten, keď sme spali v aute.
 > Pour moi, celui où on a dormi dans la voiture.
 > Pre mňa = pour moi
 > keď sme spali v aute = où nous avons dormi dans la voiture

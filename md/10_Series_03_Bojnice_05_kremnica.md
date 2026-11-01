@@ -22,7 +22,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧑‍🦰 La vendeuse, une adulte : on la vouvoie
 - 💬 Le narrateur
@@ -45,7 +45,7 @@
 > Aj slovenské eurá = même les euros slovaques
 + Mot nouveau signalé : {{minca}} = la pièce de monnaie.
 
-! 🦊🧢 Eurá? Tu? V Kremnici?
+! 🧢 Eurá? Tu? V Kremnici?
 > Des euros ? Ici ? À Kremnica ?
 > Eurá = des euros
 > Tu = ici
@@ -82,7 +82,7 @@
 > Quinze euros.
 > Pätnásť eur = quinze euros
 
-! 🦊🧢 Ja mám dve eurá.
+! 🧢 Ja mám dve eurá.
 > Moi, j'ai deux euros.
 > Ja mám = moi, j'ai
 > dve eurá = deux euros
@@ -134,7 +134,7 @@
 > stred Európy = le centre de l'Europe
 + Mot nouveau signalé : {{stred}} = le centre, le milieu.
 
-! 🦊🧢 Stred Európy? Tu?
+! 🧢 Stred Európy? Tu?
 > Le centre de l'Europe ? Ici ?
 
 ! 🐰 Jeden zo stredov. Európa má veľa stredov.

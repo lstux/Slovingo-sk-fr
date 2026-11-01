@@ -50,7 +50,7 @@ On colle **ne-** devant le verbe au passé : {{nebol som}}, je n'ai pas été ; 
 ## Les personnages
 
 - 🦊 Toi, l'oncle de Hugo et Lola
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 📱 Claire, ta sœur, au téléphone
 - 🧭 Navigácia, la navigation de la voiture (elle te vouvoie)
@@ -69,7 +69,7 @@ On colle **ne-** devant le verbe au passé : {{nebol som}}, je n'ai pas été ; 
 > Salut, les enfants ! Qu'est-ce que vous avez fait hier ?
 > Čo ste včera robili = qu'avez-vous fait hier
 
-! 🦊🧢 Boli sme v Levoči! Videli sme veľký oltár!
+! 🧢 Boli sme v Levoči! Videli sme veľký oltár!
 > On était à Levoča ! On a vu un grand autel !
 > Boli sme v Levoči = nous avons été à Levoča
 > Videli sme = nous avons vu
@@ -84,7 +84,7 @@ On colle **ne-** devant le verbe au passé : {{nebol som}}, je n'ai pas été ; 
 > Super ! Et qu'est-ce qu'il a fait, tonton ?
 > čo robil ujo = qu'a fait tonton
 
-! 🦊🧢 Ujo bol v klietke!
+! 🧢 Ujo bol v klietke!
 > Tonton était dans une cage !
 
 ! 📱 V klietke?

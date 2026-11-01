@@ -44,7 +44,7 @@ Au futur : {{Bude pršať.}} = il va pleuvoir. {{Bude fúkať.}} = il va y avoir
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 👷 Le préposé de la remontée, un adulte : on le vouvoie
 - 💬 Le narrateur
@@ -65,7 +65,7 @@ Au futur : {{Bude pršať.}} = il va pleuvoir. {{Bude fúkať.}} = il va y avoir
 > je veľmi vysoký = est très haut
 > Hore je kaviareň = en haut, il y a un café
 
-! 🦊🧢 Kaviareň na štíte? Super!
+! 🧢 Kaviareň na štíte? Super!
 > Un café sur le sommet ? Super !
 > na štíte = sur le sommet
 
@@ -101,7 +101,7 @@ Au futur : {{Bude pršať.}} = il va pleuvoir. {{Bude fúkať.}} = il va y avoir
 > Zrazu = soudain
 > niečo píska = quelque chose siffle
 
-! 🦊🧢 Čo to je?
+! 🧢 Čo to je?
 > Qu'est-ce que c'est ?
 
 ! 🐰 Pozrite, tam na kameni. To je svišť.

@@ -45,7 +45,7 @@ Un guide s'adresse au groupe : il vouvoie, et l'impératif finit en **-te** : {{
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧑‍🏫 Le guide, un adulte : on le vouvoie
 - 🧭 Navigácia, la navigation de la voiture (elle te vouvoie)
@@ -88,7 +88,7 @@ Un guide s'adresse au groupe : il vouvoie, et l'impératif finit en **-te** : {{
 > S'il vous plaît, ne touchez pas la glace.
 > nedotýkajte sa ľadu = ne touchez pas la glace
 
-! 🦊🧢 Ujo, je tu chladnejšie ako v tajchu.
+! 🧢 Ujo, je tu chladnejšie ako v tajchu.
 > Tonton, il fait plus froid ici que dans le tajch.
 > je tu chladnejšie = il fait plus froid ici
 > ako v tajchu = que dans le tajch
@@ -109,7 +109,7 @@ Un guide s'adresse au groupe : il vouvoie, et l'impératif finit en **-te** : {{
 ! 🧭 Stratila som signál.
 > J'ai perdu le signal.
 
-! 🦊🧢 Navigácia sa bojí jaskyne.
+! 🧢 Navigácia sa bojí jaskyne.
 > La navigation a peur de la grotte.
 > sa bojí jaskyne = a peur de la grotte
 

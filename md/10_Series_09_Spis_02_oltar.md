@@ -41,7 +41,7 @@ Pour « je » et « tu », on ajoute {{som}} ou {{si}} : {{robil som}}, j'ai fai
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -62,7 +62,7 @@ Pour « je » et « tu », on ajoute {{som}} ou {{si}} : {{robil som}}, j'ai fai
 > najvyšší gotický drevený oltár = le plus haut autel gothique en bois
 > na svete = du monde
 
-! 🦊🧢 Kto ho urobil?
+! 🧢 Kto ho urobil?
 > Qui l'a fait ?
 > Kto ho urobil = qui l'a fait
 
@@ -72,7 +72,7 @@ Pour « je » et « tu », on ajoute {{som}} ou {{si}} : {{robil som}}, j'ai fai
 > Robil ho desať rokov = il y a travaillé dix ans
 + {{urobil}} : il l'a fait, c'est fini. {{robil}} : il y travaillait, pendant longtemps. On en reparle au chapitre 10.
 
-! 🦊🧢 Desať rokov! Tak dlho ako ujo stavia stan.
+! 🧢 Desať rokov! Tak dlho ako ujo stavia stan.
 > Dix ans ! Aussi longtemps que tonton pour monter une tente.
 > Desať rokov = dix ans
 > Tak dlho ako = aussi longtemps que

@@ -22,7 +22,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 📱 Claire, ta sœur, au téléphone
 - 💬 Le narrateur
@@ -50,7 +50,7 @@
 > Som unavený = je suis fatigué
 > ale šťastný = mais heureux
 
-! 🦊🧢 Mami, budúce leto pôjdeme znova!
+! 🧢 Mami, budúce leto pôjdeme znova!
 > Maman, l'été prochain, on y retourne !
 > Mami = maman (quand on l'appelle)
 > budúce leto = l'été prochain

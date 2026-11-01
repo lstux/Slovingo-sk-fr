@@ -47,7 +47,7 @@ On lit les années comme un grand nombre, en un seul mot :
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -75,7 +75,7 @@ On lit les années comme un grand nombre, en un seul mot :
 > v Ríme = à Rome
 > je v ňom veľa kostolov = il y a beaucoup d'églises
 
-! 🦊🧢 A tu býva pápež?
+! 🧢 A tu býva pápež?
 > Et le pape habite ici ?
 
 ! 🐰 Nie. Ale je to tiež malé mesto a kostol je veľmi dôležitý.

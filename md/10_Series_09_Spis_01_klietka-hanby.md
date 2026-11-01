@@ -51,7 +51,7 @@ Au passé, la fin change avec le genre : **-l** pour un homme, **-la** pour une 
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -72,7 +72,7 @@ Au passé, la fin change avec le genre : **-l** pour un homme, **-la** pour une 
 > to bolo = c'était
 > veľmi bohaté mesto = une ville très riche
 
-! 🦊🧢 Prečo bolo bohaté?
+! 🧢 Prečo bolo bohaté?
 > Pourquoi elle était riche ?
 > Prečo bolo bohaté = pourquoi était-elle riche
 
@@ -97,7 +97,7 @@ Au passé, la fin change avec le genre : **-l** pour un homme, **-la** pour une 
 > zlých ľudí = les méchants
 > Všetci sa na nich pozerali = tout le monde les regardait
 
-! 🦊🧢 Ujo, poď dnu!
+! 🧢 Ujo, poď dnu!
 > Tonton, entre là-dedans !
 > poď dnu = viens dedans
 
@@ -113,7 +113,7 @@ Au passé, la fin change avec le genre : **-l** pour un homme, **-la** pour une 
 > stojí v klietke = est debout dans la cage
 > Hugo fotí = Hugo prend une photo
 
-! 🦊🧢 Pošleme to mame!
+! 🧢 Pošleme to mame!
 > On l'envoie à maman !
 
 ! 🦊 Nie! Už nie!

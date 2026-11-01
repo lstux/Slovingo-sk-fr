@@ -66,7 +66,7 @@
 > jeden pivo = (faux !) une bière
 + Ton erreur : {{pivo}} est neutre, on dit {{jedno pivo}}.
 
-! 🦊🧢 Ujo! Jedno pivo!
+! 🧢 Ujo! Jedno pivo!
 > Tonton ! « Jedno » pivo !
 > Jedno pivo = une bière
 
@@ -88,7 +88,7 @@
 > Mám smäd = j'ai soif
 > Dám si kofolu = je vais prendre un Kofola
 
-! 🦊🧢 A ja mám hlad. Čo sú halušky?
+! 🧢 A ja mám hlad. Čo sú halušky?
 > Et moi, j'ai faim. C'est quoi, les halušky ?
 > ja mám hlad = j'ai faim
 > Čo sú = que sont
@@ -99,7 +99,7 @@
 > S bryndzou = avec de la bryndza
 > syr z ovčieho mlieka = un fromage de lait de brebis
 
-! 🦊🧢 Tak si dám halušky.
+! 🧢 Tak si dám halušky.
 > Alors je vais prendre des halušky.
 > Tak = alors
 > si dám = je vais prendre
@@ -116,7 +116,7 @@
 > Fuj = beurk
 > Je to kyslé = c'est acide
 
-! 🦊🧢 Nie je! Je to výborné!
+! 🧢 Nie je! Je to výborné!
 > Non ! C'est délicieux !
 > Nie je = ce n'est pas
 > Je to výborné = c'est délicieux

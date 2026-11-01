@@ -67,7 +67,7 @@ Au masculin et au féminin, le pluriel finit souvent par **-y** ou **-e** ; au n
 > Moja prilba = mon casque
 > je veľká = est grand
 
-! 🦊🧢 Aj moja.
+! 🧢 Aj moja.
 > Le mien aussi.
 > Aj moja = le mien aussi
 
@@ -94,7 +94,7 @@ Au masculin et au féminin, le pluriel finit souvent par **-y** ou **-e** ; au n
 > je veľmi stará = est très vieille
 > Má viac ako tristo rokov = elle a plus de trois cents ans
 
-! 🦊🧢 Je tu zima.
+! 🧢 Je tu zima.
 > Il fait froid ici.
 > Je tu zima = il fait froid ici
 

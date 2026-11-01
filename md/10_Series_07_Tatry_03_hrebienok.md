@@ -44,7 +44,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -59,7 +59,7 @@
 > ako vlak = comme un train
 > Ide na Hrebienok = elle va à Hrebienok
 
-! 🦊🧢 Vlak na kopec!
+! 🧢 Vlak na kopec!
 > Un train qui monte la colline !
 
 ! 🐰 To je pozemná lanovka. Ide hore na Hrebienok.
@@ -88,7 +88,7 @@
 > zo skál = des rochers
 > Je biela a hlučná = elle est blanche et bruyante
 
-! 🦊🧢 Je to krásne!
+! 🧢 Je to krásne!
 > C'est magnifique !
 
 ! 🐇 Môžem sa dotknúť vody?

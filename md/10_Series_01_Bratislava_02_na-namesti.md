@@ -131,7 +131,7 @@ Pour l'âge, on « a » des années, et le mot change avec le nombre :
 > To = ça
 > vidím = je vois
 
-! 🦊🧢 Koľko máš rokov?
+! 🧢 Koľko máš rokov?
 > Quel âge as-tu ?
 > Koľko = combien
 > máš = tu as
@@ -141,7 +141,7 @@ Pour l'âge, on « a » des années, et le mot change avec le nombre :
 > Ça ne se demande pas, Hugo.
 > To sa nepýta = ça ne se demande pas
 
-! 🦊🧢 Ja mám deväť rokov.
+! 🧢 Ja mám deväť rokov.
 > Moi, j'ai neuf ans.
 > Ja mám = moi, j'ai
 > deväť rokov = neuf ans
@@ -156,7 +156,7 @@ Pour l'âge, on « a » des années, et le mot change avec le nombre :
 > Ste = vous êtes
 > Francúzi = des Français
 
-! 🦊🧢 Áno, sme Francúzi. Sme z Lyonu.
+! 🧢 Áno, sme Francúzi. Sme z Lyonu.
 > Oui, nous sommes français. Nous sommes de Lyon.
 > sme = nous sommes
 > Francúzi = des Français

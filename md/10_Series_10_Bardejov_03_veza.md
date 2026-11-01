@@ -44,7 +44,7 @@ Le slovaque a souvent deux verbes pour la même action : l'un pour **le chemin**
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -58,7 +58,7 @@ Le slovaque a souvent deux verbes pour la même action : l'un pour **le chemin**
 > jedenásť starých gotických oltárov = onze vieux autels gothiques
 > Vonku je vysoká veža = dehors, il y a une haute tour
 
-! 🦊🧢 Ideme hore na vežu?
+! 🧢 Ideme hore na vežu?
 > On monte en haut de la tour ?
 
 ! 🦊 Nie. Ja nejdem. Včera sme vyšli na hrad. Predvčerom sme vyšli na rebríky. Dnes nevyjdem nikam.

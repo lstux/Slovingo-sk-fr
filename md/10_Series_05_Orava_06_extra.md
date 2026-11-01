@@ -66,7 +66,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧑‍💼 La réception, une adulte : on la vouvoie
 - 💬 Le narrateur
@@ -101,7 +101,7 @@
 ! 🦊 Áno, to je Hugo.
 > Oui, c'est Hugo.
 
-! 🦊🧢 Nie som to ja! Ja nespím!
+! 🧢 Nie som to ja! Ja nespím!
 > Ce n'est pas moi ! Je ne dors pas !
 > Nie som to ja = ce n'est pas moi
 > Ja nespím = je ne dors pas
@@ -109,7 +109,7 @@
 ! 🐰 Ty nespíš?
 > Tu ne dors pas ?
 
-! 🦊🧢 Nie. Počúvam.
+! 🧢 Nie. Počúvam.
 > Non. J'écoute.
 > Počúvam = j'écoute
 
@@ -127,7 +127,7 @@
 > Taká malá zajačica = une si petite hase
 > a tak nahlas = et si fort
 
-! 🦊🧢 Je to horšie ako upír.
+! 🧢 Je to horšie ako upír.
 > C'est pire qu'un vampire.
 > Je to horšie = c'est pire
 > ako upír = qu'un vampire

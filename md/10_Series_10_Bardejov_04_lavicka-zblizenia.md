@@ -46,7 +46,7 @@ Déjà vus, à revoir : {{padať}}.
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -97,7 +97,7 @@ Déjà vus, à revoir : {{padať}}.
 > sa šmýkajú = glissent
 > Lola padá na Huga = Lola tombe sur Hugo
 
-! 🦊🧢 Lola! Je to ako v aute! Vždy si na mne!
+! 🧢 Lola! Je to ako v aute! Vždy si na mne!
 > Lola ! C'est comme dans la voiture ! Tu es toujours sur moi !
 > ako v aute = comme dans la voiture
 > Vždy si na mne = tu es toujours sur moi

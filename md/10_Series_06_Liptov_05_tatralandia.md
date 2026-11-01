@@ -22,7 +22,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -48,7 +48,7 @@
 > celý rok = toute l'année
 + Mot nouveau signalé : {{termálny}} = thermal.
 
-! 🦊🧢 Ujo, poď na tobogan!
+! 🧢 Ujo, poď na tobogan!
 > Tonton, viens sur le toboggan !
 > poď na tobogan = viens sur le toboggan
 
@@ -88,7 +88,7 @@
 > Poďme = allons-y
 + Mot nouveau signalé : {{ešte raz}} = encore une fois. Et {{Poďme!}} = allons-y !
 
-! 🦊🧢 Ujo, si ako banán na tobogane.
+! 🧢 Ujo, si ako banán na tobogane.
 > Tonton, tu es comme une banane sur un toboggan.
 > si ako banán = tu es comme une banane
 > na tobogane = sur un toboggan

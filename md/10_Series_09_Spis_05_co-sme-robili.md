@@ -22,7 +22,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧓 Pán domáci, le patron de la maison : on le vouvoie
 - 💬 Le narrateur
@@ -41,7 +41,7 @@
 > Alors, les enfants, qu'est-ce que vous avez fait aujourd'hui ?
 > čo ste dnes robili = qu'avez-vous fait aujourd'hui
 
-! 🦊🧢 Videl som veľký hrad!
+! 🧢 Videl som veľký hrad!
 > J'ai vu un grand château !
 > Videl som = j'ai vu (un garçon)
 + Mot nouveau signalé : {{videl som}} (un homme, un garçon), {{videla som}} (une femme, une fille).
@@ -50,7 +50,7 @@
 > Et moi, j'ai vu une cage !
 > ja som videla = j'ai vu (une fille)
 
-! 🦊🧢 A ujo bol v klietke!
+! 🧢 A ujo bol v klietke!
 > Et tonton était dans la cage !
 > ujo bol v klietke = tonton était dans la cage
 
@@ -72,7 +72,7 @@
 > Len päť minút = seulement cinq minutes
 + Erreur de genre : un homme dit {{bol som}}. {{bola som}}, c'est pour une femme.
 
-! 🦊🧢 Bola? Ujo, ty si zajačica?
+! 🧢 Bola? Ujo, ty si zajačica?
 > « Bola » ? Tonton, tu es une hase ?
 > ty si zajačica = tu es une hase
 

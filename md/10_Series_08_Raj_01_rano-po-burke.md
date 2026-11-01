@@ -51,7 +51,7 @@ Les sentiers slovaques sont balisés en **rouge, bleu, vert et jaune** : {{červ
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -69,7 +69,7 @@ Les sentiers slovaques sont balisés en **rouge, bleu, vert et jaune** : {{červ
 > Aujourd'hui, on va au Slovenský raj.
 > do Slovenského raja = au Paradis slovaque
 
-! 🦊🧢 Do raja? Ako v nebi?
+! 🧢 Do raja? Ako v nebi?
 > Au paradis ? Comme au ciel ?
 > Do raja = au paradis
 > Ako v nebi = comme au ciel
@@ -116,7 +116,7 @@ Les sentiers slovaques sont balisés en **rouge, bleu, vert et jaune** : {{červ
 > môžeme ísť len hore = nous ne pouvons que monter
 > Dole nemôžeme = nous ne pouvons pas descendre
 
-! 🦊🧢 Prečo?
+! 🧢 Prečo?
 > Pourquoi ?
 
 ! 🐰 Lebo rebríky sú úzke. Ľudia sa na nich nemôžu obísť.

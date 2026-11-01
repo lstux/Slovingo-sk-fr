@@ -22,7 +22,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧑‍🔧 Le gardien du camping, un adulte : on le vouvoie
 - 🧭 Navigácia, la navigation de la voiture (elle te vouvoie)
@@ -75,7 +75,7 @@
 > Ale je naopak = mais elle est à l'envers
 + Mot nouveau signalé : {{naopak}} = à l'envers.
 
-! 🦊🧢 Ujo, dvere sú hore.
+! 🧢 Ujo, dvere sú hore.
 > Tonton, la porte est en haut.
 > dvere sú hore = la porte est en haut
 
@@ -114,7 +114,7 @@
 > signál = le signal
 + À écouter : {{stratila som}}, « j'ai perdu », au passé et au féminin : c'est la navigation qui parle.
 
-! 🦊🧢 Navigácia nemá signál.
+! 🧢 Navigácia nemá signál.
 > La navigation n'a pas de signal.
 > nemá signál = n'a pas de signal
 

@@ -63,7 +63,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 📱 Claire, ta sœur, au téléphone
 - 💬 Le narrateur
@@ -110,7 +110,7 @@
 ! 💬 Deti sú v posteli.
 > Les enfants sont au lit.
 
-! 🦊🧢 Ujo, budeme v Tatrách spať v stane?
+! 🧢 Ujo, budeme v Tatrách spať v stane?
 > Tonton, dans les Tatras, on dormira sous la tente ?
 > budeme spať = nous dormirons
 > v Tatrách = dans les Tatras

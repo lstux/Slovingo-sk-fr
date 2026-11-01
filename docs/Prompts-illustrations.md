@@ -19,7 +19,7 @@ Une illustration par chapitre, pour la **fiche 05** (l'épisode), plus une pour 
 |---|---|---|
 | 🦊 | Gab | renard roux, la quarantaine, pointes d'oreilles gris foncé, quelques poils gris aux joues ; sweat zippé bleu, T-shirt blanc, sac à dos aux bretelles jaunes |
 | 🐰 | Andrea | hase grise, la quarantaine, bande blanche du front au museau, oreille gauche tombante (à droite sur l’image de référence) ; haut vert menthe |
-| 🦊🧢 | Hugo | renardeau, 9 ans ; casquette rouge, T-shirt rayé |
+| 🧢 | Hugo | renardeau, 9 ans ; casquette rouge, T-shirt rayé |
 | 🐇 | Lola | petite hase, 6 ans, fourrure sable clair (pas grise, pas de bande blanche) ; robe jaune |
 | 🧑 | Les humains | adultes ordinaires, même style 2D, désignés par leur fonction (hôte, guide…) |
 

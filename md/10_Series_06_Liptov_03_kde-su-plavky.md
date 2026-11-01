@@ -44,7 +44,7 @@ Avec {{v}}, on est déjà dedans. Avec {{do}}, on y va.
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -58,7 +58,7 @@ Avec {{v}}, on est déjà dedans. Avec {{do}}, on y va.
 > pred Tatralandiou = devant Tatralandia
 > veľký aquapark = un grand aquaparc
 
-! 🦊🧢 Aquapark! Ideme plávať!
+! 🧢 Aquapark! Ideme plávať!
 > Un aquaparc ! On va nager !
 > Ideme plávať = on va nager
 
@@ -83,7 +83,7 @@ Avec {{v}}, on est déjà dedans. Avec {{do}}, on y va.
 ! 🐰 [USER_NAME]!
 > [USER_NAME] !
 
-! 🦊🧢 Ujo!
+! 🧢 Ujo!
 > Tonton !
 
 ! 🐇 Ujo!

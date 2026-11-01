@@ -70,7 +70,7 @@ Pour dire **à quelle heure**, on utilise {{o}} et une forme spéciale du nombre
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -104,7 +104,7 @@ Pour dire **à quelle heure**, on utilise {{o}} et une forme spéciale du nombre
 > Cesta na Oravu = la route vers l'Orava
 > je dlhá = est longue
 
-! 🦊🧢 Ako dlhá?
+! 🧢 Ako dlhá?
 > Longue comment ?
 > Ako dlhá = longue comment
 
@@ -113,7 +113,7 @@ Pour dire **à quelle heure**, on utilise {{o}} et une forme spéciale du nombre
 > Dve a pol hodiny = deux heures et demie
 > Možno tri = peut-être trois
 
-! 🦊🧢 Tri hodiny? Ujo, už sme tam?
+! 🧢 Tri hodiny? Ujo, už sme tam?
 > Trois heures ? Tonton, on est arrivés ?
 > Tri hodiny = trois heures
 > už sme tam = on est arrivés

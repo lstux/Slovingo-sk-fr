@@ -22,7 +22,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -47,7 +47,7 @@
 > Chutí ako železo = ça a le goût du fer
 + Mot nouveau signalé : {{železo}} = le fer.
 
-! 🦊🧢 Chutí ako stará minca z Kremnice.
+! 🧢 Chutí ako stará minca z Kremnice.
 > Ça a le goût d'une vieille pièce de Kremnica.
 
 ! 🐰 Je to zdravé.
@@ -66,7 +66,7 @@
 > drevený kostol = une église en bois
 + Mot nouveau signalé : {{skanzen}} = le musée en plein air.
 
-! 🦊🧢 Drevený kostol! Ako v Tvrdošíne!
+! 🧢 Drevený kostol! Ako v Tvrdošíne!
 > Une église en bois ! Comme à Tvrdošín !
 
 ! 🐰 Áno. Tento skanzen je najstarší na Slovensku.

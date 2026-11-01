@@ -65,7 +65,7 @@
 > Je ako = il est comme
 > francúzske zámky = les châteaux français
 
-! 🦊🧢 Je to hrad alebo zámok?
+! 🧢 Je to hrad alebo zámok?
 > C'est un château fort ou un château ?
 > Je to = c'est
 > hrad = un château fort

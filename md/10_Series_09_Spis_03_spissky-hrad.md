@@ -40,7 +40,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -60,7 +60,7 @@
 > jeden z najväčších hradov = l'un des plus grands châteaux
 > v strednej Európe = en Europe centrale
 
-! 🦊🧢 Je väčší ako Oravský hrad?
+! 🧢 Je väčší ako Oravský hrad?
 > Il est plus grand que le château d'Orava ?
 > Je väčší ako = il est plus grand que
 
@@ -87,7 +87,7 @@
 > bohatí páni = de riches seigneurs
 > Mali vojakov a kone = ils avaient des soldats et des chevaux
 
-! 🦊🧢 A kde sú teraz?
+! 🧢 A kde sú teraz?
 > Et ils sont où maintenant ?
 > kde sú teraz = où sont-ils maintenant
 

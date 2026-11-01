@@ -46,7 +46,7 @@ Beaucoup de noms de personnes ont une forme féminine en **-ka** : {{žiak}} →
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🐰🌷 Marta, la maman d'Andrea
 - 💬 Le narrateur
@@ -67,7 +67,7 @@ Beaucoup de noms de personnes ont une forme féminine en **-ka** : {{žiak}} →
 > do školy = à l'école
 > za kostolom = derrière l'église
 
-! 🦊🧢 Bola si dobrá žiačka?
+! 🧢 Bola si dobrá žiačka?
 > Tu étais une bonne élève ?
 > Bola si = tu étais
 > dobrá žiačka = une bonne élève

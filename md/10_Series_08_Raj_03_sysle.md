@@ -44,7 +44,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -67,7 +67,7 @@
 > To sú sysle = ce sont des spermophiles
 > je menší ako svišť = est plus petit que la marmotte
 
-! 🦊🧢 A je rýchlejší?
+! 🧢 A je rýchlejší?
 > Et il est plus rapide ?
 > je rýchlejší = est plus rapide
 

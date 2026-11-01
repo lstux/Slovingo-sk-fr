@@ -46,7 +46,7 @@ Le guide vouvoie le groupe :
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧑‍🏫 Le guide, un adulte : on le vouvoie
 - 💬 Le narrateur
@@ -66,7 +66,7 @@ Le guide vouvoie le groupe :
 > Patria medzi najstaršie = elles font partie des plus anciennes
 > na svete = du monde
 
-! 🦊🧢 Čo je opál?
+! 🧢 Čo je opál?
 > C'est quoi, une opale ?
 
 ! 🐰 Kameň. Má všetky farby. Ako dúha.

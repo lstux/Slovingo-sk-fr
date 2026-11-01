@@ -44,7 +44,7 @@ Déjà vus, à revoir : {{najväčší}}.
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -61,7 +61,7 @@ Déjà vus, à revoir : {{najväčší}}.
 > Dóm svätej Alžbety = la cathédrale Sainte-Élisabeth
 > najväčší kostol na Slovensku = la plus grande église de Slovaquie
 
-! 🦊🧢 Väčší ako v Levoči?
+! 🧢 Väčší ako v Levoči?
 > Plus grande qu'à Levoča ?
 
 ! 🐰 Väčší. Ale oltár v Levoči je vyšší.
@@ -98,7 +98,7 @@ Déjà vus, à revoir : {{najväčší}}.
 ! 🐇 Ako v rozprávke!
 > Comme dans un conte !
 
-! 🦊🧢 Lola, u teba je všetko ako v rozprávke.
+! 🧢 Lola, u teba je všetko ako v rozprávke.
 > Lola, pour toi, tout est comme dans un conte.
 > u teba = pour toi, chez toi
 

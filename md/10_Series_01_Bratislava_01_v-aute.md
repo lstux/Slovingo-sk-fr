@@ -54,7 +54,7 @@ Tu connais déjà {{som}}, {{si}} et {{je}}. Voici tout le verbe :
 ## Les personnages
 
 - 🦊 Toi, l'oncle de Hugo et Lola
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧭 Navigácia, la navigation de la voiture (elle te vouvoie)
 
@@ -74,7 +74,7 @@ Tu connais déjà {{som}}, {{si}} et {{je}}. Voici tout le verbe :
 > Doprava = à droite
 > Dobre = bien, d'accord
 
-! 🦊🧢 Ujo, už sme tam?
+! 🧢 Ujo, už sme tam?
 > Tonton, on est arrivés ?
 > Ujo = tonton
 > už = déjà
@@ -113,7 +113,7 @@ Tu connais déjà {{som}}, {{si}} et {{je}}. Voici tout le verbe :
 > Sme = nous sommes
 > tu = ici
 
-! 🦊🧢 Konečne!
+! 🧢 Konečne!
 > Enfin !
 > Konečne = enfin
 

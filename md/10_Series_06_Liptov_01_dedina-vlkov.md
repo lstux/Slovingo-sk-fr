@@ -49,7 +49,7 @@ Déjà vus, à revoir : {{dedina}}.
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -77,7 +77,7 @@ Déjà vus, à revoir : {{dedina}}.
 > prichádza sem = vient ici
 > veľa turistov = beaucoup de touristes
 
-! 🦊🧢 Prečo toľko turistov?
+! 🧢 Prečo toľko turistov?
 > Pourquoi autant de touristes ?
 > Prečo = pourquoi
 > toľko turistov = autant de touristes

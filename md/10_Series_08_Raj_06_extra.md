@@ -63,7 +63,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 📱 Claire, ta sœur, au téléphone
 - 💬 Le narrateur
@@ -90,13 +90,13 @@
 > Hugo. Hugo ! Réveille-toi.
 > Zobuď sa = réveille-toi
 
-! 🦊🧢 Čo je?
+! 🧢 Čo je?
 > Quoi ?
 
 ! 🐇 Kto chrápe?
 > Qui ronfle ?
 
-! 🦊🧢 Ja nie. Ty?
+! 🧢 Ja nie. Ty?
 > Pas moi. Toi ?
 
 ! 🐇 Ja nie. Počúvaj.
@@ -136,7 +136,7 @@
 ! 🦊 To nie som ja.
 > Ce n'est pas moi.
 
-! 🦊🧢 Si to ty. To je tvoja posteľ. A to je tvoj hlas.
+! 🧢 Si to ty. To je tvoja posteľ. A to je tvoj hlas.
 > C'est toi. C'est ton lit. Et c'est ta voix.
 > To je tvoja posteľ = c'est ton lit
 > tvoj hlas = ta voix
@@ -151,7 +151,7 @@
 > Bon. Bon. Je suis le meilleur ronfleur du monde.
 > najlepší chrápač = le meilleur ronfleur
 
-! 🦊🧢 Pošleme to mame!
+! 🧢 Pošleme to mame!
 > On l'envoie à maman !
 > Pošleme to mame = nous allons l'envoyer à maman
 
@@ -172,7 +172,7 @@
 > Ha ha ha ! [USER_NAME], tu ronfles comme un ours !
 > chrápeš ako medveď = tu ronfles comme un ours
 
-! 🦊🧢 Ujo, konečne som videl medveďa.
+! 🧢 Ujo, konečne som videl medveďa.
 > Tonton, j'ai enfin vu un ours.
 > konečne som videl = j'ai enfin vu
 > medveďa = un ours

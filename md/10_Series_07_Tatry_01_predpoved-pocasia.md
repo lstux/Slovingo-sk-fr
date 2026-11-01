@@ -54,7 +54,7 @@ Le futur de {{byť}} :
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -91,7 +91,7 @@ Le futur de {{byť}} :
 > Ak bude búrka = s'il y a un orage
 > budeme spať v aute = nous dormirons dans la voiture
 
-! 🦊🧢 Nie! Chceme spať v stane!
+! 🧢 Nie! Chceme spať v stane!
 > Non ! On veut dormir sous la tente !
 > Chceme spať = nous voulons dormir
 
@@ -120,7 +120,7 @@ Le futur de {{byť}} :
 > musíme si vziať aj = nous devons aussi prendre
 > dáždniky = des parapluies
 
-! 🦊🧢 A stan.
+! 🧢 A stan.
 > Et la tente.
 
 ! 🦊 A stan. Samozrejme.

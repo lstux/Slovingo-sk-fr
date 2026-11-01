@@ -48,7 +48,7 @@ En slovaque, c'est la chose qui « plaît » : elle est le sujet.
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧑‍🦰 La vendeuse, une adulte : on la vouvoie
 - 💬 Le narrateur
@@ -84,7 +84,7 @@ En slovaque, c'est la chose qui « plaît » : elle est le sujet.
 > Nepáčia sa mi = ne me plaisent pas
 > Chcem ružové = je veux des roses
 
-! 🦊🧢 A ja chcem modré. So žralokom.
+! 🧢 A ja chcem modré. So žralokom.
 > Et moi, je veux un bleu. Avec un requin.
 > A ja chcem modré = et moi, je veux des bleus
 > So žralokom = avec un requin
@@ -124,7 +124,7 @@ En slovaque, c'est la chose qui « plaît » : elle est le sujet.
 > Sú to posledné plavky = c'est le dernier maillot
 > v mojej veľkosti = à ma taille
 
-! 🦊🧢 Ujo, vyzeráš ako banán.
+! 🧢 Ujo, vyzeráš ako banán.
 > Tonton, tu ressembles à une banane.
 > vyzeráš ako banán = tu ressembles à une banane
 

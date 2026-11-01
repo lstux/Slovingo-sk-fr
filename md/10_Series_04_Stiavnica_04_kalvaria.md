@@ -58,7 +58,7 @@ Déjà vus, à revoir : {{rovnaký}}, {{zajtra}}.
 > Tam hore = là-haut
 > Je krásna = il est magnifique
 
-! 🦊🧢 Je to ďaleko?
+! 🧢 Je to ďaleko?
 > C'est loin ?
 > Je to ďaleko = c'est loin
 
@@ -82,7 +82,7 @@ Déjà vus, à revoir : {{rovnaký}}, {{zajtra}}.
 > Vy dvaja = vous deux
 > ste rovnakí = vous êtes pareils
 
-! 🦊🧢 Ja chcem ísť hore!
+! 🧢 Ja chcem ísť hore!
 > Moi, je veux monter !
 > Ja chcem ísť hore = moi, je veux aller en haut
 
@@ -91,7 +91,7 @@ Déjà vus, à revoir : {{rovnaký}}, {{zajtra}}.
 > Výborne = bravo, très bien
 > Ideme = on y va
 
-! 🦊🧢 Zajtra.
+! 🧢 Zajtra.
 > Demain.
 > Zajtra = demain
 

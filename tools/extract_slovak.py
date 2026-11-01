@@ -19,7 +19,7 @@ MD = ROOT / "md"
 OUT = ROOT / "docs" / "Texte-slovaque.md"
 
 NAMES = {
-    "🦊": "Gab", "🐰": "Andrea", "🦊🧢": "Hugo", "🐇": "Lola", "📱": "Claire",
+    "🦊": "Gab", "🐰": "Andrea", "🧢": "Hugo", "🐇": "Lola", "📱": "Claire",
     "🧭": "GPS", "💬": "narrateur",
 }
 

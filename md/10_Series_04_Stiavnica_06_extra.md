@@ -64,7 +64,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -81,7 +81,7 @@
 > prvé hviezdy = les premières étoiles
 + Mot nouveau signalé : {{hviezda}} = l'étoile.
 
-! 🦊🧢 Ujo, mám hlad.
+! 🧢 Ujo, mám hlad.
 > Tonton, j'ai faim.
 > mám hlad = j'ai faim
 
@@ -123,7 +123,7 @@
 > Du gâteau pour le dîner ? Super !
 > Koláč na večeru = du gâteau pour le dîner
 
-! 🦊🧢 To je najlepšia večera!
+! 🧢 To je najlepšia večera!
 > C'est le meilleur dîner !
 > To je = c'est
 > najlepšia večera = le meilleur dîner

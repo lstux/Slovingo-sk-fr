@@ -6,7 +6,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 ## Conventions
 
-- Une réplique par ligne. Avatars : `🦊` Gab, `🐰` Andrea, `🦊🧢` Hugo, `🐇` Lola, `📱` Claire (au téléphone), `🧭` la navigation, `💬` le narrateur neutre (quand la navigation n'est pas là). Famille d'Andrea (chapitre 11, avatars proposés) : `🐰🌷` Marta, sa mère, `🐰🎣` Ivan, son père, `🐑` babka Zuzana, sa grand-mère (clin d'œil à Kids, où babka Zuzana est la grand-mère des cousins d'Andrea). Les humains par fonction, un emoji par fonction (voir `Format-roadtrip.md`, §3), par exemple `🧑‍💼` la réception.
+- Une réplique par ligne. Avatars : `🦊` Gab, `🐰` Andrea, `🧢` Hugo, `🐇` Lola, `📱` Claire (au téléphone), `🧭` la navigation, `💬` le narrateur neutre (quand la navigation n'est pas là). Famille d'Andrea (chapitre 11, avatars proposés) : `🐰🌷` Marta, sa mère, `🐰🎣` Ivan, son père, `🐑` babka Zuzana, sa grand-mère (clin d'œil à Kids, où babka Zuzana est la grand-mère des cousins d'Andrea). Les humains par fonction, un emoji par fonction (voir `Format-roadtrip.md`, §3), par exemple `🧑‍💼` la réception.
 - **Gab** s'écrit « Gab » dans ce document. Dans les fiches, ce sera `[USER_NAME]`, jamais décliné.
 - **Genre** : Gab et Hugo au masculin, Andrea, Lola et la navigation au féminin.
 - **Tutoiement** entre Gab, Andrea et les enfants ; **vouvoiement** avec les inconnus ; la navigation vouvoie. **Exception voulue** : Gab retombe dans le *vy* avec Andrea, et elle le reprend.
@@ -45,7 +45,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Doprava. Dobre.
 
-🦊🧢 Ujo, už sme tam?
+🧢 Ujo, už sme tam?
 
 🦊 Ešte nie, Hugo.
 
@@ -59,7 +59,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Áno! Sme tu! Bratislava!
 
-🦊🧢 Konečne!
+🧢 Konečne!
 
 🐇 Kde je Andrea?
 
@@ -93,17 +93,17 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 To vidím.
 
-🦊🧢 Koľko máš rokov?
+🧢 Koľko máš rokov?
 
 🐰 To sa nepýta, Hugo.
 
-🦊🧢 Ja mám deväť rokov.
+🧢 Ja mám deväť rokov.
 
 🐇 A ja mám šesť rokov!
 
 🐰 Ste Francúzi?
 
-🦊🧢 Áno, sme Francúzi. Sme z Lyonu.
+🧢 Áno, sme Francúzi. Sme z Lyonu.
 
 🐰 A ja som Slovenka. Som z Prešova.
 
@@ -115,7 +115,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 To je Čumil. Je to socha.
 
-🦊🧢 Čo robí v kanáli?
+🧢 Čo robí v kanáli?
 
 🐰 Čumí.
 
@@ -129,7 +129,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Volá sa Modrý kostolík.
 
-🦊🧢 Je malý.
+🧢 Je malý.
 
 🐰 Áno, je malý. Preto „kostolík“.
 
@@ -137,7 +137,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Hore na kopci je hrad. Hrad je veľký a biely.
 
-🦊🧢 Ten hrad má veže! Jedna, dve, tri, štyri!
+🧢 Ten hrad má veže! Jedna, dve, tri, štyri!
 
 🐰 Áno. Hrad má štyri veže.
 
@@ -147,7 +147,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Áno. Volá sa UFO. Je to reštaurácia.
 
-🦊🧢 Reštaurácia v UFO? Super!
+🧢 Reštaurácia v UFO? Super!
 
 🦊 Je to drahé?
 
@@ -163,7 +163,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Džús je môj!
 
-🦊🧢 Nie, môj!
+🧢 Nie, môj!
 
 🐰 Džús je pre deti. Víno je pre nás.
 
@@ -183,7 +183,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Na zdravie!
 
-🦊🧢 Na zdravie!
+🧢 Na zdravie!
 
 💬 Lola tiež dvíha pohár. Vysoko. Veľmi vysoko.
 
@@ -191,7 +191,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Džús je na stole. A na Hugovi.
 
-🦊🧢 Lola!
+🧢 Lola!
 
 💬 Zvoní telefón. Je to Claire.
 
@@ -209,7 +209,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Noc. Malý byt v Bratislave. Deti sú v posteli.
 
-🦊🧢 Ujo, kam ideme zajtra?
+🧢 Ujo, kam ideme zajtra?
 
 🦊 Zajtra ideme do Trenčína.
 
@@ -217,7 +217,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Nie. Hodinu a pol autom.
 
-🦊🧢 Je tam hrad?
+🧢 Je tam hrad?
 
 🦊 Áno. Veľký hrad na skale.
 
@@ -269,7 +269,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Rovno. Dobre.
 
-🦊🧢 Už sme tam?
+🧢 Už sme tam?
 
 🦊 Hugo, ideme iba dve minúty!
 
@@ -299,11 +299,11 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Jednu kávu, prosím.
 
-🦊🧢 A jednu zmrzlinu!
+🧢 A jednu zmrzlinu!
 
 🦊 Ráno? Nie.
 
-🦊🧢 Prečo nie?
+🧢 Prečo nie?
 
 🐰 Lebo ráno je čas na kávu.
 
@@ -313,7 +313,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Toto je Kolonádový most. A toto je Barlolámač.
 
-🦊🧢 Barlo... čo?
+🧢 Barlo... čo?
 
 🐰 Barlolámač. Pozri. Pán láme barlu.
 
@@ -329,7 +329,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Teplá voda. A bahno.
 
-🦊🧢 Bahno? Fuj!
+🧢 Bahno? Fuj!
 
 🐇 Ja chcem bahno!
 
@@ -339,7 +339,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Trenčín. Nad mestom je veľká skala. Na skale je hrad.
 
-🦊🧢 Ten hrad je na skale! Super!
+🧢 Ten hrad je na skale! Super!
 
 🐰 A na skale je aj rímsky nápis. Je veľmi starý.
 
@@ -347,11 +347,11 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Tam dole. Pod hradom.
 
-🦊🧢 Aký starý?
+🧢 Aký starý?
 
 🐰 Skoro dvetisíc rokov.
 
-🦊🧢 Starší ako ujo?
+🧢 Starší ako ujo?
 
 🦊 Ďakujem, Hugo.
 
@@ -389,7 +389,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Táto posteľ je moja!
 
-🦊🧢 Nie, moja!
+🧢 Nie, moja!
 
 🦊 Táto je Lolina. Táto je Hugova. A táto je moja. Hotovo.
 
@@ -405,7 +405,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Kto chrápe?
 
-🦊🧢 Ja nie.
+🧢 Ja nie.
 
 🐇 Ja tiež nie.
 
@@ -441,7 +441,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Dobrú noc, Gab.
 
-🦊🧢 Ujo, zajtra spím v aute.
+🧢 Ujo, zajtra spím v aute.
 
 **Faits à vérifier (chapitre 2)**
 - Piešťany : le Barlolámač, statue en bronze de Robert Kühmayer (1933) sur la façade du Kolonádový most, symbole des sources thermales (vérifié, [SITA](https://sita.sk/piestansky-symbol-pre-zly-technicky-stav-presiel-obnovou-socha-barlolamaca-ma-pod-nohami-vynovenu-fontanu/)).
@@ -459,7 +459,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Ráno. Auto ide do Bojníc.
 
-🦊🧢 Ujo, čo chceme dnes vidieť?
+🧢 Ujo, čo chceme dnes vidieť?
 
 🦊 Dnes chceme vidieť zámok.
 
@@ -479,7 +479,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🧭 Prepočítavam trasu.
 
-🦊🧢 Ujo, navigácia je nervózna.
+🧢 Ujo, navigácia je nervózna.
 
 ## Scéna 2 — Zámok
 
@@ -489,7 +489,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Presne tak. Je ako francúzske zámky.
 
-🦊🧢 Je to hrad alebo zámok?
+🧢 Je to hrad alebo zámok?
 
 🐰 Zámok. Hrad je na obranu. Zámok je na bývanie.
 
@@ -509,13 +509,13 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Vidím medveďa! Veľkého medveďa!
 
-🦊🧢 A ja vidím opice!
+🧢 A ja vidím opice!
 
 🐇 Pozri, ujo! Líška!
 
 🦊 Hm. To je moja sesternica.
 
-🦊🧢 Naozaj?
+🧢 Naozaj?
 
 🦊 Nie.
 
@@ -529,7 +529,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Chcem. A ty si nemožný.
 
-🦊🧢 Aj my chceme zmrzlinu!
+🧢 Aj my chceme zmrzlinu!
 
 🦊 Dobre. Štyri zmrzliny.
 
@@ -539,13 +539,13 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Toto je lipa kráľa Mateja. Má viac ako sedemsto rokov.
 
-🦊🧢 Sedemsto rokov! Je staršia ako ujo!
+🧢 Sedemsto rokov! Je staršia ako ujo!
 
 🦊 Hugo, prosím.
 
 🐰 Podľa legendy ju zasadil Matúš Čák.
 
-🦊🧢 Matúš? Ako Matúšova veža v Trenčíne?
+🧢 Matúš? Ako Matúšova veža v Trenčíne?
 
 🐰 Áno. Ten istý Matúš.
 
@@ -557,7 +557,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Tu sa robia mince. Aj slovenské eurá.
 
-🦊🧢 Eurá? Tu? V Kremnici?
+🧢 Eurá? Tu? V Kremnici?
 
 🐰 Áno. Aj euro v tvojom vrecku môže byť z Kremnice.
 
@@ -569,7 +569,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🧑‍🦰 Pätnásť eur.
 
-🦊🧢 Ja mám dve eurá.
+🧢 Ja mám dve eurá.
 
 🐇 A ja mám jedno euro!
 
@@ -587,7 +587,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Neďaleko je aj stred Európy.
 
-🦊🧢 Stred Európy? Tu?
+🧢 Stred Európy? Tu?
 
 🐰 Jeden zo stredov. Európa má veľa stredov.
 
@@ -605,13 +605,13 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🧓 Tu je izba pre vás a tu je izba pre pani. Chcete koláč?
 
-🦊🧢 Áno!
+🧢 Áno!
 
 🐇 Áno!
 
 🦊 Ďakujeme, nechceme...
 
-🦊🧢 Chceme! Chceme!
+🧢 Chceme! Chceme!
 
 🧓 Deti chcú koláč. Deti majú pravdu.
 
@@ -660,7 +660,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Tu sa hovorí „Zdar Boh“. Je to banícky pozdrav.
 
-🦊🧢 Zdar Boh!
+🧢 Zdar Boh!
 
 🐇 Zdar Boh!
 
@@ -682,7 +682,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Moja prilba je veľká.
 
-🦊🧢 Aj moja.
+🧢 Aj moja.
 
 🦊 Moja je malá.
 
@@ -692,7 +692,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🧑‍🏫 Táto baňa je veľmi stará. Má viac ako tristo rokov.
 
-🦊🧢 Je tu zima.
+🧢 Je tu zima.
 
 🐇 A je tu tma. Ujo, kde si?
 
@@ -706,7 +706,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Dám si bryndzové halušky. A jeden pivo.
 
-🦊🧢 Ujo! Jedno pivo!
+🧢 Ujo! Jedno pivo!
 
 🧑‍🍳 Jedno pivo. Dobre.
 
@@ -716,17 +716,17 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Mám smäd! Dám si kofolu.
 
-🦊🧢 A ja mám hlad. Čo sú halušky?
+🧢 A ja mám hlad. Čo sú halušky?
 
 🐰 Halušky sú ako malé cestoviny. S bryndzou. Bryndza je syr z ovčieho mlieka.
 
-🦊🧢 Tak si dám halušky.
+🧢 Tak si dám halušky.
 
 💬 Jedlo je na stole. Hugo zje všetko. Lola ochutná a prestane.
 
 🐇 Fuj. Je to kyslé.
 
-🦊🧢 Nie je! Je to výborné!
+🧢 Nie je! Je to výborné!
 
 🐇 Nie je to dobré. Chcem hranolky.
 
@@ -742,7 +742,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Pozrite! Tam hore je Kalvária. Je krásna.
 
-🦊🧢 Je to ďaleko?
+🧢 Je to ďaleko?
 
 🐰 Trochu. Ideme hore?
 
@@ -752,11 +752,11 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Vy dvaja ste rovnakí.
 
-🦊🧢 Ja chcem ísť hore!
+🧢 Ja chcem ísť hore!
 
 🐰 Výborne, Hugo! Ideme?
 
-🦊🧢 Zajtra.
+🧢 Zajtra.
 
 🐰 Dobre. Tak sa pozeráme zdola. Aj zdola je krásna.
 
@@ -766,7 +766,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Toto je tajch Počúvadlo. Toto poznám!
 
-🦊🧢 Čo je tajch?
+🧢 Čo je tajch?
 
 🐰 Umelé jazero. Je staré. Voda z tajchov bola pre bane.
 
@@ -776,7 +776,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Áááá! Voda je studená!
 
-🦊🧢 Je veľmi studená! Ujo, poď!
+🧢 Je veľmi studená! Ujo, poď!
 
 🦊 Nie. Ja nejdem. Som opatrný.
 
@@ -798,7 +798,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Večer. Malá drevená chata pri tajchu. Na nebi sú prvé hviezdy.
 
-🦊🧢 Ujo, mám hlad.
+🧢 Ujo, mám hlad.
 
 🐇 Aj ja mám hlad. Čo máme na večeru?
 
@@ -816,7 +816,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Koláč na večeru? Super!
 
-🦊🧢 To je najlepšia večera!
+🧢 To je najlepšia večera!
 
 🐰 Ty si najhorší ujo na svete.
 
@@ -858,11 +858,11 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 O ôsmej. Cesta na Oravu je dlhá.
 
-🦊🧢 Ako dlhá?
+🧢 Ako dlhá?
 
 🐰 Dve a pol hodiny. Možno tri.
 
-🦊🧢 Tri hodiny? Ujo, už sme tam?
+🧢 Tri hodiny? Ujo, už sme tam?
 
 🦊 Hugo, ešte stojíme!
 
@@ -884,7 +884,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🧭 Prepočítavam trasu.
 
-🦊🧢 Zase?
+🧢 Zase?
 
 🦊 Prečo navigácia hovorí „odbočte“ a „choďte“? Prečo nie „odboč“?
 
@@ -908,7 +908,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Oravský Podzámok. Nad riekou je vysoká skala. Na skale je hrad. Hrad a skala sú ako jedno.
 
-🦊🧢 Ten hrad je strašidelný.
+🧢 Ten hrad je strašidelný.
 
 🐰 Áno. Tu natáčali starý film o upírovi. Nosferatu.
 
@@ -920,7 +920,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Gab, nestraš ju. Lola, upír tu nebýva. Je to len film.
 
-🦊🧢 Ideme hore?
+🧢 Ideme hore?
 
 🐰 Ideme hore. Je tam veľa schodov.
 
@@ -928,7 +928,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Uf. Som hore.
 
-🦊🧢 Ujo, si pomalý ako slimák.
+🧢 Ujo, si pomalý ako slimák.
 
 ## Scéna 4 — Drak v kostole
 
@@ -936,7 +936,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Tento kostol je z dreva. Je v UNESCO.
 
-🦊🧢 Celý z dreva?
+🧢 Celý z dreva?
 
 🐰 Celý.
 
@@ -964,7 +964,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Koľko je hodín?
 
-🦊🧢 O päť minút ide vlak!
+🧢 O päť minút ide vlak!
 
 🦊 Rýchlo! Poďte!
 
@@ -978,7 +978,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Vlak ide pomaly cez les. Hore, stále hore.
 
-🦊🧢 Tento vlak je pomalý.
+🧢 Tento vlak je pomalý.
 
 🐰 Ako ujo.
 
@@ -1004,11 +1004,11 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Áno, to je Hugo.
 
-🦊🧢 Nie som to ja! Ja nespím!
+🧢 Nie som to ja! Ja nespím!
 
 🐰 Ty nespíš?
 
-🦊🧢 Nie. Počúvam.
+🧢 Nie. Počúvam.
 
 💬 Všetci počúvajú. Chrápanie ide z Lolinej postele.
 
@@ -1016,7 +1016,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Taká malá zajačica... a tak nahlas!
 
-🦊🧢 Je to horšie ako upír.
+🧢 Je to horšie ako upír.
 
 💬 Lola sa zobúdza.
 
@@ -1049,7 +1049,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Nie. Tu bývajú ľudia. Len pár ľudí. A prichádza sem veľa turistov.
 
-🦊🧢 Prečo toľko turistov?
+🧢 Prečo toľko turistov?
 
 🐰 Lebo tieto domy sú staré a z dreva. Celá dedina je v UNESCO.
 
@@ -1065,7 +1065,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Táto zvonica je z roku 1770.
 
-🦊🧢 Ujo, je tu studňa? Chcem vidieť studňu.
+🧢 Ujo, je tu studňa? Chcem vidieť studňu.
 
 🦊 Neviem. Opýtam sa.
 
@@ -1085,7 +1085,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Poobede. Liptov. Auto stojí pred Tatralandiou. Je to veľký aquapark.
 
-🦊🧢 Aquapark! Ideme plávať!
+🧢 Aquapark! Ideme plávať!
 
 🐇 Ujo, kde sú plavky?
 
@@ -1097,7 +1097,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Gab!
 
-🦊🧢 Ujo!
+🧢 Ujo!
 
 🐇 Ujo!
 
@@ -1115,7 +1115,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Nie. Nepáčia sa mi. Chcem ružové.
 
-🦊🧢 A ja chcem modré. So žralokom.
+🧢 A ja chcem modré. So žralokom.
 
 🧑‍🦰 Tu sú modré so žralokom. A tu sú ružové.
 
@@ -1131,7 +1131,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Sú to posledné plavky v mojej veľkosti.
 
-🦊🧢 Ujo, vyzeráš ako banán.
+🧢 Ujo, vyzeráš ako banán.
 
 🦊 Ďakujem, Hugo.
 
@@ -1143,7 +1143,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Je to termálna voda. Je teplá celý rok.
 
-🦊🧢 Ujo, poď na tobogan!
+🧢 Ujo, poď na tobogan!
 
 🦊 Nie. Som opatrný.
 
@@ -1161,7 +1161,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Ešte raz! Poďme ešte raz!
 
-🦊🧢 Ujo, si ako banán na tobogane.
+🧢 Ujo, si ako banán na tobogane.
 
 ## Scéna 6 — Zajtra hory
 
@@ -1183,7 +1183,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Deti sú v posteli.
 
-🦊🧢 Ujo, budeme v Tatrách spať v stane?
+🧢 Ujo, budeme v Tatrách spať v stane?
 
 🦊 Áno. V stane.
 
@@ -1223,7 +1223,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Ak bude búrka, budeme spať v aute.
 
-🦊🧢 Nie! Chceme spať v stane!
+🧢 Nie! Chceme spať v stane!
 
 🐇 V stane! V stane!
 
@@ -1235,7 +1235,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 A musíme si vziať aj dáždniky.
 
-🦊🧢 A stan.
+🧢 A stan.
 
 🦊 A stan. Samozrejme.
 
@@ -1249,13 +1249,13 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Teraz nie. Ale voda je studená.
 
-🦊🧢 Ujo, môžeme ísť na loďku?
+🧢 Ujo, môžeme ísť na loďku?
 
 🦊 Môžeme.
 
 💬 Gab vesluje. Loďka ide... dookola.
 
-🦊🧢 Ujo, ideme dookola!
+🧢 Ujo, ideme dookola!
 
 🦊 Viem. To je okružná plavba.
 
@@ -1273,7 +1273,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Starý Smokovec. Malá lanovka ide hore po kopci, ako vlak. Ide na Hrebienok.
 
-🦊🧢 Vlak na kopec!
+🧢 Vlak na kopec!
 
 🐰 To je pozemná lanovka. Ide hore na Hrebienok.
 
@@ -1285,7 +1285,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Voda padá zo skál. Je biela a hlučná.
 
-🦊🧢 Je to krásne!
+🧢 Je to krásne!
 
 🐇 Môžem sa dotknúť vody?
 
@@ -1305,7 +1305,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Lomnický štít je veľmi vysoký. Hore je kaviareň.
 
-🦊🧢 Kaviareň na štíte? Super!
+🧢 Kaviareň na štíte? Super!
 
 💬 Pri Skalnatom plese stojí pracovník lanovky.
 
@@ -1321,7 +1321,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Zrazu niečo píska. Píí! Píí!
 
-🦊🧢 Čo to je?
+🧢 Čo to je?
 
 🐰 Pozrite, tam na kameni. To je svišť.
 
@@ -1353,7 +1353,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Desať minút. Dvadsať minút. Stan stojí. Ale je naopak.
 
-🦊🧢 Ujo, dvere sú hore.
+🧢 Ujo, dvere sú hore.
 
 🦊 Viem. To je... strešné okno.
 
@@ -1371,7 +1371,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🧭 Stratila som signál.
 
-🦊🧢 Navigácia nemá signál.
+🧢 Navigácia nemá signál.
 
 🐰 V horách nemá signál nikto. Ani navigácia.
 
@@ -1405,7 +1405,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Do stanu tečie voda. Spacáky sú mokré.
 
-🦊🧢 Ujo, môj spacák je mokrý!
+🧢 Ujo, môj spacák je mokrý!
 
 🐰 Gab. Ak bude ešte pršať...
 
@@ -1413,7 +1413,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Všetci bežia do auta. V aute je sucho a teplo.
 
-🦊🧢 Ujo, spím v aute. Ako som chcel v Trenčíne.
+🧢 Ujo, spím v aute. Ako som chcel v Trenčíne.
 
 🦊 Áno, Hugo. Konečne máš, čo chceš.
 
@@ -1445,7 +1445,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Dnes ideme do Slovenského raja.
 
-🦊🧢 Do raja? Ako v nebi?
+🧢 Do raja? Ako v nebi?
 
 🐰 Skoro. Sú tam rokliny, vodopády a rebríky.
 
@@ -1463,7 +1463,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Pozor. V tejto rokline môžeme ísť len hore. Dole nemôžeme.
 
-🦊🧢 Prečo?
+🧢 Prečo?
 
 🐰 Lebo rebríky sú úzke. Ľudia sa na nich nemôžu obísť.
 
@@ -1471,7 +1471,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Roklina je úzka. Všade je voda, kamene a mokré drevo.
 
-🦊🧢 Rebrík! Môžem ísť prvý?
+🧢 Rebrík! Môžem ísť prvý?
 
 🦊 Nie. Ja musím ísť prvý.
 
@@ -1481,7 +1481,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Gab ide hore. Pomaly. Veľmi pomaly.
 
-🦊🧢 Ujo, môžeš ísť rýchlejšie?
+🧢 Ujo, môžeš ísť rýchlejšie?
 
 🦊 Nemôžem. Rebrík je mokrý.
 
@@ -1489,7 +1489,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Tento rebrík je vyšší ako ten!
 
-🦊🧢 A tento je najvyšší!
+🧢 A tento je najvyšší!
 
 🐰 Pozrite. Vodopád.
 
@@ -1501,7 +1501,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Hore je les a slnko. Gab je červený a celý mokrý.
 
-🦊🧢 Ujo, si v poriadku?
+🧢 Ujo, si v poriadku?
 
 🦊 Som v poriadku. Som najopatrnejší ujo na svete.
 
@@ -1515,7 +1515,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Nie. To sú sysle. Syseľ je menší ako svišť.
 
-🦊🧢 A je rýchlejší?
+🧢 A je rýchlejší?
 
 🐰 Oveľa rýchlejší.
 
@@ -1545,7 +1545,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🧑‍🏫 Prosím, nedotýkajte sa ľadu.
 
-🦊🧢 Ujo, je tu chladnejšie ako v tajchu.
+🧢 Ujo, je tu chladnejšie ako v tajchu.
 
 🦊 Áno. Toto je najstudenšie miesto na Slovensku.
 
@@ -1555,7 +1555,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🧭 Stratila som signál.
 
-🦊🧢 Navigácia sa bojí jaskyne.
+🧢 Navigácia sa bojí jaskyne.
 
 ## Scéna 5 — Čo by si chcel?
 
@@ -1567,7 +1567,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Ja by som chcela ísť znova do Tatralandie.
 
-🦊🧢 Ja by som chcel vidieť medveďa. Naozajstného. Nie v zoo.
+🧢 Ja by som chcel vidieť medveďa. Naozajstného. Nie v zoo.
 
 🐰 To by som nechcela. Medvede sú nebezpečné.
 
@@ -1581,7 +1581,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Mám mamu, otca aj babku. Babka robí najlepšie pirohy na svete.
 
-🦊🧢 Lepšie ako koláč pána domáceho?
+🧢 Lepšie ako koláč pána domáceho?
 
 🐰 Oveľa lepšie.
 
@@ -1599,11 +1599,11 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Hugo. Hugo! Zobuď sa.
 
-🦊🧢 Čo je?
+🧢 Čo je?
 
 🐇 Kto chrápe?
 
-🦊🧢 Ja nie. Ty?
+🧢 Ja nie. Ty?
 
 🐇 Ja nie. Počúvaj.
 
@@ -1623,13 +1623,13 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 To nie som ja.
 
-🦊🧢 Si to ty. To je tvoja posteľ. A to je tvoj hlas.
+🧢 Si to ty. To je tvoja posteľ. A to je tvoj hlas.
 
 🐰 Ja nechrápem. Hugo nechrápe. Lola chrápe trochu. A ty chrápeš najviac.
 
 🦊 Dobre. Dobre. Som najlepší chrápač na svete.
 
-🦊🧢 Pošleme to mame!
+🧢 Pošleme to mame!
 
 🦊 Nie!
 
@@ -1639,7 +1639,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 📱 Ha ha ha! Gab, chrápeš ako medveď!
 
-🦊🧢 Ujo, konečne som videl medveďa.
+🧢 Ujo, konečne som videl medveďa.
 
 **Faits à vérifier (chapitre 8)**
 - Suchá Belá : gorge à sens unique (montée seulement), échelles, chaînes, cascades ; couleur du balisage (non citée dans le texte, à fixer) : à confirmer.
@@ -1661,7 +1661,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Toto je Levoča. Kedysi to bolo veľmi bohaté mesto.
 
-🦊🧢 Prečo bolo bohaté?
+🧢 Prečo bolo bohaté?
 
 🐰 Lebo tu boli obchodníci. Predávali a kupovali.
 
@@ -1671,7 +1671,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Nie. To je klietka hanby. Kedysi tam zatvárali zlých ľudí. Všetci sa na nich pozerali.
 
-🦊🧢 Ujo, poď dnu!
+🧢 Ujo, poď dnu!
 
 🦊 Prečo ja?
 
@@ -1679,7 +1679,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Gab stojí v klietke. Hugo fotí.
 
-🦊🧢 Pošleme to mame!
+🧢 Pošleme to mame!
 
 🦊 Nie! Už nie!
 
@@ -1693,11 +1693,11 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Tento oltár je vysoký skoro devätnásť metrov. Je to najvyšší gotický drevený oltár na svete.
 
-🦊🧢 Kto ho urobil?
+🧢 Kto ho urobil?
 
 🐰 Majster Pavol z Levoče. Robil ho desať rokov.
 
-🦊🧢 Desať rokov! Tak dlho ako ujo stavia stan.
+🧢 Desať rokov! Tak dlho ako ujo stavia stan.
 
 🦊 Hugo...
 
@@ -1715,7 +1715,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Spišský hrad. Je to jeden z najväčších hradov v strednej Európe.
 
-🦊🧢 Je väčší ako Oravský hrad?
+🧢 Je väčší ako Oravský hrad?
 
 🐰 Oveľa väčší.
 
@@ -1727,7 +1727,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Kedysi tu bývali bohatí páni. Mali vojakov a kone.
 
-🦊🧢 A kde sú teraz?
+🧢 A kde sú teraz?
 
 🐰 Teraz tu nebýva nikto. Len vietor a turisti.
 
@@ -1743,7 +1743,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Mesto pápeža v Ríme. Je malé a je v ňom veľa kostolov.
 
-🦊🧢 A tu býva pápež?
+🧢 A tu býva pápež?
 
 🐰 Nie. Ale je to tiež malé mesto a kostol je veľmi dôležitý.
 
@@ -1755,11 +1755,11 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🧓 Tak, deti, čo ste dnes robili?
 
-🦊🧢 Videl som veľký hrad!
+🧢 Videl som veľký hrad!
 
 🐇 A ja som videla klietku!
 
-🦊🧢 A ujo bol v klietke!
+🧢 A ujo bol v klietke!
 
 🧓 V klietke? Prečo?
 
@@ -1769,7 +1769,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Áno, ja som bola v klietke. Len päť minút.
 
-🦊🧢 Bola? Ujo, ty si zajačica?
+🧢 Bola? Ujo, ty si zajačica?
 
 🦊 Bol! Bol som v klietke!
 
@@ -1823,13 +1823,13 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 📱 Ahoj, deti! Čo ste včera robili?
 
-🦊🧢 Boli sme v Levoči! Videli sme veľký oltár!
+🧢 Boli sme v Levoči! Videli sme veľký oltár!
 
 🐇 A boli sme na hrade! Na obrovskom hrade!
 
 📱 Super! A čo robil ujo?
 
-🦊🧢 Ujo bol v klietke!
+🧢 Ujo bol v klietke!
 
 📱 V klietke?
 
@@ -1851,7 +1851,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Táto radnica je prvá renesančná stavba na Slovensku.
 
-🦊🧢 Prvá? Pred ňou nebola žiadna?
+🧢 Prvá? Pred ňou nebola žiadna?
 
 🐰 Pred ňou boli iné stavby. Ale nie renesančné.
 
@@ -1869,7 +1869,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Bazilika svätého Egídia. Vnútri je jedenásť starých gotických oltárov. Vonku je vysoká veža.
 
-🦊🧢 Ideme hore na vežu?
+🧢 Ideme hore na vežu?
 
 🦊 Nie. Ja nejdem. Včera sme vyšli na hrad. Predvčerom sme vyšli na rebríky. Dnes nevyjdem nikam.
 
@@ -1911,7 +1911,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Lola a Hugo sa šmýkajú. Až do stredu. Lola padá na Huga.
 
-🦊🧢 Lola! Je to ako v aute! Vždy si na mne!
+🧢 Lola! Je to ako v aute! Vždy si na mne!
 
 ## Scéna 5 — Kúpele a skanzen
 
@@ -1921,7 +1921,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Fuj! Chutí ako železo!
 
-🦊🧢 Chutí ako stará minca z Kremnice.
+🧢 Chutí ako stará minca z Kremnice.
 
 🐰 Je to zdravé.
 
@@ -1929,7 +1929,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 💬 Neďaleko je skanzen. Staré drevené domy, mlyn, drevený kostol.
 
-🦊🧢 Drevený kostol! Ako v Tvrdošíne!
+🧢 Drevený kostol! Ako v Tvrdošíne!
 
 🐰 Áno. Tento skanzen je najstarší na Slovensku.
 
@@ -2004,7 +2004,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰🌷 A toto sú deti? Ahoj, Hugo! Ahoj, Lola!
 
-🦊🧢 Ako vieš, ako sa voláme?
+🧢 Ako vieš, ako sa voláme?
 
 🐰🌷 Andrea mi všetko povedala.
 
@@ -2026,7 +2026,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐑 Ta co, deci? Hladne sce?
 
-🦊🧢 Čo?
+🧢 Čo?
 
 🐰 Babka hovorí po šarišsky. „Ta co“ je ako „tak čo“. Pýta sa, či ste hladní.
 
@@ -2050,7 +2050,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰🌷 Babka robí pirohy so zemiakmi a s bryndzou.
 
-🦊🧢 S bryndzou? Ako halušky?
+🧢 S bryndzou? Ako halušky?
 
 🐰 Áno. Ale toto sú pirohy.
 
@@ -2080,7 +2080,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Tu som chodila do školy. Tam, za kostolom.
 
-🦊🧢 Bola si dobrá žiačka?
+🧢 Bola si dobrá žiačka?
 
 🐰 Bola som veľmi dobrá žiačka.
 
@@ -2104,7 +2104,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Tu sa kedysi robila soľ. Zo slanej vody spod zeme.
 
-🦊🧢 Spod zeme?
+🧢 Spod zeme?
 
 🐰 Áno. Kone ťahali koleso a koleso ťahalo vodu hore. V kožených vedrách.
 
@@ -2114,7 +2114,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Potom vodu varili. Voda zmizla a zostala soľ.
 
-🦊🧢 Soľ z Prešova!
+🧢 Soľ z Prešova!
 
 🦊 Je soľ zdravá?
 
@@ -2183,11 +2183,11 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Škoda.
 
-🦊🧢 Ktorý deň bol najlepší?
+🧢 Ktorý deň bol najlepší?
 
 🐇 Ten, keď bol ujo v klietke.
 
-🦊🧢 Pre mňa ten, keď sme spali v aute.
+🧢 Pre mňa ten, keď sme spali v aute.
 
 🐰 Pre mňa ten, keď si sa šmýkal na tobogane, Gab. V žltých plavkách.
 
@@ -2203,7 +2203,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Toto je Dóm svätej Alžbety. Je to najväčší kostol na Slovensku.
 
-🦊🧢 Väčší ako v Levoči?
+🧢 Väčší ako v Levoči?
 
 🐰 Väčší. Ale oltár v Levoči je vyšší.
 
@@ -2223,7 +2223,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Ako v rozprávke!
 
-🦊🧢 Lola, u teba je všetko ako v rozprávke.
+🧢 Lola, u teba je všetko ako v rozprávke.
 
 🐇 Lebo všetko je ako v rozprávke.
 
@@ -2233,7 +2233,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Tu sú opálové bane. Patria medzi najstaršie na svete.
 
-🦊🧢 Čo je opál?
+🧢 Čo je opál?
 
 🐰 Kameň. Má všetky farby. Ako dúha.
 
@@ -2255,7 +2255,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Moja izba má okno na katedrálu!
 
-🦊🧢 A moja na strechy!
+🧢 A moja na strechy!
 
 🦊 A moja... na stenu.
 
@@ -2275,7 +2275,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Ja tiež. Som unavený, ale šťastný.
 
-🦊🧢 Mami, budúce leto pôjdeme znova!
+🧢 Mami, budúce leto pôjdeme znova!
 
 📱 Kam?
 
@@ -2299,7 +2299,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐰 Musím, Lola. Ale prídem do Lyonu. Možno.
 
-🦊🧢 Naozaj?
+🧢 Naozaj?
 
 🐰 Možno. Ak tam budú pirohy.
 
@@ -2325,7 +2325,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🧭 Trasa: viac ako tisíc kilometrov.
 
-🦊🧢 Ujo...
+🧢 Ujo...
 
 🐇 Už sme tam?
 

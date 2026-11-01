@@ -22,7 +22,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 📱 Claire, ta sœur, au téléphone
 - 💬 Le narrateur
@@ -53,7 +53,7 @@
 > Džús = le jus
 > je môj = est à moi
 
-! 🦊🧢 Nie, môj!
+! 🧢 Nie, môj!
 > Non, à moi !
 > Nie = non
 > môj = à moi
@@ -108,7 +108,7 @@
 > Santé !
 > Na zdravie = à la santé
 
-! 🦊🧢 Na zdravie!
+! 🧢 Na zdravie!
 > Santé !
 > Na zdravie = à la santé
 
@@ -129,7 +129,7 @@
 > je na stole = est sur la table
 > na Hugovi = sur Hugo
 
-! 🦊🧢 Lola!
+! 🧢 Lola!
 > Lola !
 
 ! 💬 Zvoní telefón. Je to Claire.

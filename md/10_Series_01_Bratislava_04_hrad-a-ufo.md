@@ -62,7 +62,7 @@ Un et deux changent selon le genre :
 > veľký = grand
 > biely = blanc
 
-! 🦊🧢 Ten hrad má veže! Jedna, dve, tri, štyri!
+! 🧢 Ten hrad má veže! Jedna, dve, tri, štyri!
 > Ce château a des tours ! Une, deux, trois, quatre !
 > Ten hrad = ce château
 > má = a
@@ -95,7 +95,7 @@ Un et deux changent selon le genre :
 > Volá sa = ça s'appelle
 > Je to reštaurácia = c'est un restaurant
 
-! 🦊🧢 Reštaurácia v UFO? Super!
+! 🧢 Reštaurácia v UFO? Super!
 > Un restaurant dans un OVNI ? Super !
 > Reštaurácia = un restaurant
 > v UFO = dans l'OVNI

@@ -54,7 +54,7 @@ La fin de l'adjectif suit le genre du nom : **-ý** au masculin, **-á** au fém
 > Kolonádový most = le pont à colonnades
 > Barlolámač = « le casseur de béquille »
 
-! 🦊🧢 Barlo... čo?
+! 🧢 Barlo... čo?
 > Barlo… quoi ?
 > čo = quoi
 
@@ -95,7 +95,7 @@ La fin de l'adjectif suit le genre du nom : **-ý** au masculin, **-á** au fém
 > Teplá voda = de l'eau chaude
 > bahno = de la boue
 
-! 🦊🧢 Bahno? Fuj!
+! 🧢 Bahno? Fuj!
 > De la boue ? Beurk !
 > Bahno = la boue
 > Fuj = beurk

@@ -46,7 +46,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧭 Navigácia, la navigation de la voiture (elle te vouvoie)
 - 💬 Le narrateur
@@ -71,7 +71,7 @@
 > Musím = je dois
 > prídem do Lyonu = je viendrai à Lyon
 
-! 🦊🧢 Naozaj?
+! 🧢 Naozaj?
 > C'est vrai ?
 
 ! 🐰 Možno. Ak tam budú pirohy.
@@ -126,7 +126,7 @@
 > Trasa = l'itinéraire
 > viac ako tisíc kilometrov = plus de mille kilomètres
 
-! 🦊🧢 Ujo...
+! 🧢 Ujo...
 > Tonton…
 
 ! 🐇 Už sme tam?

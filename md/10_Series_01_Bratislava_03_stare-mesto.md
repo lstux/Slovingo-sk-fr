@@ -60,7 +60,7 @@
 > To je = c'est
 > Je to socha = c'est une statue
 
-! 🦊🧢 Čo robí v kanáli?
+! 🧢 Čo robí v kanáli?
 > Qu'est-ce qu'il fait dans l'égout ?
 > Čo = quoi
 > robí = il fait
@@ -100,7 +100,7 @@
 > Volá sa = elle s'appelle
 > kostolík = petite église
 
-! 🦊🧢 Je malý.
+! 🧢 Je malý.
 > Elle est petite.
 > Je malý = il est petit
 + {{kostol}} est masculin : on dit {{je malý}}, même si en français l'église est féminine.

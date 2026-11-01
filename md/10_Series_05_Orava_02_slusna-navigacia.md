@@ -43,7 +43,7 @@ La navigation te vouvoie, donc elle emploie l'impératif en **-te**. À quelqu'u
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧭 Navigácia, la navigation de la voiture (elle te vouvoie)
 - 💬 Le narrateur
@@ -72,7 +72,7 @@ La navigation te vouvoie, donc elle emploie l'impératif en **-te**. À quelqu'u
 ! 🧭 Prepočítavam trasu.
 > Je recalcule l'itinéraire.
 
-! 🦊🧢 Zase?
+! 🧢 Zase?
 > Encore ?
 > Zase = encore
 

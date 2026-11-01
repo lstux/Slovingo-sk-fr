@@ -68,7 +68,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -132,7 +132,7 @@
 > Spacáky sú mokré = les sacs de couchage sont mouillés
 + Mot nouveau signalé : {{spacák}} = le sac de couchage.
 
-! 🦊🧢 Ujo, môj spacák je mokrý!
+! 🧢 Ujo, môj spacák je mokrý!
 > Tonton, mon sac de couchage est mouillé !
 
 ! 🐰 [USER_NAME]. Ak bude ešte pršať...
@@ -148,7 +148,7 @@
 > Všetci bežia do auta = tout le monde court à la voiture
 > V aute je sucho a teplo = dans la voiture, il fait sec et chaud
 
-! 🦊🧢 Ujo, spím v aute. Ako som chcel v Trenčíne.
+! 🧢 Ujo, spím v aute. Ako som chcel v Trenčíne.
 > Tonton, je dors dans la voiture. Comme je voulais à Trenčín.
 > spím v aute = je dors dans la voiture
 > Ako som chcel = comme je voulais

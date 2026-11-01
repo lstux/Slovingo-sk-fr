@@ -39,7 +39,7 @@
 
 - 🦊 Toi, l'oncle, au volant. Ton slovaque est encore un peu rouillé.
 - 🐰 Andrea, une hase slovaque, ton amie. Une hase, c'est la femelle du lièvre.
-- 🦊🧢 Hugo, ton neveu, neuf ans. Il veut tout voir, surtout les ours.
+- 🧢 Hugo, ton neveu, neuf ans. Il veut tout voir, surtout les ours.
 - 🐇 Lola, ta nièce, six ans. Elle veut surtout de la glace.
 - 🧭 La navigation de la voiture. Elle raconte la route, elle te vouvoie, et elle a toujours raison. Presque.
 - 💬 Le narrateur, quand la navigation n'a plus de réseau.

@@ -46,7 +46,7 @@ Le superlatif, c'est le comparatif avec **naj-** devant. « Que » se dit {{ako}
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -60,7 +60,7 @@ Le superlatif, c'est le comparatif avec **naj-** devant. « Que » se dit {{ako}
 > Všade je voda = partout, il y a de l'eau
 > mokré drevo = du bois mouillé
 
-! 🦊🧢 Rebrík! Môžem ísť prvý?
+! 🧢 Rebrík! Môžem ísť prvý?
 > Une échelle ! Je peux passer en premier ?
 > Môžem ísť prvý = je peux aller le premier
 
@@ -79,7 +79,7 @@ Le superlatif, c'est le comparatif avec **naj-** devant. « Que » se dit {{ako}
 ! 💬 [USER_NAME] ide hore. Pomaly. Veľmi pomaly.
 > [USER_NAME] monte. Lentement. Très lentement.
 
-! 🦊🧢 Ujo, môžeš ísť rýchlejšie?
+! 🧢 Ujo, môžeš ísť rýchlejšie?
 > Tonton, tu peux aller plus vite ?
 > môžeš ísť rýchlejšie = tu peux aller plus vite
 
@@ -97,7 +97,7 @@ Le superlatif, c'est le comparatif avec **naj-** devant. « Que » se dit {{ako}
 > Tento rebrík = cette échelle
 > je vyšší ako ten = est plus haute que celle-là
 
-! 🦊🧢 A tento je najvyšší!
+! 🧢 A tento je najvyšší!
 > Et celle-ci est la plus haute !
 > tento je najvyšší = celle-ci est la plus haute
 
@@ -125,7 +125,7 @@ Le superlatif, c'est le comparatif avec **naj-** devant. « Que » se dit {{ako}
 > je červený = est rouge
 > celý mokrý = tout mouillé
 
-! 🦊🧢 Ujo, si v poriadku?
+! 🧢 Ujo, si v poriadku?
 > Tonton, ça va ?
 > si v poriadku = tu vas bien
 

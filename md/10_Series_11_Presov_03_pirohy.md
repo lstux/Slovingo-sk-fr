@@ -48,7 +48,7 @@ Les noms féminins prennent alors **-e** à la fin : {{babka}} → {{babke}}, {{
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🐰🌷 Marta, la maman d'Andrea
 - 🐑 Babka Zuzana, la grand-mère d'Andrea : elle parle šariš
@@ -69,7 +69,7 @@ Les noms féminins prennent alors **-e** à la fin : {{babka}} → {{babke}}, {{
 > so zemiakmi = aux pommes de terre
 > s bryndzou = à la bryndza
 
-! 🦊🧢 S bryndzou? Ako halušky?
+! 🧢 S bryndzou? Ako halušky?
 > À la bryndza ? Comme les halušky ?
 
 ! 🐰 Áno. Ale toto sú pirohy.

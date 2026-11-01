@@ -45,7 +45,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 👵 Une vieille dame du village, une adulte : on la vouvoie
 - 💬 Le narrateur
 
@@ -64,7 +64,7 @@
 > Táto zvonica = ce clocher
 > je z roku 1770 = date de l'année 1770
 
-! 🦊🧢 Ujo, je tu studňa? Chcem vidieť studňu.
+! 🧢 Ujo, je tu studňa? Chcem vidieť studňu.
 > Tonton, il y a un puits ici ? Je veux voir le puits.
 > je tu studňa = il y a un puits ici
 > Chcem vidieť studňu = je veux voir le puits

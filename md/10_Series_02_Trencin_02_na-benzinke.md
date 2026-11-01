@@ -82,7 +82,7 @@ Pour commander, le mot change un peu : {{káva}} devient {{jednu kávu}}, {{zmrz
 > Jednu kávu = un café
 > prosím = s'il vous plaît
 
-! 🦊🧢 A jednu zmrzlinu!
+! 🧢 A jednu zmrzlinu!
 > Et une glace !
 > A = et
 > jednu zmrzlinu = une glace
@@ -92,7 +92,7 @@ Pour commander, le mot change un peu : {{káva}} devient {{jednu kávu}}, {{zmrz
 > Ráno = le matin
 > Nie = non
 
-! 🦊🧢 Prečo nie?
+! 🧢 Prečo nie?
 > Pourquoi pas ?
 > Prečo = pourquoi
 > nie = pas

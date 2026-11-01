@@ -69,7 +69,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -84,7 +84,7 @@
 > v Bratislave = à Bratislava
 > Deti sú v posteli = les enfants sont au lit
 
-! 🦊🧢 Ujo, kam ideme zajtra?
+! 🧢 Ujo, kam ideme zajtra?
 > Tonton, on va où demain ?
 > Ujo = tonton
 > kam = où (direction)
@@ -110,7 +110,7 @@
 > Hodinu a pol = une heure et demie
 > autom = en voiture
 
-! 🦊🧢 Je tam hrad?
+! 🧢 Je tam hrad?
 > Il y a un château, là-bas ?
 > Je tam = il y a là-bas
 > hrad = un château

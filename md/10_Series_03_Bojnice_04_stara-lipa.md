@@ -57,7 +57,7 @@ Les dizaines se fabriquent comme en français : {{dvadsaťpäť}} = vingt-cinq, 
 > Má = il a
 > viac ako sedemsto rokov = plus de sept cents ans
 
-! 🦊🧢 Sedemsto rokov! Je staršia ako ujo!
+! 🧢 Sedemsto rokov! Je staršia ako ujo!
 > Sept cents ans ! Il est plus vieux que tonton !
 > Sedemsto rokov = sept cents ans
 > Je staršia ako ujo = il est plus vieux que tonton
@@ -73,7 +73,7 @@ Les dizaines se fabriquent comme en français : {{dvadsaťpäť}} = vingt-cinq, 
 > Matúš Čák = Matúš Čák
 + À écouter : {{zasadil}}, « il a planté », au passé.
 
-! 🦊🧢 Matúš? Ako Matúšova veža v Trenčíne?
+! 🧢 Matúš? Ako Matúšova veža v Trenčíne?
 > Matúš ? Comme la tour de Matúš à Trenčín ?
 > Ako = comme
 > Matúšova veža = la tour de Matúš

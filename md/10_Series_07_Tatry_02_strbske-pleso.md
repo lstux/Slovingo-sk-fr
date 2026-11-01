@@ -46,7 +46,7 @@ Comme {{chcieť}}, on ajoute l'infinitif : {{Musíme si vziať bundy.}}
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -75,7 +75,7 @@ Comme {{chcieť}}, on ajoute l'infinitif : {{Musíme si vziať bundy.}}
 > Teraz nie = pas maintenant
 > voda je studená = l'eau est froide
 
-! 🦊🧢 Ujo, môžeme ísť na loďku?
+! 🧢 Ujo, môžeme ísť na loďku?
 > Tonton, on peut aller sur une barque ?
 > môžeme ísť = nous pouvons aller
 > na loďku = sur une barque
@@ -88,7 +88,7 @@ Comme {{chcieť}}, on ajoute l'infinitif : {{Musíme si vziať bundy.}}
 > vesluje = rame
 > Loďka ide dookola = la barque tourne en rond
 
-! 🦊🧢 Ujo, ideme dookola!
+! 🧢 Ujo, ideme dookola!
 > Tonton, on tourne en rond !
 
 ! 🦊 Viem. To je okružná plavba.

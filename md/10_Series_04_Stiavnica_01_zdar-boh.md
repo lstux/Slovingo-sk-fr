@@ -49,7 +49,7 @@ Seul {{byť}} fait autrement : {{nie som, nie si, nie je}}, en deux mots.
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧑‍🏫 Le guide, un adulte : on le vouvoie
 - 💬 Le narrateur
@@ -78,7 +78,7 @@ Seul {{byť}} fait autrement : {{nie som, nie si, nie je}}, en deux mots.
 > Je to = c'est
 > banícky pozdrav = le salut des mineurs
 
-! 🦊🧢 Zdar Boh!
+! 🧢 Zdar Boh!
 > Zdar Boh !
 
 ! 🐇 Zdar Boh!

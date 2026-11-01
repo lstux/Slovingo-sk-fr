@@ -24,7 +24,7 @@ Déjà vus, à revoir : {{les}}.
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -48,7 +48,7 @@ Déjà vus, à revoir : {{les}}.
 ! 🦊 Koľko je hodín?
 > Quelle heure est-il ?
 
-! 🦊🧢 O päť minút ide vlak!
+! 🧢 O päť minút ide vlak!
 > Le train part dans cinq minutes !
 > O päť minút = dans cinq minutes
 > ide vlak = le train part
@@ -85,7 +85,7 @@ Déjà vus, à revoir : {{les}}.
 > cez les = à travers la forêt
 > Hore, stále hore = vers le haut, toujours vers le haut
 
-! 🦊🧢 Tento vlak je pomalý.
+! 🧢 Tento vlak je pomalý.
 > Ce train est lent.
 > Tento vlak = ce train
 > je pomalý = est lent

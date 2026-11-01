@@ -22,7 +22,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🧑‍💼 La réception, une adulte : on la vouvoie
 - 💬 Le narrateur
@@ -94,7 +94,7 @@
 > je moja = est à moi
 + {{posteľ}} est féminin : {{táto}}, {{moja}}.
 
-! 🦊🧢 Nie, moja!
+! 🧢 Nie, moja!
 > Non, à moi !
 > Nie = non
 > moja = à moi

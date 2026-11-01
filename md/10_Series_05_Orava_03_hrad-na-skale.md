@@ -48,7 +48,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -63,7 +63,7 @@
 > Na skale je hrad = sur le rocher, il y a un château
 > sú ako jedno = sont comme un seul
 
-! 🦊🧢 Ten hrad je strašidelný.
+! 🧢 Ten hrad je strašidelný.
 > Ce château fait peur.
 > Ten hrad = ce château
 > je strašidelný = est effrayant
@@ -95,7 +95,7 @@
 > upír tu nebýva = aucun vampire n'habite ici
 > Je to len film = ce n'est qu'un film
 
-! 🦊🧢 Ideme hore?
+! 🧢 Ideme hore?
 > On monte ?
 > Ideme hore = on monte
 
@@ -114,7 +114,7 @@
 > Ouf. Je suis en haut.
 > Som hore = je suis en haut
 
-! 🦊🧢 Ujo, si pomalý ako slimák.
+! 🧢 Ujo, si pomalý ako slimák.
 > Tonton, tu es lent comme un escargot.
 > si pomalý = tu es lent
 > ako slimák = comme un escargot

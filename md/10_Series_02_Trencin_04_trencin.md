@@ -53,7 +53,7 @@ La fin la plus fréquente est **-e**, parfois **-i**. {{Na námestí}} : tu l'av
 > Na skale = sur le rocher
 > je hrad = il y a un château
 
-! 🦊🧢 Ten hrad je na skale! Super!
+! 🧢 Ten hrad je na skale! Super!
 > Ce château est sur un rocher ! Super !
 > Ten hrad = ce château
 > je na skale = est sur un rocher
@@ -74,7 +74,7 @@ La fin la plus fréquente est **-e**, parfois **-i**. {{Na námestí}} : tu l'av
 > Tam dole = là, en bas
 > Pod hradom = sous le château
 
-! 🦊🧢 Aký starý?
+! 🧢 Aký starý?
 > Vieille comment ?
 > Aký = quel, comment
 > starý = vieux
@@ -84,7 +84,7 @@ La fin la plus fréquente est **-e**, parfois **-i**. {{Na námestí}} : tu l'av
 > Skoro = presque
 > dvetisíc rokov = deux mille ans
 
-! 🦊🧢 Starší ako ujo?
+! 🧢 Starší ako ujo?
 > Plus vieille que tonton ?
 > Starší ako = plus vieux que
 > ujo = tonton

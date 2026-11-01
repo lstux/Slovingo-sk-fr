@@ -55,7 +55,7 @@ C'est pour ça qu'au chapitre 2, {{káva}} devenait {{jednu kávu}}.
 > medveďa = un ours (objet)
 > Veľkého medveďa = un grand ours
 
-! 🦊🧢 A ja vidím opice!
+! 🧢 A ja vidím opice!
 > Et moi, je vois des singes !
 > A ja vidím = et moi, je vois
 > opice = des singes
@@ -70,7 +70,7 @@ C'est pour ça qu'au chapitre 2, {{káva}} devenait {{jednu kávu}}.
 > To je = c'est
 > moja sesternica = ma cousine
 
-! 🦊🧢 Naozaj?
+! 🧢 Naozaj?
 > Vraiment ?
 > Naozaj = vraiment
 
@@ -101,7 +101,7 @@ C'est pour ça qu'au chapitre 2, {{káva}} devenait {{jednu kávu}}.
 > Chcem = je veux
 > ty si nemožný = tu es impossible
 
-! 🦊🧢 Aj my chceme zmrzlinu!
+! 🧢 Aj my chceme zmrzlinu!
 > Nous aussi, on veut une glace !
 > Aj my = nous aussi
 > chceme zmrzlinu = nous voulons une glace

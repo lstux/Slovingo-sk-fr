@@ -22,7 +22,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -44,7 +44,7 @@
 > tajch = un étang de mine
 > Toto poznám = ça, je connais
 
-! 🦊🧢 Čo je tajch?
+! 🧢 Čo je tajch?
 > C'est quoi, un tajch ?
 > Čo je = qu'est-ce que
 
@@ -74,7 +74,7 @@
 > Voda je studená = l'eau est froide
 + Mot nouveau signalé : {{studený}} = froid.
 
-! 🦊🧢 Je veľmi studená! Ujo, poď!
+! 🧢 Je veľmi studená! Ujo, poď!
 > Elle est très froide ! Tonton, viens !
 > Je veľmi studená = elle est très froide
 > poď = viens

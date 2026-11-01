@@ -344,7 +344,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Dans deux cents mètres, tournez à droite.*
 - 🦊 **Gab** : Doprava. Dobre.
   *À droite. D'accord.*
-- 🦊🧢 **Hugo** : Ujo, už sme tam?
+- 🧢 **Hugo** : Ujo, už sme tam?
   *Tonton, on est arrivés ?*
 - 🦊 **Gab** : Ešte nie, Hugo.
   *Pas encore, Hugo.*
@@ -358,7 +358,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *La destination est à droite.*
 - 🦊 **Gab** : Áno! Sme tu! Bratislava!
   *Oui ! On y est ! Bratislava !*
-- 🦊🧢 **Hugo** : Konečne!
+- 🧢 **Hugo** : Konečne!
   *Enfin !*
 - 🐇 **Lola** : Kde je Andrea?
   *Où est Andrea ?*
@@ -429,17 +429,17 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Oui ! Et Hugo est un renard. Et tonton est un renard aussi.*
 - 🐰 **Andrea** : To vidím.
   *Je vois ça.*
-- 🦊🧢 **Hugo** : Koľko máš rokov?
+- 🧢 **Hugo** : Koľko máš rokov?
   *Quel âge as-tu ?*
 - 🐰 **Andrea** : To sa nepýta, Hugo.
   *Ça ne se demande pas, Hugo.*
-- 🦊🧢 **Hugo** : Ja mám deväť rokov.
+- 🧢 **Hugo** : Ja mám deväť rokov.
   *Moi, j'ai neuf ans.*
 - 🐇 **Lola** : A ja mám šesť rokov!
   *Et moi, j'ai six ans !*
 - 🐰 **Andrea** : Ste Francúzi?
   *Vous êtes français ?*
-- 🦊🧢 **Hugo** : Áno, sme Francúzi. Sme z Lyonu.
+- 🧢 **Hugo** : Áno, sme Francúzi. Sme z Lyonu.
   *Oui, nous sommes français. Nous sommes de Lyon.*
 - 🐰 **Andrea** : A ja som Slovenka. Som z Prešova.
   *Et moi, je suis slovaque. Je suis de Prešov.*
@@ -482,7 +482,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Regarde ! Un monsieur dans l'égout !*
 - 🐰 **Andrea** : To je Čumil. Je to socha.
   *C'est Čumil. C'est une statue.*
-- 🦊🧢 **Hugo** : Čo robí v kanáli?
+- 🧢 **Hugo** : Čo robí v kanáli?
   *Qu'est-ce qu'il fait dans l'égout ?*
 - 🐰 **Andrea** : Čumí.
   *Il regarde bouche bée.*
@@ -496,7 +496,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Une église bleue ! Comme dans un conte !*
 - 🐰 **Andrea** : Volá sa Modrý kostolík.
   *Elle s'appelle la Petite Église bleue.*
-- 🦊🧢 **Hugo** : Je malý.
+- 🧢 **Hugo** : Je malý.
   *Elle est petite.*
 - 🐰 **Andrea** : Áno, je malý. Preto „kostolík“.
   *Oui, elle est petite. D'où « kostolík ».*
@@ -540,7 +540,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
 
 - 💬 **narrateur** : Hore na kopci je hrad. Hrad je veľký a biely.
   *En haut sur la colline, il y a le château. Le château est grand et blanc.*
-- 🦊🧢 **Hugo** : Ten hrad má veže! Jedna, dve, tri, štyri!
+- 🧢 **Hugo** : Ten hrad má veže! Jedna, dve, tri, štyri!
   *Ce château a des tours ! Une, deux, trois, quatre !*
 - 🐰 **Andrea** : Áno. Hrad má štyri veže.
   *Oui. Le château a quatre tours.*
@@ -550,7 +550,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *C'est quoi ? Sur le pont ? Un OVNI ?*
 - 🐰 **Andrea** : Áno. Volá sa UFO. Je to reštaurácia.
   *Oui. Ça s'appelle l'UFO. C'est un restaurant.*
-- 🦊🧢 **Hugo** : Reštaurácia v UFO? Super!
+- 🧢 **Hugo** : Reštaurácia v UFO? Super!
   *Un restaurant dans un OVNI ? Super !*
 - 🦊 **Gab** : Je to drahé?
   *C'est cher ?*
@@ -579,7 +579,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Sur la table, il y a du vin et du jus de raisin.*
 - 🐇 **Lola** : Džús je môj!
   *Le jus est à moi !*
-- 🦊🧢 **Hugo** : Nie, môj!
+- 🧢 **Hugo** : Nie, môj!
   *Non, à moi !*
 - 🐰 **Andrea** : Džús je pre deti. Víno je pre nás.
   *Le jus, c'est pour les enfants. Le vin, c'est pour nous.*
@@ -599,7 +599,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Oui, on peut. Santé !*
 - 🐰 **Andrea** : Na zdravie!
   *Santé !*
-- 🦊🧢 **Hugo** : Na zdravie!
+- 🧢 **Hugo** : Na zdravie!
   *Santé !*
 - 💬 **narrateur** : Lola tiež dvíha pohár. Vysoko. Veľmi vysoko.
   *Lola aussi lève son verre. Haut. Très haut.*
@@ -607,7 +607,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Santé !*
 - 💬 **narrateur** : Džús je na stole. A na Hugovi.
   *Le jus est sur la table. Et sur Hugo.*
-- 🦊🧢 **Hugo** : Lola!
+- 🧢 **Hugo** : Lola!
   *Lola !*
 - 💬 **narrateur** : Zvoní telefón. Je to Claire.
   *Le téléphone sonne. C'est Claire.*
@@ -681,7 +681,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
 
 - 💬 **narrateur** : Noc. Malý byt v Bratislave. Deti sú v posteli.
   *La nuit. Un petit appartement à Bratislava. Les enfants sont au lit.*
-- 🦊🧢 **Hugo** : Ujo, kam ideme zajtra?
+- 🧢 **Hugo** : Ujo, kam ideme zajtra?
   *Tonton, on va où demain ?*
 - 🦊 **Gab** : Zajtra ideme do Trenčína.
   *Demain, on va à Trenčín.*
@@ -689,7 +689,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *C'est loin ?*
 - 🦊 **Gab** : Nie. Hodinu a pol autom.
   *Non. Une heure et demie en voiture.*
-- 🦊🧢 **Hugo** : Je tam hrad?
+- 🧢 **Hugo** : Je tam hrad?
   *Il y a un château, là-bas ?*
 - 🦊 **Gab** : Áno. Veľký hrad na skale.
   *Oui. Un grand château sur un rocher.*
@@ -744,7 +744,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Continuez tout droit.*
 - 🦊 **Gab** : Rovno. Dobre.
   *Tout droit. D'accord.*
-- 🦊🧢 **Hugo** : Už sme tam?
+- 🧢 **Hugo** : Už sme tam?
   *On est arrivés ?*
 - 🦊 **Gab** : Hugo, ideme iba dve minúty!
   *Hugo, on roule depuis deux minutes seulement !*
@@ -794,11 +794,11 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *La station-service. Lola court aux toilettes. Hugo veut une glace. Gab veut un café.*
 - 🦊 **Gab** : Jednu kávu, prosím.
   *Un café, s'il vous plaît.*
-- 🦊🧢 **Hugo** : A jednu zmrzlinu!
+- 🧢 **Hugo** : A jednu zmrzlinu!
   *Et une glace !*
 - 🦊 **Gab** : Ráno? Nie.
   *Le matin ? Non.*
-- 🦊🧢 **Hugo** : Prečo nie?
+- 🧢 **Hugo** : Prečo nie?
   *Pourquoi pas ?*
 - 🐰 **Andrea** : Lebo ráno je čas na kávu.
   *Parce que le matin, c'est l'heure du café.*
@@ -834,7 +834,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Piešťany. Une ville thermale. Un long pont traverse la rivière. Sur le pont, il y a une statue.*
 - 🐰 **Andrea** : Toto je Kolonádový most. A toto je Barlolámač.
   *Voici le pont à colonnades. Et voici le Barlolámač.*
-- 🦊🧢 **Hugo** : Barlo... čo?
+- 🧢 **Hugo** : Barlo... čo?
   *Barlo… quoi ?*
 - 🐰 **Andrea** : Barlolámač. Pozri. Pán láme barlu.
   *Barlolámač. Regarde. Le monsieur casse sa béquille.*
@@ -850,7 +850,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Qu'est-ce qu'il y a aux thermes ?*
 - 🐰 **Andrea** : Teplá voda. A bahno.
   *De l'eau chaude. Et de la boue.*
-- 🦊🧢 **Hugo** : Bahno? Fuj!
+- 🧢 **Hugo** : Bahno? Fuj!
   *De la boue ? Beurk !*
 - 🐇 **Lola** : Ja chcem bahno!
   *Moi, je veux de la boue !*
@@ -889,7 +889,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
 
 - 💬 **narrateur** : Trenčín. Nad mestom je veľká skala. Na skale je hrad.
   *Trenčín. Au-dessus de la ville, il y a un grand rocher. Sur le rocher, il y a un château.*
-- 🦊🧢 **Hugo** : Ten hrad je na skale! Super!
+- 🧢 **Hugo** : Ten hrad je na skale! Super!
   *Ce château est sur un rocher ! Super !*
 - 🐰 **Andrea** : A na skale je aj rímsky nápis. Je veľmi starý.
   *Et sur le rocher, il y a aussi une inscription romaine. Elle est très vieille.*
@@ -897,11 +897,11 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Où elle est ?*
 - 🐰 **Andrea** : Tam dole. Pod hradom.
   *Là, en bas. Sous le château.*
-- 🦊🧢 **Hugo** : Aký starý?
+- 🧢 **Hugo** : Aký starý?
   *Vieille comment ?*
 - 🐰 **Andrea** : Skoro dvetisíc rokov.
   *Presque deux mille ans.*
-- 🦊🧢 **Hugo** : Starší ako ujo?
+- 🧢 **Hugo** : Starší ako ujo?
   *Plus vieille que tonton ?*
 - 🦊 **Gab** : Ďakujem, Hugo.
   *Merci, Hugo.*
@@ -957,7 +957,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Dans la chambre, il y a trois lits et une petite fenêtre.*
 - 🐇 **Lola** : Táto posteľ je moja!
   *Ce lit est à moi !*
-- 🦊🧢 **Hugo** : Nie, moja!
+- 🧢 **Hugo** : Nie, moja!
   *Non, à moi !*
 - 🦊 **Gab** : Táto je Lolina. Táto je Hugova. A táto je moja. Hotovo.
   *Celui-ci est à Lola. Celui-ci à Hugo. Et celui-ci est à moi. Terminé.*
@@ -1028,7 +1028,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Quelqu'un ronfle. Fort.*
 - 🦊 **Gab** : Kto chrápe?
   *Qui ronfle ?*
-- 🦊🧢 **Hugo** : Ja nie.
+- 🧢 **Hugo** : Ja nie.
   *Pas moi.*
 - 🐇 **Lola** : Ja tiež nie.
   *Moi non plus.*
@@ -1064,7 +1064,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Pardon ! Pardon !*
 - 🐰 **Andrea** : Dobrú noc, Gab.
   *Bonne nuit, Gab.*
-- 🦊🧢 **Hugo** : Ujo, zajtra spím v aute.
+- 🧢 **Hugo** : Ujo, zajtra spím v aute.
   *Tonton, demain, je dors dans la voiture.*
 
 ### Série Bojnice (1/5) — Prepočítavam trasu
@@ -1090,7 +1090,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
 
 - 💬 **narrateur** : Ráno. Auto ide do Bojníc.
   *Le matin. La voiture roule vers Bojnice.*
-- 🦊🧢 **Hugo** : Ujo, čo chceme dnes vidieť?
+- 🧢 **Hugo** : Ujo, čo chceme dnes vidieť?
   *Tonton, qu'est-ce qu'on veut voir aujourd'hui ?*
 - 🦊 **Gab** : Dnes chceme vidieť zámok.
   *Aujourd'hui, on veut voir un château.*
@@ -1110,7 +1110,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Je sais.*
 - 🧭 **GPS** : Prepočítavam trasu.
   *Je recalcule l'itinéraire.*
-- 🦊🧢 **Hugo** : Ujo, navigácia je nervózna.
+- 🧢 **Hugo** : Ujo, navigácia je nervózna.
   *Tonton, la navigation est nerveuse.*
 
 - uvidíme = *on verra*
@@ -1150,7 +1150,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Comme en France !*
 - 🐰 **Andrea** : Presne tak. Je ako francúzske zámky.
   *Exactement. Il est comme les châteaux français.*
-- 🦊🧢 **Hugo** : Je to hrad alebo zámok?
+- 🧢 **Hugo** : Je to hrad alebo zámok?
   *C'est un château fort ou un château ?*
 - 🐰 **Andrea** : Zámok. Hrad je na obranu. Zámok je na bývanie.
   *Un château. Le château fort, c'est pour se défendre. Le château, c'est pour y vivre.*
@@ -1192,13 +1192,13 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Le zoo de Bojnice. Il est grand et il y a beaucoup d'animaux.*
 - 🐇 **Lola** : Vidím medveďa! Veľkého medveďa!
   *Je vois un ours ! Un grand ours !*
-- 🦊🧢 **Hugo** : A ja vidím opice!
+- 🧢 **Hugo** : A ja vidím opice!
   *Et moi, je vois des singes !*
 - 🐇 **Lola** : Pozri, ujo! Líška!
   *Regarde, tonton ! Un renard !*
 - 🦊 **Gab** : Hm. To je moja sesternica.
   *Hm. C'est ma cousine.*
-- 🦊🧢 **Hugo** : Naozaj?
+- 🧢 **Hugo** : Naozaj?
   *Vraiment ?*
 - 🦊 **Gab** : Nie.
   *Non.*
@@ -1212,7 +1212,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Pardon. Tu veux une glace ?*
 - 🐰 **Andrea** : Chcem. A ty si nemožný.
   *Oui. Et toi, tu es impossible.*
-- 🦊🧢 **Hugo** : Aj my chceme zmrzlinu!
+- 🧢 **Hugo** : Aj my chceme zmrzlinu!
   *Nous aussi, on veut une glace !*
 - 🦊 **Gab** : Dobre. Štyri zmrzliny.
   *D'accord. Quatre glaces.*
@@ -1253,13 +1253,13 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Près du château se dresse un vieux tilleul. Il est gigantesque.*
 - 🐰 **Andrea** : Toto je lipa kráľa Mateja. Má viac ako sedemsto rokov.
   *Voici le tilleul du roi Matthias. Il a plus de sept cents ans.*
-- 🦊🧢 **Hugo** : Sedemsto rokov! Je staršia ako ujo!
+- 🧢 **Hugo** : Sedemsto rokov! Je staršia ako ujo!
   *Sept cents ans ! Il est plus vieux que tonton !*
 - 🦊 **Gab** : Hugo, prosím.
   *Hugo, s'il te plaît.*
 - 🐰 **Andrea** : Podľa legendy ju zasadil Matúš Čák.
   *D'après la légende, c'est Matúš Čák qui l'a planté.*
-- 🦊🧢 **Hugo** : Matúš? Ako Matúšova veža v Trenčíne?
+- 🧢 **Hugo** : Matúš? Ako Matúšova veža v Trenčíne?
   *Matúš ? Comme la tour de Matúš à Trenčín ?*
 - 🐰 **Andrea** : Áno. Ten istý Matúš.
   *Oui. Le même Matúš.*
@@ -1289,7 +1289,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *L'après-midi. Kremnica. Une petite ville dans les montagnes, et un vieil hôtel des monnaies.*
 - 🐰 **Andrea** : Tu sa robia mince. Aj slovenské eurá.
   *Ici, on fabrique des pièces. Même les euros slovaques.*
-- 🦊🧢 **Hugo** : Eurá? Tu? V Kremnici?
+- 🧢 **Hugo** : Eurá? Tu? V Kremnici?
   *Des euros ? Ici ? À Kremnica ?*
 - 🐰 **Andrea** : Áno. Aj euro v tvojom vrecku môže byť z Kremnice.
   *Oui. Même l'euro dans ta poche peut venir de Kremnica.*
@@ -1301,7 +1301,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Bonjour. Combien coûte cette pièce ?*
 - 🧑‍🦰 **🧑‍🦰** : Pätnásť eur.
   *Quinze euros.*
-- 🦊🧢 **Hugo** : Ja mám dve eurá.
+- 🧢 **Hugo** : Ja mám dve eurá.
   *Moi, j'ai deux euros.*
 - 🐇 **Lola** : A ja mám jedno euro!
   *Et moi, j'ai un euro !*
@@ -1319,7 +1319,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Toi, tu as un euro. Il vient aussi de Kremnica. Peut-être.*
 - 🐰 **Andrea** : Neďaleko je aj stred Európy.
   *Pas loin d'ici, il y a aussi le centre de l'Europe.*
-- 🦊🧢 **Hugo** : Stred Európy? Tu?
+- 🧢 **Hugo** : Stred Európy? Tu?
   *Le centre de l'Europe ? Ici ?*
 - 🐰 **Andrea** : Jeden zo stredov. Európa má veľa stredov.
   *Un des centres. L'Europe a beaucoup de centres.*
@@ -1386,13 +1386,13 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Bonsoir. Merci.*
 - 🧓 **🧓** : Tu je izba pre vás a tu je izba pre pani. Chcete koláč?
   *Voici la chambre pour vous, et voici la chambre pour madame. Vous voulez du gâteau ?*
-- 🦊🧢 **Hugo** : Áno!
+- 🧢 **Hugo** : Áno!
   *Oui !*
 - 🐇 **Lola** : Áno!
   *Oui !*
 - 🦊 **Gab** : Ďakujeme, nechceme...
   *Merci, nous ne voulons pas…*
-- 🦊🧢 **Hugo** : Chceme! Chceme!
+- 🧢 **Hugo** : Chceme! Chceme!
   *On veut ! On veut !*
 - 🧓 **🧓** : Deti chcú koláč. Deti majú pravdu.
   *Les enfants veulent du gâteau. Les enfants ont raison.*
@@ -1446,7 +1446,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Bonjour…*
 - 🐰 **Andrea** : Tu sa hovorí „Zdar Boh“. Je to banícky pozdrav.
   *Ici, on dit « Zdar Boh ». C'est le salut des mineurs.*
-- 🦊🧢 **Hugo** : Zdar Boh!
+- 🧢 **Hugo** : Zdar Boh!
   *Zdar Boh !*
 - 🐇 **Lola** : Zdar Boh!
   *Zdar Boh !*
@@ -1496,7 +1496,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Voici des casques. Mettez-les, s'il vous plaît.*
 - 🐇 **Lola** : Moja prilba je veľká.
   *Mon casque est grand.*
-- 🦊🧢 **Hugo** : Aj moja.
+- 🧢 **Hugo** : Aj moja.
   *Le mien aussi.*
 - 🦊 **Gab** : Moja je malá.
   *Le mien est petit.*
@@ -1506,7 +1506,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Dans la mine, il fait froid et noir. Partout, de la pierre.*
 - 🧑‍🏫 **🧑‍🏫** : Táto baňa je veľmi stará. Má viac ako tristo rokov.
   *Cette mine est très vieille. Elle a plus de trois cents ans.*
-- 🦊🧢 **Hugo** : Je tu zima.
+- 🧢 **Hugo** : Je tu zima.
   *Il fait froid ici.*
 - 🐇 **Lola** : A je tu tma. Ujo, kde si?
   *Et il fait noir ici. Tonton, tu es où ?*
@@ -1548,7 +1548,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Bonjour. Voici la carte. Qu'est-ce que vous prenez ?*
 - 🦊 **Gab** : Dám si bryndzové halušky. A jeden pivo.
   *Je vais prendre des bryndzové halušky. Et « un » bière.*
-- 🦊🧢 **Hugo** : Ujo! Jedno pivo!
+- 🧢 **Hugo** : Ujo! Jedno pivo!
   *Tonton ! « Jedno » pivo !*
 - 🧑‍🍳 **🧑‍🍳** : Jedno pivo. Dobre.
   *Une bière. Très bien.*
@@ -1558,17 +1558,17 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Merci, Andrea.*
 - 🐇 **Lola** : Mám smäd! Dám si kofolu.
   *J'ai soif ! Je vais prendre un Kofola.*
-- 🦊🧢 **Hugo** : A ja mám hlad. Čo sú halušky?
+- 🧢 **Hugo** : A ja mám hlad. Čo sú halušky?
   *Et moi, j'ai faim. C'est quoi, les halušky ?*
 - 🐰 **Andrea** : Halušky sú ako malé cestoviny. S bryndzou. Bryndza je syr z ovčieho mlieka.
   *Les halušky, c'est comme des petites pâtes. Avec de la bryndza. La bryndza, c'est un fromage de brebis.*
-- 🦊🧢 **Hugo** : Tak si dám halušky.
+- 🧢 **Hugo** : Tak si dám halušky.
   *Alors je vais prendre des halušky.*
 - 💬 **narrateur** : Jedlo je na stole. Hugo zje všetko. Lola ochutná a prestane.
   *Le repas est sur la table. Hugo mange tout. Lola goûte et s'arrête.*
 - 🐇 **Lola** : Fuj. Je to kyslé.
   *Beurk. C'est acide.*
-- 🦊🧢 **Hugo** : Nie je! Je to výborné!
+- 🧢 **Hugo** : Nie je! Je to výborné!
   *Non ! C'est délicieux !*
 - 🐇 **Lola** : Nie je to dobré. Chcem hranolky.
   *Ce n'est pas bon. Je veux des frites.*
@@ -1611,7 +1611,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *L'après-midi. Sur la colline au-dessus de la ville, il y a des chapelles blanches et deux églises. C'est le Calvaire.*
 - 🐰 **Andrea** : Pozrite! Tam hore je Kalvária. Je krásna.
   *Regardez ! Là-haut, c'est le Calvaire. Il est magnifique.*
-- 🦊🧢 **Hugo** : Je to ďaleko?
+- 🧢 **Hugo** : Je to ďaleko?
   *C'est loin ?*
 - 🐰 **Andrea** : Trochu. Ideme hore?
   *Un peu. On monte ?*
@@ -1621,11 +1621,11 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Moi non plus. Moi aussi, j'ai mal aux jambes.*
 - 🐰 **Andrea** : Vy dvaja ste rovnakí.
   *Vous deux, vous êtes pareils.*
-- 🦊🧢 **Hugo** : Ja chcem ísť hore!
+- 🧢 **Hugo** : Ja chcem ísť hore!
   *Moi, je veux monter !*
 - 🐰 **Andrea** : Výborne, Hugo! Ideme?
   *Bravo, Hugo ! On y va ?*
-- 🦊🧢 **Hugo** : Zajtra.
+- 🧢 **Hugo** : Zajtra.
   *Demain.*
 - 🐰 **Andrea** : Dobre. Tak sa pozeráme zdola. Aj zdola je krásna.
   *D'accord. Alors on regarde d'en bas. Même d'en bas, il est magnifique.*
@@ -1653,7 +1653,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *En fin d'après-midi. Une forêt et un grand lac. L'eau est sombre et calme.*
 - 🐰 **Andrea** : Toto je tajch Počúvadlo. Toto poznám!
   *Voici le tajch de Počúvadlo. Ça, je connais !*
-- 🦊🧢 **Hugo** : Čo je tajch?
+- 🧢 **Hugo** : Čo je tajch?
   *C'est quoi, un tajch ?*
 - 🐰 **Andrea** : Umelé jazero. Je staré. Voda z tajchov bola pre bane.
   *Un lac artificiel. Il est ancien. L'eau des tajchy, c'était pour les mines.*
@@ -1663,7 +1663,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Hugo et Lola courent dans l'eau.*
 - 🐇 **Lola** : Áááá! Voda je studená!
   *Aaaah ! L'eau est froide !*
-- 🦊🧢 **Hugo** : Je veľmi studená! Ujo, poď!
+- 🧢 **Hugo** : Je veľmi studená! Ujo, poď!
   *Elle est très froide ! Tonton, viens !*
 - 🦊 **Gab** : Nie. Ja nejdem. Som opatrný.
   *Non. Moi, je n'y vais pas. Je suis prudent.*
@@ -1736,7 +1736,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
 
 - 💬 **narrateur** : Večer. Malá drevená chata pri tajchu. Na nebi sú prvé hviezdy.
   *Le soir. Une petite chata en bois au bord du tajch. Dans le ciel, les premières étoiles.*
-- 🦊🧢 **Hugo** : Ujo, mám hlad.
+- 🧢 **Hugo** : Ujo, mám hlad.
   *Tonton, j'ai faim.*
 - 🐇 **Lola** : Aj ja mám hlad. Čo máme na večeru?
   *Moi aussi, j'ai faim. Qu'est-ce qu'on a pour le dîner ?*
@@ -1754,7 +1754,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Gab…*
 - 🐇 **Lola** : Koláč na večeru? Super!
   *Du gâteau pour le dîner ? Super !*
-- 🦊🧢 **Hugo** : To je najlepšia večera!
+- 🧢 **Hugo** : To je najlepšia večera!
   *C'est le meilleur dîner !*
 - 🐰 **Andrea** : Ty si najhorší ujo na svete.
   *Tu es le pire tonton du monde.*
@@ -1812,11 +1812,11 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *On part à quelle heure ?*
 - 🐰 **Andrea** : O ôsmej. Cesta na Oravu je dlhá.
   *À huit heures. La route vers l'Orava est longue.*
-- 🦊🧢 **Hugo** : Ako dlhá?
+- 🧢 **Hugo** : Ako dlhá?
   *Longue comment ?*
 - 🐰 **Andrea** : Dve a pol hodiny. Možno tri.
   *Deux heures et demie. Peut-être trois.*
-- 🦊🧢 **Hugo** : Tri hodiny? Ujo, už sme tam?
+- 🧢 **Hugo** : Tri hodiny? Ujo, už sme tam?
   *Trois heures ? Tonton, on est arrivés ?*
 - 🦊 **Gab** : Hugo, ešte stojíme!
   *Hugo, on n'a même pas démarré !*
@@ -1866,7 +1866,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Par la deuxième… quoi ?*
 - 🧭 **GPS** : Prepočítavam trasu.
   *Je recalcule l'itinéraire.*
-- 🦊🧢 **Hugo** : Zase?
+- 🧢 **Hugo** : Zase?
   *Encore ?*
 - 🦊 **Gab** : Prečo navigácia hovorí „odbočte“ a „choďte“? Prečo nie „odboč“?
   *Pourquoi la navigation dit « tournez » et « allez » ? Pourquoi pas « tourne » ?*
@@ -1914,7 +1914,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
 
 - 💬 **narrateur** : Oravský Podzámok. Nad riekou je vysoká skala. Na skale je hrad. Hrad a skala sú ako jedno.
   *Oravský Podzámok. Au-dessus de la rivière, un haut rocher. Sur le rocher, un château. Le château et le rocher ne font qu'un.*
-- 🦊🧢 **Hugo** : Ten hrad je strašidelný.
+- 🧢 **Hugo** : Ten hrad je strašidelný.
   *Ce château fait peur.*
 - 🐰 **Andrea** : Áno. Tu natáčali starý film o upírovi. Nosferatu.
   *Oui. Ici, on a tourné un vieux film de vampire. Nosferatu.*
@@ -1926,7 +1926,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Tonton !*
 - 🐰 **Andrea** : Gab, nestraš ju. Lola, upír tu nebýva. Je to len film.
   *Gab, ne lui fais pas peur. Lola, aucun vampire n'habite ici. Ce n'est qu'un film.*
-- 🦊🧢 **Hugo** : Ideme hore?
+- 🧢 **Hugo** : Ideme hore?
   *On monte ?*
 - 🐰 **Andrea** : Ideme hore. Je tam veľa schodov.
   *On monte. Il y a beaucoup de marches.*
@@ -1934,7 +1934,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *En haut, le vent souffle. En bas, la rivière et des villages. La vue est magnifique.*
 - 🦊 **Gab** : Uf. Som hore.
   *Ouf. Je suis en haut.*
-- 🦊🧢 **Hugo** : Ujo, si pomalý ako slimák.
+- 🧢 **Hugo** : Ujo, si pomalý ako slimák.
   *Tonton, tu es lent comme un escargot.*
 
 - chodiť = *aller (d'habitude)*
@@ -1969,7 +1969,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Tvrdošín. Dans le cimetière se dresse une petite église en bois. Elle est très vieille.*
 - 🐰 **Andrea** : Tento kostol je z dreva. Je v UNESCO.
   *Cette église est en bois. Elle est au patrimoine de l'UNESCO.*
-- 🦊🧢 **Hugo** : Celý z dreva?
+- 🧢 **Hugo** : Celý z dreva?
   *Entièrement en bois ?*
 - 🐰 **Andrea** : Celý.
   *Entièrement.*
@@ -2015,7 +2015,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Le train part à trois heures.*
 - 🦊 **Gab** : Koľko je hodín?
   *Quelle heure est-il ?*
-- 🦊🧢 **Hugo** : O päť minút ide vlak!
+- 🧢 **Hugo** : O päť minút ide vlak!
   *Le train part dans cinq minutes !*
 - 🦊 **Gab** : Rýchlo! Poďte!
   *Vite ! Venez !*
@@ -2029,7 +2029,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *On y est ! Asseyez-vous.*
 - 💬 **narrateur** : Vlak ide pomaly cez les. Hore, stále hore.
   *Le train avance lentement à travers la forêt. Il monte, toujours plus haut.*
-- 🦊🧢 **Hugo** : Tento vlak je pomalý.
+- 🧢 **Hugo** : Tento vlak je pomalý.
   *Ce train est lent.*
 - 🐰 **Andrea** : Ako ujo.
   *Comme tonton.*
@@ -2108,11 +2108,11 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Gab, c'est Hugo.*
 - 🦊 **Gab** : Áno, to je Hugo.
   *Oui, c'est Hugo.*
-- 🦊🧢 **Hugo** : Nie som to ja! Ja nespím!
+- 🧢 **Hugo** : Nie som to ja! Ja nespím!
   *Ce n'est pas moi ! Je ne dors pas !*
 - 🐰 **Andrea** : Ty nespíš?
   *Tu ne dors pas ?*
-- 🦊🧢 **Hugo** : Nie. Počúvam.
+- 🧢 **Hugo** : Nie. Počúvam.
   *Non. J'écoute.*
 - 💬 **narrateur** : Všetci počúvajú. Chrápanie ide z Lolinej postele.
   *Tout le monde écoute. Le ronflement vient du lit de Lola.*
@@ -2120,7 +2120,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Lola ?*
 - 🐰 **Andrea** : Taká malá zajačica... a tak nahlas!
   *Une si petite hase… et si fort !*
-- 🦊🧢 **Hugo** : Je to horšie ako upír.
+- 🧢 **Hugo** : Je to horšie ako upír.
   *C'est pire qu'un vampire.*
 - 💬 **narrateur** : Lola sa zobúdza.
   *Lola se réveille.*
@@ -2160,7 +2160,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Vlkolínec ? Des loups habitent ici ?*
 - 🐰 **Andrea** : Nie. Tu bývajú ľudia. Len pár ľudí. A prichádza sem veľa turistov.
   *Non. Ici, ce sont des gens qui habitent. Juste quelques personnes. Et beaucoup de touristes viennent.*
-- 🦊🧢 **Hugo** : Prečo toľko turistov?
+- 🧢 **Hugo** : Prečo toľko turistov?
   *Pourquoi autant de touristes ?*
 - 🐰 **Andrea** : Lebo tieto domy sú staré a z dreva. Celá dedina je v UNESCO.
   *Parce que ces maisons sont vieilles et en bois. Tout le village est à l'UNESCO.*
@@ -2204,7 +2204,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Au milieu du village se dresse un vieux clocher en bois.*
 - 🐰 **Andrea** : Táto zvonica je z roku 1770.
   *Ce clocher date de 1770.*
-- 🦊🧢 **Hugo** : Ujo, je tu studňa? Chcem vidieť studňu.
+- 🧢 **Hugo** : Ujo, je tu studňa? Chcem vidieť studňu.
   *Tonton, il y a un puits ici ? Je veux voir le puits.*
 - 🦊 **Gab** : Neviem. Opýtam sa.
   *Je ne sais pas. Je vais demander.*
@@ -2251,7 +2251,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
 
 - 💬 **narrateur** : Poobede. Liptov. Auto stojí pred Tatralandiou. Je to veľký aquapark.
   *L'après-midi. Le Liptov. La voiture est garée devant Tatralandia. C'est un grand aquaparc.*
-- 🦊🧢 **Hugo** : Aquapark! Ideme plávať!
+- 🧢 **Hugo** : Aquapark! Ideme plávať!
   *Un aquaparc ! On va nager !*
 - 🐇 **Lola** : Ujo, kde sú plavky?
   *Tonton, où sont les maillots de bain ?*
@@ -2263,7 +2263,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Les maillots sont… à Lyon.*
 - 🐰 **Andrea** : Gab!
   *Gab !*
-- 🦊🧢 **Hugo** : Ujo!
+- 🧢 **Hugo** : Ujo!
   *Tonton !*
 - 🐇 **Lola** : Ujo!
   *Tonton !*
@@ -2308,7 +2308,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Lola, ce maillot te plaît ? Il est vert.*
 - 🐇 **Lola** : Nie. Nepáčia sa mi. Chcem ružové.
   *Non. Il ne me plaît pas. Je veux un rose.*
-- 🦊🧢 **Hugo** : A ja chcem modré. So žralokom.
+- 🧢 **Hugo** : A ja chcem modré. So žralokom.
   *Et moi, je veux un bleu. Avec un requin.*
 - 🧑‍🦰 **🧑‍🦰** : Tu sú modré so žralokom. A tu sú ružové.
   *Voici le bleu avec un requin. Et voici le rose.*
@@ -2324,7 +2324,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Gab… Jaune ? À fleurs ?*
 - 🦊 **Gab** : Sú to posledné plavky v mojej veľkosti.
   *C'est le dernier maillot à ma taille.*
-- 🦊🧢 **Hugo** : Ujo, vyzeráš ako banán.
+- 🧢 **Hugo** : Ujo, vyzeráš ako banán.
   *Tonton, tu ressembles à une banane.*
 - 🦊 **Gab** : Ďakujem, Hugo.
   *Merci, Hugo.*
@@ -2354,7 +2354,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *L'eau est chaude ! Pas comme au tajch !*
 - 🐰 **Andrea** : Je to termálna voda. Je teplá celý rok.
   *C'est de l'eau thermale. Elle est chaude toute l'année.*
-- 🦊🧢 **Hugo** : Ujo, poď na tobogan!
+- 🧢 **Hugo** : Ujo, poď na tobogan!
   *Tonton, viens sur le toboggan !*
 - 🦊 **Gab** : Nie. Som opatrný.
   *Non. Je suis prudent.*
@@ -2372,7 +2372,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Sur le toboggan, tu es rapide, Gab.*
 - 🦊 **Gab** : Ešte raz! Poďme ešte raz!
   *Encore une fois ! On y retourne !*
-- 🦊🧢 **Hugo** : Ujo, si ako banán na tobogane.
+- 🧢 **Hugo** : Ujo, si ako banán na tobogane.
   *Tonton, tu es comme une banane sur un toboggan.*
 
 ### Liptov (extra) — Zajtra hory
@@ -2444,7 +2444,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Rien, rien ! Bonne nuit, Claire !*
 - 💬 **narrateur** : Deti sú v posteli.
   *Les enfants sont au lit.*
-- 🦊🧢 **Hugo** : Ujo, budeme v Tatrách spať v stane?
+- 🧢 **Hugo** : Ujo, budeme v Tatrách spať v stane?
   *Tonton, dans les Tatras, on dormira sous la tente ?*
 - 🦊 **Gab** : Áno. V stane.
   *Oui. Sous la tente.*
@@ -2492,7 +2492,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Un orage ? La nuit ? Et nous, on dormira sous la tente.*
 - 🐰 **Andrea** : Ak bude búrka, budeme spať v aute.
   *S'il y a un orage, on dormira dans la voiture.*
-- 🦊🧢 **Hugo** : Nie! Chceme spať v stane!
+- 🧢 **Hugo** : Nie! Chceme spať v stane!
   *Non ! On veut dormir sous la tente !*
 - 🐇 **Lola** : V stane! V stane!
   *Sous la tente ! Sous la tente !*
@@ -2504,7 +2504,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *En montagne, l'été est différent. En haut, il fait froid et le vent souffle.*
 - 🦊 **Gab** : A musíme si vziať aj dáždniky.
   *Et il faut aussi prendre des parapluies.*
-- 🦊🧢 **Hugo** : A stan.
+- 🧢 **Hugo** : A stan.
   *Et la tente.*
 - 🦊 **Gab** : A stan. Samozrejme.
   *Et la tente. Bien sûr.*
@@ -2547,13 +2547,13 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Glaciaire ? Il y a de la glace ?*
 - 🐰 **Andrea** : Teraz nie. Ale voda je studená.
   *Pas maintenant. Mais l'eau est froide.*
-- 🦊🧢 **Hugo** : Ujo, môžeme ísť na loďku?
+- 🧢 **Hugo** : Ujo, môžeme ísť na loďku?
   *Tonton, on peut aller sur une barque ?*
 - 🦊 **Gab** : Môžeme.
   *On peut.*
 - 💬 **narrateur** : Gab vesluje. Loďka ide... dookola.
   *Gab rame. La barque avance… en rond.*
-- 🦊🧢 **Hugo** : Ujo, ideme dookola!
+- 🧢 **Hugo** : Ujo, ideme dookola!
   *Tonton, on tourne en rond !*
 - 🦊 **Gab** : Viem. To je okružná plavba.
   *Je sais. C'est une croisière circulaire.*
@@ -2598,7 +2598,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
 
 - 💬 **narrateur** : Starý Smokovec. Malá lanovka ide hore po kopci, ako vlak. Ide na Hrebienok.
   *Starý Smokovec. Une petite remontée monte la colline, comme un train. Elle va à Hrebienok.*
-- 🦊🧢 **Hugo** : Vlak na kopec!
+- 🧢 **Hugo** : Vlak na kopec!
   *Un train qui monte la colline !*
 - 🐰 **Andrea** : To je pozemná lanovka. Ide hore na Hrebienok.
   *C'est un funiculaire. Il monte à Hrebienok.*
@@ -2610,7 +2610,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Des cascades. Le Studený potok.*
 - 💬 **narrateur** : Voda padá zo skál. Je biela a hlučná.
   *L'eau tombe des rochers. Elle est blanche et bruyante.*
-- 🦊🧢 **Hugo** : Je to krásne!
+- 🧢 **Hugo** : Je to krásne!
   *C'est magnifique !*
 - 🐇 **Lola** : Môžem sa dotknúť vody?
   *Je peux toucher l'eau ?*
@@ -2659,7 +2659,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *L'après-midi. Tatranská Lomnica. La remontée monte jusqu'à Skalnaté pleso. Et de là, jusqu'au Lomnický štít.*
 - 🐰 **Andrea** : Lomnický štít je veľmi vysoký. Hore je kaviareň.
   *Le Lomnický štít est très haut. En haut, il y a un café.*
-- 🦊🧢 **Hugo** : Kaviareň na štíte? Super!
+- 🧢 **Hugo** : Kaviareň na štíte? Super!
   *Un café sur le sommet ? Super !*
 - 💬 **narrateur** : Pri Skalnatom plese stojí pracovník lanovky.
   *Près de Skalnaté pleso, il y a un employé de la remontée.*
@@ -2675,7 +2675,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *En montagne, il faut être patiente, Lola. C'est la montagne qui décide.*
 - 💬 **narrateur** : Zrazu niečo píska. Píí! Píí!
   *Soudain, quelque chose siffle. Piii ! Piii !*
-- 🦊🧢 **Hugo** : Čo to je?
+- 🧢 **Hugo** : Čo to je?
   *Qu'est-ce que c'est ?*
 - 🐰 **Andrea** : Pozrite, tam na kameni. To je svišť.
   *Regardez, là, sur la pierre. C'est une marmotte.*
@@ -2725,7 +2725,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Bon. La notice. Étape un…*
 - 💬 **narrateur** : Desať minút. Dvadsať minút. Stan stojí. Ale je naopak.
   *Dix minutes. Vingt minutes. La tente tient debout. Mais elle est à l'envers.*
-- 🦊🧢 **Hugo** : Ujo, dvere sú hore.
+- 🧢 **Hugo** : Ujo, dvere sú hore.
   *Tonton, la porte est en haut.*
 - 🦊 **Gab** : Viem. To je... strešné okno.
   *Je sais. C'est… une fenêtre de toit.*
@@ -2743,7 +2743,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Gab regarde son portable.*
 - 🧭 **GPS** : Stratila som signál.
   *J'ai perdu le signal.*
-- 🦊🧢 **Hugo** : Navigácia nemá signál.
+- 🧢 **Hugo** : Navigácia nemá signál.
   *La navigation n'a pas de signal.*
 - 🐰 **Andrea** : V horách nemá signál nikto. Ani navigácia.
   *En montagne, personne n'a de signal. Même pas la navigation.*
@@ -2832,7 +2832,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *L'orage est tout près.*
 - 💬 **narrateur** : Do stanu tečie voda. Spacáky sú mokré.
   *L'eau coule dans la tente. Les sacs de couchage sont mouillés.*
-- 🦊🧢 **Hugo** : Ujo, môj spacák je mokrý!
+- 🧢 **Hugo** : Ujo, môj spacák je mokrý!
   *Tonton, mon sac de couchage est mouillé !*
 - 🐰 **Andrea** : Gab. Ak bude ešte pršať...
   *Gab. S'il continue à pleuvoir…*
@@ -2840,7 +2840,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *On va dans la voiture. Maintenant !*
 - 💬 **narrateur** : Všetci bežia do auta. V aute je sucho a teplo.
   *Tout le monde court à la voiture. Dans la voiture, il fait sec et chaud.*
-- 🦊🧢 **Hugo** : Ujo, spím v aute. Ako som chcel v Trenčíne.
+- 🧢 **Hugo** : Ujo, spím v aute. Ako som chcel v Trenčíne.
   *Tonton, je dors dans la voiture. Comme je voulais à Trenčín.*
 - 🦊 **Gab** : Áno, Hugo. Konečne máš, čo chceš.
   *Oui, Hugo. Tu as enfin ce que tu veux.*
@@ -2878,7 +2878,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Le matin. Le soleil brille. Le camping est trempé. Les sacs de couchage sèchent sur les arbres.*
 - 🐰 **Andrea** : Dnes ideme do Slovenského raja.
   *Aujourd'hui, on va au Slovenský raj.*
-- 🦊🧢 **Hugo** : Do raja? Ako v nebi?
+- 🧢 **Hugo** : Do raja? Ako v nebi?
   *Au paradis ? Comme au ciel ?*
 - 🐰 **Andrea** : Skoro. Sú tam rokliny, vodopády a rebríky.
   *Presque. Il y a des gorges, des cascades et des échelles.*
@@ -2896,7 +2896,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *À l'entrée des gorges, il y a un panneau.*
 - 🐰 **Andrea** : Pozor. V tejto rokline môžeme ísť len hore. Dole nemôžeme.
   *Attention. Dans ces gorges, on ne peut que monter. On ne peut pas descendre.*
-- 🦊🧢 **Hugo** : Prečo?
+- 🧢 **Hugo** : Prečo?
   *Pourquoi ?*
 - 🐰 **Andrea** : Lebo rebríky sú úzke. Ľudia sa na nich nemôžu obísť.
   *Parce que les échelles sont étroites. Les gens ne peuvent pas s'y croiser.*
@@ -2933,7 +2933,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
 
 - 💬 **narrateur** : Roklina je úzka. Všade je voda, kamene a mokré drevo.
   *Les gorges sont étroites. Partout, de l'eau, des pierres et du bois mouillé.*
-- 🦊🧢 **Hugo** : Rebrík! Môžem ísť prvý?
+- 🧢 **Hugo** : Rebrík! Môžem ísť prvý?
   *Une échelle ! Je peux passer en premier ?*
 - 🦊 **Gab** : Nie. Ja musím ísť prvý.
   *Non. C'est moi qui dois passer en premier.*
@@ -2943,7 +2943,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Oui. Le prudent Gab passe en premier. Pour la sécurité.*
 - 💬 **narrateur** : Gab ide hore. Pomaly. Veľmi pomaly.
   *Gab monte. Lentement. Très lentement.*
-- 🦊🧢 **Hugo** : Ujo, môžeš ísť rýchlejšie?
+- 🧢 **Hugo** : Ujo, môžeš ísť rýchlejšie?
   *Tonton, tu peux aller plus vite ?*
 - 🦊 **Gab** : Nemôžem. Rebrík je mokrý.
   *Je ne peux pas. L'échelle est mouillée.*
@@ -2951,7 +2951,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Encore une échelle. Et encore une.*
 - 🐇 **Lola** : Tento rebrík je vyšší ako ten!
   *Cette échelle est plus haute que celle-là !*
-- 🦊🧢 **Hugo** : A tento je najvyšší!
+- 🧢 **Hugo** : A tento je najvyšší!
   *Et celle-ci est la plus haute !*
 - 🐰 **Andrea** : Pozrite. Vodopád.
   *Regardez. Une cascade.*
@@ -2963,7 +2963,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Tu dois te tenir à la chaîne.*
 - 💬 **narrateur** : Hore je les a slnko. Gab je červený a celý mokrý.
   *En haut, la forêt et le soleil. Gab est tout rouge et trempé.*
-- 🦊🧢 **Hugo** : Ujo, si v poriadku?
+- 🧢 **Hugo** : Ujo, si v poriadku?
   *Tonton, ça va ?*
 - 🦊 **Gab** : Som v poriadku. Som najopatrnejší ujo na svete.
   *Ça va. Je suis le tonton le plus prudent du monde.*
@@ -3004,7 +3004,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *C'est quoi ? Des marmottes ?*
 - 🐰 **Andrea** : Nie. To sú sysle. Syseľ je menší ako svišť.
   *Non. Ce sont des spermophiles. Le spermophile est plus petit que la marmotte.*
-- 🦊🧢 **Hugo** : A je rýchlejší?
+- 🧢 **Hugo** : A je rýchlejší?
   *Et il est plus rapide ?*
 - 🐰 **Andrea** : Oveľa rýchlejší.
   *Beaucoup plus rapide.*
@@ -3060,7 +3060,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *De la glace ! En été ! Comme dans un conte !*
 - 🧑‍🏫 **🧑‍🏫** : Prosím, nedotýkajte sa ľadu.
   *S'il vous plaît, ne touchez pas la glace.*
-- 🦊🧢 **Hugo** : Ujo, je tu chladnejšie ako v tajchu.
+- 🧢 **Hugo** : Ujo, je tu chladnejšie ako v tajchu.
   *Tonton, il fait plus froid ici que dans le tajch.*
 - 🦊 **Gab** : Áno. Toto je najstudenšie miesto na Slovensku.
   *Oui. C'est l'endroit le plus froid de Slovaquie.*
@@ -3070,7 +3070,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Gab regarde son portable.*
 - 🧭 **GPS** : Stratila som signál.
   *J'ai perdu le signal.*
-- 🦊🧢 **Hugo** : Navigácia sa bojí jaskyne.
+- 🧢 **Hugo** : Navigácia sa bojí jaskyne.
   *La navigation a peur de la grotte.*
 
 - vnútri = *à l'intérieur*
@@ -3100,7 +3100,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Je voudrais dormir. Dix heures. Sans orage et sans ronflements.*
 - 🐇 **Lola** : Ja by som chcela ísť znova do Tatralandie.
   *Moi, je voudrais retourner à Tatralandia.*
-- 🦊🧢 **Hugo** : Ja by som chcel vidieť medveďa. Naozajstného. Nie v zoo.
+- 🧢 **Hugo** : Ja by som chcel vidieť medveďa. Naozajstného. Nie v zoo.
   *Moi, je voudrais voir un ours. Un vrai. Pas au zoo.*
 - 🐰 **Andrea** : To by som nechcela. Medvede sú nebezpečné.
   *Ça, je ne voudrais pas. Les ours sont dangereux.*
@@ -3114,7 +3114,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Ta famille ? Tu as une maman ?*
 - 🐰 **Andrea** : Mám mamu, otca aj babku. Babka robí najlepšie pirohy na svete.
   *J'ai une maman, un papa et une mamie. Mamie fait les meilleurs pirohy du monde.*
-- 🦊🧢 **Hugo** : Lepšie ako koláč pána domáceho?
+- 🧢 **Hugo** : Lepšie ako koláč pána domáceho?
   *Meilleurs que le gâteau du patron ?*
 - 🐰 **Andrea** : Oveľa lepšie.
   *Bien meilleurs.*
@@ -3182,11 +3182,11 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Lola chuchote.*
 - 🐇 **Lola** : Hugo. Hugo! Zobuď sa.
   *Hugo. Hugo ! Réveille-toi.*
-- 🦊🧢 **Hugo** : Čo je?
+- 🧢 **Hugo** : Čo je?
   *Quoi ?*
 - 🐇 **Lola** : Kto chrápe?
   *Qui ronfle ?*
-- 🦊🧢 **Hugo** : Ja nie. Ty?
+- 🧢 **Hugo** : Ja nie. Ty?
   *Pas moi. Toi ?*
 - 🐇 **Lola** : Ja nie. Počúvaj.
   *Pas moi. Écoute.*
@@ -3206,13 +3206,13 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *C'est toi.*
 - 🦊 **Gab** : To nie som ja.
   *Ce n'est pas moi.*
-- 🦊🧢 **Hugo** : Si to ty. To je tvoja posteľ. A to je tvoj hlas.
+- 🧢 **Hugo** : Si to ty. To je tvoja posteľ. A to je tvoj hlas.
   *C'est toi. C'est ton lit. Et c'est ta voix.*
 - 🐰 **Andrea** : Ja nechrápem. Hugo nechrápe. Lola chrápe trochu. A ty chrápeš najviac.
   *Moi, je ne ronfle pas. Hugo ne ronfle pas. Lola ronfle un peu. Et toi, tu ronfles le plus.*
 - 🦊 **Gab** : Dobre. Dobre. Som najlepší chrápač na svete.
   *Bon. Bon. Je suis le meilleur ronfleur du monde.*
-- 🦊🧢 **Hugo** : Pošleme to mame!
+- 🧢 **Hugo** : Pošleme to mame!
   *On l'envoie à maman !*
 - 🦊 **Gab** : Nie!
   *Non !*
@@ -3222,7 +3222,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Une minute plus tard, un message arrive de Claire.*
 - 📱 **Claire** : Ha ha ha! Gab, chrápeš ako medveď!
   *Ha ha ha ! Gab, tu ronfles comme un ours !*
-- 🦊🧢 **Hugo** : Ujo, konečne som videl medveďa.
+- 🧢 **Hugo** : Ujo, konečne som videl medveďa.
   *Tonton, j'ai enfin vu un ours.*
 
 ### Série Spiš (1/5) — Klietka hanby
@@ -3242,7 +3242,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Levoča. Une vieille ville derrière ses remparts. Sur la place, de belles maisons et une grande église.*
 - 🐰 **Andrea** : Toto je Levoča. Kedysi to bolo veľmi bohaté mesto.
   *Voici Levoča. Autrefois, c'était une ville très riche.*
-- 🦊🧢 **Hugo** : Prečo bolo bohaté?
+- 🧢 **Hugo** : Prečo bolo bohaté?
   *Pourquoi elle était riche ?*
 - 🐰 **Andrea** : Lebo tu boli obchodníci. Predávali a kupovali.
   *Parce qu'il y avait des marchands ici. Ils vendaient et ils achetaient.*
@@ -3252,7 +3252,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *C'est quoi ? Une cage pour un chien ?*
 - 🐰 **Andrea** : Nie. To je klietka hanby. Kedysi tam zatvárali zlých ľudí. Všetci sa na nich pozerali.
   *Non. C'est la cage de la honte. Autrefois, on y enfermait les méchants. Tout le monde les regardait.*
-- 🦊🧢 **Hugo** : Ujo, poď dnu!
+- 🧢 **Hugo** : Ujo, poď dnu!
   *Tonton, entre là-dedans !*
 - 🦊 **Gab** : Prečo ja?
   *Pourquoi moi ?*
@@ -3260,7 +3260,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Parce que tu as ronflé !*
 - 💬 **narrateur** : Gab stojí v klietke. Hugo fotí.
   *Gab est debout dans la cage. Hugo prend une photo.*
-- 🦊🧢 **Hugo** : Pošleme to mame!
+- 🧢 **Hugo** : Pošleme to mame!
   *On l'envoie à maman !*
 - 🦊 **Gab** : Nie! Už nie!
   *Non ! Plus maintenant !*
@@ -3300,11 +3300,11 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *La basilique Saint-Jacques. À l'intérieur, c'est le silence. Devant se dresse un immense autel en bois.*
 - 🐰 **Andrea** : Tento oltár je vysoký skoro devätnásť metrov. Je to najvyšší gotický drevený oltár na svete.
   *Cet autel fait presque dix-neuf mètres de haut. C'est le plus haut autel gothique en bois du monde.*
-- 🦊🧢 **Hugo** : Kto ho urobil?
+- 🧢 **Hugo** : Kto ho urobil?
   *Qui l'a fait ?*
 - 🐰 **Andrea** : Majster Pavol z Levoče. Robil ho desať rokov.
   *Maître Paul de Levoča. Il l'a fait pendant dix ans.*
-- 🦊🧢 **Hugo** : Desať rokov! Tak dlho ako ujo stavia stan.
+- 🧢 **Hugo** : Desať rokov! Tak dlho ako ujo stavia stan.
   *Dix ans ! Aussi longtemps que tonton pour monter une tente.*
 - 🦊 **Gab** : Hugo...
   *Hugo…*
@@ -3344,7 +3344,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Sur la colline au-dessus de Spišské Podhradie se dresse un château gigantesque. C'est une ruine, mais elle est grande. Très grande.*
 - 🐰 **Andrea** : Spišský hrad. Je to jeden z najväčších hradov v strednej Európe.
   *Le château de Spiš. C'est l'un des plus grands châteaux d'Europe centrale.*
-- 🦊🧢 **Hugo** : Je väčší ako Oravský hrad?
+- 🧢 **Hugo** : Je väčší ako Oravský hrad?
   *Il est plus grand que le château d'Orava ?*
 - 🐰 **Andrea** : Oveľa väčší.
   *Beaucoup plus grand.*
@@ -3356,7 +3356,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Qui habitait ici ?*
 - 🐰 **Andrea** : Kedysi tu bývali bohatí páni. Mali vojakov a kone.
   *Autrefois, de riches seigneurs habitaient ici. Ils avaient des soldats et des chevaux.*
-- 🦊🧢 **Hugo** : A kde sú teraz?
+- 🧢 **Hugo** : A kde sú teraz?
   *Et ils sont où maintenant ?*
 - 🐰 **Andrea** : Teraz tu nebýva nikto. Len vietor a turisti.
   *Maintenant, personne n'habite ici. Seulement le vent et les touristes.*
@@ -3398,7 +3398,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *C'est quoi, le Vatican ?*
 - 🐰 **Andrea** : Mesto pápeža v Ríme. Je malé a je v ňom veľa kostolov.
   *La ville du pape, à Rome. Elle est petite et il y a beaucoup d'églises.*
-- 🦊🧢 **Hugo** : A tu býva pápež?
+- 🧢 **Hugo** : A tu býva pápež?
   *Et le pape habite ici ?*
 - 🐰 **Andrea** : Nie. Ale je to tiež malé mesto a kostol je veľmi dôležitý.
   *Non. Mais c'est aussi une petite ville, et l'église y est très importante.*
@@ -3428,11 +3428,11 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Le soir. Une chambre chez l'habitant à Spišské Podhradie. Sur la table, de la soupe et du pain.*
 - 🧓 **🧓** : Tak, deti, čo ste dnes robili?
   *Alors, les enfants, qu'est-ce que vous avez fait aujourd'hui ?*
-- 🦊🧢 **Hugo** : Videl som veľký hrad!
+- 🧢 **Hugo** : Videl som veľký hrad!
   *J'ai vu un grand château !*
 - 🐇 **Lola** : A ja som videla klietku!
   *Et moi, j'ai vu une cage !*
-- 🦊🧢 **Hugo** : A ujo bol v klietke!
+- 🧢 **Hugo** : A ujo bol v klietke!
   *Et tonton était dans la cage !*
 - 🧓 **🧓** : V klietke? Prečo?
   *Dans la cage ? Pourquoi ?*
@@ -3442,7 +3442,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Ah. C'est une bonne raison.*
 - 🦊 **Gab** : Áno, ja som bola v klietke. Len päť minút.
   *Oui, j'étais dans la cage. Seulement cinq minutes.*
-- 🦊🧢 **Hugo** : Bola? Ujo, ty si zajačica?
+- 🧢 **Hugo** : Bola? Ujo, ty si zajačica?
   *« Bola » ? Tonton, tu es une hase ?*
 - 🦊 **Gab** : Bol! Bol som v klietke!
   *« Bol » ! J'étais dans la cage !*
@@ -3543,13 +3543,13 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Le matin. La voiture roule vers le nord. Le téléphone sonne.*
 - 📱 **Claire** : Ahoj, deti! Čo ste včera robili?
   *Salut, les enfants ! Qu'est-ce que vous avez fait hier ?*
-- 🦊🧢 **Hugo** : Boli sme v Levoči! Videli sme veľký oltár!
+- 🧢 **Hugo** : Boli sme v Levoči! Videli sme veľký oltár!
   *On était à Levoča ! On a vu un grand autel !*
 - 🐇 **Lola** : A boli sme na hrade! Na obrovskom hrade!
   *Et on est allés au château ! Un château gigantesque !*
 - 📱 **Claire** : Super! A čo robil ujo?
   *Super ! Et qu'est-ce qu'il a fait, tonton ?*
-- 🦊🧢 **Hugo** : Ujo bol v klietke!
+- 🧢 **Hugo** : Ujo bol v klietke!
   *Tonton était dans une cage !*
 - 📱 **Claire** : V klietke?
   *Dans une cage ?*
@@ -3599,7 +3599,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Bardejov. Une grande place. Tout autour, des maisons colorées. Au milieu, un vieil hôtel de ville.*
 - 🐰 **Andrea** : Táto radnica je prvá renesančná stavba na Slovensku.
   *Cet hôtel de ville est le premier bâtiment Renaissance de Slovaquie.*
-- 🦊🧢 **Hugo** : Prvá? Pred ňou nebola žiadna?
+- 🧢 **Hugo** : Prvá? Pred ňou nebola žiadna?
   *Le premier ? Avant lui, il n'y en avait aucun ?*
 - 🐰 **Andrea** : Pred ňou boli iné stavby. Ale nie renesančné.
   *Avant lui, il y avait d'autres bâtiments. Mais pas de la Renaissance.*
@@ -3644,7 +3644,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
 
 - 💬 **narrateur** : Bazilika svätého Egídia. Vnútri je jedenásť starých gotických oltárov. Vonku je vysoká veža.
   *La basilique Saint-Gilles. À l'intérieur, onze vieux autels gothiques. Dehors, une haute tour.*
-- 🦊🧢 **Hugo** : Ideme hore na vežu?
+- 🧢 **Hugo** : Ideme hore na vežu?
   *On monte en haut de la tour ?*
 - 🦊 **Gab** : Nie. Ja nejdem. Včera sme vyšli na hrad. Predvčerom sme vyšli na rebríky. Dnes nevyjdem nikam.
   *Non. Moi, je n'y vais pas. Hier, on est montés au château. Avant-hier, on est montés aux échelles. Aujourd'hui, je ne monte nulle part.*
@@ -3708,7 +3708,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Moi aussi, je veux ! Hugo, viens !*
 - 💬 **narrateur** : Lola a Hugo sa šmýkajú. Až do stredu. Lola padá na Huga.
   *Lola et Hugo glissent. Jusqu'au milieu. Lola tombe sur Hugo.*
-- 🦊🧢 **Hugo** : Lola! Je to ako v aute! Vždy si na mne!
+- 🧢 **Hugo** : Lola! Je to ako v aute! Vždy si na mne!
   *Lola ! C'est comme dans la voiture ! Tu es toujours sur moi !*
 
 ### Série Bardejov (5/5) — Kúpele a skanzen
@@ -3727,7 +3727,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Ici, il y a de l'eau minérale. Elle est bonne pour la santé. Goûtez.*
 - 🐇 **Lola** : Fuj! Chutí ako železo!
   *Beurk ! Ça a le goût du fer !*
-- 🦊🧢 **Hugo** : Chutí ako stará minca z Kremnice.
+- 🧢 **Hugo** : Chutí ako stará minca z Kremnice.
   *Ça a le goût d'une vieille pièce de Kremnica.*
 - 🐰 **Andrea** : Je to zdravé.
   *C'est bon pour la santé.*
@@ -3735,7 +3735,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Ce qui est sain, c'est souvent beurk.*
 - 💬 **narrateur** : Neďaleko je skanzen. Staré drevené domy, mlyn, drevený kostol.
   *Pas loin, il y a un musée en plein air. De vieilles maisons en bois, un moulin, une église en bois.*
-- 🦊🧢 **Hugo** : Drevený kostol! Ako v Tvrdošíne!
+- 🧢 **Hugo** : Drevený kostol! Ako v Tvrdošíne!
   *Une église en bois ! Comme à Tvrdošín !*
 - 🐰 **Andrea** : Áno. Tento skanzen je najstarší na Slovensku.
   *Oui. Ce musée en plein air est le plus ancien de Slovaquie.*
@@ -3860,7 +3860,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Tu vois, Gab ? Maman est plus rapide que toi.*
 - 🐰🌷 **🐰🌷** : A toto sú deti? Ahoj, Hugo! Ahoj, Lola!
   *Et ce sont les enfants ? Salut, Hugo ! Salut, Lola !*
-- 🦊🧢 **Hugo** : Ako vieš, ako sa voláme?
+- 🧢 **Hugo** : Ako vieš, ako sa voláme?
   *Comment tu sais comment on s'appelle ?*
 - 🐰🌷 **🐰🌷** : Andrea mi všetko povedala.
   *Andrea m'a tout raconté.*
@@ -3900,7 +3900,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Dans la cuisine est assise une vieille brebis. C'est mamie Zuzana.*
 - 🐑 **🐑** : Ta co, deci? Hladne sce?
   *Alors, les enfants ? Vous avez faim ?*
-- 🦊🧢 **Hugo** : Čo?
+- 🧢 **Hugo** : Čo?
   *Quoi ?*
 - 🐰 **Andrea** : Babka hovorí po šarišsky. „Ta co“ je ako „tak čo“. Pýta sa, či ste hladní.
   *Mamie parle šariš. « Ta co », c'est comme « tak čo ». Elle demande si vous avez faim.*
@@ -3942,7 +3942,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Sur la table, des pirohy. Beaucoup de pirohy. Énormément de pirohy.*
 - 🐰🌷 **🐰🌷** : Babka robí pirohy so zemiakmi a s bryndzou.
   *Mamie fait des pirohy aux pommes de terre et à la bryndza.*
-- 🦊🧢 **Hugo** : S bryndzou? Ako halušky?
+- 🧢 **Hugo** : S bryndzou? Ako halušky?
   *À la bryndza ? Comme les halušky ?*
 - 🐰 **Andrea** : Áno. Ale toto sú pirohy.
   *Oui. Mais ça, ce sont des pirohy.*
@@ -3990,7 +3990,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *L'après-midi. La rue principale. Elle est longue et large. Au milieu, une grande église.*
 - 🐰 **Andrea** : Tu som chodila do školy. Tam, za kostolom.
   *C'est ici que j'allais à l'école. Là, derrière l'église.*
-- 🦊🧢 **Hugo** : Bola si dobrá žiačka?
+- 🧢 **Hugo** : Bola si dobrá žiačka?
   *Tu étais une bonne élève ?*
 - 🐰 **Andrea** : Bola som veľmi dobrá žiačka.
   *J'étais une très bonne élève.*
@@ -4023,7 +4023,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Solivar. De vieux bâtiments en bois au bord de la ville. Dans l'un d'eux, une grande roue en bois.*
 - 🐰 **Andrea** : Tu sa kedysi robila soľ. Zo slanej vody spod zeme.
   *Ici, autrefois, on fabriquait du sel. Avec de l'eau salée venue du sous-sol.*
-- 🦊🧢 **Hugo** : Spod zeme?
+- 🧢 **Hugo** : Spod zeme?
   *Du sous-sol ?*
 - 🐰 **Andrea** : Áno. Kone ťahali koleso a koleso ťahalo vodu hore. V kožených vedrách.
   *Oui. Des chevaux tiraient la roue, et la roue remontait l'eau. Dans des seaux en cuir.*
@@ -4033,7 +4033,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Comme moi sur les échelles.*
 - 🐰 **Andrea** : Potom vodu varili. Voda zmizla a zostala soľ.
   *Ensuite, on faisait bouillir l'eau. L'eau disparaissait et il restait le sel.*
-- 🦊🧢 **Hugo** : Soľ z Prešova!
+- 🧢 **Hugo** : Soľ z Prešova!
   *Du sel de Prešov !*
 - 🦊 **Gab** : Je soľ zdravá?
   *Le sel, c'est bon pour la santé ?*
@@ -4147,11 +4147,11 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Peut-être.*
 - 🐇 **Lola** : Škoda.
   *Dommage.*
-- 🦊🧢 **Hugo** : Ktorý deň bol najlepší?
+- 🧢 **Hugo** : Ktorý deň bol najlepší?
   *Quel jour était le meilleur ?*
 - 🐇 **Lola** : Ten, keď bol ujo v klietke.
   *Celui où tonton était dans la cage.*
-- 🦊🧢 **Hugo** : Pre mňa ten, keď sme spali v aute.
+- 🧢 **Hugo** : Pre mňa ten, keď sme spali v aute.
   *Pour moi, celui où on a dormi dans la voiture.*
 - 🐰 **Andrea** : Pre mňa ten, keď si sa šmýkal na tobogane, Gab. V žltých plavkách.
   *Pour moi, celui où tu as glissé sur le toboggan, Gab. En maillot jaune.*
@@ -4194,7 +4194,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Košice. La rue principale. Au milieu se dresse une immense cathédrale.*
 - 🐰 **Andrea** : Toto je Dóm svätej Alžbety. Je to najväčší kostol na Slovensku.
   *Voici la cathédrale Sainte-Élisabeth. C'est la plus grande église de Slovaquie.*
-- 🦊🧢 **Hugo** : Väčší ako v Levoči?
+- 🧢 **Hugo** : Väčší ako v Levoči?
   *Plus grande qu'à Levoča ?*
 - 🐰 **Andrea** : Väčší. Ale oltár v Levoči je vyšší.
   *Plus grande. Mais l'autel de Levoča est plus haut.*
@@ -4214,7 +4214,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *C'est la Fontaine qui chante.*
 - 🐇 **Lola** : Ako v rozprávke!
   *Comme dans un conte !*
-- 🦊🧢 **Hugo** : Lola, u teba je všetko ako v rozprávke.
+- 🧢 **Hugo** : Lola, u teba je všetko ako v rozprávke.
   *Lola, pour toi, tout est comme dans un conte.*
 - 🐇 **Lola** : Lebo všetko je ako v rozprávke.
   *Parce que tout est comme dans un conte.*
@@ -4242,7 +4242,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *L'après-midi. Une forêt près de Košice. De vieilles mines.*
 - 🐰 **Andrea** : Tu sú opálové bane. Patria medzi najstaršie na svete.
   *Ici, ce sont des mines d'opale. Elles font partie des plus anciennes du monde.*
-- 🦊🧢 **Hugo** : Čo je opál?
+- 🧢 **Hugo** : Čo je opál?
   *C'est quoi, une opale ?*
 - 🐰 **Andrea** : Kameň. Má všetky farby. Ako dúha.
   *Une pierre. Elle a toutes les couleurs. Comme un arc-en-ciel.*
@@ -4283,7 +4283,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Bonsoir. Bienvenue. Vos chambres sont en haut.*
 - 🐇 **Lola** : Moja izba má okno na katedrálu!
   *Ma chambre a une fenêtre sur la cathédrale !*
-- 🦊🧢 **Hugo** : A moja na strechy!
+- 🧢 **Hugo** : A moja na strechy!
   *Et la mienne, sur les toits !*
 - 🦊 **Gab** : A moja... na stenu.
   *Et la mienne… sur un mur.*
@@ -4312,7 +4312,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Et toi ?*
 - 🦊 **Gab** : Ja tiež. Som unavený, ale šťastný.
   *Moi aussi. Je suis fatigué, mais heureux.*
-- 🦊🧢 **Hugo** : Mami, budúce leto pôjdeme znova!
+- 🧢 **Hugo** : Mami, budúce leto pôjdeme znova!
   *Maman, l'été prochain, on y retourne !*
 - 📱 **Claire** : Kam?
   *Où ça ?*
@@ -4369,7 +4369,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Andrea, ne pars pas !*
 - 🐰 **Andrea** : Musím, Lola. Ale prídem do Lyonu. Možno.
   *Il le faut, Lola. Mais je viendrai à Lyon. Peut-être.*
-- 🦊🧢 **Hugo** : Naozaj?
+- 🧢 **Hugo** : Naozaj?
   *C'est vrai ?*
 - 🐰 **Andrea** : Možno. Ak tam budú pirohy.
   *Peut-être. S'il y a des pirohy.*
@@ -4395,7 +4395,7 @@ Gab est le prénom par défaut de l'apprenant ; dans l'appli, c'est le prénom c
   *Lyon.*
 - 🧭 **GPS** : Trasa: viac ako tisíc kilometrov.
   *Itinéraire : plus de mille kilomètres.*
-- 🦊🧢 **Hugo** : Ujo...
+- 🧢 **Hugo** : Ujo...
   *Tonton…*
 - 🐇 **Lola** : Už sme tam?
   *On est arrivés ?*

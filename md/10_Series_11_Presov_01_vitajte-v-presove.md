@@ -48,7 +48,7 @@ Les Slovaques adorent les diminutifs affectueux : {{Andrea}} → {{Andrejka}}, {
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 🐰🌷 Marta, la maman d'Andrea
 - 🐰🎣 Ivan, le papa d'Andrea
@@ -106,7 +106,7 @@ Les Slovaques adorent les diminutifs affectueux : {{Andrea}} → {{Andrejka}}, {
 ! 🐰🌷 A toto sú deti? Ahoj, Hugo! Ahoj, Lola!
 > Et ce sont les enfants ? Salut, Hugo ! Salut, Lola !
 
-! 🦊🧢 Ako vieš, ako sa voláme?
+! 🧢 Ako vieš, ako sa voláme?
 > Comment tu sais comment on s'appelle ?
 > Ako vieš = comment sais-tu
 > ako sa voláme = comment nous nous appelons

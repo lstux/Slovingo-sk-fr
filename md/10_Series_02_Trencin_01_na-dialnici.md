@@ -68,7 +68,7 @@ Au pluriel, « nous » finit en **-me** et « vous » en **-te** : {{čakáme, h
 > Rovno = tout droit
 > Dobre = d'accord
 
-! 🦊🧢 Už sme tam?
+! 🧢 Už sme tam?
 > On est arrivés ?
 > Už = déjà
 > sme = nous sommes
@@ -116,7 +116,7 @@ Au pluriel, « nous » finit en **-me** et « vous » en **-te** : {{čakáme, h
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🧭 Navigácia, la navigation de la voiture (elle te vouvoie)
 - 💬 Le narrateur
 

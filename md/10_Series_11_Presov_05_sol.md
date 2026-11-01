@@ -22,7 +22,7 @@
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -45,7 +45,7 @@
 > spod zeme = de sous la terre
 + Mots nouveaux signalés : {{soľ}} = le sel, {{slaný}} = salé.
 
-! 🦊🧢 Spod zeme?
+! 🧢 Spod zeme?
 > Du sous-sol ?
 
 ! 🐰 Áno. Kone ťahali koleso a koleso ťahalo vodu hore. V kožených vedrách.
@@ -68,7 +68,7 @@
 > zostala soľ = il restait le sel
 + Mot nouveau signalé : {{variť}} = faire bouillir, cuisiner.
 
-! 🦊🧢 Soľ z Prešova!
+! 🧢 Soľ z Prešova!
 > Du sel de Prešov !
 
 ! 🦊 Je soľ zdravá?

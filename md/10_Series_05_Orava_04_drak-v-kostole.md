@@ -44,7 +44,7 @@ On dit aussi, en un seul mot, {{drevený}} : {{drevený kostol}}.
 
 - 🦊 Toi, l'oncle de Hugo et Lola
 - 🐰 Andrea, une hase slovaque, ton amie
-- 🦊🧢 Hugo, ton neveu, neuf ans
+- 🧢 Hugo, ton neveu, neuf ans
 - 🐇 Lola, ta nièce, six ans
 - 💬 Le narrateur
 
@@ -65,7 +65,7 @@ On dit aussi, en un seul mot, {{drevený}} : {{drevený kostol}}.
 > je z dreva = est en bois
 > Je v UNESCO = elle est à l'UNESCO
 
-! 🦊🧢 Celý z dreva?
+! 🧢 Celý z dreva?
 > Entièrement en bois ?
 > Celý = entièrement
 > z dreva = en bois
