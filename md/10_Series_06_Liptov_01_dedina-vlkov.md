@@ -15,7 +15,7 @@
 
 | Slovenčina | Français |
 |------------|----------|
-| dedina (rappel) | le village |
+| dedina | le village |
 | vlk | le loup |
 | ľudia | les gens |
 | turista | le touriste |
@@ -23,6 +23,8 @@
 | farba | la couleur |
 | žltý | jaune |
 | toľko | autant, tant |
+
+Déjà vus, à revoir : {{dedina}}.
 
 ---
 

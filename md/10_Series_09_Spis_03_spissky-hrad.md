@@ -118,7 +118,9 @@
 |------------|----------|
 | medzi | entre |
 | nič | rien |
-| teraz (rappel) | maintenant |
+| teraz | maintenant |
+
+Déjà vus, à revoir : {{teraz}}.
 
 ---
 

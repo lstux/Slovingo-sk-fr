@@ -13,11 +13,13 @@
 | opál | l'opale |
 | patriť medzi | faire partie de |
 | dúha | l'arc-en-ciel |
-| farba (rappel) | la couleur |
-| prilba (rappel) | le casque |
-| baňa (rappel) | la mine |
-| tma (rappel) | le noir |
-| zase (rappel) | encore |
+| farba | la couleur |
+| prilba | le casque |
+| baňa | la mine |
+| tma | le noir |
+| zase | encore |
+
+Déjà vus, à revoir : {{farba}}, {{prilba}}, {{baňa}}, {{tma}}, {{zase}}.
 
 ---
 

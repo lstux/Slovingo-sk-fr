@@ -15,9 +15,11 @@
 | kufor | la valise, le coffre |
 | otvárať | ouvrir |
 | aquapark | l'aquaparc |
-| obchod (rappel) | le magasin |
+| obchod | le magasin |
 | do | dans, à (vers un lieu) |
 | ísť do obchodu | aller au magasin |
+
+Déjà vus, à revoir : {{obchod}}.
 
 ---
 

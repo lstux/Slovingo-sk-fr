@@ -16,13 +16,15 @@
 | Slovenčina | Français |
 |------------|----------|
 | ktorý | quel, lequel ; qui (relatif) |
-| najlepší (rappel) | le meilleur |
-| posledný (rappel) | le dernier |
+| najlepší | le meilleur |
+| posledný | le dernier |
 | krátky | court |
-| pekný (rappel) | joli, beau |
+| pekný | joli, beau |
 | napísať | écrire |
 | tridsaťpäť | trente-cinq |
 | so mnou | avec moi |
+
+Déjà vus, à revoir : {{najlepší}}, {{posledný}}, {{pekný}}.
 
 ---
 

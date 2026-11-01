@@ -15,9 +15,11 @@
 | noha | la jambe, le pied |
 | bolieť | faire mal |
 | ani | ni, même pas |
-| rovnaký (rappel) | pareil |
+| rovnaký | pareil |
 | zdola | d'en bas |
-| zajtra (rappel) | demain |
+| zajtra | demain |
+
+Déjà vus, à revoir : {{rovnaký}}, {{zajtra}}.
 
 ---
 

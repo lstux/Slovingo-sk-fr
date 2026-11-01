@@ -71,6 +71,8 @@
 | premávka | circulation |
 | meškanie | retard |
 | rýchlo | vite |
+| električka | tramway |
+| cestujúci | voyageur |
 
 ! Dnes je v meste veľká premávka.
 > Aujourd'hui il y a beaucoup de circulation en ville.

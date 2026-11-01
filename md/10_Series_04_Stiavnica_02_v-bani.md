@@ -16,8 +16,10 @@
 | hlava | la tête |
 | zima | le froid ; il fait froid |
 | tma | le noir, l'obscurité |
-| kameň (rappel) | la pierre |
+| kameň | la pierre |
 | za | derrière |
+
+Déjà vus, à revoir : {{kameň}}.
 
 ---
 

@@ -122,11 +122,11 @@ Exemple : `10_Series_02_Trencin_01_na-ceste.md`.
 
 ## 8. Vocabulaire
 
-- **Fiche d'apprentissage** : **7 à 8 mots** essentiels dans les chapitres 1 à 3 (on part de zéro), puis **9 à 10** ; plus 3 mots complémentaires. Un mot déjà vu (intro, kit, chapitre précédent) est marqué « (rappel) ».
-- **Fiche 05** : au plus **5 mots nouveaux**, toujours signalés : `+ Mot nouveau signalé : {{…}} = …`.
-- **Fiche 06** : au plus **3 mots nouveaux**, signalés et ajoutés au tableau récapitulatif.
+- **Fiche d'apprentissage** : **7 à 8 mots** essentiels dans les chapitres 1 à 3 (on part de zéro), puis **9 à 10** ; plus 3 mots complémentaires. Un mot déjà vu (intro, kit, chapitre précédent) reste dans le tableau, sans marque, et il est cité sous le tableau dans une ligne `Déjà vus, à revoir : {{…}}, {{…}}.` (une marque « (rappel) » dans la cellule passait dans les exercices).
+- **Fiche 05** : au plus **5 mots « à retenir »**, signalés : `+ Mot nouveau signalé : {{…}} = …`. Les autres mots inconnus de la scène sont simplement expliqués dans la décomposition (`>`), sans être à retenir.
+- **Fiche 06** : au plus **3 mots à retenir**, signalés et ajoutés au tableau récapitulatif ; le reste, comme dans la 05, par la décomposition.
 - Au plus **une** forme « à écouter » (pas encore apprise) par fiche de dialogue, signalée par `+ À écouter : …`. Les formules de la navigation comptent comme des blocs à retenir, pas comme des formes « à écouter ».
-- Aucun mot inconnu non signalé, navigation et narrateur compris.
+- Aucun mot inconnu sans explication, navigation et narrateur compris : il est soit signalé (à retenir), soit décomposé.
 - Les noms de lieux ne comptent pas comme mots nouveaux, mais leurs formes déclinées (*v Trenčíne*, *do Bojníc*) sont données en morceaux, avec la décomposition.
 - Les cas ne sont pas expliqués comme tels : on donne des morceaux à retenir (*na hrade*, *do mesta*, *u Andrey*).
 
@@ -195,7 +195,7 @@ Les micro-dialogues font **3 à 5 répliques au début du voyage, jusqu'à 8 ver
 **Fiche 05** :
 - `## Vocabulaire du dialogue` (au plus 5 mots nouveaux) ;
 - `## Les personnages` : avatar + nom (`- 🧭 Navigácia`, `- 🦊🧢 Hugo`…) ;
-- `## Le dialogue` : l'épisode, **12 à 15 répliques** au chapitre 1, **15 à 20** jusqu'au chapitre 4, puis jusqu'à **30–40** vers la fin ;
+- `## Le dialogue` : l'épisode, une **scène entière**, écrite d'un trait comme dans `docs/Histoire.md` (on ne la découpe pas pour caser des phrases), **12 à 15 répliques** au chapitre 1, **15 à 20** jusqu'au chapitre 4, puis jusqu'à **30–40** vers la fin ;
 - Coin slovaque.
 
 **Fiche 06 (extra)** :
@@ -264,7 +264,7 @@ Comme Friends : écrits à la main dans `exercises/<nom de la fiche>.exercises.j
 - [ ] Fiche 01 : carte du trajet du jour
 - [ ] 7-8 (ch. 1-3) ou 9-10 nouveaux mots + 3 complémentaires ; 5 au plus en 05, 3 au plus en 06
 - [ ] Cartes décomposées une ligne par élément
-- [ ] Aucun mot inconnu non signalé (navigation et narrateur compris)
+- [ ] Aucun mot inconnu sans explication (signalé ou décomposé), navigation et narrateur compris ; pas de « (rappel) » dans un tableau
 - [ ] Un marqueur unique par personnage, `! 🐰 …` après le `!`
 - [ ] Formes masculines pour Gab et Hugo, féminines pour Andrea, Lola et la navigation
 - [ ] *ty / vy* respectés (inconnus vouvoyés, navigation au *vy*) ; tout *vy* de Gab envers Andrea est signalé par un `+`

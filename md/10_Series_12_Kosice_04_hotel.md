@@ -12,12 +12,14 @@
 |------------|----------|
 | hotel | l'hôtel |
 | centrum | le centre-ville |
-| iný (rappel) | autre, différent |
-| výhľad (rappel) | la vue |
-| strecha (rappel) | le toit |
-| stena (rappel) | le mur |
+| iný | autre, différent |
+| výhľad | la vue |
+| strecha | le toit |
+| stena | le mur |
 | najkrajší | le plus beau |
-| hore (rappel) | en haut |
+| hore | en haut |
+
+Déjà vus, à revoir : {{iný}}, {{výhľad}}, {{strecha}}, {{stena}}, {{hore}}.
 
 ---
 

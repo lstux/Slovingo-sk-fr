@@ -12,9 +12,11 @@
 |------------|----------|
 | vlak | le train |
 | stanica | la gare |
-| les (rappel) | la forêt |
+| les | la forêt |
 | rozhľadňa | la tour d'observation |
 | počkať | attendre (un moment) |
+
+Déjà vus, à revoir : {{les}}.
 
 ---
 

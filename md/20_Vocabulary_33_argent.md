@@ -87,6 +87,8 @@
 | drobné | monnaie (petites pièces) |
 | šetriť | économiser |
 | míňať | dépenser |
+| nákup | achat |
+| výrobok | produit |
 
 ! Nemám drobné, môžete mi vydať z dvadsiatich eur?
 > Je n'ai pas de monnaie, vous pouvez me rendre la monnaie sur vingt euros ?

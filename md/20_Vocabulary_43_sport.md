@@ -84,6 +84,14 @@
 | víťazstvo | victoire |
 | prehra | défaite |
 | fanúšik | fan, supporter |
+| voľný čas | temps libre |
+| kino | cinéma |
+| bicyklovanie | vélo |
+| turistika | randonnée |
+| cestovanie | voyage |
+| fotografia | photographie |
+| kreslenie | dessin |
+| koncert | concert |
 
 ! Včera sme vyhrali zápas.
 > Hier nous avons gagné le match.

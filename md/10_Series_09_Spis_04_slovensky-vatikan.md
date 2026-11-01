@@ -14,10 +14,12 @@
 | katedrála | la cathédrale |
 | pápež | le pape |
 | Rím | Rome |
-| dôležitý (rappel) | important |
+| dôležitý | important |
 | hovorí sa | on dit, on appelle |
-| druhý (rappel) | l'autre, deuxième |
-| rok (rappel) | l'année |
+| druhý | l'autre, deuxième |
+| rok | l'année |
+
+Déjà vus, à revoir : {{dôležitý}}, {{druhý}}, {{rok}}.
 
 ---
 

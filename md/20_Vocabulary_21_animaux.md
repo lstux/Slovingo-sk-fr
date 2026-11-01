@@ -81,6 +81,8 @@
 | labka | patte |
 | chvost | queue |
 | srsť | poil, pelage |
+| kačka | canard |
+| myš | souris |
 
 ! V zoo sme videli slony a žirafy.
 > Au zoo nous avons vu des éléphants et des girafes.

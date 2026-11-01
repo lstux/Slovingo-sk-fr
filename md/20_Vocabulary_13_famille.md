@@ -81,6 +81,9 @@
 | rozvedený / rozvedená | divorcé(e) |
 | dvojičky | jumeaux |
 | jedináčik | enfant unique |
+| známy | connaissance |
+| stretnutie | rencontre |
+| hosť | invité |
 
 ! Som jedináčik, nemám súrodencov.
 > Je suis enfant unique, je n'ai pas de frères et sœurs.

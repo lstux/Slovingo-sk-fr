@@ -13,11 +13,13 @@
 | žiačka | l'élève (fille) |
 | hlučný | bruyant |
 | fontána | la fontaine |
-| nedeľa (rappel) | dimanche |
+| nedeľa | dimanche |
 | zastaviť sa | s'arrêter |
 | rozprávať | raconter, parler |
 | meniť sa | changer |
 | niektorý | certain |
+
+Déjà vus, à revoir : {{nedeľa}}.
 
 ---
 

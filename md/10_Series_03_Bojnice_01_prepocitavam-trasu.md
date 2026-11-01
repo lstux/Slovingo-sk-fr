@@ -142,8 +142,10 @@ Avec un autre verbe, on met simplement l'infinitif : {{Chcem vidieť zámok.}} =
 | Slovenčina | Français |
 |------------|----------|
 | uvidíme | on verra |
-| aj | aussi (rappel) |
-| dnes | aujourd'hui (rappel) |
+| aj | aussi |
+| dnes | aujourd'hui |
+
+Déjà vus, à revoir : {{aj}}, {{dnes}}.
 
 ---
 

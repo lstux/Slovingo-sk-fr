@@ -111,8 +111,10 @@ Pour « je » et « tu », on ajoute {{som}} ou {{si}} : {{robil som}}, j'ai fai
 | Slovenčina | Français |
 |------------|----------|
 | tak dlho ako | aussi longtemps que |
-| vpredu (rappel) | devant |
+| vpredu | devant |
 | ticho | le silence, calme |
+
+Déjà vus, à revoir : {{vpredu}}.
 
 ---
 

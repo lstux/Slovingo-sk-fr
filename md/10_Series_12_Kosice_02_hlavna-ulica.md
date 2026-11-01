@@ -11,13 +11,15 @@
 | Slovenčina | Français |
 |------------|----------|
 | dóm | la cathédrale |
-| najväčší (rappel) | le plus grand |
+| najväčší | le plus grand |
 | okrem | sauf, à part |
 | tancovať | danser |
 | hudba | la musique |
 | spievať | chanter |
 | u teba | chez toi, pour toi |
 | hrať | jouer |
+
+Déjà vus, à revoir : {{najväčší}}.
 
 ---
 

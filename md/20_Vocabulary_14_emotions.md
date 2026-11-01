@@ -86,6 +86,14 @@
 | plakať | pleurer |
 | smiať sa | rire |
 | upokojiť sa | se calmer |
+| múdry | intelligent |
+| hlúpy | stupide |
+| odvážny | courageux |
+| plachý | timide |
+| slabý | faible |
+| netrpezlivý | impatient |
+| úprimný | honnête |
+| priateľský | amical |
 
 ! Nemusíš plakať, všetko bude dobré.
 > Tu n'as pas besoin de pleurer, tout ira bien.

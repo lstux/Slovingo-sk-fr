@@ -11,13 +11,15 @@
 | Slovenčina | Français |
 |------------|----------|
 | vonku | dehors |
-| vchod (rappel) | l'entrée |
+| vchod | l'entrée |
 | pod nulou | en dessous de zéro |
 | obliecť si | mettre (un vêtement) |
-| stena (rappel) | le mur, la paroi |
+| stena | le mur, la paroi |
 | podlaha | le sol |
 | chladnejší | plus froid |
 | najstudenší | le plus froid |
+
+Déjà vus, à revoir : {{vchod}}, {{stena}}.
 
 ---
 
@@ -125,9 +127,11 @@ Un guide s'adresse au groupe : il vouvoie, et l'impératif finit en **-te** : {{
 
 | Slovenčina | Français |
 |------------|----------|
-| vnútri (rappel) | à l'intérieur |
+| vnútri | à l'intérieur |
 | báť sa | avoir peur |
-| studený (rappel) | froid |
+| studený | froid |
+
+Déjà vus, à revoir : {{vnútri}}, {{studený}}.
 
 ---
 

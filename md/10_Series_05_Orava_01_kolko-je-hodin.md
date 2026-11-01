@@ -23,7 +23,9 @@
 | týždeň | la semaine |
 | streda | mercredi |
 | mobil | le portable |
-| možno (rappel) | peut-être |
+| možno | peut-être |
+
+Déjà vus, à revoir : {{možno}}.
 
 ---
 
@@ -153,8 +155,10 @@ Pour dire **à quelle heure**, on utilise {{o}} et une forme spéciale du nombre
 | Slovenčina | Français |
 |------------|----------|
 | a pol | et demie |
-| ráno (rappel) | le matin |
+| ráno | le matin |
 | nedeľa | dimanche |
+
+Déjà vus, à revoir : {{ráno}}.
 
 ---
 

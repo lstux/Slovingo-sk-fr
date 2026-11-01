@@ -137,7 +137,9 @@ La fin la plus fréquente est **-e**, parfois **-i**. {{Na námestí}} : tu l'av
 |------------|----------|
 | skoro | presque |
 | nad | au-dessus de |
-| veža (rappel) | la tour |
+| veža | la tour |
+
+Déjà vus, à revoir : {{veža}}.
 
 ---
 

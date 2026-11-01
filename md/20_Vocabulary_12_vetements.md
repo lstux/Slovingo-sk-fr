@@ -76,6 +76,7 @@
 | módny | à la mode |
 | lacný | pas cher |
 | drahý | cher |
+| čiapka | bonnet / casquette |
 
 ! Aká je vaša veľkosť?
 > Quelle est votre taille ?

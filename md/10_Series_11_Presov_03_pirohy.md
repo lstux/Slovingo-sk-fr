@@ -11,13 +11,15 @@
 | Slovenčina | Français |
 |------------|----------|
 | zemiak | la pomme de terre |
-| bryndza (rappel) | la bryndza |
+| bryndza | la bryndza |
 | piaty | cinquième |
 | šiesty | sixième |
 | odmietať | refuser |
 | ďakovať | remercier |
 | už nemôžem | je n'en peux plus |
 | jasné | évidemment |
+
+Déjà vus, à revoir : {{bryndza}}.
 
 ---
 

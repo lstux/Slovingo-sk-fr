@@ -101,6 +101,7 @@
 | suchý / suchá | sec / sèche |
 | zamračené | nuageux |
 | jasno | ciel clair, dégagé |
+| mráz | gel |
 
 ! Vezmi si dáždnik, bude pršať.
 > Prends un parapluie, il va pleuvoir.

@@ -81,6 +81,10 @@
 | chodník | trottoir |
 | semafor | feu (de circulation) |
 | križovatka | carrefour |
+| letisko | aéroport |
+| výťah | ascenseur |
+| mapa | carte |
+| smer | direction |
 
 ! V centre mesta je veľa turistov.
 > Il y a beaucoup de touristes en centre-ville.

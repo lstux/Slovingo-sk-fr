@@ -16,8 +16,10 @@
 | naozaj | vraiment |
 | horúco | il fait très chaud |
 | nemožný | impossible, insupportable |
-| zmrzlina (rappel) | la glace |
-| štyri (rappel) | quatre |
+| zmrzlina | la glace |
+| štyri | quatre |
+
+Déjà vus, à revoir : {{zmrzlina}}, {{štyri}}.
 
 ---
 

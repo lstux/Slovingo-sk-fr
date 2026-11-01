@@ -19,10 +19,12 @@
 | včera | hier |
 | fotka | la photo |
 | teda | donc, enfin |
-| obrovský (rappel) | gigantesque |
-| oltár (rappel) | l'autel |
-| klietka (rappel) | la cage |
-| cieľ (rappel) | la destination |
+| obrovský | gigantesque |
+| oltár | l'autel |
+| klietka | la cage |
+| cieľ | la destination |
+
+Déjà vus, à revoir : {{obrovský}}, {{oltár}}, {{klietka}}, {{cieľ}}.
 
 ---
 

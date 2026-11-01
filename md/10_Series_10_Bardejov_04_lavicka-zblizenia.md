@@ -17,7 +17,9 @@
 | šmýkať sa | glisser |
 | navždy | pour toujours |
 | vždy | toujours |
-| padať (rappel) | tomber |
+| padať | tomber |
+
+Déjà vus, à revoir : {{padať}}.
 
 ---
 

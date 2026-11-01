@@ -118,8 +118,10 @@ Pour commander, le mot change un peu : {{káva}} devient {{jednu kávu}}, {{zmrz
 | Slovenčina | Français |
 |------------|----------|
 | čas | le temps, l'heure |
-| prosím (rappel) | s'il vous plaît, s'il te plaît |
+| prosím | s'il vous plaît, s'il te plaît |
 | chcieť | vouloir |
+
+Déjà vus, à revoir : {{prosím}}.
 
 ---
 

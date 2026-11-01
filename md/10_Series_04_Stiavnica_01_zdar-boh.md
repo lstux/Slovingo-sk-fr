@@ -20,9 +20,11 @@
 | ulica | la rue |
 | všade | partout |
 | sopka | le volcan |
-| spať (rappel) | dormir |
+| spať | dormir |
 | dlho | longtemps |
-| prečo (rappel) | pourquoi |
+| prečo | pourquoi |
+
+Déjà vus, à revoir : {{spať}}, {{prečo}}.
 
 ---
 

@@ -88,6 +88,11 @@
 | práce v domácnosti | tâches ménagères |
 | upratovať | ranger, faire le ménage |
 | sťahovať sa | déménager |
+| počítač | ordinateur |
+| peňaženka | portefeuille |
+| hodinky | montre |
+| uterák | serviette |
+| mydlo | savon |
 
 ! Budúci mesiac sa sťahujeme do nového bytu.
 > Le mois prochain nous déménageons dans un nouvel appartement.

@@ -78,6 +78,7 @@
 | horký / horká | amer / amère |
 | chutný / chutná | savoureux / savoureuse |
 | čerstvý / čerstvá | frais / fraîche |
+| cukor | sucre |
 
 ! Táto polievka je veľmi chutná.
 > Cette soupe est très savoureuse.

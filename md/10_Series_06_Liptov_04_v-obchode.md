@@ -11,13 +11,15 @@
 | Slovenčina | Français |
 |------------|----------|
 | páčiť sa | plaire |
-| potrebovať (rappel) | avoir besoin de |
+| potrebovať | avoir besoin de |
 | ružový | rose |
 | žralok | le requin |
 | skúsiť | essayer |
 | kabínka | la cabine d'essayage |
 | veľkosť | la taille |
 | kvet | la fleur |
+
+Déjà vus, à revoir : {{potrebovať}}.
 
 ---
 

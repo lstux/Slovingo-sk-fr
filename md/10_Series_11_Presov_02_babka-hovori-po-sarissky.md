@@ -14,10 +14,12 @@
 | ovca | la brebis |
 | hladný | qui a faim |
 | nárečie | le dialecte |
-| východ (rappel) | l'est |
+| východ | l'est |
 | prízvuk | l'accent (tonique) |
 | slabika | la syllabe |
 | predposledný | avant-dernier |
+
+Déjà vus, à revoir : {{východ}}.
 
 ---
 

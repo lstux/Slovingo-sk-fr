@@ -10,14 +10,16 @@
 
 | Slovenčina | Français |
 |------------|----------|
-| bazilika (rappel) | la basilique |
+| bazilika | la basilique |
 | jedenásť | onze |
 | vyjsť | monter (jusqu'en haut) |
 | predvčerom | avant-hier |
 | nikam | nulle part (direction) |
-| unavený (rappel) | fatigué |
-| čakať (rappel) | attendre |
-| výhľad (rappel) | la vue |
+| unavený | fatigué |
+| čakať | attendre |
+| výhľad | la vue |
+
+Déjà vus, à revoir : {{bazilika}}, {{unavený}}, {{čakať}}, {{výhľad}}.
 
 ---
 
