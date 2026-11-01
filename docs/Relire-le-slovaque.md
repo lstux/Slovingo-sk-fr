@@ -23,7 +23,7 @@ Les questions précises, avec les phrases concernées, sont dans [`Relecture-loc
 
 ## Trois façons de lire
 
-- **L'histoire d'une traite** : sur la page d'accueil, sous la carte, le bouton **📖 Lire tout le voyage d'une traite** ouvre tous les dialogues des douze chapitres sur une seule page, comme un livre. Les traductions sont cachées, un clic sur une réplique la montre. C'est le plus agréable pour juger si ça sonne naturel.
+- **L'histoire d'une traite** : sur la page d'accueil, sous la carte, le bouton **📖 Lire toute l'histoire (en slovaque)** ouvre tous les dialogues des douze chapitres sur une seule page, comme un livre. Les traductions sont cachées, un clic sur une réplique la montre. C'est le plus agréable pour juger si ça sonne naturel.
 - **Dans l'appli**, comme un apprenant : chaque phrase s'écoute, et le bouton 👀 affiche la traduction et le mot à mot. Ça permet aussi d'entendre si la voix lit bien.
 - **Tout le slovaque du cours**, dans [`Texte-slovaque.md`](Texte-slovaque.md) : les dialogues, mais aussi le kit de survie, les petites phrases d'entraînement et les tableaux de vocabulaire, fiche par fiche, avec le nom de fichier de chaque fiche. C'est le plus complet, pour une relecture de fond.
 
