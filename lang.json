@@ -51,6 +51,8 @@
   "ui": {
     "change_course": "Changer de cours",
     "home": "Accueil",
+    "read_story": "📖 Lire toute l'histoire (en slovaque)",
+    "voice_other": "Autres voix",
     "exercises": "Exercices",
     "sheet": "Fiche",
     "toggle_translations": "Traductions",
@@ -238,6 +240,17 @@
       "francais",
       "french"
     ]
+  },
+  "story": {
+    "title": "L'histoire complète",
+    "subtitle": "Celý príbeh",
+    "intro": "Tout le roadtrip d'un coup, en slovaque, sans les explications ni le vocabulaire. Pour ceux qui parlent déjà slovaque, ou qui veulent relire. Touchez une réplique pour voir sa traduction.",
+    "user_name": "Eric",
+    "exclude_subgroups": ["kronika_*"],
+    "chapter_label": "Kapitola",
+    "show_translations": "Afficher les traductions",
+    "hide_translations": "Masquer les traductions",
+    "back": "Retour au cours"
   },
   "subgroup_themes": {
     "kitsurvie": "basics",
