@@ -64,16 +64,18 @@ Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean 
 
 Fiche : `md/10_Series_00_KitSurvie_03_dialogue.md` → image `img/illus_00.jpg`
 
-**Photo à joindre** : [Flowers_Štrbské_Pleso_25_Slovakia_4.jpg](https://commons.wikimedia.org/wiki/File:Flowers_Štrbské_Pleso_25_Slovakia_4.jpg)
+**Photo à joindre** : [Flowers_Štrbské_Pleso_25_Slovakia_4.jpg](https://commons.wikimedia.org/wiki/File:Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg)
+
+Prompt retenu (1er novembre). Une version plus « film d'animation » a été refusée par Gemini (« intérêts de fournisseurs de contenu tiers ») : ici, on décrit une illustration de livre pour enfants.
 
 ```
-Use the attached model sheet for the characters' fur colours and markings (here Gab and Andrea are children, so draw them younger and smaller), and the attached photo as the reference for the place: a flowery mountain meadow near Štrbské pleso in the High Tatras, jagged peaks behind.
+Use the attached model sheet only for the fur colours and markings of the two characters; here they are small children. Use the attached photo as the reference for the place: a flowery mountain meadow near Štrbské pleso in the High Tatras, jagged peaks behind.
 
-Scene: Many years before the road trip, one summer in the High Tatras, Gab and Andrea are children (about nine years old, clearly kids, not the adults of the model sheet, but with the same fur colours and markings). In a flowery meadow, Andrea plays a very formal grown-up lady: back straight, chin up, holding out her paw for a handshake. Gab plays along with an exaggerated, clumsy little bow, holding a small French-Slovak phrasebook. Both are trying very hard not to burst out laughing. Warm summer afternoon light.
+Scene: A hand-drawn illustration for an original children's picture book about two friends, a little fox and a little hare. One summer in the High Tatras, the two little friends, about eight years old, short and round with big eyes, play a pretend game of being very polite strangers. The little hare stands very straight with her chin up and offers her paw for a formal handshake; the little fox makes a big, exaggerated bow, holding a small phrasebook. Both are trying very hard not to giggle. Playful, affectionate mood.
 
-Characters: young Gab as a child, about nine years old: a little red fox (bright orange fur, grey-black ear tips, cream muzzle), no cap, wearing a light blue T-shirt and blue shorts, a tiny backpack with yellow straps; young Andrea as a child, about nine years old: a little grey hare (grey fur, a white blaze from forehead to muzzle, long ears with pink insides, her left ear folded down), wearing a mint-green summer dress.
+Characters: the little fox (bright orange fur, grey-black ear tips, cream muzzle), in a light blue T-shirt and blue shorts, a tiny backpack with yellow straps; the little hare (grey fur, a white blaze from forehead to nose, long ears with pink insides, her left ear folded down), in a mint-green summer dress.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, expressive faces. Backgrounds are detailed, realistic painted backdrops, so that the real place is instantly recognisable: keep its architecture, proportions, colours and surroundings faithful to the reference photo. Warm, gentle summer light. 16:9 landscape, 1920×1080. Anthropomorphic animals walk upright, wear clothes and live among ordinary humans, who are drawn in the same 2D style and find this normal. No text, no letters, no speech bubbles, no logos, no watermark.
+Style: hand-drawn 2D illustration with clean ink outlines and flat colours with soft shading, detailed realistic painted background faithful to the reference photo, warm summer light. 16:9 landscape. No text, no letters, no logos, no watermark.
 ```
 
 ---

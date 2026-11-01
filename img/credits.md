@@ -97,7 +97,8 @@ Une illustration faite d'après une photo sous licence CC BY-SA en est une œuvr
 
 | Fiche | Image | Photo de référence |
 |---|---|---|
-| 00_Introduction_01_slovaquie | `img/illus_cover.jpg` | aucune (scène imaginée) |
+| 00_Introduction_01_le-voyage | `img/illus_cover.jpg` | aucune (scène imaginée) |
+| 00_KitSurvie_03_dialogue | `img/illus_00.jpg` | [Flowers Štrbské Pleso 25 Slovakia 4.jpg](https://commons.wikimedia.org/wiki/File:Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg) |
 | 01_Bratislava_05_vecer-v-pivnici | `img/illus_01.jpg` | aucune (scène imaginée) |
 | 02_Trencin_05_penzion | `img/illus_02.jpg` | [Trenciansky hrad (2007).jpg](https://commons.wikimedia.org/wiki/File:Trenciansky_hrad_(2007).jpg) |
 | 03_Bojnice_05_kremnica | `img/illus_03.jpg` | [Kremnica, mincovňa.jpg](https://commons.wikimedia.org/wiki/File:Kremnica,_mincov%C5%88a.jpg) |
