@@ -100,19 +100,24 @@ NOTIFY_TITLE = "## Auteurs qui demandent à être prévenus"
 
 def add_notify_section(text: str, rows: list[tuple[str, str, str, str]]) -> str:
     """List, once, the photos whose author asks to be told when the
-    image is used outside Wikimedia (a courtesy, not a licence term)."""
-    if NOTIFY_TITLE not in text:
-        text = text.rstrip("\n") + (
-            f"\n\n{NOTIFY_TITLE}\n\n"
+    image is used outside Wikimedia (a courtesy, not a licence term).
+    The section is rebuilt each time: existing rows (and their « Prévenu »
+    status) are kept, new files are added, duplicates are dropped."""
+    head, _, rest = text.partition(NOTIFY_TITLE)
+    kept = {}
+    for line in (NOTIFY_TITLE + rest).splitlines():
+        m = re.match(r"^\| [^|]+ \| \[(?P<name>[^\]]+)\]", line)
+        if m and m["name"] not in kept:
+            kept[m["name"]] = line
+    for fiche, name, url, author in rows:
+        if name not in kept:
+            talk = "https://commons.wikimedia.org/wiki/User_talk:" + urllib.parse.quote(author.replace(" ", "_"))
+            kept[name] = f"| {fiche} | [{name}]({url}) | [{author}]({talk}) | à faire |"
+    return (head.rstrip("\n") + f"\n\n{NOTIFY_TITLE}\n\n"
             "Une politesse demandée sur la page Commons (pas une condition de la licence) : "
             "un petit message sur la page de discussion Commons de l'auteur suffit.\n\n"
-            "| Fiche | Fichier Commons | Auteur | Prévenu |\n|---|---|---|---|\n")
-    for fiche, name, url, author in rows:
-        if f"[{name}]" in text.split(NOTIFY_TITLE, 1)[1]:
-            continue
-        talk = "https://commons.wikimedia.org/wiki/User_talk:" + urllib.parse.quote(author.replace(" ", "_"))
-        text = text.rstrip("\n") + f"\n| {fiche} | [{name}]({url}) | [{author}]({talk}) | à faire |\n"
-    return text
+            "| Fiche | Fichier Commons | Auteur | Prévenu |\n|---|---|---|---|\n"
+            + "\n".join(kept.values()) + "\n")
 
 
 def main() -> None:
