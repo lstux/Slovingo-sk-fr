@@ -1,6 +1,7 @@
 {
   "target_lang": {
     "code": "sk",
+    "group_label": "Slovaque - Slovenčina",
     "name": "slovaque",
     "tts_code": "sk-SK",
     "flag": "🇸🇰",
@@ -19,6 +20,9 @@
     "title": "Ahoj Slovenčina! Zo západu na východ",
     "short_name": "Ahoj SK",
     "description": "Le slovaque en roadtrip, de Bratislava à Košice",
+    "cover": "img/illus_cover.jpg",
+    "pitch": "Un roadtrip de Bratislava à Košice, étape par étape. On apprend le slovaque en voyageant : dialogues du quotidien, vocabulaire, grammaire et un peu de culture locale.",
+    "audience": "Adultes",
     "theme_color": "#0b4ea2",
     "storage_prefix": "sk-fr",
     "url_path": "/slovingo/sk-fr/",
