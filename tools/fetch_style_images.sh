@@ -32,11 +32,11 @@ COMMONS="https://commons.wikimedia.org"
 IMAGES=(
   "mountains|Vysok%C3%A9_Tatry_panorama.jpg"
   "city|Bratislava_Panorama_R01.jpg"
-  "default|Hybe_and_the_High_Tatras.jpg"
+  "default|Kremnicke_vrchy_from_Kremnica.jpg"
   "basics|Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg"
   "shopping|Bojnice_Castle_Slovakia.jpg"
   "food|Bansk%C3%A1_%C5%A0tiavnica_from_Nov%C3%BD_z%C3%A1mok_2007.jpg"
-  "time|Orava_Castle_in_Slovakia_banner.jpg"
+  "time|Slovakia-01893_-_Orava_Castle_(31909660610).jpg"
   "family|Hlavn%C3%A1_ulica._Pre%C5%A1ov_20_Slovakia.jpg"
   "games|Devin_Hrad_Panorama.jpg"
 )

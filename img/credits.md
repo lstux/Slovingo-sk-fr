@@ -151,11 +151,11 @@ Fichiers `img/style_<clé>.jpg`, affichés tels quels dans le bandeau des fiches
 |---|---|---|---|
 | `style_mountains.jpg` (Tatras, Slovenský raj) | [Vysoké Tatry panorama.jpg](https://commons.wikimedia.org/wiki/File:Vysok%C3%A9_Tatry_panorama.jpg) | à compléter | à compléter |
 | `style_city.jpg` (Bratislava, Trenčín, Spiš, Bardejov, Košice) | [Bratislava Panorama R01.jpg](https://commons.wikimedia.org/wiki/File:Bratislava_Panorama_R01.jpg) | Marc Ryckaert (MJJR) | CC BY |
-| `style_default.jpg` (intro, vocabulaire, accueil) | [Hybe and the High Tatras.jpg](https://commons.wikimedia.org/wiki/File:Hybe_and_the_High_Tatras.jpg) | à compléter | à compléter |
+| `style_default.jpg` (intro, vocabulaire, accueil) | [Kremnicke vrchy from Kremnica.jpg](https://commons.wikimedia.org/wiki/File:Kremnicke_vrchy_from_Kremnica.jpg) | Adrian Tync | CC BY-SA 4.0 |
 | `style_basics.jpg` (kit de survie) | [Flowers Štrbské Pleso 25 Slovakia 4.jpg](https://commons.wikimedia.org/wiki/File:Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg) | à compléter | à compléter |
 | `style_shopping.jpg` (Bojnice, Liptov) | [Bojnice Castle Slovakia.jpg](https://commons.wikimedia.org/wiki/File:Bojnice_Castle_Slovakia.jpg) | à compléter | à compléter |
 | `style_food.jpg` (Banská Štiavnica) | [Banská Štiavnica from Nový zámok 2007.jpg](https://commons.wikimedia.org/wiki/File:Bansk%C3%A1_%C5%A0tiavnica_from_Nov%C3%BD_z%C3%A1mok_2007.jpg) | à compléter | à compléter |
-| `style_time.jpg` (Orava) | [Orava Castle in Slovakia banner.jpg](https://commons.wikimedia.org/wiki/File:Orava_Castle_in_Slovakia_banner.jpg) | à compléter | à compléter |
+| `style_time.jpg` (Orava) | [Slovakia-01893 - Orava Castle (31909660610).jpg](https://commons.wikimedia.org/wiki/File:Slovakia-01893_-_Orava_Castle_(31909660610).jpg) | à compléter | à compléter |
 | `style_family.jpg` (Prešov) | [Hlavná ulica. Prešov 20 Slovakia.jpg](https://commons.wikimedia.org/wiki/File:Hlavn%C3%A1_ulica._Pre%C5%A1ov_20_Slovakia.jpg) | à compléter | à compléter |
 | `style_games.jpg` (Kronika) | [Devin Hrad Panorama.jpg](https://commons.wikimedia.org/wiki/File:Devin_Hrad_Panorama.jpg) | à compléter | à compléter |
 
