@@ -1,6 +1,6 @@
 # Série Trenčín (1/5) — Na diaľnici
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Dia%C4%BEnica_D1_behind_junction_Senec.JPG | L'autoroute D1, direction le nord-est — crédit à compléter, Wikimedia Commons
+@ img/Diaľnica_D1_behind_junction_Senec.JPG | L'autoroute D1, direction le nord-est — MarkBA, CC BY-SA 3.0 de, Wikimedia Commons
 
 %~ Deň 2 : z Bratislavy do Trenčína
 % 48.1439, 17.1097 | {{Bratislava}}

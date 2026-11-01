@@ -1,6 +1,6 @@
 # Série Tatry (1/5) — Predpoveď počasia
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_High_Tatras_from_Poprad.jpg | Les Hautes Tatras vues de Poprad — crédit à compléter, Wikimedia Commons
+@ img/Panorama_High_Tatras_from_Poprad.jpg | Les Hautes Tatras vues de Poprad — Kristo, CC BY-SA 2.5, Wikimedia Commons
 
 %~ Deň 7 : Vysoké Tatry
 % 49.1080, 19.5730 | {{Liptovský Mikuláš}}

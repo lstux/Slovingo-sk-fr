@@ -1,6 +1,6 @@
 # Škola (1/2) — L'école à l'époque communiste
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/ZS_Fandlyho_Pezinok.jpg?width=800 | Une école primaire slovaque — Wikimedia Commons, CC BY-SA
+@ img/ZS_Fandlyho_Pezinok.jpg | Une école primaire slovaque — Wikimedia Commons, CC BY-SA
 
 Le système n'avait pas la même logique qu'en France. Pas de séparation primaire/collège : un seul bloc continu, la {{základná škola}}, de six ans jusqu'à quatorze-quinze ans (avant, la {{materská škola}}, la maternelle, existait mais n'était pas obligatoire). Venait ensuite la vraie bifurcation, plus nette qu'en France : soit le {{gymnázium}}, le lycée général menant à la {{maturita}} — l'équivalent du bac — soit une école professionnelle ou technique, souvent directement rattachée à une usine ou un secteur industriel précis. Puis, pour ceux qui continuaient, la {{vysoká škola}}, l'université.
 

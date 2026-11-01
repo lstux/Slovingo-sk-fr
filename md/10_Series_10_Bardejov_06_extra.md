@@ -1,6 +1,6 @@
 # Bardejov (extra) — Zajtra Prešov
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Kolon%C3%A1da_-_Bardejovsk%C3%A9_K%C3%BApele.JPG | La colonnade de Bardejovské Kúpele — crédit à compléter, Wikimedia Commons
+@ img/Kolonáda_-_Bardejovské_Kúpele.JPG | La colonnade de Bardejovské Kúpele — J.Dncsn, CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Le soir, à l'hôtel thermal. Les enfants sont à la piscine. Andrea a l'air un peu inquiète : demain, on va chez elle.}}
 

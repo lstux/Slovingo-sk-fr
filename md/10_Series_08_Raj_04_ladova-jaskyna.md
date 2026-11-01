@@ -1,6 +1,6 @@
 # Série Raj (4/5) — Ľadová jaskyňa
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Dob%C5%A1insk%C3%A1_Ice_Cave,_24.jpg | Dans la grotte de glace de Dobšiná — crédit à compléter, Wikimedia Commons
+@ img/Dobšinská_Ice_Cave,_24.jpg | Dans la grotte de glace de Dobšiná — dariusz woźniak, CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Dehors, c'est l'été. Dans la grotte de glace de Dobšiná, il fait moins de zéro. Et Lola n'a toujours pas compris pourquoi on emporte des vestes.}}
 

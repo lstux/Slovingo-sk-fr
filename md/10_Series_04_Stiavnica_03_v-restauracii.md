@@ -1,6 +1,6 @@
 # Série Štiavnica (3/5) — V reštaurácii
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bryndzov%C3%A9_halu%C5%A1ky_so_slaninou.jpg | Des bryndzové halušky avec du lard — Gregory finster, CC0, Wikimedia Commons
+@ img/Bryndzové_halušky_so_slaninou.jpg | Des bryndzové halušky avec du lard — Gregory finster, CC0, Wikimedia Commons
 
 {{fr:Le déjeuner sur la place. Tu commandes une bière… et Hugo te corrige devant le serveur.}}
 

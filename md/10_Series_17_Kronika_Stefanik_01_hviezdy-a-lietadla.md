@@ -1,6 +1,6 @@
 # Štefánik — Des étoiles aux avions
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Milan_Rastislav_%C5%A0tef%C3%A1nik.jpg | Milan Rastislav Štefánik — Wikimedia Commons
+@ img/Milan_Rastislav_Štefánik.jpg | Milan Rastislav Štefánik — Wikimedia Commons
 
 Né en 1880 dans un petit village slovaque, Milan Rastislav Štefánik n'a rien du parcours attendu pour un futur héros national. Il part étudier à Prague puis s'installe en France, où il devient astronome à l'observatoire de Meudon, près de Paris — l'un des centres les plus réputés d'Europe à l'époque.
 

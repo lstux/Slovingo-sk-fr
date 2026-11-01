@@ -1,6 +1,6 @@
 # Série Košice (1/5) — Ktorý deň bol najlepší?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Kysak,_%C5%BEelezni%C4%8Dn%C3%A1_stanica_22_Slovakia_2.jpg | Kysak, entre Prešov et Košice — crédit à compléter, Wikimedia Commons
+@ img/Kysak,_železničná_stanica_22_Slovakia_2.jpg | Kysak, entre Prešov et Košice — Ing.Mgr.Jozef Kotulič, CC BY-SA 4.0, Wikimedia Commons
 
 %~ Deň 12 : z Prešova do Košíc
 % 48.9985, 21.2390 | {{Prešov}}

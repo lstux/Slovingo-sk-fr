@@ -120,7 +120,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Tren%C4%8D%C3%ADn_Castle_34.jpg | Trenčín, au pied du château : la pension n'est pas loin — Scotch Mist, CC BY-SA 4.0, Wikimedia Commons
+@ img/Trenčín_Castle_34.jpg | Trenčín, au pied du château : la pension n'est pas loin — Scotch Mist, CC BY-SA 4.0, Wikimedia Commons
 
 **Le penzión.** En Slovaquie, un {{penzión}} est une petite pension, souvent tenue par une famille : quelques chambres, un petit-déjeuner, des prix plus doux qu'à l'hôtel. On en trouve partout, en ville comme à la montagne.
 

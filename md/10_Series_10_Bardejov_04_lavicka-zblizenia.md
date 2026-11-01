@@ -1,6 +1,6 @@
 # Série Bardejov (4/5) — Lavička zblíženia
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bardejov10Slovakia6.JPG | Dans la vieille ville de Bardejov — crédit à compléter, Wikimedia Commons
+@ img/Bardejov10Slovakia6.JPG | Dans la vieille ville de Bardejov — Doko Ing. Mgr. Jozef Kotulič, CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Dans le parc, un banc étrange, plus bas au milieu. Si on s'assoit chacun à un bout, on finit côte à côte. Et sur ce banc, impossible de vouvoyer.}}
 

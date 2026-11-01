@@ -1,6 +1,6 @@
 # Série Orava (1/5) — Koľko je hodín?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/B._%C5%A0tiavnica_-_tajch_Ve%C4%BEk%C3%A1_Vod%C3%A1rensk%C3%A1_01.JPG | Le matin au bord d'un tajch, près de Banská Štiavnica — crédit à compléter, Wikimedia Commons
+@ img/B._Štiavnica_-_tajch_Veľká_Vodárenská_01.JPG | Le matin au bord d'un tajch, près de Banská Štiavnica — Photograph: Patrik Kunec (talk), CC BY-SA 4.0, Wikimedia Commons
 
 %~ Deň 5 : z Banskej Štiavnice na Oravu
 % 48.4590, 18.8930 | {{Banská Štiavnica}}

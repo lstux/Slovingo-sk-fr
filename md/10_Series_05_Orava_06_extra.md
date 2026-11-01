@@ -1,6 +1,6 @@
 # Orava (extra) — Kto chrápe? Znova
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Mesto_Tvrdo%C5%A1%C3%ADn.jpg | Tvrdošín, où l'on dort ce soir-là — crédit à compléter, Wikimedia Commons
+@ img/Mesto_Tvrdošín.jpg | Tvrdošín, où l'on dort ce soir-là — Oto Zapletal, CC BY-SA 4.0, Wikimedia Commons
 
 {{fr:Ce soir, une seule grande chambre pour tout le monde. Et quelqu'un ronfle à nouveau. Tout le monde a son suspect.}}
 

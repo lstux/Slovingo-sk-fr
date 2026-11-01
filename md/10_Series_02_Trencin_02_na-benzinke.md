@@ -1,6 +1,6 @@
 # Série Trenčín (2/5) — Na benzínke
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Tren%C4%8D%C3%ADn_09.jpg | Sur la route de Trenčín, dans la vallée du Váh — Scotch Mist, CC BY-SA (version à vérifier), Wikimedia Commons
+@ img/Trenčín_09.jpg | Sur la route de Trenčín, dans la vallée du Váh — Scotch Mist, CC BY-SA 4.0, Wikimedia Commons
 
 {{fr:L'urgence de tous les voyages en voiture : Lola doit aller aux toilettes, tout de suite. Heureusement, la navigation connaît la prochaine station.}}
 

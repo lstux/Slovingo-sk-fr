@@ -1,6 +1,6 @@
 # Série Štiavnica (1/5) — Zdar Boh!
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bansk%C3%A1_%C5%A0tiavnica_40326.jpg | Banská Štiavnica et ses maisons sur les collines — crédit à compléter, Wikimedia Commons
+@ img/Banská_Štiavnica_40326.jpg | Banská Štiavnica et ses maisons sur les collines — Jacquesverlaeken, CC BY-SA 3.0, Wikimedia Commons
 
 %~ Deň 4 : do Banskej Štiavnice
 % 48.7290, 18.9380 | {{Krahule}}

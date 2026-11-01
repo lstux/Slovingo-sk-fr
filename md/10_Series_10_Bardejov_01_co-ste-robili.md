@@ -1,6 +1,6 @@
 # Série Bardejov (1/5) — Čo ste robili?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bardejov_banner.jpg | En arrivant à Bardejov — crédit à compléter, Wikimedia Commons
+@ img/Bardejov_banner.jpg | En arrivant à Bardejov — Bardejov10Slovakia5.JPG: Doko Ing. Mgr. Jozef Kotulič derivative work: Inkey, CC BY-SA 3.0, Wikimedia Commons
 
 %~ Deň 10 : zo Spiša do Bardejova
 % 48.9990, 20.7530 | {{Spišské Podhradie}}

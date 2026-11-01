@@ -1,6 +1,6 @@
 # Štúr — Une langue devient une langue
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Ludovit_Stur.jpg | Ľudovít Štúr, portrait par Jozef Božetech Klemens — Wikimedia Commons
+@ img/Ludovit_Stur.jpg | Ľudovít Štúr, portrait par Jozef Božetech Klemens — Wikimedia Commons
 
 Avant 1843, il n'existait pas vraiment de « slovaque écrit » officiel. Les lettrés slovaques écrivaient soit en tchèque — une langue proche mais pas tout à fait la leur —, soit dans une norme plus ancienne fixée par le prêtre Anton Bernolák à la fin du XVIIIe siècle, basée sur le parler de l'Ouest du pays. Selon les régions et les milieux, on écrivait donc dans plusieurs slovaques différents, ou pas du tout.
 

@@ -1,6 +1,6 @@
 # Série Prešov (4/5) — Andrein Prešov
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Hlavn%C3%A1_ulica._Pre%C5%A1ov_20_Slovakia.jpg | La Hlavná ulica de Prešov — crédit à compléter, Wikimedia Commons
+@ img/Hlavná_ulica._Prešov_20_Slovakia.jpg | La Hlavná ulica de Prešov — Ing.Mgr.Jozef Kotulič, CC BY-SA 4.0, Wikimedia Commons
 
 {{fr:L'après-midi, Andrea vous fait visiter son Prešov à elle : son école, sa fontaine, ses dimanches. Et sa maman corrige les souvenirs.}}
 

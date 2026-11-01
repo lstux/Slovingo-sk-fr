@@ -1,6 +1,6 @@
 # Série Prešov (3/5) — Pirohy
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bryndzov%C3%A9_pirohy.JPG | Des pirohy à la bryndza — crédit à compléter, Wikimedia Commons
+@ img/Bryndzové_pirohy.JPG | Des pirohy à la bryndza — Branork, CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Le déjeuner chez babka. Des pirohy, encore des pirohy, toujours des pirohy. Et chez elle, on ne refuse pas.}}
 

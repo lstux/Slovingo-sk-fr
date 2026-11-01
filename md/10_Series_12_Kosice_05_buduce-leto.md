@@ -93,7 +93,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Stu%C5%BEica_primeval_forest,_Slovakia.jpg | La forêt primaire de Stužica, dans les Poloniny — crédit à compléter, Wikimedia Commons
+@ img/Stužica_primeval_forest,_Slovakia.jpg | La forêt primaire de Stužica, dans les Poloniny — Caroig, CC BY-SA 3.0, Wikimedia Commons
 
 **Keby ou ak ?** Pour une condition réelle, possible : {{ak}} : {{Ak budeš spať v stane…}}, si tu dors sous la tente. Pour une situation imaginée : {{keby}} + le conditionnel : {{Keby sme mali viac času, išli by sme…}}, si nous avions plus de temps, nous irions…
 

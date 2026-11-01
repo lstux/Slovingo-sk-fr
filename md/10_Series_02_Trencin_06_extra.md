@@ -1,6 +1,6 @@
 # Trenčín (extra) — Kto chrápe?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Tren%C4%8D%C3%ADn_Castle_59.jpg | Le château de Trenčín au-dessus de la ville — Scotch Mist, CC BY-SA 4.0, Wikimedia Commons
+@ img/Trenčín_Castle_59.jpg | Le château de Trenčín au-dessus de la ville — Scotch Mist, CC BY-SA 4.0, Wikimedia Commons
 
 {{fr:La nuit au penzión. Tout le monde devrait dormir. Mais quelqu'un ronfle, très fort.}}
 

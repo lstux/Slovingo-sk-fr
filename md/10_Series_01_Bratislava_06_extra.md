@@ -1,6 +1,6 @@
 # Bratislava (extra) — Noc v Bratislave
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bridge_Nov%C3%BD_most_-_Bratislava.jpg | Le Nový most et son « OVNI », la nuit — Alberto Fernandez Fernandez, CC BY-SA 3.0, Wikimedia Commons
+@ img/Bridge_Nový_most_-_Bratislava.jpg | Le Nový most et son « OVNI », la nuit — Alberto Fernandez Fernandez, CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Fin de la première journée. Les enfants sont couchés, mais ils ont encore des questions.}}
 

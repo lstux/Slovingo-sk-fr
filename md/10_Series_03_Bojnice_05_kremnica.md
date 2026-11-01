@@ -157,7 +157,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Kremnica,_mincov%C5%88a.jpg | L'Hôtel des Monnaies de Kremnica — crédit à compléter, Wikimedia Commons
+@ img/Kremnica,_mincovňa.jpg | L'Hôtel des Monnaies de Kremnica — Palickap, CC BY-SA 4.0, Wikimedia Commons
 
 **L'Hôtel des Monnaies de Kremnica.** On y frappe des pièces depuis presque sept cents ans : des florins d'or d'abord, puis des ducats. Aujourd'hui encore, les euros slovaques y sont fabriqués. On peut visiter l'ancien atelier de frappe et le musée des monnaies et médailles.
 

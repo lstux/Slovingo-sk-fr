@@ -1,6 +1,6 @@
 # Série Tatry (2/5) — Štrbské pleso
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Lake_of_Strbske_pleso.jpg | Štrbské pleso, le lac et les sommets — crédit à compléter, Wikimedia Commons
+@ img/Lake_of_Strbske_pleso.jpg | Štrbské pleso, le lac et les sommets — No machine-readable author provided. Kristo~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Un grand lac de montagne, des barques à louer, et un oncle qui rame en rond.}}
 

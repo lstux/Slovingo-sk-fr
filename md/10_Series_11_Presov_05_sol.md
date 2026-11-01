@@ -85,7 +85,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Sklad_soli,_Solivar,_Pre%C5%A1ov.jpg | L'entrepôt de sel de Solivar, à Prešov — crédit à compléter, Wikimedia Commons
+@ img/Sklad_soli,_Solivar,_Prešov.jpg | L'entrepôt de sel de Solivar, à Prešov — Infitter, CC BY-SA 4.0, Wikimedia Commons
 
 **Solivar.** À Prešov, cet ensemble industriel ancien pompait la saumure du sous-sol et la faisait bouillir pour en tirer le sel. Le puits Leopold a été creusé à partir de 1571 ; au-dessus, une pompe actionnée par quatre paires de chevaux remontait la saumure dans des seaux en cuir. C'est aujourd'hui un monument culturel national, avec un musée.
 

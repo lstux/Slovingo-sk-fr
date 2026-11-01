@@ -1,6 +1,6 @@
 # Za slušné Slovensko — La rue répond
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Za_slu%C5%A1n%C3%A9_Slovensko,_Ko%C5%A1ice_1.jpg | Manifestation « Za slušné Slovensko », Košice — Wikimedia Commons
+@ img/Za_slušné_Slovensko,_Košice_1.jpg | Manifestation « Za slušné Slovensko », Košice — Wikimedia Commons
 
 ## Le vocabulaire de la mobilisation
 

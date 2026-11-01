@@ -1,6 +1,6 @@
 # Série Spiš (1/5) — Klietka hanby
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Levoca_klietka_hanby.jpg | La cage de la honte, sur la place de Levoča — crédit à compléter, Wikimedia Commons
+@ img/Levoca_klietka_hanby.jpg | La cage de la honte, sur la place de Levoča — No machine-readable author provided. PM assumed (based on copyright claims)., Public domain, Wikimedia Commons
 
 %~ Deň 9 : Spiš
 % 48.8700, 20.2960 | {{Dobšinská ľadová jaskyňa}}

@@ -1,6 +1,6 @@
 # Štúr — Le réveil national
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/%C4%BDudov%C3%ADt_%C5%A0t%C3%BAr_Statue_Pekn%C3%ADkova.JPG | Statue de Ľudovít Štúr, Bratislava — Wikimedia Commons
+@ img/Ľudovít_Štúr_Statue_Pekníkova.JPG | Statue de Ľudovít Štúr, Bratislava — Wikimedia Commons
 
 Pour Štúr et son cercle, fixer une {{spisovná slovenčina}} n'était jamais qu'une première étape. Une langue reconnue, c'était aussi l'outil dont un {{národ}} avait besoin pour exister politiquement — pas seulement sur le papier.
 

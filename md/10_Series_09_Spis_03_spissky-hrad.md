@@ -1,6 +1,6 @@
 # Série Spiš (3/5) — Spišský hrad
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Spis_Castle_-_Slovakia.jpg | Le château de Spiš sur sa colline — crédit à compléter, Wikimedia Commons
+@ img/Spis_Castle_-_Slovakia.jpg | Le château de Spiš sur sa colline — Petr Kratochvil, CC0, Wikimedia Commons
 
 {{fr:Sur une colline, les ruines d'un château gigantesque. Autrefois, des seigneurs y vivaient. Aujourd'hui, il ne reste que le vent et les touristes.}}
 

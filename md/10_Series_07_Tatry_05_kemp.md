@@ -134,7 +134,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovakia_High_Tatras_Tatranska_Lomnica_0476.jpg | Tatranská Lomnica, au pied des Tatras — crédit à compléter, Wikimedia Commons
+@ img/Slovakia_High_Tatras_Tatranska_Lomnica_0476.jpg | Tatranská Lomnica, au pied des Tatras — Jozef Kotulič, CC BY 2.5, Wikimedia Commons
 
 **Camper sous les Tatras.** Autour des Hautes Tatras, plusieurs campings accueillent tentes et camping-cars, au pied des sommets. Dans le parc national, en revanche, on ne plante pas sa tente n'importe où : le camping sauvage y est interdit.
 

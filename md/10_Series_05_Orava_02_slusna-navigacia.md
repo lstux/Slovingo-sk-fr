@@ -1,6 +1,6 @@
 # Série Orava (2/5) — Slušná navigácia
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Orawa_9767.jpg | Sur les routes de l'Orava — crédit à compléter, Wikimedia Commons
+@ img/Orawa_9767.jpg | Sur les routes de l'Orava — User:Darwinek, CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Sur la route, la navigation te donne des ordres depuis cinq jours. Aujourd'hui, tu comprends enfin pourquoi elle parle comme ça.}}
 

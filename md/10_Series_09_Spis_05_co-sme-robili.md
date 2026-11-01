@@ -96,7 +96,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovakia_region_Spis_33.jpg | La campagne du Spiš — crédit à compléter, Wikimedia Commons
+@ img/Slovakia_region_Spis_33.jpg | La campagne du Spiš — Jozef Kotulič, CC BY-SA 3.0, Wikimedia Commons
 
 **Le passé dit qui parle.** En slovaque, le passé change selon qu'on est un homme ou une femme : {{bol som}} ou {{bola som}}, {{videl som}} ou {{videla som}}. Un petit **-a** suffit à transformer tonton en hase.
 

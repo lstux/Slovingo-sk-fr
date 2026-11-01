@@ -1,6 +1,6 @@
 # Série Liptov (4/5) — V obchode
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Liptovsk%C3%BD_Mikul%C3%A1%C5%A1_-_N%C3%A1mestie_oslobodite%C4%BEov_-_panoramio.jpg | Liptovský Mikuláš, la place principale — crédit à compléter, Wikimedia Commons
+@ img/Liptovský_Mikuláš_-_Námestie_osloboditeľov_-_panoramio.jpg | Liptovský Mikuláš, la place principale — Jan Starec, CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Au magasin de Liptovský Mikuláš, il faut trois maillots de bain. Lola sait exactement ce qu'elle veut. Toi, tu prends ce qui reste.}}
 

@@ -119,7 +119,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8D%C3%BAvadlianske_jazero_01.jpg | Le lac Počúvadlo, un ancien réservoir des mines (tajch) — crédit à compléter, Wikimedia Commons
+@ img/Počúvadlianske_jazero_01.jpg | Le lac Počúvadlo, un ancien réservoir des mines (tajch) — Michal Hruška, CC BY-SA 3.0, Wikimedia Commons
 
 **Les tajchy.** Autour de Banská Štiavnica, des dizaines d'étangs artificiels ont été creusés pour fournir l'eau aux mines et au traitement du minerai. Aujourd'hui, ils ne servent plus qu'aux loisirs. Le {{Počúvadlo}}, à environ 11 km de la ville, est l'un des plus grands, des plus profonds… et des plus froids.
 

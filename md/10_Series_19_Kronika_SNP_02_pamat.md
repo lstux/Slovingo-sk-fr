@@ -1,6 +1,6 @@
 # SNP — Ce qu'il en reste dans la mémoire
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/SNP_Bridge_and_Danube_River,_Bratislava,_Slovakia.JPG | Most SNP, le pont du Soulèvement national slovaque, Bratislava — Wikimedia Commons
+@ img/SNP_Bridge_and_Danube_River,_Bratislava,_Slovakia.JPG | Most SNP, le pont du Soulèvement national slovaque, Bratislava — Wikimedia Commons
 
 ## Le vocabulaire de la mémoire
 

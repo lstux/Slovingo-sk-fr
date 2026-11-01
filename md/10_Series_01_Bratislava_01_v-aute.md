@@ -1,6 +1,6 @@
 # Série Bratislava (1/5) — V aute
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bratislava_Danube_R01.jpg | Le Danube à Bratislava, le château au fond — Marc Ryckaert (MJJR), CC BY, Wikimedia Commons
+@ img/Bratislava_Danube_R01.jpg | Le Danube à Bratislava, le château au fond — Marc Ryckaert (MJJR), CC BY 3.0, Wikimedia Commons
 
 %~ Deň 1 : Bratislava
 % 48.1436, 17.1090 | {{Hlavné námestie}}

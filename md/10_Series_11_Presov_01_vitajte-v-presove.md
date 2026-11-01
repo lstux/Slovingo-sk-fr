@@ -1,6 +1,6 @@
 # Série Prešov (1/5) — Vitajte v Prešove
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovakia_Presov_350.JPG | Une rue de Prešov — crédit à compléter, Wikimedia Commons
+@ img/Slovakia_Presov_350.JPG | Une rue de Prešov — Jozef Kotulič, CC BY-SA 3.0, Wikimedia Commons
 
 %~ Deň 11 : Prešov
 % 49.2920, 21.2740 | {{Bardejov}}

@@ -120,7 +120,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Hrabu%C5%A1ice,_obec_a_Vysok%C3%A9_Tatry.JPG | Hrabušice, porte du Slovenský raj, et les Tatras au loin — crédit à compléter, Wikimedia Commons
+@ img/Hrabušice,_obec_a_Vysoké_Tatry.JPG | Hrabušice, porte du Slovenský raj, et les Tatras au loin — I would appreciate being notified if you use my work outside Wikimedia. More of my work can be found in my personal gallery., CC BY-SA 3.0, Wikimedia Commons
 
 **Le conditionnel, avec by.** Pour « je voudrais », le slovaque prend la forme du passé et ajoute {{by}} : {{chcel by som}} (un homme), {{chcela by som}} (une femme). C'est la formule polie pour demander quelque chose : {{Chcel by som kávu.}}, je voudrais un café.
 

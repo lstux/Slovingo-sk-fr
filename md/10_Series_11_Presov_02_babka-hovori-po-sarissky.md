@@ -1,6 +1,6 @@
 # Série Prešov (2/5) — Babka hovorí po šarišsky
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Polianka_skanzen_Svidnik.jpg | Une maison traditionnelle de l'est (musée en plein air de Svidník) — crédit à compléter, Wikimedia Commons
+@ img/Nova_Polianka_skanzen_Svidnik.jpg | Une maison traditionnelle de l'est (musée en plein air de Svidník) — Ivan1, CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Dans la cuisine, la grand-mère d'Andrea. Elle parle le slovaque de Prešov. Et là, même Andrea doit traduire.}}
 

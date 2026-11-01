@@ -1,6 +1,6 @@
 # Škola (2/2) — Deux mémoires, une même école
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Old_building_-_Vrutky_-_Slovakia_01.jpg?width=800 | Ancien bâtiment scolaire en Slovaquie — Wikimedia Commons, CC BY-SA
+@ img/Old_building_-_Vrutky_-_Slovakia_01.jpg | Ancien bâtiment scolaire en Slovaquie — Wikimedia Commons, CC BY-SA
 
 Le souvenir d'enfant n'est pas celui de l'adulte. Comme pour les camps de pionniers, ceux qui étaient enfants à l'époque gardent souvent un souvenir banal, presque tendre, de leur scolarité : les {{zošity}}, les {{vysvedčenia}}, les bêtises ordinaires. Les adultes de l'époque — enseignants compris — vivaient le système de plus près, avec ses pressions, sa surveillance et ses compromis. Ce sont deux mémoires différentes d'une même école.
 

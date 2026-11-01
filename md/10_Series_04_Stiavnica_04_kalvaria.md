@@ -1,6 +1,6 @@
 # Série Štiavnica (4/5) — Kalvária
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bansk%C3%A1_%C5%A0tiavnica_Calvary_40323.jpg | Le Calvaire de Banská Štiavnica sur sa colline — crédit à compléter, Wikimedia Commons
+@ img/Banská_Štiavnica_Calvary_40323.jpg | Le Calvaire de Banská Štiavnica sur sa colline — Jacquesverlaeken, CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Sur la colline au-dessus de la ville, il y a un magnifique calvaire. Mais après la mine et le déjeuner, qui veut encore monter ?}}
 

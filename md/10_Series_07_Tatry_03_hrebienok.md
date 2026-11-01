@@ -1,6 +1,6 @@
 # Série Tatry (3/5) — Hrebienok
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Vodopad_studeny_potok1.JPG | Une cascade du Studený potok, sous Hrebienok — crédit à compléter, Wikimedia Commons
+@ img/Vodopad_studeny_potok1.JPG | Une cascade du Studený potok, sous Hrebienok — Fenos, CC BY 3.0, Wikimedia Commons
 
 {{fr:Un petit train qui grimpe tout droit dans la pente, puis un sentier dans la forêt jusqu'aux cascades. L'eau est glacée.}}
 

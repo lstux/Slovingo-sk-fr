@@ -1,6 +1,6 @@
 # Liptov (extra) — Zajtra hory
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Liptovska_Mara_od_pol._Ratkovie.jpg | Le lac de Liptovská Mara, les montagnes derrière — crédit à compléter, Wikimedia Commons
+@ img/Liptovska_Mara_od_pol._Ratkovie.jpg | Le lac de Liptovská Mara, les montagnes derrière — Slovan88, Public domain, Wikimedia Commons
 
 {{fr:Le soir, depuis la fenêtre, on voit les Tatras. Demain, on y va. Et on dormira sous la tente. Normalement.}}
 

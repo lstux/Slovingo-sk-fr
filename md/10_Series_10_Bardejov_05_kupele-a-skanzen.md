@@ -95,7 +95,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bardejovsk%C3%A9_K%C3%BApele_skanzen_10_01.jpg | Le musée en plein air de Bardejovské Kúpele — crédit à compléter, Wikimedia Commons
+@ img/Bardejovské_Kúpele_skanzen_10_01.jpg | Le musée en plein air de Bardejovské Kúpele — Ľuboš Repta, CC BY-SA 4.0, Wikimedia Commons
 
 **Bardejovské Kúpele.** À quelques kilomètres de Bardejov, cette station thermale au milieu des forêts est connue pour ses sources minérales. On y boit l'eau directement aux fontaines de la colonnade.
 

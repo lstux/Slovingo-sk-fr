@@ -117,7 +117,7 @@ Déjà vus, à revoir : {{les}}.
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Tane%C4%8Dn%C3%ADk_-_railway_carriage.JPG | Un wagon du petit train forestier d'Orava, à Tanečník — crédit à compléter, Wikimedia Commons
+@ img/Tanečník_-_railway_carriage.JPG | Un wagon du petit train forestier d'Orava, à Tanečník — Pudelek (Marcin Szala), CC BY-SA 3.0, Wikimedia Commons
 
 **Le train forestier d'Orava.** Près d'Oravská Lesná, une ancienne voie ferrée forestière transporte aujourd'hui des touristes, de mai à octobre. Le petit train relie Tanečník au col de Beskyd, à 933 mètres, où une tour d'observation en bois de 7 mètres attend au-dessus de la prairie.
 

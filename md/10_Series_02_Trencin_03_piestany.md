@@ -1,6 +1,6 @@
 # Série Trenčín (3/5) — Piešťany
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Most_kolonadovy.JPG | Le Kolonádový most de Piešťany — crédit à compléter, Wikimedia Commons
+@ img/Most_kolonadovy.JPG | Le Kolonádový most de Piešťany — Bjalek Michal (talk), CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Pause à Piešťany, la ville thermale. Sur le pont, un monsieur casse sa béquille. Et Lola découvre la boue.}}
 

@@ -1,6 +1,6 @@
 # Série Trenčín (4/5) — Trenčín
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Trenciansky_hrad_(2007).jpg | Le château de Trenčín et la tour de Matthieu (Matúšova veža) — Martin Hlauka (Pescan), Domaine public, Wikimedia Commons
+@ img/Trenciansky_hrad_(2007).jpg | Le château de Trenčín et la tour de Matthieu (Matúšova veža) — Martin Hlauka (Pescan), Domaine public, Wikimedia Commons
 
 {{fr:Trenčín : un château posé sur un rocher, une inscription romaine de presque deux mille ans, et une tour très haute. Plus haute que la patience de tonton.}}
 

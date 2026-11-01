@@ -119,7 +119,7 @@ Vous vous tutoyez, bien sûr. Mais aujourd'hui, Andrea a décidé qu'on jouerait
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg | Les prés fleuris de Štrbské pleso, dans les Tatras, là où tout a commencé — crédit à compléter, Wikimedia Commons
+@ img/Flowers_Štrbské_Pleso_25_Slovakia_4.jpg | Les prés fleuris de Štrbské pleso, dans les Tatras, là où tout a commencé — Jozef Kotulič, CC BY-SA 4.0, Wikimedia Commons
 
 **Dovidenia, le au revoir formel.** Contrairement à {{Ahoj}} ou {{Čau}}, qui sont informels, {{Dovidenia}} c'est le au revoir « propre », qu'on utilise avec quelqu'un qu'on vouvoie ou qu'on rencontre pour la première fois. Retiens les deux : le formel et l'informel n'ont pas le même mot en slovaque, alors qu'en français on dit « au revoir » dans les deux cas.
 

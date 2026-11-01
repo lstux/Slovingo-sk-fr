@@ -1,6 +1,6 @@
 # Bojnice (extra) — U pána domáceho
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Kremnicke_vrchy_from_Kremnica.jpg | Les collines autour de Kremnica — crédit à compléter, Wikimedia Commons
+@ img/Kremnicke_vrchy_from_Kremnica.jpg | Les collines autour de Kremnica — Adrian Tync, CC BY-SA 4.0, Wikimedia Commons
 
 {{fr:Le soir, vous dormez chez l'habitant, dans un petit village. Le patron a fait un gâteau. Et quelqu'un se lève très tôt.}}
 

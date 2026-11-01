@@ -1,6 +1,6 @@
 # Série Raj (2/5) — Rebríky
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Misov%C3%A9_vodop%C3%A1dy,_Such%C3%A1_Bel%C3%A1,_Slovensk%C3%BD_r%C3%A1j,_2012,_02.JPG | Les cascades Misové vodopády et leurs échelles, à Suchá Belá — crédit à compléter, Wikimedia Commons
+@ img/Misové_vodopády,_Suchá_Belá,_Slovenský_ráj,_2012,_02.JPG | Les cascades Misové vodopády et leurs échelles, à Suchá Belá — Michal Klajban, CC BY-SA 3.0, Wikimedia Commons
 
 {{fr:Les échelles, les chaînes, l'eau partout. Tu passes devant, « pour la sécurité ». Très, très lentement.}}
 

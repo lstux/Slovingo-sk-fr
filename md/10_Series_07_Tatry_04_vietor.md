@@ -1,6 +1,6 @@
 # Série Tatry (4/5) — Vietor
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Kabinka_Skalnate_pleso-Lomnicky_stit.jpg | La cabine entre Skalnaté pleso et le Lomnický štít — crédit à compléter, Wikimedia Commons
+@ img/Kabinka_Skalnate_pleso-Lomnicky_stit.jpg | La cabine entre Skalnaté pleso et le Lomnický štít — Rl91, CC BY 3.0, Wikimedia Commons
 
 {{fr:L'après-midi, on monte vers Lomnický štít, un sommet avec un café tout en haut. Mais la montagne a son mot à dire.}}
 

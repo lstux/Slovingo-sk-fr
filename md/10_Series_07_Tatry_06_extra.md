@@ -1,6 +1,6 @@
 # Tatry (extra) — Búrka
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/High_Tatras_-_2004.jpg | Les Hautes Tatras — crédit à compléter, Wikimedia Commons
+@ img/High_Tatras_-_2004.jpg | Les Hautes Tatras — Lesnictvo, CC BY-SA 4.0, Wikimedia Commons
 
 {{fr:La météo avait prévenu : la nuit, l'orage. Sous la tente, on compte les secondes entre l'éclair et le tonnerre.}}
 
