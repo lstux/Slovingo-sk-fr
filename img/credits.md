@@ -143,6 +143,22 @@ Noms de fichiers Commons déduits des noms locaux (préfixes de vignette `1920px
 | 29_Kronika_ZaSlusneSlovensko_01_vrazda | [Za slušné Slovensko, Košice 1.jpg](https://commons.wikimedia.org/wiki/File:Za_slu%C5%A1n%C3%A9_Slovensko,_Ko%C5%A1ice_1.jpg) | Bubamara | CC BY-SA 4.0 |
 | 29_Kronika_ZaSlusneSlovensko_02_namestia | [Za slušné Slovensko, Košice 1.jpg](https://commons.wikimedia.org/wiki/File:Za_slu%C5%A1n%C3%A9_Slovensko,_Ko%C5%A1ice_1.jpg) | Bubamara | CC BY-SA 4.0 |
 
+## Images de style (bandeaux de thème)
+
+Fichiers `img/style_<clé>.jpg`, affichés tels quels dans le bandeau des fiches. Téléchargés et réduits à 1200 px avec `tools/fetch_style_images.sh` ; `./tools/fetch_style_images.sh --credits` donne les lignes auteur et licence à recopier ici.
+
+| Image (thème : chapitres) | Fichier Commons | Auteur | Licence |
+|---|---|---|---|
+| `style_mountains.jpg` (Tatras, Slovenský raj) | photo reprise de l'ancien cours | à retrouver | à retrouver |
+| `style_city.jpg` (Bratislava, Trenčín, Spiš, Bardejov, Košice) | photo reprise de l'ancien cours | à retrouver | à retrouver |
+| `style_default.jpg` (intro, vocabulaire, accueil) | [Hybe and the High Tatras.jpg](https://commons.wikimedia.org/wiki/File:Hybe_and_the_High_Tatras.jpg) | à compléter | à compléter |
+| `style_basics.jpg` (kit de survie) | [Flowers Štrbské Pleso 25 Slovakia 4.jpg](https://commons.wikimedia.org/wiki/File:Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg) | à compléter | à compléter |
+| `style_shopping.jpg` (Bojnice, Liptov) | [Bojnice Castle Slovakia.jpg](https://commons.wikimedia.org/wiki/File:Bojnice_Castle_Slovakia.jpg) | à compléter | à compléter |
+| `style_food.jpg` (Banská Štiavnica) | [Banská Štiavnica from Nový zámok 2007.jpg](https://commons.wikimedia.org/wiki/File:Bansk%C3%A1_%C5%A0tiavnica_from_Nov%C3%BD_z%C3%A1mok_2007.jpg) | à compléter | à compléter |
+| `style_time.jpg` (Orava) | [Orava castle panorama 01.jpg](https://commons.wikimedia.org/wiki/File:Orava_castle_panorama_01.jpg) | à compléter | à compléter |
+| `style_family.jpg` (Prešov) | [Hlavná ulica. Prešov 20 Slovakia.jpg](https://commons.wikimedia.org/wiki/File:Hlavn%C3%A1_ulica._Pre%C5%A1ov_20_Slovakia.jpg) | à compléter | à compléter |
+| `style_games.jpg` (Kronika) | [Devin Hrad Panorama.jpg](https://commons.wikimedia.org/wiki/File:Devin_Hrad_Panorama.jpg) | à compléter | à compléter |
+
 ## Auteurs qui demandent à être prévenus
 
 Une politesse demandée sur la page Commons (pas une condition de la licence) : un petit message sur la page de discussion Commons de l'auteur suffit.
