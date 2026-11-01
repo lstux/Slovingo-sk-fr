@@ -1,6 +1,6 @@
 # 🇸🇰 Introduction — Le slovaque, une langue slave
 
-@ img/1920px-Slovaks_around_the_world.svg.png | Diaspora slovaque — Wikimedia Commons
+@ img/1920px-Slovaks_around_the_world.svg.png | Diaspora slovaque — crédit à compléter, Wikimedia Commons
 
 Avant de plonger dans le vocabulaire et la grammaire, qui parle slovaque, d'où vient cette langue, et à quelle famille elle appartient ?
 

@@ -32,7 +32,8 @@ UA = "SlovingoCredits/1.0 (cours Slovingo-sk-fr; contact via GitHub lstux)"
 TODO_MARKS = ("à compléter", "à vérifier", "non précisée")
 PAUSE = 2.0
 
-ROW = re.compile(r"^\| (?P<fiche>[^|]+?) \| \[(?P<name>[^\]]+)\]\((?P<url>[^)]+)\) \| (?P<author>[^|]+?) \| (?P<lic>[^|]+?) \|\s*$")
+# The URL may itself contain parentheses (File:Foo_(16).jpg): match up to ") |".
+ROW = re.compile(r"^\| (?P<fiche>[^|]+?) \| \[(?P<name>[^\]]+)\]\((?P<url>[^ ]+?)\) \| (?P<author>[^|]+?) \| (?P<lic>[^|]+?) \|\s*$")
 
 
 def strip_html(s: str) -> str:
@@ -99,6 +100,8 @@ def main() -> None:
         print(f"   {a} — {l}")
         lines[i] = f"| {m['fiche']} | [{name}]({m['url']}) | {a} | {l} |\n"
         fiche = MD / f"10_Series_{m['fiche']}.md"
+        if not fiche.exists():
+            fiche = MD / f"{m['fiche']}.md"  # introduction, annexes...
         if fiche.exists():
             text = fiche.read_text(encoding="utf-8")
             # la ligne @ de la fiche : on remplace le crédit entre le dernier « — » et « , Wikimedia Commons »

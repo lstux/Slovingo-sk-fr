@@ -1,6 +1,6 @@
 # Za slušné Slovensko — Un meurtre qui a tout changé
 
-@ img/Za_slušné_Slovensko,_Košice_1.jpg | Manifestation « Za slušné Slovensko » (« Pour une Slovaquie décente »), Košice — Wikimedia Commons
+@ img/Za_slušné_Slovensko,_Košice_1.jpg | Manifestation « Za slušné Slovensko » (« Pour une Slovaquie décente »), Košice — crédit à compléter, Wikimedia Commons
 
 En février 2018, le journaliste d'investigation Ján Kuciak et sa fiancée Martina Kušnírová sont retrouvés assassinés à leur domicile. Ján Kuciak enquêtait alors sur des montages financiers frauduleux impliquant des hommes d'affaires proches du pouvoir, et sur d'éventuels liens entre certains milieux slovaques et la mafia italienne 'Ndrangheta. C'est le premier assassinat d'un journaliste en Slovaquie depuis l'indépendance du pays.
 

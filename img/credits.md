@@ -13,7 +13,7 @@ Auteur et licence sont recopiés de la page Commons de chaque fichier. Les licen
 | 01_Bratislava_03_stare-mesto | [Church of St. Elizabeth nicknamed The Blue Church (10267484804).jpg](https://commons.wikimedia.org/wiki/File:Church_of_St._Elizabeth_nicknamed_The_Blue_Church_(10267484804).jpg) | Jorge Láscar | CC BY 2.0 |
 | 01_Bratislava_05_vecer-v-pivnici | [Modra (Modern, Modor) - Horná brána.JPG](https://commons.wikimedia.org/wiki/File:Modra_(Modern,_Modor)_-_Horn%C3%A1_br%C3%A1na.JPG) | Pudelek (Marcin Szala) | CC BY-SA 3.0 |
 | 01_Bratislava_06_extra | [Bridge Nový most - Bratislava.jpg](https://commons.wikimedia.org/wiki/File:Bridge_Nov%C3%BD_most_-_Bratislava.jpg) | Alberto Fernandez Fernandez | CC BY-SA 3.0 |
-| Bratislava_04_hrad-a-ufo | img/Bratislava,_Hrad,_Slovensko.jpg (fichier local, reprise de l'ancien cours) | à retrouver | à retrouver |
+| 01_Bratislava_04_hrad-a-ufo | [Bratislava Castle, 20210727 1004 0250.jpg](https://commons.wikimedia.org/wiki/File:Bratislava_Castle,_20210727_1004_0250.jpg) | Jakub Hałun | CC BY-SA 4.0 |
 | 02_Trencin_04_trencin | [Trenciansky hrad (2007).jpg](https://commons.wikimedia.org/wiki/File:Trenciansky_hrad_(2007).jpg) | Martin Hlauka (Pescan) | Domaine public |
 | 02_Trencin_05_penzion | [Trenčín Castle 34.jpg](https://commons.wikimedia.org/wiki/File:Tren%C4%8D%C3%ADn_Castle_34.jpg) | Scotch Mist | CC BY-SA 4.0 |
 | 02_Trencin_06_extra | [Trenčín Castle 59.jpg](https://commons.wikimedia.org/wiki/File:Tren%C4%8D%C3%ADn_Castle_59.jpg) | Scotch Mist | CC BY-SA 4.0 |
@@ -111,3 +111,34 @@ Une illustration faite d'après une photo sous licence CC BY-SA en est une œuvr
 | 10_Bardejov_05_kupele-a-skanzen | `img/illus_10.jpg` | [Bardejovské Kúpele skanzen 10 01.jpg](https://commons.wikimedia.org/wiki/File:Bardejovsk%C3%A9_K%C3%BApele_skanzen_10_01.jpg) |
 | 11_Presov_05_sol | `img/illus_11.jpg` | [Sklad soli, Solivar, Prešov.jpg](https://commons.wikimedia.org/wiki/File:Sklad_soli,_Solivar,_Pre%C5%A1ov.jpg) |
 | 12_Kosice_05_buduce-leto | `img/illus_12.jpg` | [St Elisabeth Cathedral Kosice.jpeg](https://commons.wikimedia.org/wiki/File:St_Elisabeth_Cathedral_Kosice.jpeg) |
+
+## Introduction, Kronika (images de l'ancien cours)
+
+Noms de fichiers Commons déduits des noms locaux (préfixes de vignette `1920px-` retirés) : `tools/fill_credits.py` signale ceux qui sont introuvables.
+
+| Fiche | Fichier Commons | Auteur | Licence |
+|---|---|---|---|
+| 00_Introduction_02_slovaquie | [Relief Map of Slovakia Kraje.png](https://commons.wikimedia.org/wiki/File:Relief_Map_of_Slovakia_Kraje.png) | à compléter | à compléter |
+| 00_Introduction_03_langue | [Slovaks around the world.svg](https://commons.wikimedia.org/wiki/File:Slovaks_around_the_world.svg) | à compléter | à compléter |
+| 00_Introduction_04_prononciation | [Pronunciation organs diagram.png](https://commons.wikimedia.org/wiki/File:Pronunciation_organs_diagram.png) | à compléter | à compléter |
+| 15_Kronika_Stur_01_langue-standard | [Ludovit Stur.jpg](https://commons.wikimedia.org/wiki/File:Ludovit_Stur.jpg) | à compléter | à compléter |
+| 15_Kronika_Stur_02_reveil-national | [Ľudovít Štúr Statue Pekníkova.JPG](https://commons.wikimedia.org/wiki/File:%C4%BDudov%C3%ADt_%C5%A0t%C3%BAr_Statue_Pekn%C3%ADkova.JPG) | à compléter | à compléter |
+| 17_Kronika_Stefanik_01_hviezdy-a-lietadla | [Milan Rastislav Štefánik.jpg](https://commons.wikimedia.org/wiki/File:Milan_Rastislav_%C5%A0tef%C3%A1nik.jpg) | à compléter | à compléter |
+| 17_Kronika_Stefanik_02_zrod-a-koniec | [Mohyla Milana Rastislava Stefanika.jpg](https://commons.wikimedia.org/wiki/File:Mohyla_Milana_Rastislava_Stefanika.jpg) | à compléter | à compléter |
+| 19_Kronika_SNP_01_povstanie | [Banská Bystrica Monument to the Slovak National Uprising 1944 (3187252127).jpg](https://commons.wikimedia.org/wiki/File:Bansk%C3%A1_Bystrica_Monument_to_the_Slovak_National_Uprising_1944_(3187252127).jpg) | à compléter | à compléter |
+| 19_Kronika_SNP_02_pamat | [SNP Bridge and Danube River, Bratislava, Slovakia.JPG](https://commons.wikimedia.org/wiki/File:SNP_Bridge_and_Danube_River,_Bratislava,_Slovakia.JPG) | à compléter | à compléter |
+| 21_Kronika_Pionieri_01_camps-et-quotidien | ['Young pioneers' of Czechoslovakia.jpg](https://commons.wikimedia.org/wiki/File:'Young_pioneers'_of_Czechoslovakia.jpg) | à compléter | à compléter |
+| 21_Kronika_Pionieri_01_camps-et-quotidien | [Přijímání do Pionýra, 1979.jpg](https://commons.wikimedia.org/wiki/File:P%C5%99ij%C3%ADm%C3%A1n%C3%AD_do_Pion%C3%BDra,_1979.jpg) | à compléter | à compléter |
+| 22_Kronika_Skola_01_ecole-communiste | [ZS Fandlyho Pezinok.jpg](https://commons.wikimedia.org/wiki/File:ZS_Fandlyho_Pezinok.jpg) | à compléter | à compléter |
+| 22_Kronika_Skola_02_deux-memoires | [Old building - Vrutky - Slovakia 01.jpg](https://commons.wikimedia.org/wiki/File:Old_building_-_Vrutky_-_Slovakia_01.jpg) | à compléter | à compléter |
+| 23_Kronika_Radio_01_medias-sous-controle | [Pravda (Slovakia) logo.svg](https://commons.wikimedia.org/wiki/File:Pravda_(Slovakia)_logo.svg) | à compléter | à compléter |
+| 23_Kronika_Radio_02_verite-cherchee-ailleurs | [Radio, Model 308U, Talisman, Tesla, Czechoslovakia, c. 1953, Bakelite case - Museum für Angewandte Kunst Köln - Cologne, Germany - DSC09685.jpg](https://commons.wikimedia.org/wiki/File:Radio,_Model_308U,_Talisman,_Tesla,_Czechoslovakia,_c._1953,_Bakelite_case_-_Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Cologne,_Germany_-_DSC09685.jpg) | à compléter | à compléter |
+| 24_Kronika_NezneRevolucia_01_sedemnasty-november | [Kosice (Slovakia) - Main Street 3.jpg](https://commons.wikimedia.org/wiki/File:Kosice_(Slovakia)_-_Main_Street_3.jpg) | à compléter | à compléter |
+| 24_Kronika_NezneRevolucia_02_co-z-toho-zostalo | [Košice - pam. budova - Hlavná ul. 69.jpg](https://commons.wikimedia.org/wiki/File:Ko%C5%A1ice_-_pam._budova_-_Hlavn%C3%A1_ul._69.jpg) | à compléter | à compléter |
+| 25_Kronika_Rozdelenie_01_prvy-januar | [National Council of the Slovak Republic, Bratislava, Slovakia.jpg](https://commons.wikimedia.org/wiki/File:National_Council_of_the_Slovak_Republic,_Bratislava,_Slovakia.jpg) | à compléter | à compléter |
+| 25_Kronika_Rozdelenie_02_dva-narody-jeden-pocit | [Bratislava Castle, 20210727 1004 0250.jpg](https://commons.wikimedia.org/wiki/File:Bratislava_Castle,_20210727_1004_0250.jpg) | Jakub Hałun | CC BY-SA 4.0 |
+| 26_Kronika_VstupDoEU_01_prvy-maj | [EU and Slovakia flags.jpg](https://commons.wikimedia.org/wiki/File:EU_and_Slovakia_flags.jpg) | à compléter | à compléter |
+| 26_Kronika_VstupDoEU_02_dvadsat-rokov-neskor | [European, Slovakian en Bratislava flag.jpg](https://commons.wikimedia.org/wiki/File:European,_Slovakian_en_Bratislava_flag.jpg) | à compléter | à compléter |
+| 27_Kronika_Emigracia_01_partir-puis-revenir | [Map of the Slovak Diaspora in the World.svg](https://commons.wikimedia.org/wiki/File:Map_of_the_Slovak_Diaspora_in_the_World.svg) | à compléter | à compléter |
+| 29_Kronika_ZaSlusneSlovensko_01_vrazda | [Za slušné Slovensko, Košice 1.jpg](https://commons.wikimedia.org/wiki/File:Za_slu%C5%A1n%C3%A9_Slovensko,_Ko%C5%A1ice_1.jpg) | à compléter | à compléter |
+| 29_Kronika_ZaSlusneSlovensko_02_namestia | [Za slušné Slovensko, Košice 1.jpg](https://commons.wikimedia.org/wiki/File:Za_slu%C5%A1n%C3%A9_Slovensko,_Ko%C5%A1ice_1.jpg) | à compléter | à compléter |

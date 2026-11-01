@@ -1,6 +1,6 @@
 # Štefánik — Une naissance, une fin
 
-@ img/Mohyla_Milana_Rastislava_Stefanika.jpg | Mohyla — mausolée de Milan Rastislav Štefánik sur la colline de Bradlo — Wikimedia Commons
+@ img/Mohyla_Milana_Rastislava_Stefanika.jpg | Mohyla — mausolée de Milan Rastislav Štefánik sur la colline de Bradlo — crédit à compléter, Wikimedia Commons
 
 ## Le vocabulaire de la fondation
 

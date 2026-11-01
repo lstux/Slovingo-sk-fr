@@ -1,6 +1,6 @@
 # 🇸🇰 Introduction — Prononciation slovaque
 
-@ img/1920px-Pronunciation_organs_diagram.png | Diagramme des organes de prononciation — Wikimedia Commons
+@ img/1920px-Pronunciation_organs_diagram.png | Diagramme des organes de prononciation — crédit à compléter, Wikimedia Commons
 
 > Le slovaque se lit presque comme il s'écrit.
 > Une fois les quelques lettres particulières maîtrisées, la prononciation devient beaucoup plus régulière qu'en français.

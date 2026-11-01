@@ -1,6 +1,6 @@
 # Vstup do EÚ (2/2) — Dvadsať rokov neskôr
 
-@ img/European,_Slovakian_en_Bratislava_flag.jpg | Drapeaux européen et slovaque flottant ensemble à Bratislava — Wikimedia Commons
+@ img/European,_Slovakian_en_Bratislava_flag.jpg | Drapeaux européen et slovaque flottant ensemble à Bratislava — crédit à compléter, Wikimedia Commons
 
 L'adhésion de 2004 n'a pas ouvert toutes les portes en même temps. Seuls quelques pays — le Royaume-Uni, l'Irlande et la Suède — ont ouvert leur {{pracovný trh}} dès le premier jour ; d'autres ont maintenu des restrictions pendant plusieurs années, jusqu'à sept ans dans certains cas. Cette asymétrie a orienté les trajectoires migratoires de toute une génération : les pays ayant ouvert leurs frontières immédiatement ont vu affluer un nombre disproportionné de jeunes Slovaques, simplement parce que la voie légale y était plus simple et plus rapide qu'ailleurs.
 

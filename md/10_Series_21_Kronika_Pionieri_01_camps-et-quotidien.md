@@ -1,6 +1,6 @@
 # Pionieri (1/2) — Les camps de l'époque communiste
 
-@ img/'Young_pioneers'_of_Czechoslovakia.jpg | Jeunes pionnières de Tchécoslovaquie — Wikimedia Commons, OGL v1.0
+@ img/'Young_pioneers'_of_Czechoslovakia.jpg | Jeunes pionnières de Tchécoslovaquie — crédit à compléter, Wikimedia Commons
 
 L'organisation des pionniers n'était pas un choix : encadrée par l'Union de la jeunesse socialiste, sous le contrôle du parti communiste, l'adhésion était attendue de la quasi-totalité des enfants — d'abord chez les « iskry » (les étincelles) pour les plus petits, puis chez les pionniers jusqu'à l'adolescence. Le foulard rouge, la {{šatka}}, en était le signe le plus visible, porté à l'école comme en camp de vacances.
 
@@ -35,7 +35,7 @@ Une fois sur place, pourtant, l'expérience concrète ressemblait à s'y mépren
 > na bugel = au clairon
 > Nikto nemeškal = personne n'était en retard
 
-@ img/Přijímání_do_Pionýra,_1979.jpg | Cérémonie d'admission chez les pionniers, 1979 — Wikimedia Commons
+@ img/Přijímání_do_Pionýra,_1979.jpg | Cérémonie d'admission chez les pionniers, 1979 — crédit à compléter, Wikimedia Commons
 
 Venait ensuite la {{rozcvička}}, l'échauffement matinal collectif en extérieur, imposé même sous la pluie — puis le {{nástup}}, où l'on se tenait droit, en rang, par {{oddiel}}, pour chanter la même {{pieseň}} chaque matin sous l'œil du {{vedúci}}.
 

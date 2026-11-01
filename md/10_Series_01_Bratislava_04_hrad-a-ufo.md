@@ -1,6 +1,6 @@
 # Série Bratislava (4/5) — Hrad a UFO
 
-@ img/Bratislava,_Hrad,_Slovensko.jpg | Le château de Bratislava sur sa colline — Wikimedia Commons
+@ img/bratislavsky-hrad.jpg | Le château de Bratislava sur sa colline — Jakub Hałun, CC BY-SA 4.0, Wikimedia Commons
 
 {{fr:On monte au château. D'en haut, on voit le Danube, un pont… et un objet volant non identifié.}}
 

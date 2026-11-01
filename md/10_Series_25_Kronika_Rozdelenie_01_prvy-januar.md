@@ -1,6 +1,6 @@
 # Rozdelenie (1/2) — Prvý január deväťdesiattri
 
-@ img/National_Council_of_the_Slovak_Republic,_Bratislava,_Slovakia.jpg | Le Conseil national de la République slovaque, Bratislava — Wikimedia Commons
+@ img/National_Council_of_the_Slovak_Republic,_Bratislava,_Slovakia.jpg | Le Conseil national de la République slovaque, Bratislava — crédit à compléter, Wikimedia Commons
 
 Le 1er janvier 1993, la Tchécoslovaquie, {{Československo}}, a cessé d'exister : avec la {{rozdelenie}}, la séparation, le pays est devenu deux États — la Slovaquie et la République tchèque. Il n'y a pas eu de {{referendum}} : la décision a été prise par accord entre {{politici}}, sans consultation populaire directe.
 

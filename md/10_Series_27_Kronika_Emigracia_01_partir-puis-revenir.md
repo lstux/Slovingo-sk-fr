@@ -1,6 +1,6 @@
 # Emigrácia — Partir, puis revenir
 
-@ img/Map_of_the_Slovak_Diaspora_in_the_World.svg | Carte de la diaspora slovaque dans le monde — Wikimedia Commons
+@ img/Map_of_the_Slovak_Diaspora_in_the_World.svg | Carte de la diaspora slovaque dans le monde — crédit à compléter, Wikimedia Commons
 
 Depuis l'adhésion à l'Union européenne, plusieurs centaines de milliers de Slovaques ont vécu ou travaillé à l'étranger à un moment de leur vie, dans des proportions particulièrement élevées pour un pays de cette taille. La diaspora slovaque contemporaine s'est concentrée sur quelques destinations phares : la République tchèque d'abord, langue oblige, puis le Royaume-Uni, l'Autriche et l'Allemagne — ces deux derniers notamment pour les soins aux personnes âgées et l'hôtellerie.
 
