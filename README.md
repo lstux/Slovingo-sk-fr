@@ -2,6 +2,8 @@
 
 🌐 **Le cours en ligne : [lstux.github.io/Slovingo-sk-fr](https://lstux.github.io/Slovingo-sk-fr/)**
 
+📖 **L'histoire complète, à lire d'une traite et à écouter : [histoire.html](https://lstux.github.io/Slovingo-sk-fr/histoire.html)** (tout le récit en slovaque, sans les explications, traductions à la demande).
+
 Un cours de slovaque pour les francophones. Et cette fois, on apprend en voyageant ! :)
 
 ![En route ! De Bratislava aux Tatras](img/illus_cover.jpg)
