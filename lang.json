@@ -92,6 +92,8 @@
     "settings_exercises": "Exercices",
     "streak_days": "Jours consécutifs",
     "voice_native": "Voix française",
+    "voice_other": "Autres voix",
+    "read_story": "📖 Lire tout le voyage d'une traite",
     "reset_progress": "🗑️ Réinitialiser ma progression",
     "reset_progress_confirm": "Effacer tous les scores enregistrés sur cet appareil ?",
     "reset_settings": "↩️ Réinitialiser les réglages",
@@ -299,5 +301,17 @@
       "series-kosice": [36, 88],
       "final-exam": [85, 94]
     }
+  },
+  "story": {
+    "title": "Tout le voyage",
+    "subtitle": "Celý príbeh, zo západu na východ",
+    "intro": "Tous les dialogues du roadtrip, de Bratislava à Košice, sur une seule page. Pour ceux qui lisent déjà le slovaque, et pour la relecture : les traductions sont cachées, un clic sur une réplique la montre.",
+    "user_name": "Gab",
+    "exclude_subgroups": ["kronika_*", "kitsurvie"],
+    "headings": ["Le dialogue", "La suite de l'épisode"],
+    "chapter_label": "Kapitola",
+    "show_translations": "Afficher les traductions",
+    "hide_translations": "Masquer les traductions",
+    "back": "Retour au cours"
   }
 }

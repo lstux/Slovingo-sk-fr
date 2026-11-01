@@ -14,7 +14,7 @@
 | potrebovať | avoir besoin de |
 | ružový | rose |
 | žralok | le requin |
-| skúsiť | essayer |
+| vyskúšať si | essayer (un vêtement) |
 | kabínka | la cabine d'essayage |
 | veľkosť | la taille |
 | kvet | la fleur |
@@ -38,9 +38,9 @@ En slovaque, c'est la chose qui « plaît » : elle est le sujet.
 
 {{plavky}} est un pluriel : {{Páčia sa ti tieto plavky?}}
 
-### Essayer : môžem si skúsiť…?
+### Essayer : môžem si vyskúšať…?
 
-{{Môžem si skúsiť tieto plavky?}} = je peux essayer ce maillot ? On l'entend dans tous les magasins de vêtements.
+{{Môžem si vyskúšať tieto plavky?}} = je peux essayer ce maillot ? On l'entend dans tous les magasins de vêtements. Dans la langue de tous les jours, on dit aussi {{skúsiť si}}.
 
 ---
 
@@ -99,10 +99,10 @@ En slovaque, c'est la chose qui « plaît » : elle est le sujet.
 > Le rose ! Celui-là me plaît !
 > Tie sa mi páčia = ceux-là me plaisent
 
-! 🦊 A pre mňa? Môžem si skúsiť tieto?
+! 🦊 A pre mňa? Môžem si vyskúšať tieto?
 > Et pour moi ? Je peux essayer celui-ci ?
 > A pre mňa = et pour moi
-> Môžem si skúsiť tieto = je peux essayer ceux-ci
+> Môžem si vyskúšať tieto = je peux essayer ceux-ci
 
 ! 🧑‍🦰 Áno, kabínka je tam.
 > Oui, la cabine est là-bas.

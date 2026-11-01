@@ -1121,7 +1121,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🐇 Ružové! Tie sa mi páčia!
 
-🦊 A pre mňa? Môžem si skúsiť tieto?
+🦊 A pre mňa? Môžem si vyskúšať tieto?
 
 🧑‍🦰 Áno, kabínka je tam.
 
@@ -1967,7 +1967,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 
 🦊 Andrea!
 
-🐰 Mama sa pýta všetko. A ja hovorím všetko.
+🐰 Mama sa pýta na všetko. A ja hovorím všetko.
 
 **Faits à vérifier (chapitre 10)**
 - Bardejov : hôtel de ville présenté comme le premier bâtiment Renaissance de Slovaquie ; basilique Saint-Gilles à trois nefs avec 11 autels gothiques ; faubourg juif inscrit à l'UNESCO avec la ville en 2000 (vérifié, [Prešovský kraj](https://www.po-kraj.sk/en/presov-region/attractions/seven-wonders-presov-region/bardejov.html)). Tour de 76 m avec plateforme d'observation ; *lavička zblíženia*, banc bleu et rouge dans le Promenádny park, qui rapproche les gens assis aux deux bouts ; musée en plein air de Bardejovské Kúpele, ouvert en 1965, le plus ancien de Slovaquie, avec des églises en bois (vérifié, [Zľavomat](https://www.zlavomat.sk/magazin/1964-kam-v-bardejove)).

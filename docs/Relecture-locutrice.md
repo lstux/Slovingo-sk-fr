@@ -55,3 +55,19 @@ Andrea explique aussi (scène 2) : *Na východe je prízvuk na predposlednej sla
 - Les expressions *spať ako zabitý*, *spať ako bábätko* (chapitre 8) et *variť pre celý pluk* (chapitre 10).
 - Prešov, troisième ville de Slovaquie, place en fuseau, co-cathédrale Saint-Nicolas et fontaine sur la Hlavná ulica (chapitre 11) ; les dialectes de l'est (Spiš, Šariš, Abov, Zemplín) (chapitre 11).
 - Košice, Capitale européenne de la culture 2013 ; les mines d'opale de Dubník (chapitre 12).
+
+## 6. Petits doutes de relecture (novembre 2026)
+
+Relu en entier avant la bêta. Deux vraies fautes ont été corrigées : *Môžem si vyskúšať tieto?* (au lieu de *skúsiť*, chapitre 6) et *Mama sa pýta na všetko* (au lieu de *pýta všetko*, chapitre 10). Le reste paraît juste, mais ces phrases méritent une oreille native :
+
+| Chapitre | Phrase | Le doute |
+|---|---|---|
+| 4, `04_Stiavnica_03` | *Lola ochutná a prestane.* | Naturel sans complément ? Ou *prestane jesť* ? |
+| 4, `04_Stiavnica_04` | *Tak sa pozeráme zdola.* | Plutôt *Tak sa pozrieme zdola* ? (le présent est voulu à ce niveau) |
+| 8, `08_Raj_06` | *Dnes som spal výborne.* | Au petit-déjeuner : *Dnes v noci som spal výborne* ? |
+| 9, `09_Spis_03` | *Bol som na veľa hradoch.* | Familier mais correct ? Ou *na mnohých hradoch* ? |
+| 10, `10_Bardejov_02` | *Domy sú ako farbičky. Žltý, zelený, modrý, ružový!* | Lola montre les maisons une par une : le singulier passe, ou *Žlté, zelené…* ? |
+| 10, `10_Bardejov_03` | *Predvčerom sme vyšli na rebríky.* | *Vyjsť na rebríky* se dit ? |
+| 11, `11_Presov_03` | *Ďakujem babke. Ďakujem mame.* | Gab remercie en parlant d'elles à la 3e personne : naturel, ou *Ďakujem, babka* ? |
+| 11, `11_Presov_05` | *Chudáky kone.* | Ou *Chudáci kone* ? |
+| 12, `12_Kosice_01` | *Cieľ je o tridsaťpäť minút.* | Une vraie navigation dirait ça ? Ou *Do cieľa zostáva 35 minút* ? |

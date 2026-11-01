@@ -119,9 +119,9 @@
 ! 🦊 Andrea!
 > Andrea !
 
-! 🐰 Mama sa pýta všetko. A ja hovorím všetko.
+! 🐰 Mama sa pýta na všetko. A ja hovorím všetko.
 > Maman demande tout. Et moi, je dis tout.
-> Mama sa pýta všetko = maman demande tout
+> Mama sa pýta na všetko = maman pose des questions sur tout
 > ja hovorím všetko = je dis tout
 
 ---

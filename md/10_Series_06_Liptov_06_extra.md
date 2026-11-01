@@ -41,7 +41,7 @@
 | páčiť sa | plaire |
 | ružový | rose |
 | žralok | le requin |
-| skúsiť | essayer |
+| vyskúšať si | essayer (un vêtement) |
 | kabínka | la cabine d'essayage |
 | veľkosť | la taille |
 | kvet | la fleur |
