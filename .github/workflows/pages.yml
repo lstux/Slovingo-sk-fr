@@ -12,6 +12,8 @@ name: GitHub Pages
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: "29 3 * * *"
   workflow_dispatch:
     inputs:
       slovingo_ref:
