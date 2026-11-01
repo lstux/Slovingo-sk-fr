@@ -17,6 +17,7 @@
     "css_class": "col-native"
   },
   "site": {
+    "status": "beta",
     "title": "Ahoj Slovenčina! Zo západu na východ",
     "short_name": "Ahoj SK",
     "description": "Le slovaque en roadtrip, de Bratislava à Košice",
