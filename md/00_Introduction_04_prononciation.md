@@ -2,6 +2,8 @@
 
 @ img/1920px-Pronunciation_organs_diagram.png | Diagramme des organes de prononciation — Obsuser, CC0, Wikimedia Commons
 
+**Pas de panique.** Cette fiche est une référence : survole-la, écoute quelques mots, et reviens-y quand une lettre te pose question. Le reste viendra en écoutant les dialogues.
+
 > Le slovaque se lit presque comme il s'écrit.
 > Une fois les quelques lettres particulières maîtrisées, la prononciation devient beaucoup plus régulière qu'en français.
 

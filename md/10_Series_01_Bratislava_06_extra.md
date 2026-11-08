@@ -50,7 +50,6 @@
 | most | le pont |
 | veľký | grand |
 | drahý | cher |
-| dnes | aujourd'hui |
 | biely | blanc |
 | Dunaj | le Danube |
 | tak | alors |

@@ -1,6 +1,6 @@
 # 🦊 Introduction — Le voyage
 
-@ img/illus_cover.jpg | En route ! De Bratislava aux Tatras · illustration Gemini
+@ img/illus_cover.jpg | En route ! De Bratislava à Košice · illustration Gemini
 
 ## Et toi, comment tu t'appelles ?
 

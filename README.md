@@ -6,7 +6,7 @@
 
 Un cours de slovaque pour les francophones. Et cette fois, on apprend en voyageant ! :)
 
-![En route ! De Bratislava aux Tatras](img/illus_cover.jpg)
+![En route ! De Bratislava à Košice](img/illus_cover.jpg)
 
 ## Le voyage
 

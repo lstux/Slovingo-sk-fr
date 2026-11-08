@@ -155,6 +155,7 @@ Pour l'âge, on « a » des années, et le mot change avec le nombre :
 > Vous êtes français ?
 > Ste = vous êtes
 > Francúzi = des Français
++ Ici, {{vy}} n'est pas de la politesse : Andrea parle aux trois à la fois. Comme en français, « vous » sert aussi au pluriel.
 
 ! 🧢 Áno, sme Francúzi. Sme z Lyonu.
 > Oui, nous sommes français. Nous sommes de Lyon.

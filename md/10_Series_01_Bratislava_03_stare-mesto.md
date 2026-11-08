@@ -31,7 +31,11 @@
 | féminin | **-a** | {{socha}}, {{líška}}, {{fontána}} |
 | neutre | **-o**, **-e** | {{mesto}}, {{auto}}, {{námestie}} |
 
-### L'adjectif suit le nom
+Il y a quelques exceptions, à apprendre avec le mot : {{neter}}, la nièce, finit par une consonne mais elle est bien féminine ({{moja neter}}).
+
+### L'adjectif s'accorde avec le nom
+
+Il se place devant le nom, comme « petit » en français, et prend la fin qui va avec son genre : **-ý** au masculin, **-á** au féminin, **-é** au neutre.
 
 | Slovenčina | Français |
 |------------|----------|

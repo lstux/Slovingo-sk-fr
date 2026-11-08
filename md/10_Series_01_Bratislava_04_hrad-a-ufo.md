@@ -17,7 +17,6 @@
 | most | le pont |
 | veľký | grand |
 | drahý | cher |
-| dnes | aujourd'hui |
 
 ---
 
@@ -104,6 +103,7 @@ Un et deux changent selon le genre :
 > C'est cher ?
 > Je to = c'est
 > drahé = cher
++ Pourquoi {{drahé}} et pas {{drahý}} ? Parce que {{to}} (ça) est neutre : l'adjectif prend la fin **-é**, comme {{modré auto}}.
 
 ! 🐰 Áno. Veľmi.
 > Oui. Très.

@@ -27,6 +27,8 @@ La salutation formelle, valable toute la journée (le soir, on passe plutôt à 
 
 Littéralement « comment te portes-tu ? ». C'est la façon la plus courante de demander comment ça va, à quelqu'un qu'on tutoie. On la garde en bloc pour l'instant — tu apprendras à y répondre dans la fiche suivante.
 
+Le petit {{sa}}, c'est notre « se » : {{mať sa}}, c'est « se porter ». Tu vas le croiser partout : {{volám sa}}, je m'appelle (« je me nomme »), {{učím sa}}, j'apprends (« je m'instruis »). Quand une traduction te semble bizarre, cherche le {{sa}} !
+
 ### {{Ahoj}} et {{čau}}
 
 Les deux sont informels et signifient à peu près la même chose. **{{Ahoj}}** peut être bonjour *ou* au revoir selon le contexte. **{{Čau}}** aussi, en encore plus désinvolte — c'est le « ciao » italien, dans les deux sens.
