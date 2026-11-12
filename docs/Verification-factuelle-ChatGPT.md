@@ -13,7 +13,7 @@ Le cours ne tombe pas dans un récit national simpliste de manière systématiqu
 
 Mais plusieurs affirmations doivent être corrigées ou nuancées. Les plus importantes :
 
-1. **Štúr :** la date et le lieu du 14 février 1843 à Bratislava ne correspondent pas à la chronologie communément documentée de la codification.
+1. **Štúr :** distinguer la réunion préparatoire du 14 février 1843 à Bratislava de l'accord de codification conclu par Štúr, Hurban et Hodža à Hlboké en juillet 1843 ; la fiche actuelle condense ces étapes.
 2. **SNP :** le texte confond le premier contingent allemand entré en Slovaquie avec l'ensemble des forces engagées ensuite ; le nombre de 22 officiers tués n'est pas corroboré par les sources consultées ; le chiffre de 14 000 Juifs « déportés ou tués » doit être remplacé par des données plus précises.
 3. **Pionniers :** « ce n'était pas un choix » et la comparaison avec les mouvements de jeunesse occidentaux sont trop catégoriques.
 4. **École communiste :** le russe obligatoire dès neuf ans est bien étayé ; en revanche, la durée et la structure de l'école de base ont varié selon les réformes.
@@ -34,17 +34,18 @@ Le principe à garder : **ne pas remplacer un cliché positif par un cliché né
 
 **Fichier :** \`md/10_Series_15_Kronika_Stur_01_langue-standard.md\`
 
-<badge color="danger">À corriger</badge> **14 février 1843, à Bratislava**
+<badge color="warning">À préciser</badge> **14 février 1843, à Bratislava**
 
-Le texte affirme qu'un petit groupe réuni à Bratislava décide le 14 février 1843 de fixer une nouvelle norme écrite. Cette date et ce lieu ne correspondent pas à la chronologie historique usuellement documentée.
+Le 14 février 1843 est associé à une réunion de Štúr et de plusieurs proches dans son appartement à Bratislava, au cours de laquelle ils décident de préparer une nouvelle codification fondée sur le slovaque culturel du centre du pays. Il ne faut donc pas présenter cette date comme une erreur pure et simple. En revanche, la fiche condense deux étapes différentes : la décision préparatoire de février et l'accord linguistique décisif conclu par Ľudovít Štúr, Jozef Miloslav Hurban et Michal Miloslav Hodža à **Hlboké, du 11 au 16 juillet 1843**.
 
-La rencontre décisive de Ľudovít Štúr, Jozef Miloslav Hurban et Michal Miloslav Hodža autour de l'adoption du parler du centre de la Slovaquie comme base de la langue écrite est généralement située à **Hlboké, du 11 au 16 juillet 1843**. La codification est ensuite présentée et adoptée publiquement dans le cadre de l'association Tatrín à **Liptovský Mikuláš en 1844**. L'ouvrage de Štúr décrivant la norme paraît en 1846.
+La nouvelle norme est ensuite soutenue dans le cadre de l'association Tatrín à **Liptovský Mikuláš en 1844**. Štúr la décrit dans ses ouvrages de 1846. Une réforme importante intervient en 1851–1852, notamment sous l'impulsion de Hodža et Hattala.
 
-**Proposition :** remplacer le paragraphe par une chronologie claire :
-- juillet 1843 : accord de Štúr, Hurban et Hodža à Hlboké ;
-- 1844 : adoption publique de la nouvelle norme dans le cadre de Tatrín à Liptovský Mikuláš ;
+**Proposition :** conserver le 14 février, mais préciser les étapes :
+- février 1843 : réunion préparatoire à Bratislava, décision de travailler à une nouvelle codification ;
+- juillet 1843 : accord de Štúr, Hurban et Hodža à Hlboké sur la norme ;
+- 1844 : adoption et diffusion dans le cadre de Tatrín à Liptovský Mikuláš ;
 - 1846 : publication par Štúr de ses ouvrages de référence ;
-- 1851–1852 : réforme de la norme, notamment sous l'impulsion de Hodža et Hattala.
+- 1851–1852 : révision de la norme, notamment sous l'impulsion de Hodža et Hattala.
 
 **Autre nuance :** avant Štúr, il n'y avait pas une absence de langue écrite slovaque. Il existait plusieurs traditions : la norme de Bernolák chez une partie des catholiques, le tchèque biblique chez de nombreux protestants, ainsi que le latin, le hongrois et l'allemand dans différents usages savants, administratifs ou religieux. Il vaut mieux parler d'**absence de norme écrite commune et largement acceptée**, et non de « plusieurs slovaques différents, ou pas du tout ».
 
@@ -310,19 +311,19 @@ La date du meurtre (21 février 2018), la découverte des corps le 25 février, 
 1. **« Premier assassinat d'un journaliste en Slovaquie depuis l'indépendance ».** Le Committee to Protect Journalists formule plus prudemment qu'il s'agit du premier journaliste tué en raison de son travail en Slovaquie que l'organisation ait documenté. Je recommande de reprendre cette attribution : « premier cas documenté par le CPJ d'un journaliste tué en raison de son travail en Slovaquie ».
 2. **Le mobile.** Le parquet spécial a indiqué en 2018 que le travail journalistique de Kuciak constituait le motif du meurtre. Mais il faut distinguer cette conclusion d'enquête de la preuve judiciaire contre le commanditaire présumé. La phrase de dialogue \`Zabili ho práve preto, že hovoril pravdu\` (« On l'a tué précisément parce qu'il disait la vérité ») est trop catégorique et transforme une interprétation morale en fait judiciaire. Préférer : « Vyšetrovatelia sa domnievali, že motívom bola jeho novinárska práca. » (« Les enquêteurs estimaient que son travail journalistique était le mobile. »)
 3. **La manifestation du 9 mars 2018.** La fiche indique environ 60 000 personnes à Bratislava. Reuters rapporte plus de 30 000 participants ce soir-là. Une manifestation ultérieure, le 16 mars, a été estimée à environ 50 000 personnes par la télévision publique. Il faut donc distinguer les dates et ne pas attribuer le chiffre de 60 000 au 9 mars.
-4. **Le procès du commanditaire présumé : actualisation impérative.** Le texte actuel s'arrête à l'acquittement initial de 2020 et à la procédure d'appel. La Cour suprême a annulé le verdict en 2021, puis un second acquittement de Marián Kočner en 2023. En mai 2025, la Cour suprême a annulé une nouvelle fois le verdict et renvoyé l'affaire devant une autre formation. Au 7 septembre 2026, le procès se poursuit pour la troisième fois ; Kočner et Alena Zsuzsová sont accusés d'avoir commandité les meurtres. Le commanditaire n'a donc pas encore été définitivement établi par un jugement.
+4. **Le procès du commanditaire présumé : actualisation impérative.** Le texte actuel s'arrête à l'acquittement initial de 2020 et à la procédure d'appel. La Cour suprême a annulé le verdict en 2021, puis un second acquittement de Marián Kočner en 2023. En mai 2025, la Cour suprême a annulé une nouvelle fois le verdict et renvoyé l'affaire devant une autre formation. Au 11 novembre 2026, le procès se poursuit pour la troisième fois ; Kočner et Alena Zsuzsová sont accusés d'avoir commandité les meurtres. Le commanditaire n'a donc pas encore été définitivement établi par un jugement.
 5. **Les exécutants et l'intermédiaire :** les peines de Miroslav Marček et Tomáš Szabó (25 ans chacun) et de Zoltán Andruskó (15 ans) sont rapportées par la radio publique slovaque. On peut les conserver.
 6. **« Le système est resté presque le même » :** c'est une opinion de personnage, pas un fait démontré. Elle fonctionne si elle est clairement mise en regard de l'opinion inverse, déjà présente dans la fiche.
 
 **Proposition de mise à jour de la chronologie judiciaire :**
 
-> En 2020, le tribunal acquitte Marián Kočner, soupçonné d'avoir commandité le meurtre. La Cour suprême annule ce jugement en 2021. En 2023, à l'issue d'un nouveau procès, Kočner est de nouveau acquitté, tandis qu'Alena Zsuzsová est condamnée. En mai 2025, la Cour suprême annule une nouvelle fois le verdict et ordonne un troisième procès. En septembre 2026, l'audience se poursuit : la question de savoir qui a commandité le meurtre n'est toujours pas définitivement tranchée.
+> En 2020, le tribunal acquitte Marián Kočner, soupçonné d'avoir commandité le meurtre. La Cour suprême annule ce jugement en 2021. En 2023, à l'issue d'un nouveau procès, Kočner est de nouveau acquitté, tandis qu'Alena Zsuzsová est condamnée. En mai 2025, la Cour suprême annule une nouvelle fois le verdict et ordonne un troisième procès. Au 11 novembre 2026, l'audience se poursuit : le tribunal spécialisé de Pezinok entend encore des témoins et examine les pièces du dossier. La question de savoir qui a commandité le meurtre n'est toujours pas définitivement tranchée.
 
 **Sources :**
 - [Committee to Protect Journalists — Ján Kuciak](https://cpj.org/data/people/jan-kuciak/)
 - [Parquet général slovaque — état de l'enquête, 2018](https://www.genpro.gov.sk/special-prosecution-office-1)
 - [STVR — la Cour suprême annule le verdict, 21 mai 2025](https://enrsi.stvr.sk/articles/news/403006/supreme-court-annuls-verdict-in-jan-kuciak-murder-case)
-- [STVR — procès en cours, 7 septembre 2026](https://enrsi.stvr.sk/articles/topical-issue/459667/main-hearing-in-kuciak-murder-case-continues)
+- [STVR — procès en cours, 7 septembre 2026](https://enrsi.stvr.sk/articles/topical-issue/459667/main-hearing-in-kuciak-murder-case-continues) ; [TASR — audience du 11 novembre 2026](https://www.tasr.sk/tasr-clanok/TASR%3A2026111100000410)
 - [Reuters — manifestation du 9 mars 2018](https://www.latribune.fr/depeches/reuters/KCN1GL2MX/grandes-manifestations-en-slovaquie-contre-robert-fico.html)
 - [Reuters — manifestation du 16 mars 2018](https://www.latribune.fr/depeches/reuters/KCN1GS2RI/la-contestation-ne-faiblit-pas-en-slovaquie-malgre-la-demission-de-fico.html)
 
