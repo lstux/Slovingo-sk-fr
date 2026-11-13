@@ -56,7 +56,8 @@
 > L'après-midi. Une prairie près de Biele Vody. Dans l'herbe, il y a des petits trous. Des petites bêtes sortent la tête des trous.
 > Lúka pri Bielych Vodách = une prairie près de Biele Vody
 > V tráve sú malé diery = dans l'herbe, il y a des petits trous
-> Z dier vykúkajú = des trous pointent la tête
+> Z dier = hors des trous
+> vykúkajú = pointent le bout du nez
 > malé zvieratká = des petites bêtes
 
 ! 🐇 Čo je to? Svište?

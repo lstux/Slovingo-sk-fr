@@ -2,7 +2,7 @@
 
 Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet avant de la découper en fiches, comme pour Zajka Friends.
 
-**État** : premier jet des chapitres 1 à 12, à traduire, corriger et annoter. Le slovaque est à faire relire par un locuteur natif.
+**État** : les 12 chapitres sont rédigés et intégrés au cours sous forme de fiches. Reste à étoffer les chapitres 5 à 12 et à faire relire le slovaque par un locuteur natif.
 
 ## Conventions
 
@@ -838,7 +838,7 @@ Ce document contient **toute l'histoire en slovaque**, écrite d'un seul jet ava
 - La mine visitable (*štôlňa*), casques, « plus de 300 ans » : à ajuster selon la mine choisie (musée en plein air de la mine, par exemple).
 - Les *tajchy* : réservoirs artificiels construits pour les mines, aujourd'hui pour la baignade ; Počúvadlo à environ 11 km de la ville, parmi les plus grands, les plus profonds et les plus froids (vérifié, [Startitup](https://www.startitup.sk/kedysi-sluzili-banikom-dnes-sa-v-nich-kupeme-8-tajchov-ktore-by-ste-mali-toto-leto-navstivit/)).
 - Kalvária : chapelles blanches et deux églises sur la colline (à confirmer).
-- *bryndzové halušky* et *Kofola* : plat et boisson nommés ; Kofola est une marque, mais d'usage courant (à valider selon la règle « pas de marque »).
+- *bryndzové halušky* et *Kofola* : plat et boisson nommés ; Kofola est une marque, mais d'usage courant : exception validée, expliquée dans le Coin slovaque de Štiavnica 03.
 
 ---
 

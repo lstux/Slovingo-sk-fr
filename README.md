@@ -34,7 +34,7 @@ Et oui, il vouvoie encore Andrea de temps en temps. C'est un vieux jeu entre eux
 - **Tout s'écoute** : on touche une phrase et elle est lue, en slovaque comme en français. Le bouton 👀 donne la traduction, puis le détail mot par mot.
 - **Des exercices** pour chaque fiche, et une carte de la Slovaquie en page d'accueil, qui s'éclaire au fil des étapes. Rien n'est jamais verrouillé.
 - **Niveau** : on part de zéro, et on vise un bon A2 à la fin, en route vers le B1.
-- **Pour aller plus loin** : du vocabulaire par thème, des annexes de grammaire et de conjugaison, et les séries **Kronika**, sur l'histoire de la Slovaquie.
+- **Pour aller plus loin** : du vocabulaire par thème, des annexes de grammaire et de conjugaison, et les séries **Kronika**, sur l'histoire de la Slovaquie (lecture complémentaire, d'un niveau plus avancé, B1 ou plus : elles ne sont pas nécessaires pour atteindre le A2).
 
 ## Les cousins
 

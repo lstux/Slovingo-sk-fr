@@ -104,8 +104,9 @@ Voyage d'été, de mai à octobre : les remontées mécaniques des Tatras et le 
 ## Prochaines étapes
 1. ~~Retirer les séries 01 à 09 de `feat/roadtrip`~~ (fait).
 2. ~~Rédiger `docs/Format-roadtrip.md` et `docs/Progression-roadtrip.md`~~ (faits, à valider).
-3. Rédiger `docs/Histoire.md` (slovaque d'abord, traduction ensuite), comme dans Friends.
-4. Découper en fiches 01-06 pour chaque chapitre.
+3. ~~Rédiger `docs/Histoire.md` (slovaque d'abord, traduction ensuite), comme dans Friends.~~ (fait)
+4. ~~Découper en fiches 01-06 pour chaque chapitre.~~ (fait : les 12 séries sont rédigées et intégrées)
+5. Étoffer les chapitres 5 à 12, intégrer la relecture native et compléter les crédits d'images.
 
 ## Sources de vérification
 - Slovakia.travel, [10 best places to visit in Slovakia](https://slovakia.travel/en/10-best-places-to-visit-in-slovakia), [Dobšinská Ice Cave](https://slovakia.travel/en/dobsinska-ladova-jaskyna-cave), [Mint in Kremnica](https://slovakia.travel/en/mint-in-kremnica)

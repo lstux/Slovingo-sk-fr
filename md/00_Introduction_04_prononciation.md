@@ -69,7 +69,7 @@ Avec {{ô}}, ce sont les quatre diphtongues du slovaque. {{ie}} est partout : {{
 | ž | žena | j comme dans "journal" |
 | c | cena | ts comme "tsar" |
 | j | ja | y comme "yaourt" |
-| h | hora | h aspiré léger |
+| h | hora | un h bien audible, soufflé (pas muet comme en français) |
 | ch | chlieb | racle de gorge comme en allemand "Bach" |
 | ď | ďakujem | d mouillé |
 | ť | ťava / kosť | t mouillé |
@@ -167,7 +167,7 @@ C'est le piège n° 1 d'un francophone. Il y a quelques exceptions (mots d'empru
 
 ### Les consonnes sonores s'assourdissent en fin de mot
 
-En fin de mot, **b, d, z, ž, h, v** se prononcent comme **p, t, s, š, ch, f** : {{chlieb}} se dit « chliep », {{hrad}} se dit « hrat ». Même principe qu'en allemand.
+En fin de mot, notamment **b, d, z, ž, h, v** se prononcent comme **p, t, s, š, ch, f** : {{chlieb}} se dit « chliep », {{hrad}} se dit « hrat ». Même principe qu'en allemand.
 
 ---
 

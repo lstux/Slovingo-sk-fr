@@ -117,7 +117,7 @@ Exemple : `10_Series_02_Trencin_01_na-ceste.md`.
 
 - **Titres** : `# Série Trenčín (1/5) — Na ceste` ; extra : `# Trenčín (extra) — Penzión`.
 - Le **thème** du nom de fichier donne la clé de `lang.json` → `subgroups`, `subgroup_themes` et `map.icons`, en minuscules et **sans diacritiques** (`Trenčín` → `trencin`). Les clés et noms affichés sont listés dans `Progression-roadtrip.md`.
-- Les numéros 01 à 12 ne gênent pas les Kronika, qui commencent à 15.
+- Les numéros 01 à 12 ne gênent pas les Kronika, qui commencent à 15. Les Kronika sont une lecture complémentaire d'un niveau plus avancé (B1 ou plus), pas une étape obligatoire du parcours vers le A2.
 - Noms de fichiers sans accent ; titres avec.
 
 ## 8. Vocabulaire
@@ -244,6 +244,7 @@ Court, **vérifiable** (pas de chiffre approximatif), relié au **lieu du jour**
 
 - **Français** : naturel, adulte.
 - **Slovaque** : celui qu'un adulte slovaque dirait. À faire relire.
+- **Marques** : pas de nom de marque dans les dialogues, sauf quand l'usage en a fait le nom courant de la chose et que le Coin slovaque l'explique (exception validée : *kofola*, Štiavnica 03).
 - **Pièges** : ceux de Kids et Friends restent valables. En plus, pour le roadtrip :
 
 | ❌ | ✅ |

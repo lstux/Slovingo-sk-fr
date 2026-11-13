@@ -160,8 +160,8 @@ L'introduction couvre les bases (lettres à caron, accent sur la première sylla
 
 1. ~~Concept, format, progression~~ (faits, à valider)
 2. ~~Retirer les séries 01 à 09~~ (fait, conservées dans `original`)
-3. `docs/Histoire.md` : toute l'histoire en slovaque d'abord, chapitre par chapitre, sans les contraintes de fiches ; puis traduction, relecture et annotations ; puis découpage en fiches
-4. Réécrire le kit de survie en souvenir de la première rencontre (Gab 🦊 et Andrea 🐰, vouvoiement conservé), avec le chapitre 1 ; remplacer « Eric » dans les annexes ; passer `user_name_default` à *Gab*
-5. `lang.json` : sous-groupes, thèmes et icônes de carte des 12 séries, au fur et à mesure
-6. Chapitres 1 à 4, relecture par un locuteur natif, puis la suite
+3. ~~`docs/Histoire.md` : toute l'histoire en slovaque d'abord, chapitre par chapitre, sans les contraintes de fiches ; puis traduction, relecture et annotations ; puis découpage en fiches~~ (fait)
+4. ~~Réécrire le kit de survie en souvenir de la première rencontre (Gab 🦊 et Andrea 🐰, vouvoiement conservé), avec le chapitre 1 ; remplacer « Eric » dans les annexes ; passer `user_name_default` à *Gab*~~ (fait)
+5. ~~`lang.json` : sous-groupes, thèmes et icônes de carte des 12 séries, au fur et à mesure~~ (fait)
+6. Relecture par un locuteur natif (šariš, GPS, expressions listées dans `Relecture-locutrice.md`), étoffement des chapitres 5 à 12
 7. Photos Wikimedia Commons et crédits, chapitre par chapitre

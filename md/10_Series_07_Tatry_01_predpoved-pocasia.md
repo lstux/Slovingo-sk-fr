@@ -46,7 +46,7 @@ Le futur de {{byť}} :
 
 ### Si… : ak
 
-{{Ak bude búrka, budeme spať v aute.}} = s'il y a un orage, nous dormirons dans la voiture. Après {{ak}}, le futur, comme en français après « quand » : on dit {{ak bude}}, « s'il y aura ».
+{{Ak bude búrka, budeme spať v aute.}} = s'il y a un orage, nous dormirons dans la voiture. En slovaque, on met le futur après {{ak}} : {{ak bude}}. En français, c'est le présent après « si » : « s'il y a ». (Après « quand », le français met aussi le futur : « quand il y aura ».)
 
 ---
 

@@ -51,7 +51,17 @@
     "bardejov": "Bardejov",
     "presov": "Prešov",
     "kosice": "Košice",
-    "kronika_vstupdoeu": "Kronika : Vstup do EÚ"
+    "kronika_emigracia": "Kronika : Emigrácia",
+    "kronika_neznerevolucia": "Kronika : Nežná revolúcia",
+    "kronika_pionieri": "Kronika : Pionieri",
+    "kronika_radio": "Kronika : Rádio",
+    "kronika_rozdelenie": "Kronika : Rozdelenie",
+    "kronika_skola": "Kronika : Škola",
+    "kronika_snp": "Kronika : SNP",
+    "kronika_stefanik": "Kronika : Štefánik",
+    "kronika_stur": "Kronika : Štúr",
+    "kronika_vstupdoeu": "Kronika : Vstup do EÚ",
+    "kronika_zaslusneslovensko": "Kronika : Za slušné Slovensko"
   },
   "ui": {
     "change_course": "Changer de cours",

@@ -76,9 +76,9 @@ Ils s'accordent comme des adjectifs : {{prvá renesančná stavba}}, le premier 
 > Les maisons sont comme des crayons de couleur. Jaune, vert, bleu, rose !
 > Domy sú ako farbičky = les maisons sont comme des crayons de couleur
 
-! 🐰 Celé námestie je v UNESCO. Aj židovské suburbium za hradbami.
-> Toute la place est à l'UNESCO. Et aussi le faubourg juif, derrière les remparts.
-> Celé námestie = toute la place
+! 🐰 Historické centrum je v UNESCO. Aj židovské suburbium za hradbami.
+> Le centre historique est à l'UNESCO. Et aussi le faubourg juif, derrière les remparts.
+> Historické centrum = le centre historique
 > Aj židovské suburbium = et aussi le faubourg juif
 > za hradbami = derrière les remparts
 
@@ -92,16 +92,16 @@ Ils s'accordent comme des adjectifs : {{prvá renesančná stavba}}, le premier 
 > Je tam stará synagóga = il y a une vieille synagogue
 
 ! 💬 Idú pomaly okolo hradieb. Je ticho.
-> Ils longent lentement les remparts. C'est le silence.
+> Ils longent lentement les remparts. Tout est calme.
 > Idú pomaly = ils marchent lentement
 > okolo hradieb = autour des remparts
-> Je ticho = c'est le silence
+> Je ticho = tout est calme (littéralement : il y a du silence)
 
 ---
 
 ## 🇸🇰 Coin slovaque
 
-**Bardejov.** Sa grand-place, entourée de maisons bourgeoises, est l'une des plus belles de Slovaquie. Au centre, l'hôtel de ville, construit au début du XVIe siècle, est présenté comme le premier bâtiment Renaissance du pays. La ville est inscrite à l'UNESCO depuis 2000.
+**Bardejov.** Sa grand-place, entourée de maisons bourgeoises, est l'une des plus belles de Slovaquie. Au centre, l'hôtel de ville, construit au début du XVIe siècle, est présenté comme le premier bâtiment Renaissance du pays. Le centre historique de la ville, avec le faubourg juif, est inscrit à l'UNESCO depuis 2000.
 
 **Le faubourg juif.** Juste hors des remparts, l'ancien quartier juif garde un ensemble autour de la vieille synagogue de 1836, avec une maison d'étude et des bains rituels. Restaurée, la synagogue accueille aujourd'hui des activités culturelles et éducatives. Une plaque y rappelle les victimes de la Shoah.
 
