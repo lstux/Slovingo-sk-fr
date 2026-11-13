@@ -64,6 +64,7 @@
     "kronika_zaslusneslovensko": "Kronika : Za slušné Slovensko"
   },
   "ui": {
+    "sheet_not_found": "Fiche introuvable : {id}",
     "change_course": "Changer de cours",
     "home": "Accueil",
     "read_story": "📖 Lire toute l'histoire (en slovaque)",
