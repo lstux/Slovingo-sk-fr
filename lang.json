@@ -197,6 +197,35 @@
     "backup_import": "📤 Importer une sauvegarde (JSON)",
     "map_final_reached": "Bravo ! Le parcours est terminé !"
   },
+  "mascots": {
+    "map": "duo",
+    "greetings": {
+      "morning": [
+        { "t": "Dobré ráno, [USER_NAME]!", "n": "Bonjour, [USER_NAME] !" },
+        { "t": "Dobré ráno! Dnes ideme ďalej na východ.", "n": "Bonjour ! Aujourd'hui, on continue vers l'est." },
+        { "t": "Vstávať! Cesta čaká.", "n": "Debout ! La route nous attend." }
+      ],
+      "day": [
+        { "t": "Dobrý deň, [USER_NAME]!", "n": "Bonjour, [USER_NAME] !" },
+        { "t": "Ahoj! Ideme na to?", "n": "Salut ! On s'y met ?" },
+        { "t": "Kam dnes ideme?", "n": "Où va-t-on aujourd'hui ?" }
+      ],
+      "evening": [
+        { "t": "Dobrý večer, [USER_NAME]!", "n": "Bonsoir, [USER_NAME] !" },
+        { "t": "Ešte jedna zastávka pred spaním?", "n": "Encore une étape avant de dormir ?" }
+      ],
+      "night": [
+        { "t": "Ešte nespíš?", "n": "Tu ne dors pas encore ?" },
+        { "t": "Dobrú noc… ale najprv jedno cvičenie!", "n": "Bonne nuit… mais d'abord un exercice !" }
+      ],
+      "any": [
+        { "t": "Ahoj, [USER_NAME]!", "n": "Salut, [USER_NAME] !" },
+        { "t": "Vitaj späť!", "n": "Bon retour !" },
+        { "t": "Pripútaj sa, ideme!", "n": "Attache ta ceinture, on y va !", "who": "fox" },
+        { "t": "Máme čas. Nikam sa neponáhľame.", "n": "On a le temps. Rien ne presse.", "who": "hare" }
+      ]
+    }
+  },
   "greeting": {"t": "Ahoj, [USER_NAME]!", "n": "Salut, [USER_NAME] !"},
   "cheers": {
     "perfect": [
